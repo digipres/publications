@@ -33,7 +33,7 @@
 - name: iPRES 2008
   location: London, United Kingdom
   date: September 29 - 30, 2008
-  website: 'http://www.bl.uk/ipres2008/',
+  website: 'http://www.bl.uk/ipres2008/'
   website_status: gone
   website_mirrors: ['https://ipres-conference.org/ipres08/']
   proceedings_full: ''

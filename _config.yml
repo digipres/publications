@@ -1,11 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: DigiPres Publications Index
+description: A searchable index of publications related to digital preservation.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://www.digipres.org/publications/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  digipres.org: https://www.digipres.org/
 
 plugins:
   - jekyll-datapage-generator
+
+# Generate pages from data:
+page_gen:
+- data: 'ipres'
+  template: 'ipres'
+  name: 'name'
+  dir: 'ipres'
