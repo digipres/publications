@@ -29,11 +29,11 @@ collections:
               widget: select
               options: ["active", "redirects-to-archive", "gone"]
               default: "active"
-            # - label: "Website Mirrors"
-            #   name: website_mirrors
-            #   widget: list
-            #   fields:
-            #     - { label: URL, name: url, widget: string }
+            - label: "Website Mirrors"
+              name: website_mirrors
+              widget: list
+              fields:
+                - { label: URL, name: url, widget: string }
             # - label: "Programme URLs"
             #   name: programme
             #   widget: list
