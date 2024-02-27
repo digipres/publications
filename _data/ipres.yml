@@ -1,0 +1,173 @@
+- name: iPRES 2004
+  location: Beijing, China
+  date: July 14 - 16, 2004
+  website: http://www.las.ac.cn/cedp/index_en.html
+  website_status: gone
+  website_mirrors: ['https://iPRES-conference.org/iPRES04/']
+  proceedings_full: ''
+  proceedings: ['https://phaidra.univie.ac.at/detail/o:295028']
+- name: iPRES 2005
+  location: Göttingen, Germany
+  date: September 15 - 16, 2005
+  website: 'http://rdd.sub.uni-goettingen.de/conferences/ipres05/'
+  website_status: gone
+  website_mirrors: ['https://ipres-conference.org/ipres05/']
+  proceedings_full: 'https://phaidra.univie.ac.at/detail/o:295047'
+  proceedings: ['https://phaidra.univie.ac.at/detail/o:295048']
+- name: iPRES 2006
+  location: Ithaca, NY, U.S.A
+  date: October 8 - 10, 2006
+  website: 'http://ipres.library.cornell.edu/'
+  website_status: archived
+  website_mirrors: ['https://ipres-conference.org/ipres06/']
+  proceedings_full: ''
+  proceedings: ['https://phaidra.univie.ac.at/detail/o:294903']
+- name: iPRES 2007
+  location: Beijing, China
+  date: October 11 - 12, 2007
+  website: 'http://ipres.las.ac.cn/'
+  website_status: gone
+  website_mirrors: ['https://iPRES-conference.org/ipres07/']
+  proceedings_full: ''
+  proceedings: ['http://phaidra.univie.ac.at/o:294846']
+- name: iPRES 2008
+  location: London, United Kingdom
+  date: September 29 - 30, 2008
+  website: 'http://www.bl.uk/ipres2008/',
+  website_status: gone
+  website_mirrors: ['https://ipres-conference.org/ipres08/']
+  proceedings_full: ''
+  proceedings: ['http://phaidra.univie.ac.at/o:294193']
+- name: iPRES 2009
+  location: San Francisco, CA, U.S.A.
+  date: October 5 - 6, 2009
+  website: 'http://www.cdlib.org/ipres/ipres2009.html'
+  website_status: gone
+  website_mirrors: ['https://ipres-conference.org/ipres09/']
+  proceedings_full: ''
+  proceedings: ['http://phaidra.univie.ac.at/o:294045']
+- name: iPRES 2010
+  location: Vienna, Austria
+  date: September 19 - 24, 2010
+  website: 'http://www.ifs.tuwien.ac.at/dp/ipres2010/index.html'
+  website_mirrors: ['https://ipres-conference.org/ipres10/']
+  proceedings_full: ''
+  proceedings: ['http://phaidra.univie.ac.at/o:245914']
+- name: iPRES 2011
+  location: Singapore
+  date: November 1 - 4, 2011
+  website: 'http://ipres2011.sg/'
+  website_status: gone
+  website_mirrors: ['https://ipres-conference.org/ipres11/']
+  proceedings_full: ''
+  proceedings: ['http://phaidra.univie.ac.at/o:294299']
+- name: iPRES 2012
+  location: Toronto, Canada
+  date: October 1 - 5 ,2012
+  website: 'http://iPRES.ischool.utoronto.ca/'
+  website_status: gone
+  website_mirrors: ['https://ipres-conference.org/ipres12/']
+  proceedings_full: ''
+  proceedings: ['http://phaidra.univie.ac.at/o:293685']
+- name: iPRES 2013
+  location: Lisbon, Portugal
+  date: September 2 - 6, 2013
+  website: 'http://ipres2013.sysresearch.org/' 
+  website_status: gone
+  website_mirrors: ['https://ipres-conference.org/ipres13/']
+  proceedings_full: ''
+  proceedings: ['https://phaidra.univie.ac.at/detail/o:378098']
+- name: iPRES 2014
+  location: Melbourne, Australia
+  date: October 6 - 10, 2014
+  website: 'http://pandora.nla.gov.au/pan/149803/20150323-1209/ipres2014.org/index.html'
+  website_status: archived
+  website_mirrors: ['https://ipres-conference.org/ipres14/']
+  proceedings_full: 'https://phaidra.univie.ac.at/o:378066'
+  proceedings: ['https://phaidra.univie.ac.at/detail/o:378735']
+- name: iPRES 2015
+  location: Chapel Hill, North Carolina, USA
+  date: November 2 - 6, 2015
+  website: 'http://ipres2015.org/'
+  website_status: gone
+  website_mirrors: ['https://ipres-conference.org/ipres15/']
+  proceedings_full: 'https://phaidra.univie.ac.at/detail/o:429524'
+  proceedings: ['https://phaidra.univie.ac.at/detail/o:429627']
+- name: iPRES 2016
+  location: Bern, Switzerland
+  date: October 3 - 6, 2016
+  website: 'http://www.ipres2016.ch'
+  website_status: gone
+  website_mirrors: ['https://ipres-conference.org/ipres16/']
+  proceedings_full: ''
+  proceedings: ['https://phaidra.univie.ac.at/o:502812']
+- name: iPRES 2017
+  location: Kyoto, Japan
+  date: September 25 - 29, 2017
+  website: 'https://ipres2017.jp/'
+  website_mirrors: ['https://ipres-conference.org/ipres17/']
+  website_status: gone
+  proceedings_full: ''
+  proceedings: ['https://phaidra.univie.ac.at/detail/o:931148']
+- name: iPRES 2018
+  location: Boston, Massachusetts, USA
+  date: September 24 - 28, 2018
+  website: 'https://ipres2018.org/'
+  website_mirrors: ['https://ipres-conference.org/ipres18/']
+  proceedings_full: ''
+  proceedings: ['https://osf.io/u5w3q/', 'https://phaidra.univie.ac.at/detail/o:988723']
+- name: iPRES 2019
+  location: Amsterdam, The Netherlands
+  date: September 16 - 20, 2019
+  website: 'https://ipres2019.org/'
+  proceedings_full: 'https://ipres2019.org/static/proceedings/iPRES2019.pdf'
+  proceedings: ['https://osf.io/6ern4/', 'https://phaidra.univie.ac.at/detail/o:1049636']
+- name: iPRES 2020
+  location: '_Cancelled due to SARS-CoV-2_'
+  date: ''
+  website: ''
+  proceedings_full: ''
+  proceedings: []
+- name: \#weMissiPRES
+  location: Virtual Festival
+  date: September 22 - 24, 2020
+  website: 'https://www.dpconline.org/events/past-events/wemissipres'
+  proceedings_full: ''
+  proceedings: []
+- name: iPRES 2021
+  location: Beijing, China
+  date: October 19 - 22, 2021
+  website: 'http://ipres2021.ac.cn/en/web/index/'
+  website_status: gone
+  proceedings_full: ''
+  proceedings: ['https://osf.io/rb2dt/', 'https://phaidra.univie.ac.at/detail/o:1417044']
+- name: iPRES 2022
+  location: Glasgow, Scotland
+  date: September 12 - 16, 2022
+  website: 'https://ipres2022.scot/'
+  proceedings_full: 'https://phaidra.univie.ac.at/detail/o:1893644'
+  proceedings: ['https://osf.io/8bczf/']
+- name: iPRES 2023
+  location: Champaign-Urbana, Illinois, USA
+  date: September 19 - 22, 2023
+  website: 'https://ipres2023.us/'
+  proceedings_full: 'https://www.ideals.illinois.edu/items/128305'
+  proceedings: ['https://www.ideals.illinois.edu/units/541']
+- name: iPRES 2024
+  location: Ghent, Belgium
+  date: September 16 - 20, 2024
+  website: 'https://ipres2024.pubpub.org/'
+  proceedings_full: ''
+  proceedings: []
+- name: iPRES 2025
+  location: Wellington, New Zealand
+  date: November 03 - 07, 2025
+  website: ''
+  proceedings_full: ''
+  proceedings: []
+- name: iPRES 2026
+  location: Copenhagen, Denmark
+  date: September 21 - 25, 2026
+  website: ''
+  proceedings_full: ''
+  proceedings: []
