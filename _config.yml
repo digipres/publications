@@ -12,7 +12,7 @@ plugins:
 
 # Generate pages from data:
 page_gen:
-- data: 'ipres'
+- data: 'ipres.conferences'
   template: 'ipres'
   name: 'name'
   dir: 'ipres'
