@@ -123,13 +123,13 @@ conferences:
   website: 'https://ipres2019.org/'
   proceedings_full: 'https://ipres2019.org/static/proceedings/iPRES2019.pdf'
   proceedings: ['https://osf.io/6ern4/', 'https://phaidra.univie.ac.at/detail/o:1049636']
-- name: iPRES 2020
+- name: "iPRES 2020 - CANCELLED"
   location: '_Cancelled due to SARS-CoV-2_'
   date: ''
   website: ''
   proceedings_full: ''
   proceedings: []
-- name: "iPRES 2022 - #weMissiPRES"
+- name: "iPRES 2020 - #weMissiPRES"
   location: Virtual Festival
   date: September 22 - 24, 2020
   website: 'https://www.dpconline.org/events/past-events/wemissipres'
@@ -139,7 +139,6 @@ conferences:
   location: Beijing, China
   date: October 19 - 22, 2021
   website: 'http://ipres2021.ac.cn/en/web/index/'
-  website_status: gone
   proceedings_full: ''
   proceedings: ['https://osf.io/rb2dt/', 'https://phaidra.univie.ac.at/detail/o:1417044']
 - name: iPRES 2022

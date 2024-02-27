@@ -1,3 +1,5 @@
 ---
+layout: default
 ---
-Welcome
+
+# About DigiPresPub
