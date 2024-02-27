@@ -24,11 +24,11 @@ collections:
             - { label: Location, name: location, widget: string }
             - { label: Dates, name: date, widget: string }
             - { label: Website, name: website, widget: string }
-            # - label: "Website Status"
-            #   name: website_status
-            #   widget: select
-            #   options: ["active", "redirect-to-archive", "gone"]
-            #   default: "active"
+            - label: "Website Status"
+              name: website_status
+              widget: select
+              options: ["active", "redirects-to-archive", "gone"]
+              default: "active"
             # - label: "Website Mirrors"
             #   name: website_mirrors
             #   widget: list
