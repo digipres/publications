@@ -24,31 +24,31 @@ collections:
             - { label: Location, name: location, widget: string }
             - { label: Dates, name: date, widget: string }
             - { label: Website, name: website, widget: string }
-            - label: "Website Status"
-              name: website_status
-              widget: select
-              options: ["active", "redirect-to-archive", "gone"]
-              default: "active"
-            - label: "Website Mirrors"
-              name: website_mirrors
-              widget: list
-              fields:
-                - { label: URL, name: url, widget: string }
-            - label: "Programme URLs"
-              name: programme
-              widget: list
-              fields:
-                - { label: URL, name: url, widget: string }
-            - label: "Proceedings (Full)"
-              name: proceedings_full
-              widget: list
-              fields:
-                - { label: URL, name: url, widget: string }
-            - label: "Proceedings"
-              name: proceedings
-              widget: list
-              fields:
-                - { label: URL, name: url, widget: string }
+            # - label: "Website Status"
+            #   name: website_status
+            #   widget: select
+            #   options: ["active", "redirect-to-archive", "gone"]
+            #   default: "active"
+            # - label: "Website Mirrors"
+            #   name: website_mirrors
+            #   widget: list
+            #   fields:
+            #     - { label: URL, name: url, widget: string }
+            # - label: "Programme URLs"
+            #   name: programme
+            #   widget: list
+            #   fields:
+            #     - { label: URL, name: url, widget: string }
+            # - label: "Proceedings (Full)"
+            #   name: proceedings_full
+            #   widget: list
+            #   fields:
+            #     - { label: URL, name: url, widget: string }
+            # - label: "Proceedings"
+            #   name: proceedings
+            #   widget: list
+            #   fields:
+            #     - { label: URL, name: url, widget: string }
 - name: 'pages'
   label: 'Pages'
   editor:
