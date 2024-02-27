@@ -7,45 +7,72 @@ backend:
 media_folder: "assets/uploads"
 
 collections:
-  - name: "conferences"
-    label: "Conferences"
-    editor:
-      preview: false
-    files:
-      - label: "iPRES"
-        name: "ipres"
-        file: "_data/ipres.yml"
-        fields:
-          - label: "iPRES Conferences"
-            name: "items"
-            widget: "list"
-            fields:
-              - { label: Name, name: name, widget: string }
-              - { label: Location, name: location, widget: string }
-              - { label: Dates, name: date, widget: string }
-              - { label: Website, name: website, widget: string }
-              - label: "Website Status"
-                name: website_status
-                widget: select
-                options: ["active", "redirect-to-archive", "gone"]
-                default: "active"
-              - label: "Website Mirrors"
-                name: website_mirrors
-                widget: list
-                fields:
-                  - { label: URL, name: url, widget: string }
-              - label: "Programme URLs"
-                name: programme
-                widget: list
-                fields:
-                  - { label: URL, name: url, widget: string }
-              - label: "Proceedings (Full)"
-                name: proceedings_full
-                widget: list
-                fields:
-                  - { label: URL, name: url, widget: string }
-              - label: "Proceedings"
-                name: proceedings
-                widget: list
-                fields:
-                  - { label: URL, name: url, widget: string }
+- name: "conferences"
+  label: "Conferences"
+  editor:
+    preview: false
+  files:
+    - label: "iPRES"
+      name: "ipres"
+      file: "_data/ipres.yml"
+      fields:
+        - label: "iPRES Conferences"
+          name: "conferences"
+          widget: "list"
+          fields:
+            - { label: Name, name: name, widget: string }
+            - { label: Location, name: location, widget: string }
+            - { label: Dates, name: date, widget: string }
+            - { label: Website, name: website, widget: string }
+            - label: "Website Status"
+              name: website_status
+              widget: select
+              options: ["active", "redirect-to-archive", "gone"]
+              default: "active"
+            - label: "Website Mirrors"
+              name: website_mirrors
+              widget: list
+              fields:
+                - { label: URL, name: url, widget: string }
+            - label: "Programme URLs"
+              name: programme
+              widget: list
+              fields:
+                - { label: URL, name: url, widget: string }
+            - label: "Proceedings (Full)"
+              name: proceedings_full
+              widget: list
+              fields:
+                - { label: URL, name: url, widget: string }
+            - label: "Proceedings"
+              name: proceedings
+              widget: list
+              fields:
+                - { label: URL, name: url, widget: string }
+- name: 'pages'
+  label: 'Pages'
+  editor:
+    preview: false
+  files:
+    - label: 'About Page'
+      name: 'about'
+      file: 'about.md'
+      fields:
+        - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
+        - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'about' }
+        - { label: 'Body', name: 'body', widget: 'markdown' }
+- name: 'config'
+  label: 'Config'
+  editor:
+    preview: false
+  files:
+    - label: 'Navigation'
+      name: 'navigation'
+      file: '_data/navigation.yml'
+      fields:
+        - label: 'Navigation Items'
+          name: 'items'
+          widget: 'list'
+          fields:
+            - { label: Name, name: name, widget: string }
+            - { label: Link, name: link, widget: string }
