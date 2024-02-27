@@ -2,6 +2,7 @@
 
 backend:
   name: github
+  repo: digipres/publications
   branch: main
 media_folder: "assets/uploads"
 
