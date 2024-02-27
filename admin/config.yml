@@ -35,16 +35,12 @@ collections:
             - label: "Programme URLs"
               name: programmes
               widget: list
-            # - label: "Proceedings (Full)"
-            #   name: proceedings_full
-            #   widget: list
-            #   fields:
-            #     - { label: URL, name: url, widget: string }
-            # - label: "Proceedings"
-            #   name: proceedings
-            #   widget: list
-            #   fields:
-            #     - { label: URL, name: url, widget: string }
+            - label: "Full Proceedings As A Single Document"
+              name: proceedings_full
+              widget: list
+            - label: "Proceedings"
+              name: proceedings
+              widget: list
 - name: 'pages'
   label: 'Pages'
   editor:
