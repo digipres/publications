@@ -32,13 +32,9 @@ collections:
             - label: "Website Mirrors"
               name: website_mirrors
               widget: list
-              fields:
-                - { label: URL, name: url, widget: string }
-            # - label: "Programme URLs"
-            #   name: programme
-            #   widget: list
-            #   fields:
-            #     - { label: URL, name: url, widget: string }
+            - label: "Programme URLs"
+              name: programmes
+              widget: list
             # - label: "Proceedings (Full)"
             #   name: proceedings_full
             #   widget: list

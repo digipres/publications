@@ -1,4 +1,6 @@
 ---
-title: Welcome to the Digital Preservation Publications Index
+title: Welcome
 layout: home
 ---
+
+# The Digital Preservation Publications Index
