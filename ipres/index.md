@@ -8,12 +8,14 @@ has_toc: false
 # iPRES Conferences
 
 <table>
+<thead>
+<tr><th>Name, Date & Location</th><th>Website</th></tr>
+</thead>
+<tbody>
 {% for item in site.pages reversed %}
 {% if item.parent == "iPRES" %}
 <tr>
-  <td><a href="{{ item.url | relative_url }}">{{ item.title }}</a></td>
-  <td>{{ item.date }}</td>
-  <td>{{ item.location }}</td>
+  <td><a href="{{ item.url | relative_url }}">{{ item.title }}</a><br/><i>{{ item.date }}</i><br/>{{ item.location }}</td>
   <td>
     {% if item.website %}<a href="{{ item.website }}">[website]</a>{% endif %}
     {% if item.website_status == "gone" %}💀{% endif %}
@@ -22,4 +24,5 @@ has_toc: false
 </tr>
 {% endif %}
 {% endfor %}
+</tbody>
 </table>
