@@ -1,7 +1,7 @@
 <table>
     <tr><td>Date</td><td>{{page.date}}</td></tr>
     <tr><td>Location</td><td>{{page.location}}</td></tr>
-    <tr><td>Website</td><td><a href="{{page.website}}">{{page.website}}</a></td></tr>
+    <tr><td>Website</td><td>{% if page.website %}<a href="{{page.website}}">{{page.website}}{% endif %}</a></td></tr>
     <tr><td>Website Status</td><td>{{page.website_status}}</td></tr>
     <tr><td>Website Mirror (iPRES)</td><td><a href="{{page.website_mirror_ipres}}">{{page.website_mirror_ipres}}</a></td></tr>
     <tr><td>Proceedings As A Single Document</td><td><a href="{{page.proceedings_full}}">{{page.proceedings_full}}</a></td></tr>
