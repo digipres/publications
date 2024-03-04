@@ -39,19 +39,26 @@ collections:
     default: "active"
   - label: "Website Mirror (by iPRES)"
     name: website_mirror_ipres
+    required: false
   - label: "Programme URL"
     name: programme_url
+    required: false
   - label: "Full Proceedings As A Single Document"
     name: proceedings_full
+    required: false
   - label: "Proceedings (hosted by Phaidra)"
     name: proceedings_phaidra
+    required: false
   - label: "Proceedings (hosted by OSF)"
     name: proceedings_osf
+    required: false
   - label: "Proceedings (hosted by IDEALS)"
     name: proceedings_ideals
+    required: false
   - label: "Session Recordings URL"
     name: session_recordings
-  - {label: "Body", name: "body", widget: "markdown"}
+    required: false
+  - {label: "Body", name: "body", widget: "markdown", required: false}
 
 - name: 'pages'
   label: 'Pages'
