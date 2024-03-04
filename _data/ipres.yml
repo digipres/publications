@@ -147,12 +147,14 @@ conferences:
   website: 'https://ipres2022.scot/'
   proceedings_full: 'https://phaidra.univie.ac.at/detail/o:1893644'
   proceedings: ['https://osf.io/8bczf/']
+  session_recordings: 'https://www.dpconline.org/digipres/ipres-2022-recordings'
 - name: iPRES 2023
   location: Champaign-Urbana, Illinois, USA
   date: September 19 - 22, 2023
   website: 'https://ipres2023.us/'
   proceedings_full: 'https://www.ideals.illinois.edu/items/128305'
   proceedings: ['https://www.ideals.illinois.edu/units/541']
+  session_recordings: 'https://mediaspace.illinois.edu/channel/iPRES+2023'
 - name: iPRES 2024
   location: Ghent, Belgium
   date: September 16 - 20, 2024

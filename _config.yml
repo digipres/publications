@@ -5,15 +5,15 @@ theme: just-the-docs
 url: https://www.digipres.org/publications/
 
 aux_links:
-  about: /about/
+  GitHub: https://github.com/digipres/publications
 
 plugins:
   - jekyll-datapage-generator
 
 # Generate pages from data:
-page_gen-dirs: true
-page_gen:
-- data: 'ipres_conferences'
-  template: 'ipres'
-  name: name
-  dir: 'ipres'
+#page_gen-dirs: true
+#page_gen:
+#- data: 'ipres_conferences'
+#  template: 'ipres'
+#  name: name
+#  dir: 'ipres'

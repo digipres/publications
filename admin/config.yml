@@ -6,41 +6,52 @@ backend:
   branch: main
 media_folder: "assets/uploads"
 
+
 collections:
-- name: "conferences"
-  label: "Conferences"
-  editor:
-    preview: false
-  files:
-    - label: "iPRES"
-      name: "ipres"
-      file: "_data/ipres.yml"
-      fields:
-        - label: "iPRES Conferences"
-          name: "conferences"
-          widget: "list"
-          fields:
-            - { label: Name, name: name, widget: string }
-            - { label: Location, name: location, widget: string }
-            - { label: Dates, name: date, widget: string }
-            - { label: Website, name: website, widget: string }
-            - label: "Website Status"
-              name: website_status
-              widget: select
-              options: ["active", "redirects-to-archive", "gone"]
-              default: "active"
-            - label: "Website Mirrors"
-              name: website_mirrors
-              widget: list
-            - label: "Programme URLs"
-              name: programmes
-              widget: list
-            - label: "Full Proceedings As A Single Document"
-              name: proceedings_full
-              widget: list
-            - label: "Proceedings"
-              name: proceedings
-              widget: list
+- label: "Blog"
+  name: "blog"
+  folder: "_posts"
+  create: true
+  fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Publish Date", name: "date", widget: "datetime"}
+    - {label: "Featured Image", name: "thumbnail", widget: "image"}
+    - {label: "Body", name: "body", widget: "markdown"}
+
+- name: ipres-conferences
+  label: iPRES Conferences
+  label_singular: 'iPRES Conference'
+  folder: ipres
+  path: '{{slug}}/index'
+  slug: '{{title}}'
+  fields:
+  - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'ipres' }
+  - { label: 'Parent', name: 'parent', widget: 'hidden', default: 'iPRES' }
+  - { label: Title, name: title, widget: string }
+  - { label: Location, name: location, widget: string }
+  - { label: Dates, name: date, widget: string }
+  - { label: Website, name: website, widget: string }
+  - label: "Website Status"
+    name: website_status
+    widget: select
+    options: ["active", "redirects-to-archive", "gone"]
+    default: "active"
+  - label: "Website Mirror (by iPRES)"
+    name: website_mirror_ipres
+  - label: "Programme URL"
+    name: programme_url
+  - label: "Full Proceedings As A Single Document"
+    name: proceedings_full
+  - label: "Proceedings (hosted by Phaidra)"
+    name: proceedings_phaidra
+  - label: "Proceedings (hosted by OSF)"
+    name: proceedings_osf
+  - label: "Proceedings (hosted by IDEALS)"
+    name: proceedings_ideals
+  - label: "Session Recordings URL"
+    name: session_recordings
+  - {label: "Body", name: "body", widget: "markdown"}
+
 - name: 'pages'
   label: 'Pages'
   editor:

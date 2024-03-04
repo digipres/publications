@@ -12,7 +12,8 @@ has_toc: false
 <tr><th>Name, Date & Location</th><th>Website</th></tr>
 </thead>
 <tbody>
-{% for item in site.pages reversed %}
+{% assign sorted_pages = site.pages | sort:"title" | reverse %}
+{% for item in sorted_pages %}
 {% if item.parent == "iPRES" %}
 <tr>
   <td><a href="{{ item.url | relative_url }}">{{ item.title }}</a><br/><i>{{ item.date }}</i><br/>{{ item.location }}</td>
