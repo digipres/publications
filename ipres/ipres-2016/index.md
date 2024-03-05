@@ -1,16 +1,17 @@
 ---
-date: October 3 - 6, 2016
 layout: ipres
-location: Bern, Switzerland
 parent: iPRES
-proceedings_full: ''
-proceedings_ideals: ''
-proceedings_osf: ''
-proceedings_phaidra: https://phaidra.univie.ac.at/o:502812
-session_recordings: ''
 title: iPRES 2016
+location: Bern, Switzerland
+date: October 3 - 6, 2016
 website: http://www.ipres2016.ch
-website_mirror_ipres: https://ipres-conference.org/ipres16/
 website_status: gone
+programme_url: https://ead.nb.admin.ch/web/ipres2016/frontend/indexa37c.html?folder_id=353
+proceedings_full: https://zenodo.org/records/1255965
+proceedings_phaidra: https://phaidra.univie.ac.at/o:502812
+proceedings_osf: ""
+session_recordings: ""
 year: 2016
+website_mirror_ipres: https://ipres-conference.org/ipres16/
+proceedings_ideals: ""
 ---
