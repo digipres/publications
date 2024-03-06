@@ -2,7 +2,8 @@ title: DigiPresPubs
 description: A searchable index of publications related to digital preservation.
 theme: just-the-docs
 
-url: https://www.digipres.org/publications
+url: https://www.digipres.org
+baseurl: /publications
 
 aux_links:
   GitHub: https://github.com/digipres/publications
