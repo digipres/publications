@@ -1,16 +1,25 @@
 ---
 ---
 [   
-{% assign sorted_pages = site.pages | sort:"title" | reverse -%}
+{% assign sorted_pages = site.pages | where: 'parent', "iPRES" | sort:"title" | reverse -%}
 {%- for post in sorted_pages -%}
-  {% if post.parent == "iPRES" -%}
   {
     "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
     "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
     "title": {{ post.title | jsonify }},
-    "content_html": {{ post.content | jsonify  }},
-    "date_published": "{{ post.date | date_to_rfc822 }}"
+    "date": {{ post.date | jsonify }},
+    "year": {{ post.year | jsonify  }},
+    "location": {{ post.location | jsonify }},
+    "website": {{ post.website | jsonify }},
+    "website_status": {{ post.website_status | jsonify }},
+    "website_mirror_ipres": {{ post.website_mirror_ipres | jsonify }},
+    "programme_url": {{ post.programme_url | jsonify }},
+    "proceedings_full": {{ post.proceedings_full | jsonify }},
+    "proceedings_phaidra": {{ post.proceedings_phaidra | jsonify }},
+    "proceedings_osf": {{ post.proceedings_osf | jsonify }},
+    "proceedings_ideals": {{ post.proceedings_ideals | jsonify }},
+    "session_recordings": {{ post.session_recordings | jsonify }},
+    "content_html": {{ post.content | jsonify  }}
   }{% unless forloop.last %},{% endunless %}
-  {% endif %}
 {% endfor %}
 ]
