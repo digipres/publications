@@ -4,8 +4,7 @@
 {% assign sorted_pages = site.pages | where: 'parent', "iPRES" | sort:"title" | reverse -%}
 {%- for post in sorted_pages -%}
   {
-    "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
-    "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
+    "url": "{{ post.url | prepend: site.url }}",
     "title": {{ post.title | jsonify }},
     "date": {{ post.date | jsonify }},
     "year": {{ post.year | jsonify  }},
