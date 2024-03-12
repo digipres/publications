@@ -6,6 +6,7 @@ backend:
   branch: main
 media_folder: "assets/uploads"
 
+site_url: https://www.digipres.org/publications/
 
 collections:
 - label: "Blog"
