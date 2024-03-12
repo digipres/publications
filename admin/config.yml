@@ -1,7 +1,8 @@
 # config.yml
 
 backend:
-  name: github
+  name: git-gateway
+  #name: github
   repo: digipres/publications
   branch: main
 media_folder: "assets/uploads"
