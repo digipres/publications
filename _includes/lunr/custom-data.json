@@ -1,0 +1,3 @@
+{%- capture newline %}
+{% endcapture -%}
+"abstract": {{ include.page.abstract | markdownify | replace:newline,' ' | strip_html | normalize_whitespace | strip | jsonify }},

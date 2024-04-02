@@ -13,4 +13,5 @@ website: http://www.las.ac.cn/cedp/index_en.html
 website_mirror_ipres: https://ipres-conference.org/ipres04/
 website_status: gone
 year: 2004
+has_children: true
 ---

@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<h1>{{page.title}}</h1>
+
+<h2>Abstract</h2>
+
+{{ page.abstract }}
+
+<a href="{{ page.landing_page_url }}" class="btn btn-blue mt-4 float-right">View This Publication</a>
+
+<h2>Details</h2>
+
+<dl>
+    <dt>Creators</dt>
+    <dd>{{ page.creators }}</dd>
+    <dt>Institutions</dt>
+    <dd>{{ page.institutions }}</dd>
+    <dt>Date</dt>
+    <dd>{{ page.date }}</dd>
+    <dt>Keywords</dt>
+    <dd>{{ page.keywords }}</dd>
+    <dt>Publication Type</dt>
+    <dd>{{ page.publication_type }}</dd>
+    <dt>License</dt>
+    <dd>{{ page.license }}</dd>
+    <dt>Direct Download</dt>
+    <dd><a href="{{ page.document_url }}">{{ page.size}} bytes</a></dd>
+    {% if page.slides_url %}
+    <dt>Slides</dt>
+    <dd><a href="{{ page.slides_url }}">here</a></dd>
+    {% endif %}
+    {% if page.notes_url %}
+    <dt>Notes</dt>
+    <dd><a href="{{ page.notes_url }}">here</a></dd>
+    {% endif %}
+</dl>
