@@ -7,7 +7,15 @@ has_toc: false
 
 # iPRES Conferences
 
-Also available to download as [JSON](./ipres.json) or [CSV](./ipres.csv).
+The following table summarises the current status of iPRES conference websites and proceedings:
+
+- The _phaidra_, _osf_ and _ideals_ names in the proceedings columns refer to the service that is hosting the linked resources.
+- The _all-in-one_ name links to conferences proceedings PDFs that contains all the individual abstracts and articles in a single large document, if available.
+- The _recordings_ name links to the recorded video streams of the conference presentations, if available.
+- 💀 indicates that a link is dead.
+- 🗃️ indicates that a link goes to an archived version of the original link.
+
+The data is also available to download as [JSON](./ipres.json) or [CSV](./ipres.csv).
 
 <table>
 <thead>
@@ -30,7 +38,7 @@ Also available to download as [JSON](./ipres.json) or [CSV](./ipres.csv).
   <td>
     {% if item.proceedings_phaidra != '' %}<a href="{{ item.proceedings_phaidra }}">[phaidra]</a><br/>{% endif %}
     {% if item.proceedings_osf != '' %}<a href="{{ item.proceedings_osf }}">[osf]</a><br/>{% endif %}
-    {% if item.proceedings_ideals != '' %}<a href="{{ item.proceedings_ideals }}">[ideal]</a><br/>{% endif %}
+    {% if item.proceedings_ideals != '' %}<a href="{{ item.proceedings_ideals }}">[ideals]</a><br/>{% endif %}
     {% if item.proceedings_full != '' %}<a href="{{ item.proceedings_full }}">[all-in-one]</a><br/>{% endif %}
     {% if item.session_recordings != '' %}<a href="{{ item.session_recordings }}">[recordings]</a><br/>{% endif %}
   </td>
