@@ -1,3 +1,6 @@
 {%- capture newline %}
 {% endcapture -%}
 "abstract": {{ include.page.abstract | markdownify | replace:newline,' ' | strip_html | normalize_whitespace | strip | jsonify }},
+"creators": {{ include.page.creators | join: "; " | markdownify | replace:newline,' ' | strip_html | normalize_whitespace | strip | jsonify }},
+"institutions": {{ include.page.institutions | join: "; " | markdownify | replace:newline,' ' | strip_html | normalize_whitespace | strip | jsonify }},
+"keywords": {{ include.page.keywords | join: "; " | markdownify | replace:newline,' ' | strip_html | normalize_whitespace | strip | jsonify }},
