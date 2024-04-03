@@ -13,4 +13,5 @@ website: http://pandora.nla.gov.au/pan/149803/20150323-1209/ipres2014.org/index.
 website_mirror_ipres: https://ipres-conference.org/ipres14/
 website_status: archived
 year: 2014
+has_children: true
 ---

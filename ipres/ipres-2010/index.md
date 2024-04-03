@@ -13,4 +13,5 @@ website: http://www.ifs.tuwien.ac.at/dp/ipres2010/index.html
 website_mirror_ipres: https://ipres-conference.org/ipres10/
 website_status: ''
 year: 2010
+has_children: true
 ---

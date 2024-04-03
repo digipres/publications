@@ -13,4 +13,5 @@ website: https://ipres2019.org/
 website_mirror_ipres: ''
 website_status: ''
 year: 2019
+has_children: true
 ---

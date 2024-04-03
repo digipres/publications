@@ -14,4 +14,5 @@ session_recordings: ""
 year: 2017
 website_mirror_ipres: https://ipres-conference.org/ipres17/
 proceedings_ideals: ""
+has_children: true
 ---

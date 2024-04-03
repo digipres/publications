@@ -1,0 +1,30 @@
+---
+abstract: 'This poster describes the image comparison technique developed at the National
+  Library of New Zealand. This process has been developed to help demonstrate / document
+  any changes to image content as a result of a preservation or conservation treatment.
+
+  '
+creators:
+- Gattuso, Jay
+date: null
+document_url: https://services.phaidra.univie.ac.at/api/object/o:1424898/download
+grand_parent: iPRES
+institutions:
+- National Library of New Zealand
+keywords:
+- integrity
+- image comparison
+- rmse
+landing_page_url: https://phaidra.univie.ac.at/o:1424898
+language: eng
+layout: publication
+license: CC BY 4.0 International
+notes_url: null
+parent: iPRES 2021
+presentation_url: null
+size: 313184
+source_name: iPRES
+title: IS THIS IMAGE THAT IMAGE?
+type: poster
+year: 2021
+---

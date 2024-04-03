@@ -1,7 +1,7 @@
 {% if jekyll.environment == "production" %}
 <script defer src="https://eu.umami.is/script.js" data-website-id="0ed0c854-0297-411f-b19c-4688ea996bdc"></script>
 {% endif %}
-{% if page.publication_type %}
+{% if page.layout == "publication" %}
 <!-- Article metadata as per https://www.zotero.org/support/dev/exposing_metadata#using_an_open_standard_for_exposing_metadata -->
 <meta name="citation_title" content="{{ page.title }}">
 <meta name="citation_authors" content="{{ page.creators | join: '; ' }}">

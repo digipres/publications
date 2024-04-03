@@ -13,4 +13,5 @@ website: http://iPRES.ischool.utoronto.ca/
 website_mirror_ipres: https://ipres-conference.org/ipres12/
 website_status: gone
 year: 2012
+has_children: true
 ---

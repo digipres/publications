@@ -13,4 +13,5 @@ website: http://ipres2013.sysresearch.org/
 website_mirror_ipres: https://ipres-conference.org/ipres13/
 website_status: gone
 year: 2013
+has_children: true
 ---

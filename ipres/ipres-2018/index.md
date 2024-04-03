@@ -13,4 +13,5 @@ website: https://ipres2018.org/
 website_mirror_ipres: https://ipres-conference.org/ipres18/
 website_status: ''
 year: 2018
+has_children: true
 ---

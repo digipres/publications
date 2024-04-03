@@ -13,4 +13,5 @@ website: http://ipres2015.org/
 website_mirror_ipres: https://ipres-conference.org/ipres15/
 website_status: gone
 year: 2015
+has_children: true
 ---

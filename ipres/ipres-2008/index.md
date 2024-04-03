@@ -13,4 +13,5 @@ website: http://www.bl.uk/ipres2008/
 website_mirror_ipres: https://ipres-conference.org/ipres08/
 website_status: gone
 year: 2008
+has_children: true
 ---

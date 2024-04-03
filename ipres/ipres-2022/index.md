@@ -13,4 +13,5 @@ website: https://ipres2022.scot/
 website_mirror_ipres: ''
 website_status: ''
 year: 2022
+has_children: true
 ---

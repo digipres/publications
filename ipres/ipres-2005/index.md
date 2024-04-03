@@ -13,4 +13,5 @@ website: http://rdd.sub.uni-goettingen.de/conferences/ipres05/
 website_mirror_ipres: https://ipres-conference.org/ipres05/
 website_status: gone
 year: 2005
+has_children: true
 ---

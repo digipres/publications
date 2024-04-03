@@ -1,0 +1,24 @@
+---
+abstract: null
+creators:
+- McGovern, Nancy Yvonne
+date: null
+document_url: https://services.phaidra.univie.ac.at/api/object/o:294526/download
+grand_parent: iPRES
+institutions: []
+keywords:
+- beijing
+landing_page_url: https://phaidra.univie.ac.at/o:294526
+language: eng
+layout: publication
+license: CC BY-SA 3.0 AT
+notes_url: null
+parent: iPRES 2007
+presentation_url: null
+size: 304820
+source_name: iPRES
+title: 'Aligning Digital Preservation Policies with Community Standards: Presentation
+  - iPRES 2007 - Beijing'
+type: paper
+year: 2007
+---

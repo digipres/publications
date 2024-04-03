@@ -1,0 +1,41 @@
+---
+abstract: The majority of existing digital preservation solutions are focusing on
+  the long-term storage of digital content such as documents, images, video, audio
+  files and other domain specific data. Preservation of an Information Technology
+  infrastructure for supporting business processes is a much more challenging task.
+  It requires the preservation of software and hardware stacks as well as relevant
+  contexts, which together, provide an execution layer for running business processes.
+  The proposed TIMBUS architecture addresses limitations of existing digital preservation
+  solutions and provides a complete framework for preserving business processes implemented
+  upon a service oriented architecture.
+creators:
+- Gilani, Wasif
+- Taylor, Philip
+- Thomson, John
+- Galushka, Mykola
+- Strodl, Stephan
+- Neumann, Martin Alexander
+date: null
+document_url: https://services.phaidra.univie.ac.at/api/object/o:293772/download
+grand_parent: iPRES
+institutions: []
+keywords:
+- ischool
+- toronto
+- canada
+- digital preservation
+- business process
+landing_page_url: https://phaidra.univie.ac.at/o:293772
+language: eng
+layout: publication
+license: CC BY-NC-SA 3.0 AT
+notes_url: null
+parent: iPRES 2012
+presentation_url: null
+size: 891998
+source_name: iPRES
+title: 'Digital Preservation Of Business Processes with TIMBUS Architecture: Paper
+  - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
+type: paper
+year: 2012
+---

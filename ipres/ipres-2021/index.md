@@ -13,4 +13,5 @@ website: http://ipres2021.ac.cn/en/web/index/
 website_mirror_ipres: ''
 website_status: ''
 year: 2021
+has_children: true
 ---

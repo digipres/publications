@@ -13,4 +13,5 @@ website: http://ipres.las.ac.cn/
 website_mirror_ipres: https://ipres-conference.org/ipres07/
 website_status: gone
 year: 2007
+has_children: true
 ---

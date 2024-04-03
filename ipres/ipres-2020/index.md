@@ -13,4 +13,5 @@ website: https://www.dpconline.org/events/past-events/wemissipres
 website_mirror_ipres: ''
 website_status: ''
 year: 2020
+has_children: false
 ---

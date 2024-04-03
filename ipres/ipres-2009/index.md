@@ -13,4 +13,5 @@ website: http://www.cdlib.org/ipres/ipres2009.html
 website_mirror_ipres: https://ipres-conference.org/ipres09/
 website_status: gone
 year: 2009
+has_children: true
 ---

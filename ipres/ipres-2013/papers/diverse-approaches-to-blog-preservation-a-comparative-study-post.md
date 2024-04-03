@@ -1,0 +1,40 @@
+---
+abstract: This poster presents highlights of a comparative study of three distinct
+  approaches to preserving the content of blogs, to consider the relative benefits
+  of each approach in meeting the requirements for blog preservation, in different
+  contexts. Assessment criteria are drawn from key publications and frameworks on
+  digital preservation as well as practical considerations derived from the authors'
+  experience as users and designers of digital archiving tools and systems.
+creators:
+- M. Davis, Richard
+- Arango-Docio, Silvia
+- Pinsent, Edward
+date: null
+document_url: https://services.phaidra.univie.ac.at/api/object/o:378035/download
+grand_parent: iPRES
+institutions: []
+keywords:
+- digital preservation
+- digital curation
+- designated community
+- authenticity
+- intellectual entity
+- archive
+- web archive
+- blog
+- weblog
+- lisbon
+landing_page_url: https://phaidra.univie.ac.at/o:378035
+language: eng
+layout: publication
+license: CC BY-SA 2.0 AT
+notes_url: null
+parent: iPRES 2013
+presentation_url: null
+size: 240252
+source_name: iPRES
+title: 'Diverse approaches to blog preservation: a comparative study: Poster - iPres
+  2013 - Lisbon'
+type: poster
+year: 2013
+---
