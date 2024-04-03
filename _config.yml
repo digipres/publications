@@ -18,3 +18,9 @@ plugins:
 #  template: 'ipres'
 #  name: name
 #  dir: 'ipres'
+
+# https://just-the-docs.com/docs/configuration/#callouts
+callouts:
+  warning:
+    title: Warning
+    color: red

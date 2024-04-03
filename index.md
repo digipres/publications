@@ -5,11 +5,10 @@ layout: home
 
 # The Digital Preservation Publications Index
 
+{: .warning }
 This is an experimental service being developed as part of the [Registries of Good Practice Project](https://github.com/digipres/registries-of-practice-project).
 
-The goal is to make records of digital preservation practice easier to find and build on.
-
-Specifically, this site currently aims to re-publish the metadata of [iPRES conference](https://ipres-conference.org/) proceedings, in order to:
+The purpose of this site is to make records of digital preservation practice easier to find and build on. Currently, the focus is on re-publishing the metadata of [iPRES conference](https://ipres-conference.org/) proceedings, in order to:
 
 - make it easier to search and analyse this body of work.
 - make it easier for search engines to find these articles.
