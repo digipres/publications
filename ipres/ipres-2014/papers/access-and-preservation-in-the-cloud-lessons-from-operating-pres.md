@@ -44,11 +44,11 @@ abstract: 'The archival community has recently been offered a series of cloud so
 
   '
 creators:
-- Gairey, Alan
-- Braud, Maïté
-- O’Farrelly, Kevin
 - Sharpe, Robert
+- Braud, Maïté
 - Carr, James
+- O’Farrelly, Kevin
+- Gairey, Alan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378109/download
 grand_parent: iPRES
@@ -66,10 +66,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 113065
 source_name: iPRES
 title: 'Access and Preservation in the Cloud: Lessons from Operating Preservica Cloud
-  Edition: Paper - iPRES 2014 - Melbourne'
-type: paper
+  Edition'
 year: 2014
 ---

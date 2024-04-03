@@ -11,8 +11,8 @@ abstract: The Goportis Consortium consists of the three German National Subject 
 creators:
 - Bähr, Thomas
 - Friese, Yvonne
-- Gerdes, Thomas
 - Schwab, Franziska
+- Gerdes, Thomas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502854/download
 grand_parent: iPRES
@@ -25,10 +25,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: poster
 size: 45529
 source_name: iPRES
-title: 'Consortial Certification Processes – The Goportis Digital Archive: Poster
-  - iPRES 2016 - Swiss National Library, Bern'
-type: poster
+title: Consortial Certification Processes – The Goportis Digital Archive
 year: 2016
 ---

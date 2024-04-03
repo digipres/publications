@@ -1,0 +1,23 @@
+---
+abstract: null
+creators:
+- Neuroth, Heike
+date: null
+document_url: https://services.phaidra.univie.ac.at/api/object/o:295017/download
+grand_parent: iPRES
+institutions: []
+keywords:
+- beijing
+landing_page_url: https://phaidra.univie.ac.at/o:295017
+language: eng
+layout: publication
+license: CC BY-SA 3.0 AT
+notes_url: null
+parent: iPRES 2004
+presentation_url: null
+publication_type: presentation
+size: 2042611
+source_name: iPRES
+title: Metadata-Registries
+year: 2004
+---

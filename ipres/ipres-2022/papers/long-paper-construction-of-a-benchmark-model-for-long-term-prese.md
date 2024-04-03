@@ -25,10 +25,10 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: long paper
 size: null
 source_name: iPRES
 title: 'Long Paper: CONSTRUCTION OF A BENCHMARK MODEL FOR LONG-TERM PRESERVATION VALUE
   EVALUATION OF ACADEMIC INFORMATION ON SOCIAL MEDIA'
-type: long paper
 year: 2022
 ---

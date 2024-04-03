@@ -23,10 +23,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 81692
 source_name: iPRES
-title: 'Enduring Access to Digitized Books: Organizational and Technical Framework:
-  Paper - iPRES 2008 - London'
-type: paper
+title: 'Enduring Access to Digitized Books: Organizational and Technical Framework'
 year: 2008
 ---

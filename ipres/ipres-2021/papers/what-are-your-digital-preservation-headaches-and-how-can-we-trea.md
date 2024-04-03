@@ -15,9 +15,9 @@ license: All rights reserved
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: lightning talk
 size: 47045
 source_name: iPRES
 title: What are your digital preservation headaches, and how can we treat them together?
-type: lightning talk
 year: 2021
 ---

@@ -24,10 +24,10 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
 presentation_url: null
+publication_type: unknown
 size: null
 source_name: iPRES
 title: 'PLUS ÇA CHANGE…?: Eight years after the end of the 4C project, what next for
   the Curation Costs Exchange?'
-type: unknown
 year: 2023
 ---

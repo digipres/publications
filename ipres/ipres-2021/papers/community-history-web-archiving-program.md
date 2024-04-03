@@ -15,9 +15,9 @@ license: All rights reserved
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: lightning talk
 size: 30447
 source_name: iPRES
 title: Community History Web Archiving Program
-type: lightning talk
 year: 2021
 ---

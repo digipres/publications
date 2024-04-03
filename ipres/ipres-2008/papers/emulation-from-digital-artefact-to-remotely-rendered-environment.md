@@ -30,10 +30,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 128557
 source_name: iPRES
-title: 'Emulation: From Digital Artefact to Remotely Rendered Environments: Paper
-  - iPRES 2008 - London'
-type: paper
+title: 'Emulation: From Digital Artefact to Remotely Rendered Environments'
 year: 2008
 ---

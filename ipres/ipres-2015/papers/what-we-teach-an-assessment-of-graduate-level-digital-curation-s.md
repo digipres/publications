@@ -4,11 +4,11 @@ abstract: This poster reports preliminary results from an intensive review of En
   larger study looking at the convergence and divergence of reading assignments between
   digital library and digital curation curriculum.
 creators:
-- Lasley, Noah
 - Hank, Carolyn
-- Zhu, Xiaohua
 - Kirkpatrick, Charlene
+- Lasley, Noah
 - Shireman, Kylan
+- Zhu, Xiaohua
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429589/download
 grand_parent: iPRES
@@ -22,9 +22,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 132703
 source_name: iPRES
 title: 'What We Teach: An Assessment of Graduate-Level Digital Curation Syllabi'
-type: poster
 year: 2015
 ---

@@ -46,8 +46,8 @@ abstract: '"In order to preserve software-based art the research community has p
   of the new hardware is large enough."'
 creators:
 - Rechert, Klaus
-- Roeck, Claudia
 - Noordegraaf, Julia
+- Roeck, Claudia
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923622/download
 grand_parent: iPRES
@@ -61,11 +61,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 3744583
 source_name: iPRES
-title: 'Evaluation of preservation strategies for an interactive, software-based artwork
-  with complex behavior using the case study Horizons (2008) by Geert Mul: iPres 2018
-  - Boston'
-type: paper
+title: Evaluation of preservation strategies for an interactive, software-based artwork
+  with complex behavior using the case study Horizons (2008) by Geert Mul
 year: 2018
 ---

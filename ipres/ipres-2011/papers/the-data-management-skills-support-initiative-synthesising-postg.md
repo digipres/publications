@@ -9,8 +9,8 @@ abstract: In this paper, we describe the context, methods and findings of the Da
   guidance documents to raise awareness of the importance of data management in career
   development.
 creators:
-- Snow, Kellie
 - Molloy, Laura
+- Snow, Kellie
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294275/download
 grand_parent: iPRES
@@ -32,10 +32,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 470787
 source_name: iPRES
 title: 'The Data Management Skills Support Initiative: Synthesising Postgraduate Training
-  in Research Data Management: Paper - iPRES 2011 - Singapore'
-type: paper
+  in Research Data Management'
 year: 2011
 ---

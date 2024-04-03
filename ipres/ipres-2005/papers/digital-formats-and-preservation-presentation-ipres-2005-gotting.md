@@ -33,9 +33,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2005
 presentation_url: null
+publication_type: paper
 size: 891666
 source_name: iPRES
 title: 'Digital Formats and Preservation: Presentation - iPRES 2005 - Göttingen'
-type: paper
 year: 2005
 ---

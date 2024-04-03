@@ -15,8 +15,8 @@ abstract: 'Archivists at the University of Michigan Bentley Historical Library r
   to early feedback and ultimately adapt our recommendations to better align with
   archivists’ needs.'
 creators:
-- Eckard, Max
 - Alexa
+- Eckard, Max
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923647/download
 grand_parent: iPRES
@@ -30,10 +30,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 71917
 source_name: iPRES
-title: 'Revamping the "Difficult (Potentially)" but "Mostly Good" and "Pretty Smooth"
-  Removable Media Workflow at the Bentley Historical Library: iPres 2018 - Boston'
-type: paper
+title: Revamping the "Difficult (Potentially)" but "Mostly Good" and "Pretty Smooth"
+  Removable Media Workflow at the Bentley Historical Library
 year: 2018
 ---

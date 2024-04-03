@@ -16,10 +16,10 @@ license: All rights reserved
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: lightning talk
 size: 586349
 source_name: iPRES
 title: 'Preservation Watch: building towards a new generic facility within The Dutch
   Digital Heritage Network'
-type: lightning talk
 year: 2021
 ---

@@ -15,9 +15,9 @@ license: All rights reserved
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: lightning talk
 size: 37315
 source_name: iPRES
 title: 'ARCHIVER: archiving and preservation of large scientific datasets'
-type: lightning talk
 year: 2021
 ---

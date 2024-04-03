@@ -13,8 +13,8 @@ abstract: This paper presents results of a practical analysis into the effects o
   compressed file sizes, noting that this appears to be the result of setting the
   “Predictor” tag.
 creators:
-- Davies, Kevin
 - May, Peter
+- Davies, Kevin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503166/download
 grand_parent: iPRES
@@ -27,10 +27,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: paper
 size: 480166
 source_name: iPRES
-title: 'Practical Analysis of TIFF File Size Reductions Achievable Through Compression:
-  Paper - iPRES 2016 - Swiss National Library, Bern'
-type: paper
+title: Practical Analysis of TIFF File Size Reductions Achievable Through Compression
 year: 2016
 ---

@@ -18,10 +18,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2005
 presentation_url: null
+publication_type: paper
 size: 127291
 source_name: iPRES
 title: 'A National Preservation Policy for the UK(?) - Thoughts and Challenges: Presentation
   - iPRES 2005 - Göttingen'
-type: paper
 year: 2005
 ---

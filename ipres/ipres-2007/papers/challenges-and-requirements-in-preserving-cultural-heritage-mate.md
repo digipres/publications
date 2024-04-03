@@ -15,10 +15,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
 presentation_url: null
+publication_type: presentation
 size: 617051
 source_name: iPRES
-title: 'Challenges and Requirements in Preserving Cultural Heritage Materials: Presentation
-  - iPRES 2007 - Beijing'
-type: paper
+title: Challenges and Requirements in Preserving Cultural Heritage Materials
 year: 2007
 ---

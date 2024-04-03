@@ -16,8 +16,8 @@ abstract: In this paper we report the main results of a study on interoperabilit
   solutions, and 4) a list of recommendations and guidelines to create the ground
   for a coordinated and interoperable digital preservation ecosystem.
 creators:
-- Bazzanella, Barbara
 - Tzitzikas, Yannis
+- Bazzanella, Barbara
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378040/download
 grand_parent: iPRES
@@ -31,10 +31,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 1678147
 source_name: iPRES
-title: 'Interoperability Objectives and Approaches: Results from the APARSEN NoE:
-  Paper - iPres 2013 -  Lisbon'
-type: paper
+title: 'Interoperability Objectives and Approaches: Results from the APARSEN NoE'
 year: 2013
 ---

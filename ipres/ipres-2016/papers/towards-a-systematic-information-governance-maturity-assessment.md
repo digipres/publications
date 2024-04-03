@@ -19,8 +19,8 @@ abstract: Information Governance as defined by Gartner is the “specification o
   information governance.
 creators:
 - Vieira, Ricardo
-- Proença, Diogo
 - Borbinha, José
+- Proença, Diogo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503178/download
 grand_parent: iPRES
@@ -33,10 +33,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: paper
 size: 741831
 source_name: iPRES
-title: 'Towards a Systematic Information Governance Maturity Assessment: Paper - iPRES
-  2016 - Swiss National Library, Bern'
-type: paper
+title: Towards a Systematic Information Governance Maturity Assessment
 year: 2016
 ---

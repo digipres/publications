@@ -10,8 +10,8 @@ abstract: "From October 1‐5, 2012, the University of Toronto’s Faculty of In
   topics like Preservation Assessment, Training, Preserving Text Objects, Site Reports,
   Business Processes, Preservation Environments, Models, Concepts, and Community Approaches."
 creators:
-- Ashley, Kevin
 - Moore, Reagan
+- Ashley, Kevin
 - Ross, Seamus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294083/download
@@ -29,10 +29,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 31330267
 source_name: iPRES
 title: 'iPRES 2012: Proceedings of the 9th International Conference on Preservation
-  of Digital Objects: iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+  of Digital Objects'
 year: 2012
 ---

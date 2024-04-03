@@ -12,8 +12,8 @@ abstract: " This paper addresses the question: What would distributed digital pr
   extension to the literature of the digital preservation community to address the
   analysis and audit necessary for distributed digital preservation. \n"
 creators:
-- McGovern, Nancy
 - Zierau, Eld
+- McGovern, Nancy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378118/download
 grand_parent: iPRES
@@ -32,10 +32,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 607851
 source_name: iPRES
-title: 'Supporting the Analysis and Audit of Collaborative OAIS’s Using an Outer OAIS-Inner
-  OAIS (OO-IO) Model: Paper - iPRES 2014 - Melbourne'
-type: paper
+title: Supporting the Analysis and Audit of Collaborative OAIS’s Using an Outer OAIS-Inner
+  OAIS (OO-IO) Model
 year: 2014
 ---

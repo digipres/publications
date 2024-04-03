@@ -26,10 +26,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 396956
 source_name: iPRES
 title: 'Using data archiving tools to preserve archival records in business systems
-  – a case study : Paper - iPres 2013 - Lisbon'
-type: paper
+  – a case study '
 year: 2013
 ---

@@ -40,10 +40,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 827783
 source_name: iPRES
-title: 'Authenticity Management in Long Term Digital Preservation of Medical Records:
-  Paper - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+title: Authenticity Management in Long Term Digital Preservation of Medical Records
 year: 2012
 ---

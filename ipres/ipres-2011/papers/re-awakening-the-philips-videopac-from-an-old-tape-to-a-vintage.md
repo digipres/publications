@@ -15,8 +15,8 @@ abstract: Preserving data for a specific system usually depends on the system in
   of distributed software as in Software as a Service (SaaS) and even whole business
   processes.
 creators:
-- Rauber, Andreas
 - Guttenbrunner, Mark
+- Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294261/download
 grand_parent: iPRES
@@ -30,10 +30,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 1738302
 source_name: iPRES
 title: 'Re-awakening the Philips Videopac: From an old tape to a vintage feeling on
-  a modern screen: Paper - iPRES 2011 - Singapore'
-type: paper
+  a modern screen'
 year: 2011
 ---

@@ -14,9 +14,9 @@ abstract: this poster presents a concept of a preservation system for computatio
   of the experiment without any legal issues. The prototype of such a system was developed,
   the poster provides a scheme of the system and the first experimental results.
 creators:
-- Wesner, Stefan
 - Udod, Kyryll
 - Kushnarenko, Volodymyr
+- Wesner, Stefan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081755/download
 grand_parent: iPRES
@@ -29,10 +29,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: poster
 size: 120000
 source_name: iPRES
-title: Concept of a Preservation System for Scientific Experiments in HPC - iPRES
-  2019 Amsterdam
-type: poster
+title: 'Concept of a Preservation System for Scientific Experiments in HPC '
 year: 2019
 ---

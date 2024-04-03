@@ -27,10 +27,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 477699
 source_name: iPRES
 title: 'Congregating Socio- Economic Datasets for Scholastic Research: A Case Study
   in IIMB Library'
-type: paper
 year: 2015
 ---

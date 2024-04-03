@@ -3,11 +3,11 @@ abstract: This poster outlines the retroTECH program at the Georgia Tech Library
   an innovative model of digital preservation in which hands-on access and campus
   community engagement are at the forefront.
 creators:
-- Hagenmaier, Wendy
+- Thompson, Jody
 - Valk, Alison
 - Brown, Sherri
 - Rolando, Lizzy
-- Thompson, Jody
+- Hagenmaier, Wendy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429578/download
 grand_parent: iPRES
@@ -23,10 +23,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 360962
 source_name: iPRES
 title: 'The retroTECH Program at the Georgia Tech Library: Digital Preservation through
   Access'
-type: poster
 year: 2015
 ---

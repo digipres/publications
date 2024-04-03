@@ -15,9 +15,9 @@ abstract: 'Stakeholders in scholarly research are paying increased attention to 
   United States, and 2) recommending actions stakeholders can take to address the
   stewardship gap if one is found to exist.'
 creators:
-- York, Jeremy
 - Gutmann, Myron
 - Berman, Francine
+- York, Jeremy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503172/download
 grand_parent: iPRES
@@ -30,10 +30,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: paper
 size: 337285
 source_name: iPRES
-title: 'Will Today’s Data Be Here Tomorrow? Measuring The Stewardship Gap: Paper -
-  iPRES 2016 - Swiss National Library, Bern'
-type: paper
+title: Will Today’s Data Be Here Tomorrow? Measuring The Stewardship Gap
 year: 2016
 ---

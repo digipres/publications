@@ -16,8 +16,8 @@ abstract: 'Since 1996, the Internet Archive (IA) has provided storage, preservat
 
   '
 creators:
-- Bailey, Jefferson
 - Lee, Peggy
+- Bailey, Jefferson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424934/download
 grand_parent: iPRES
@@ -36,9 +36,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 148076
 source_name: iPRES
 title: TOWARDS LEVELS OF DIGITAL PRESERVATION AS A SERVICE
-type: paper
 year: 2021
 ---

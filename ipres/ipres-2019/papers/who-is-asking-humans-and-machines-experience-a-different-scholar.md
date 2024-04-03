@@ -11,8 +11,8 @@ abstract: Libraries and archives are motivated to capture and archive scholarly 
   guide them to use appropriate tools.
 creators:
 - Balakireva, Lyudmila
-- Klein, Martin
 - Shankar, Harihar
+- Klein, Martin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081744/download
 grand_parent: iPRES
@@ -25,10 +25,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 445685
 source_name: iPRES
-title: Who is asking? Humans and machines experience a different scholarly web - iPRES
-  2019 Amsterdam
-type: paper
+title: 'Who is asking? Humans and machines experience a different scholarly web '
 year: 2019
 ---

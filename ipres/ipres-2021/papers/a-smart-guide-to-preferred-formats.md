@@ -8,16 +8,16 @@ abstract: 'The Dutch Digital Heritage Network has developed an online tool that 
 
   '
 creators:
-- Steeman, Marjolein
 - Alloing, Sam
 - de Boer, Remco
+- Steeman, Marjolein
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424922/download
 grand_parent: iPRES
 institutions:
-- Netherlands Institute for Sound and Vision
 - ArchiXL
 - KB, National Library of the Netherlands
+- Netherlands Institute for Sound and Vision
 keywords:
 - preferred formats
 - community
@@ -31,9 +31,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 451784
 source_name: iPRES
 title: A Smart Guide to Preferred Formats
-type: paper
 year: 2021
 ---

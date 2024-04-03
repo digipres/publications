@@ -14,9 +14,9 @@ abstract: '"In the very broad scope addressed by digital preservation initiative
   intrinsic persistent identifiers that we have adopted in Software Heritage for preserving
   billions of software artifacts."'
 creators:
+- Di Cosmo, Roberto
 - Gruenpeter, Morane
 - Zacchiroli, Stefano
-- Di Cosmo, Roberto
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923616/download
 grand_parent: iPRES
@@ -30,10 +30,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 714074
 source_name: iPRES
-title: 'Identifiers for Digital Objects: The case of software source code preservation:
-  iPres 2018 - Boston'
-type: paper
+title: 'Identifiers for Digital Objects: The case of software source code preservation'
 year: 2018
 ---

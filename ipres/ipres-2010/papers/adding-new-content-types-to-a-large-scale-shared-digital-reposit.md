@@ -54,8 +54,8 @@ abstract: 'HathiTrust is a collaboration of universities working
   issues can be addressed.'
 creators:
 - York, Jeremy
-- Mardesich, Andrew
 - Beers, Shane
+- Mardesich, Andrew
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185242/download
 grand_parent: iPRES
@@ -68,10 +68,9 @@ license: GPLv3
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 170982
 source_name: iPRES
-title: 'ADDING NEW CONTENT TYPES TO A LARGE-SCALE  SHARED DIGITAL REPOSITORY: Paper
-  - iPres 2010 - Vienna'
-type: paper
+title: ADDING NEW CONTENT TYPES TO A LARGE-SCALE  SHARED DIGITAL REPOSITORY
 year: 2010
 ---

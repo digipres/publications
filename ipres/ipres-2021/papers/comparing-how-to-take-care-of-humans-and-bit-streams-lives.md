@@ -27,9 +27,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 609585
 source_name: iPRES
 title: COMPARING HOW TO TAKE CARE OF HUMANS’ AND BIT-STREAMS’ LIVES
-type: paper
 year: 2021
 ---

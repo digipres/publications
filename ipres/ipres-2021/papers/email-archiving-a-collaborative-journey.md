@@ -10,19 +10,19 @@ abstract: 'This panel examines the current and future developments in email arch
 
   '
 creators:
-- Teichman, Matt
-- Prom, Chris
 - Abrams, Stephen
-- Wiedeman, Gregory
 - Martinez, Ruby
+- Prom, Chris
+- Teichman, Matt
+- Wiedeman, Gregory
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424945/download
 grand_parent: iPRES
 institutions:
 - University of Albany, SUNY
+- University of Illinois
 - Harvard University
 - University of Chicago
-- University of Illinois
 keywords:
 - email archiving
 - best practice
@@ -35,9 +35,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 268850
 source_name: iPRES
 title: 'Email Archiving: A Collaborative Journey'
-type: paper
 year: 2021
 ---

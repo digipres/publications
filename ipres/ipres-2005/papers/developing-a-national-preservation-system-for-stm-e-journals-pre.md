@@ -38,9 +38,9 @@ abstract: 'China is facing urgent needs for collaborative digital preservation s
   and very importantly, channel NSTI funding into development and maintenance of the
   national STM preservation network.'
 creators:
+- Ling, Wan
 - Zhixiong, Zhang
 - Xiaolin, Zhang
-- Ling, Wan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295032/download
 grand_parent: iPRES
@@ -54,10 +54,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2005
 presentation_url: null
+publication_type: paper
 size: 134274
 source_name: iPRES
 title: 'Developing a National Preservation System for STM e-Journals: Presentation
   - iPRES 2005 - Göttingen'
-type: paper
 year: 2005
 ---

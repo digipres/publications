@@ -17,14 +17,14 @@ abstract: The engaged membership of the National Digital Stewardship Alliance’
   nature of the S&P’s varied projects as well as to increase community awareness of
   the collaboratively developed resources and products.
 creators:
-- Murray, Kate
-- Soprano, Mariella
-- Engle, Erin
-- Atkins, Winston
 - Kussmann, Carol
-- Paolillo, Michelle
-- Jackson, Karl
+- Atkins, Winston
+- Engle, Erin
 - Goethals, Andrea
+- Jackson, Karl
+- Murray, Kate
+- Paolillo, Michelle
+- Soprano, Mariella
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429577/download
 grand_parent: iPRES
@@ -43,10 +43,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 452440
 source_name: iPRES
 title: 'In the Thicket of It with the NDSA Standards and Practices Working Group:
   Cultivating Grass Roots Approaches to Real-World Digital Preservation Issues'
-type: poster
 year: 2015
 ---

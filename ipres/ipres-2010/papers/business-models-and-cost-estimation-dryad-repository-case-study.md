@@ -32,10 +32,9 @@ license: GPLv3
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 171230
 source_name: iPRES
-title: 'BUSINESS MODELS AND COST ESTIMATION:  DRYAD REPOSITORY CASE STUDY: Paper -
-  iPres 2010 - Vienna '
-type: paper
+title: 'BUSINESS MODELS AND COST ESTIMATION:  DRYAD REPOSITORY CASE STUDY'
 year: 2010
 ---

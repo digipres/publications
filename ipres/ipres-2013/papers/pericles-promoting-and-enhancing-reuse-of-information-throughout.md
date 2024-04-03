@@ -5,25 +5,25 @@ abstract: This poster paper describes the objectives, approach and use cases of 
   in continually evolving environments including changes in context, semantics and
   practices. The project addresses use cases focusing on digital art, media and science.
 creators:
-- Muller, Christian
-- Watry, Paul
-- Wieder, Philipp
+- Pinchuk, Rani
 - Hasan, Adil
-- Wilson, Tom
-- Maceviciute, Elena
-- Vion-Dury, Jean-Yves
-- Laurenson, Pip
 - Kompatsiaris, Yiannis
+- Hedges, Mark
+- Wilson, Tom
+- Muller, Christian
+- Maceviciute, Elena
+- Wieder, Philipp
+- Laurenson, Pip
+- Watry, Paul
+- Baxter, Rob
 - Chanod, Jean-Pierre
 - Spyroglou, Odysseas
-- Corubolo, Fabio
-- Ludwig, Jens
-- Waddington, Simon
-- Baxter, Rob
-- Hedges, Mark
-- Darányi, Sándor
-- Pinchuk, Rani
 - Dasiopoulou, Stamatia
+- Corubolo, Fabio
+- Darányi, Sándor
+- Waddington, Simon
+- Vion-Dury, Jean-Yves
+- Ludwig, Jens
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378052/download
 grand_parent: iPRES
@@ -42,10 +42,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: poster
 size: 447029
 source_name: iPRES
 title: 'PERICLES - Promoting and Enhancing Reuse of Information throughout the Content
-  Lifecycle taking account of Evolving Semantics : Poster - iPres 2013 - Lisbon'
-type: poster
+  Lifecycle taking account of Evolving Semantics '
 year: 2013
 ---

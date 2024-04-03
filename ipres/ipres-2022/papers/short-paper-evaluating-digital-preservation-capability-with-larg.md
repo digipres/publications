@@ -21,10 +21,10 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: short paper
 size: null
 source_name: iPRES
 title: "Short Paper: EVALUATING DIGITAL PRESERVATION CAPABILITY WITH LARGE AT-RISK
   COLLECTIONS: Lessons learnt from preserving the NVA Archive\r\n"
-type: short paper
 year: 2022
 ---

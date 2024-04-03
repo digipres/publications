@@ -30,9 +30,9 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: poster
 size: null
 source_name: iPRES
 title: 'Poster: Research Weeks'
-type: poster
 year: 2022
 ---

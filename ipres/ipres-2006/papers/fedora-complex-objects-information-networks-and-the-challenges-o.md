@@ -32,10 +32,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
 presentation_url: null
+publication_type: presentation
 size: 319991
 source_name: iPRES
 title: 'Fedora: Complex Objects, Information Networks, and the Challenges of Digital
-  Preservation: Presentation - iPRES 2006 - Ithaca'
-type: paper
+  Preservation'
 year: 2006
 ---

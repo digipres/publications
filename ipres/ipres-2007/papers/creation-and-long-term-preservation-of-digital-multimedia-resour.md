@@ -15,10 +15,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
 presentation_url: null
+publication_type: presentation
 size: 648396
 source_name: iPRES
 title: 'Creation and Long-term Preservation of Digital Multimedia Resources-Some:
-  Preliminary Practices: Presentation - iPRES 2007 - Beijing'
-type: paper
+  Preliminary Practices'
 year: 2007
 ---

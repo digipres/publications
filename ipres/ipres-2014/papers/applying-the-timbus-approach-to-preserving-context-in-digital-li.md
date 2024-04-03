@@ -38,10 +38,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: workshops and tutorials
 size: 146965
 source_name: iPRES
-title: 'Applying the TIMBUS Approach to Preserving Context in Digital Libraries: Workshops
-  and Tutorials - iPRES 2014 - Melbourne'
-type: paper
+title: Applying the TIMBUS Approach to Preserving Context in Digital Libraries
 year: 2014
 ---

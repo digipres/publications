@@ -64,10 +64,10 @@ license: GPLv3
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 88469
 source_name: iPRES
 title: 'MEASURING CONTENT QUALITY IN A PRESERVATION  REPOSITORY: HATHITRUST AND LARGE-SCALE
-  BOOK  DIGITIZATION: Paper - iPres 2010 - Vienna'
-type: paper
+  BOOK  DIGITIZATION'
 year: 2010
 ---

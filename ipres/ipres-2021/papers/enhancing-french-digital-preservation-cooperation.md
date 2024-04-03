@@ -17,17 +17,17 @@ abstract: "Since 2019, four groups have been created within the French associati
 creators:
 - Bechard, Lorène
 - Sin Blima-Barru, Martine
+- Levasseur, Emeline
 - Humbert, Marion
 - Grandcolas, Yannick
-- Levasseur, Emeline
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424941/download
 grand_parent: iPRES
 institutions:
-- Archives de la Moselle
 - Archives nationales
 - CINES
 - BIBLIOTHEQUE NATIONALE DE FRANCE
+- Archives de la Moselle
 keywords:
 - digital
 - preservation
@@ -43,9 +43,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: poster
 size: 392467
 source_name: iPRES
 title: Enhancing French Digital Preservation Cooperation
-type: poster
 year: 2021
 ---

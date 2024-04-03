@@ -28,10 +28,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 540259
 source_name: iPRES
-title: 'Meet RODA, a Full-Fledged Digital Repository for Long-Term Preservation: Paper
-  - iPRES 2011 - Singapore'
-type: paper
+title: Meet RODA, a Full-Fledged Digital Repository for Long-Term Preservation
 year: 2011
 ---

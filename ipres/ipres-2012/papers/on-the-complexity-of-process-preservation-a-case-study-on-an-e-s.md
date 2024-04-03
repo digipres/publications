@@ -7,9 +7,9 @@ abstract: Digital preservation of (business) processes is an emerging topic in D
   Retrieval. We show the magnitude of aspects involved, on technology as well as organisational,
   legal and other aspects.
 creators:
-- Mayer, Rudolf
-- Rauber, Andreas
 - Strodl, Stephan
+- Rauber, Andreas
+- Mayer, Rudolf
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293872/download
 grand_parent: iPRES
@@ -29,10 +29,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: poster
 size: 781250
 source_name: iPRES
-title: 'On the Complexity of Process Preservation: A Case Study on an E-Science Experiment:
-  Poster - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: poster
+title: 'On the Complexity of Process Preservation: A Case Study on an E-Science Experiment'
 year: 2012
 ---

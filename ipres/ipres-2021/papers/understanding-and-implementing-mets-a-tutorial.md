@@ -8,16 +8,16 @@ abstract: This half day tutorial will provide participants with an introduction 
   maintained by the METS Board and the METS Maintenance Activity is managed by the
   Library of Congress
 creators:
-- Lehtonen, Juha
 - Bredenberg, Karin
+- Lehtonen, Juha
 - Steinke, Tobias
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424835/download
 grand_parent: iPRES
 institutions:
-- CSC – IT Center for Science
 - Kommunalförbundet Sydarkivera
 - Deutsche Nationalbibliothek
+- CSC – IT Center for Science
 keywords:
 - '"metadata and information strategies and workflows'
 - infrastructure and systems
@@ -32,9 +32,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 201947
 source_name: iPRES
 title: UNDERSTANDING AND IMPLEMENTING METS - A tutorial
-type: paper
 year: 2021
 ---

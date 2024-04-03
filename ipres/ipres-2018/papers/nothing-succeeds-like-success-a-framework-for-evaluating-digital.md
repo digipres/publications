@@ -31,10 +31,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 578528
 source_name: iPRES
 title: 'Nothing succeeds like success: A framework for evaluating digital preservation
-  outcomes: iPres 2018 Boston '
-type: paper
+  outcomes'
 year: 2018
 ---

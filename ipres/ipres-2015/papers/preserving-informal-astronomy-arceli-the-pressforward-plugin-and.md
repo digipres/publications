@@ -18,9 +18,9 @@ abstract: 'This poster will profile and demonstrate a new collaboration focused 
   area of scholarly investigation. How does any one scholar or community do it? PressForward
   seeks both technological and methodological solutions to this problem.'
 creators:
-- Olson, Eric
-- Cruz, Kelle
 - Westcott, Stephanie
+- Cruz, Kelle
+- Olson, Eric
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429610/download
 grand_parent: iPRES
@@ -36,10 +36,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 254600
 source_name: iPRES
 title: 'Preserving Informal Astronomy: Arceli, the PressForward Plugin, and the Archiving
   of Scientific Communications'
-type: poster
 year: 2015
 ---

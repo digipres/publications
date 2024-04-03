@@ -29,9 +29,9 @@ abstract: 'This paper outlines the Europe-wide programme of
 
   and digital preservation training activities.'
 creators:
-- Snow, Kellie
-- Molloy, Laura
 - Casarosa, Vittore
+- Molloy, Laura
+- Snow, Kellie
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245901/download
 grand_parent: iPRES
@@ -45,10 +45,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: poster
 size: 65660
 source_name: iPRES
 title: '‘DIGITAL PRESERVATION: THE PLANETS WAY’: OUTREACH AND  TRAINING FOR DIGITAL
-  PRESERVATION USING PLANETS TOOLS  AND SERVICES: Poster - iPres 2010 - Vienna'
-type: poster
+  PRESERVATION USING PLANETS TOOLS  AND SERVICES'
 year: 2010
 ---

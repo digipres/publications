@@ -10,8 +10,8 @@ abstract: 'As the field of digital preservation continues to mature, there is an
   project, this paper presents a survey of these tools that elucidates available options
   for practitioners and opportunities for further research.'
 creators:
-- Becker, Christoph
 - Moles, Nathan
+- Becker, Christoph
 - Maemura, Emily
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429553/download
@@ -30,9 +30,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 260518
 source_name: iPRES
 title: A Survey of Organizational Assessment Frameworks in Digital Preservation
-type: paper
 year: 2015
 ---

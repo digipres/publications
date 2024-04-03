@@ -47,10 +47,10 @@ abstract: 'The scholarly community’s dependence on electronic
 
   audited and certified.'
 creators:
-- Orphan, Stephanie
-- Fenton, Eileen
 - Kirchhoff, Amy
 - Morrissey, Sheila
+- Orphan, Stephanie
+- Fenton, Eileen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185497/download
 grand_parent: iPRES
@@ -63,10 +63,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 241067
 source_name: iPRES
-title: 'BECOMING A CERTIFIED TRUSTWORTHY DIGITAL REPOSITORY:  THE PORTICO EXPERIENCE:
-  Paper - iPres 2010 - Vienna'
-type: paper
+title: 'BECOMING A CERTIFIED TRUSTWORTHY DIGITAL REPOSITORY:  THE PORTICO EXPERIENCE'
 year: 2010
 ---

@@ -8,13 +8,13 @@ abstract: The three ministries in charge of public digital archiving in France (
   we describe our IT approach of this archivistic problem, our new data model and
   the results of this inter-ministerial study.
 creators:
-- Van De Walle, Thomas
-- Vasseur, Edouard
-- Morin, Nathalie
 - Laperdrix, Marie
+- Vasseur, Edouard
+- Van De Walle, Thomas
+- Bregier, Frédéric
+- Morin, Nathalie
 - Deguilhen, Frédéric
 - Fuentes-Hashimoto, Lourdes
-- Bregier, Frédéric
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377373/download
 grand_parent: iPRES
@@ -31,10 +31,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 247489
 source_name: iPRES
 title: 'A new data model for digital preservation and digital archiving for the French
-  Administration: VITAM model on NoSQL technologies: Paper - iPres 2013 -  Lisbon'
-type: paper
+  Administration: VITAM model on NoSQL technologies'
 year: 2013
 ---

@@ -21,10 +21,10 @@ abstract: When aiming to ensure the long-term usage of digital objects, it is im
   manually.
 creators:
 - Eggers, Anna
-- Ludwig, Jens
 - Waddington, Simon
-- Hedges, Mark
 - Hasan, Adil
+- Hedges, Mark
+- Ludwig, Jens
 - Corubolo, Fabio
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378125/download
@@ -46,10 +46,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 439628
 source_name: iPRES
 title: 'A pragmatic approach to significant environment information collection to
-  support object reuse: Paper - iPES 2014 - Melbourne'
-type: paper
+  support object reuse: Paper '
 year: 2014
 ---

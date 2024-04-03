@@ -27,10 +27,10 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
 presentation_url: null
+publication_type: unknown
 size: null
 source_name: iPRES
 title: 'APPROACHES TO DIGITAL PRESERVATION PRODUCT AND SERVICE SUSTAINABILITY: Comparing
   alternate approaches'
-type: unknown
 year: 2023
 ---

@@ -14,8 +14,8 @@ abstract: Repository platforms offer significant tools aiding institutions to pr
   repository to semantically equivalent PREMIS metadata.
 creators:
 - Gavrilis, Dimitris
-- Angelis, Stavros
 - Papatheodorou, Christos
+- Angelis, Stavros
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185421/download
 grand_parent: iPRES
@@ -28,10 +28,10 @@ license: GPLv3
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 197802
 source_name: iPRES
-title: 'MOPSEUS – A DIGITAL REPOSITORY SYSTEM WITH SEMANTICALLY ENHANCED PRESERVATION
-  SERVICES: Paper - iPres 2010 - Vienna'
-type: paper
+title: MOPSEUS – A DIGITAL REPOSITORY SYSTEM WITH SEMANTICALLY ENHANCED PRESERVATION
+  SERVICES
 year: 2010
 ---

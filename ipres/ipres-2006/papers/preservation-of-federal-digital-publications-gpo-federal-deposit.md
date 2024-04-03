@@ -26,10 +26,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
 presentation_url: null
+publication_type: presentation
 size: 135115
 source_name: iPRES
 title: 'Preservation of Federal Digital Publications: GPO, Federal Depository Libraries,
-  and Other Federal Agencies: Presentation - iPRES 2006 - Ithaca'
-type: paper
+  and Other Federal Agencies'
 year: 2006
 ---

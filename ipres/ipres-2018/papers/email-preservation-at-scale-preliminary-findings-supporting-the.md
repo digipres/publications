@@ -10,8 +10,8 @@ abstract: 'Email provides a rich history of an organization yet poses unique cha
   at scale. Specific tools, methodologies, and human factors that affect their success
   are discussed.'
 creators:
-- Kaczmarek, Joanne
 - West, Brent
+- Kaczmarek, Joanne
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923649/download
 grand_parent: iPRES
@@ -25,10 +25,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 402222
 source_name: iPRES
 title: 'Email Preservation at Scale: Preliminary Findings Supporting the Use of Predictive
-  Coding: iPres 2018 - Boston'
-type: paper
+  Coding'
 year: 2018
 ---

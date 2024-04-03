@@ -5,18 +5,18 @@ abstract: This poster reports on the outcomes of and lessons learned from a pilo
   used to pass datasets from an established domain repository through an archival
   processing pipeline and establish discovery and access layers from the output.
 creators:
-- Qasim, Umar
-- Garnett, Alex
-- Humphrey, Chuck
-- Trimble, Leanne
-- Cavanaugh, Sean
 - Knabl, Jason
-- Pruyne, Jim
-- O'Neil, Dugan
 - Chard, Kyle
-- Ananthakrishnan, Rachana
-- Hlady, Jason
+- Humphrey, Chuck
+- Garnett, Alex
+- O'Neil, Dugan
 - Huck, John
+- Cavanaugh, Sean
+- Qasim, Umar
+- Pruyne, Jim
+- Trimble, Leanne
+- Hlady, Jason
+- Ananthakrishnan, Rachana
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429597/download
 grand_parent: iPRES
@@ -34,9 +34,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 436367
 source_name: iPRES
 title: Assessing the Scale of Challenges for Preserving Research Data
-type: poster
 year: 2015
 ---

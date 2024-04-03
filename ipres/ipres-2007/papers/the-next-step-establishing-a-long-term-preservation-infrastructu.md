@@ -15,10 +15,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
 presentation_url: null
+publication_type: presentation
 size: 597347
 source_name: iPRES
 title: 'The Next Step - Establishing a Long-Term Preservation Infrastructure for Science
-  and Research: the nestor2 approach: Presentation - iPRES 2007 - Beijing'
-type: paper
+  and Research: the nestor2 approach'
 year: 2007
 ---

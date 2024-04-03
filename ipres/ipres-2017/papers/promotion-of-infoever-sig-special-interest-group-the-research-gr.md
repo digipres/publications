@@ -10,9 +10,9 @@ abstract: Advancements in information science technology are generating anticipa
   their methods, and then propose strategies on the long-term preservation of digital
   information in the super smart society in 2018.
 creators:
-- Nojima, Hideo
 - Minato, Kotaro
 - Kasahara, Shoji
+- Nojima, Hideo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931133/download
 grand_parent: iPRES
@@ -27,11 +27,11 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 22038
 source_name: iPRES
 title: Promotion of InfoEver SIG (Special Interest Group), the Research Group Seeking
   to Establish a Grand Design for Long-Term Preservation of Digital Information in
   the Super Smart Society
-type: paper
 year: 2017
 ---

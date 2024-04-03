@@ -23,10 +23,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 401955
 source_name: iPRES
 title: Protecting the Long-Term Viability of Digital Composite Objects through Format
   Migration
-type: poster
 year: 2015
 ---

@@ -6,11 +6,11 @@ abstract: This paper reviews iPRES2007 digital preservation international confer
   experiences and lessons existing in practice, discusses problems that we have and
   brings forward the important concerns for the next phase of digital preservation.
 creators:
-- Zhenxin, Wu
-- Qi, Zhao
 - Jianhua, Liu
-- Mei, Zhang
 - Jing, Xiang
+- Qi, Zhao
+- Mei, Zhang
+- Zhenxin, Wu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294431/download
 grand_parent: iPRES
@@ -28,10 +28,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
 presentation_url: null
+publication_type: paper
 size: 447604
 source_name: iPRES
 title: 'Digital Preservation : Sustainable Programs and Best Practices - A Comprehensive
-  Review of iPRES 2007: Paper - iPRES 2007 - Beijing'
-type: paper
+  Review of iPRES 2007'
 year: 2007
 ---

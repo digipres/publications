@@ -16,10 +16,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: proceedings
 size: 4841332
 source_name: iPRES
-title: 'Proceedings of The Fifth International Conference on Preservation of Digital
-  Objects: Proceedings - iPRES 2008 - London'
-type: paper
+title: Proceedings of The Fifth International Conference on Preservation of Digital
+  Objects
 year: 2008
 ---

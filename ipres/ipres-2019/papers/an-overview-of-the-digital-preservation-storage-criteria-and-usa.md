@@ -17,10 +17,10 @@ abstract: "The Digital Preservation Storage Criteria (or “Criteria”) resulte
   one of the next steps in the project, along with developing version 4 of the Criteria
   and taking steps to further build the community around the Criteria."
 creators:
-- Schaefer, Sibyl
 - McGovern, Nancy Y
-- Zierau, Eld
+- Schaefer, Sibyl
 - Goethals, Andrea
+- Zierau, Eld
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079720/download
 grand_parent: iPRES
@@ -33,10 +33,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 234929
 source_name: iPRES
-title: An Overview of the Digital Preservation Storage Criteria and Usage Guide -
-  iPRES 2019 Amsterdam
-type: paper
+title: 'An Overview of the Digital Preservation Storage Criteria and Usage Guide '
 year: 2019
 ---

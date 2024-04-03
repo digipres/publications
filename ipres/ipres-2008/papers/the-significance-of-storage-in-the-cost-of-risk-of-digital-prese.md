@@ -26,10 +26,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 123868
 source_name: iPRES
-title: 'The Significance of Storage in the ‘Cost of Risk’ of Digital Preservation:
-  Paper - iPRES 2008 - London'
-type: paper
+title: The Significance of Storage in the ‘Cost of Risk’ of Digital Preservation
 year: 2008
 ---

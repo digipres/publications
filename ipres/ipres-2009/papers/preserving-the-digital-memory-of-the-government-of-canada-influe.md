@@ -31,10 +31,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 754855
 source_name: iPRES
 title: 'Preserving the Digital Memory of the Government of Canada: Influence and Collaboration
-  with Records Creators: Paper - iPRES 2009 - San Francisco'
-type: paper
+  with Records Creators'
 year: 2009
 ---

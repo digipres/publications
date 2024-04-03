@@ -32,10 +32,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: poster
 size: 158049
 source_name: iPRES
 title: 'Lessons learned in developing digital preservation tools the right way (and
-  the wrong way): Poster (Text) - iPRES 2014 - Melbourne'
-type: poster
+  the wrong way): Poster (Text) '
 year: 2014
 ---

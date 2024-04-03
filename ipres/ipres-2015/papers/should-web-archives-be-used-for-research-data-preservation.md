@@ -29,9 +29,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 109107
 source_name: iPRES
 title: Should Web Archives Be Used For Research Data Preservation?
-type: poster
 year: 2015
 ---

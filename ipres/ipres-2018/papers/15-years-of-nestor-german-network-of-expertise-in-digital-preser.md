@@ -22,10 +22,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 299240
 source_name: iPRES
 title: '15 years of nestor: German Network of Expertise in Digital Preservation (paper
-  presentation): iPres 2018 - Boston'
-type: paper
+  presentation)'
 year: 2018
 ---

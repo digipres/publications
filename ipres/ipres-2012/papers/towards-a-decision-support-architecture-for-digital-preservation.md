@@ -10,12 +10,12 @@ abstract: 'In this paper, we present and address a number of challenges in digit
   using the developed model. We, finally, conclude the paper by discussing the applicability
   of our proposed model and its associated techniques.'
 creators:
-- Mayer, Rudolf
-- Neumann, Martin Alexander
-- Thomson, John
-- Miri, Hossein
-- Antunes, Goncalo
 - Beigl, Michael
+- Mayer, Rudolf
+- Antunes, Goncalo
+- Neumann, Martin Alexander
+- Miri, Hossein
+- Thomson, John
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293773/download
 grand_parent: iPRES
@@ -34,10 +34,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 666122
 source_name: iPRES
-title: 'Towards a Decision Support Architecture for Digital Preservation of Business
-  Processes: Paper - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+title: Towards a Decision Support Architecture for Digital Preservation of Business
+  Processes
 year: 2012
 ---

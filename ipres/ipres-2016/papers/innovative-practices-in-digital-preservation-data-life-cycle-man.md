@@ -4,9 +4,9 @@ abstract: In this workshop, we show how researchers and information professional
   digital preservation in Switzerland.
 creators:
 - Blumer, Eliane
-- Burgi, Pierre-Yves
-- Dieudé, Aude
 - Sesartić, Ana
+- Dieudé, Aude
+- Burgi, Pierre-Yves
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502832/download
 grand_parent: iPRES
@@ -19,10 +19,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: workshop
 size: 221153
 source_name: iPRES
-title: 'Innovative practices in Digital Preservation Data Life Cycle Management (DLCM):
-  Workshop - iPRES 2016 - Swiss National Library, Bern'
-type: paper
+title: Innovative practices in Digital Preservation Data Life Cycle Management (DLCM)
 year: 2016
 ---

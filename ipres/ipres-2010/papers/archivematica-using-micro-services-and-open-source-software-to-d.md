@@ -42,10 +42,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 394763
 source_name: iPRES
 title: 'ARCHIVEMATICA: USING MICRO-SERVICES AND  OPEN-SOURCE SOFTWARE TO DELIVER A  COMPREHENSIVE
-  DIGITAL CURATION SOLUTION: Paper - iPres 2010 - Vienna'
-type: paper
+  DIGITAL CURATION SOLUTION'
 year: 2010
 ---

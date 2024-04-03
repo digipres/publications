@@ -20,10 +20,10 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: poster
 size: null
 source_name: iPRES
 title: 'Poster: Lessons from the National Archives of Singapore’s Journey Developing
   a Digital Preservation System for Public Records'
-type: poster
 year: 2022
 ---

@@ -10,11 +10,11 @@ abstract: 'Preservation metadata is the significant component of digital long-te
 
   '
 creators:
-- Yang, Chenliu
 - Hu, Jiahui
-- Wang, Qian
-- Wang, Lei
+- Yang, Chenliu
 - Fang, An
+- Wang, Lei
+- Wang, Qian
 - Yao, Kuanda
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424924/download
@@ -34,9 +34,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 255461
 source_name: iPRES
 title: EXPLORATION OF PRESERVATION METADATA TOWARDS MEDICAL RESOURCES LONG-TERM ARCHIVING
-type: paper
 year: 2021
 ---

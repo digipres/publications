@@ -25,11 +25,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: paper
 size: 203899
 source_name: iPRES
-title: 'Copyright in Cultural Heritage Institutions Snapshot of the Situation in Switzerland
-  from a national library perspective: Paper - iPRES 2016 - Swiss National Library,
-  Bern'
-type: paper
+title: Copyright in Cultural Heritage Institutions Snapshot of the Situation in Switzerland
+  from a national library perspective
 year: 2016
 ---

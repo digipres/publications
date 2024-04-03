@@ -15,8 +15,8 @@ abstract: 'Companies face challenges towards designing and implementing a preser
   identified for the financial sector are presented and discussed. The agenda for
   future research work is also presented.'
 creators:
-- Ristau, Petra
 - Chituc, Claudia-Melania
+- Ristau, Petra
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293847/download
 grand_parent: iPRES
@@ -35,11 +35,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 889640
 source_name: iPRES
 title: 'Requirements Elicitation for a Long Term Digital Preservation System: A Case
-  Study from the Financial Sector: Paper - iPRES 2012 - Digital Curation Institute,
-  iSchool, Toronto'
-type: paper
+  Study from the Financial Sector'
 year: 2012
 ---

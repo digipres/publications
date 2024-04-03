@@ -55,10 +55,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: poster
 size: 106396
 source_name: iPRES
 title: 'LARGE-SCALE COLLECTIONS UNDER THE  MAGNIFYING GLASS: FORMAT IDENTIFICATION
-  FOR: Poster - iPres 2010 - Vienna'
-type: poster
+  FOR'
 year: 2010
 ---

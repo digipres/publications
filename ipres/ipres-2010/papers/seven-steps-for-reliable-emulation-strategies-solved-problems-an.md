@@ -21,10 +21,10 @@ abstract: 'After four years of research within the PLANETS project
 
   complete emulation-based strategies in long-term preservation.'
 creators:
-- Schr¨oder, Jasper
 - van der Hoeven, Jeffrey
-- von Suchodoletz, Dirk
 - Rechert, Klaus
+- Schr¨oder, Jasper
+- von Suchodoletz, Dirk
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185512/download
 grand_parent: iPRES
@@ -37,10 +37,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 474748
 source_name: iPRES
-title: 'SEVEN STEPS FOR RELIABLE EMULATION STRATEGIES  SOLVED PROBLEMS AND OPEN ISSUES:
-  Paper - iPres 2010 - Vienna'
-type: paper
+title: SEVEN STEPS FOR RELIABLE EMULATION STRATEGIES  SOLVED PROBLEMS AND OPEN ISSUES
 year: 2010
 ---

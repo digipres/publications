@@ -17,13 +17,13 @@ abstract: This paper addresses a particular domain within the sphere of activity
   materials in literary collections at Emory University, the Harry Ransom Center at
   The University of Texas at Austin, and the University of Maryland.
 creators:
-- Kraus, Kari M.
-- Kirschenbaum, Matthew
 - Farr, Erika L.
-- Redwine, Gabriela
-- Peters, Catherine Stollar
-- Reside, Doug
 - Nelson, Naomi
+- Peters, Catherine Stollar
+- Kraus, Kari M.
+- Reside, Doug
+- Kirschenbaum, Matthew
+- Redwine, Gabriela
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294010/download
 grand_parent: iPRES
@@ -37,10 +37,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 732253
 source_name: iPRES
-title: 'Digital Materiality: Preserving Access to Computers as Complete Environments:
-  Paper - iPRES 2009 - San Francisco'
-type: paper
+title: 'Digital Materiality: Preserving Access to Computers as Complete Environments'
 year: 2009
 ---

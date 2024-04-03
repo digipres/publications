@@ -18,15 +18,15 @@ abstract: 'This paper presents findings from a multi-method study in archiving, 
 
   '
 creators:
+- Kinnaman, Alex
+- Chen, Yinlin
 - Nesbit, Sterling
 - Stocker, Michelle
-- Polys, Nicholas
-- Xiao, Shuhai
-- Saverot, Maureen
-- Kinnaman, Alex
 - Hall, Nathan
-- Chen, Yinlin
+- Saverot, Maureen
 - Long, Kara
+- Xiao, Shuhai
+- Polys, Nicholas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424939/download
 grand_parent: iPRES
@@ -45,10 +45,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 208635
 source_name: iPRES
 title: '3D Preservation Models and Modalities: Advancing Research Reproducibility
   and Capacity at Virginia Tech'
-type: paper
 year: 2021
 ---

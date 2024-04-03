@@ -31,9 +31,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 360713
 source_name: iPRES
 title: ArchivesSpace-Archivematica-DSpace Workflow Integration
-type: poster
 year: 2015
 ---

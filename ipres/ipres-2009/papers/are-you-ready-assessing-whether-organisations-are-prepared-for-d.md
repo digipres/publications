@@ -10,14 +10,14 @@ abstract: 'In the last few years digital preservation has started to transition 
   solutions). It also shows that there is a new challenge emerging: moving from running
   digital preservation projects to embedding the processes within their organisations. '
 creators:
+- Sharpe, Robert
+- Billenness, Clive
+- Jardine, Lewis
 - Farquhar, Adam
 - Duckworth, James
-- Humphreys, Jane
-- Sharpe, Robert
-- Jardine, Lewis
 - Sinclair, Pauline
-- Billenness, Clive
 - Keen, Ann
+- Humphreys, Jane
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294014/download
 grand_parent: iPRES
@@ -31,10 +31,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 970025
 source_name: iPRES
-title: 'Are You Ready? Assessing Whether Organisations are Prepared for Digital Preservation:
-  Paper - iPRES 2009 - San Francisco'
-type: paper
+title: Are You Ready? Assessing Whether Organisations are Prepared for Digital Preservation
 year: 2009
 ---

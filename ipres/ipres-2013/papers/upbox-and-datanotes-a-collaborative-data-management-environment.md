@@ -15,11 +15,11 @@ abstract: 'Current research data management workflows are often an a posteriori 
   MediaWiki. Preliminary usage tests have shown that the features of this solution
   respond to data management needs in research groups.'
 creators:
-- Rocha da Silva, João
 - Ribeiro, Cristina
-- Pedro Barbosa, José
-- Correia Lopes, João
 - Gouveia, Mariana
+- Correia Lopes, João
+- Pedro Barbosa, José
+- Rocha da Silva, João
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378093/download
 grand_parent: iPRES
@@ -37,10 +37,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 441625
 source_name: iPRES
 title: 'UPBox and DataNotes: a collaborative data management environment for the long
-  tail of research data: Paper - iPres 2013 - Lisbon'
-type: paper
+  tail of research data'
 year: 2013
 ---

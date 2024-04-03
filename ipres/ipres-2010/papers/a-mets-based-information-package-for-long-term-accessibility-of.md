@@ -54,10 +54,9 @@ license: GPLv3
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 413834
 source_name: iPRES
-title: 'A METS BASED INFORMATION PACKAGE FOR LONG  TERM ACCESSIBILITY OF WEB ARCHIVES:
-  Paper - iPres 2010 - Vienna'
-type: paper
+title: A METS BASED INFORMATION PACKAGE FOR LONG  TERM ACCESSIBILITY OF WEB ARCHIVES
 year: 2010
 ---

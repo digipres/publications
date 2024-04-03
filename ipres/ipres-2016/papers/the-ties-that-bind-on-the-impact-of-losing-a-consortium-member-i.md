@@ -27,11 +27,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: paper
 size: 339969
 source_name: iPRES
-title: 'The Ties that Bind - On the Impact of Losing a Consortium Member in a Cooperatively
-  Operated Digital Preservation System: Paper - iPRES 2016 - Swiss National Library,
-  Bern'
-type: paper
+title: The Ties that Bind - On the Impact of Losing a Consortium Member in a Cooperatively
+  Operated Digital Preservation System
 year: 2016
 ---

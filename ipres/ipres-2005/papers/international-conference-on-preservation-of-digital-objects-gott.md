@@ -16,10 +16,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2005
 presentation_url: null
+publication_type: paper
 size: 784595
 source_name: iPRES
 title: 'International Conference on Preservation of Digital Objects - Göttingen 15–16
   Sep 05: Paper - iPRES 2005 - Göttingen'
-type: paper
 year: 2005
 ---

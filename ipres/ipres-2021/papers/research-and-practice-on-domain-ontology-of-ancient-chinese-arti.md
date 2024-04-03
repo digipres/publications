@@ -31,9 +31,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 972742
 source_name: iPRES
 title: RESEARCH AND PRACTICE ON DOMAIN ONTOLOGY OF ANCIENT CHINESE ARTIFACTS
-type: paper
 year: 2021
 ---

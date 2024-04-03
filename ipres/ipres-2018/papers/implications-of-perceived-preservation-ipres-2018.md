@@ -28,9 +28,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 170433
 source_name: iPRES
 title: 'Implications of perceived preservation : iPres 2018 '
-type: paper
 year: 2018
 ---

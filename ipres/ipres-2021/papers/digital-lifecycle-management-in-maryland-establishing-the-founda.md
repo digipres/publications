@@ -9,20 +9,20 @@ abstract: 'The Digital Lifecycle Management Interest Group (DLMIG) of the Univer
 
   '
 creators:
-- Koivisto, Joseph
-- Bell, Laura
-- Esh, John
-- Todd-Diaz, Ashley
-- Rezaei, Fatemeh
-- Conlin, Kristin
 - Fischbach, Allison
+- Esh, John
+- Conlin, Kristin
+- Koivisto, Joseph
+- Rezaei, Fatemeh
+- Todd-Diaz, Ashley
+- Bell, Laura
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424909/download
 grand_parent: iPRES
 institutions:
+- University of Baltimore
 - Towson University
 - University of Maryland
-- University of Baltimore
 keywords:
 - digital preservation
 - consortium
@@ -34,11 +34,11 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: poster
 size: 52907
 source_name: iPRES
 title: 'Digital Lifecycle Management in Maryland: Establishing the foundations for
   consortial approaches to digital preservation at Maryland universities and affiliated
   institutions'
-type: poster
 year: 2021
 ---

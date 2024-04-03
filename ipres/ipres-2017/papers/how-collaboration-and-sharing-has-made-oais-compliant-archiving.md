@@ -20,10 +20,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: poster
 size: 74386
 source_name: iPRES
 title: How collaboration and sharing has made OAIS compliant archiving at (very) small
   archives possible
-type: poster
 year: 2017
 ---

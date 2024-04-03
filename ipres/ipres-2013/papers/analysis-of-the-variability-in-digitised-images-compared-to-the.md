@@ -35,10 +35,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 337136
 source_name: iPRES
-title: 'Analysis of the variability in digitised images compared to the distortion
-  introduced by compression: Paper - iPres 2013 - Lisbon'
-type: paper
+title: Analysis of the variability in digitised images compared to the distortion
+  introduced by compression
 year: 2013
 ---

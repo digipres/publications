@@ -25,10 +25,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2004
 presentation_url: null
+publication_type: presentation
 size: 242580
 source_name: iPRES
-title: 'File format registries - a global infrastructure for local persistence: Presentation
-  - iPRES 2004 - Beijing'
-type: paper
+title: File format registries - a global infrastructure for local persistence
 year: 2004
 ---

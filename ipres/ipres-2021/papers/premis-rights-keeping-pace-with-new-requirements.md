@@ -16,9 +16,9 @@ license: All rights reserved
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: lightning talk
 size: 27386
 source_name: iPRES
 title: 'PREMIS Rights: keeping pace with new requirements'
-type: lightning talk
 year: 2021
 ---

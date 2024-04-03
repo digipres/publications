@@ -34,10 +34,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 607478
 source_name: iPRES
-title: 'Developing Virtual CD-ROM Collections: The Voyager Company Publications: Paper
-  - iPRES 2011 - Singapore'
-type: paper
+title: 'Developing Virtual CD-ROM Collections: The Voyager Company Publications'
 year: 2011
 ---

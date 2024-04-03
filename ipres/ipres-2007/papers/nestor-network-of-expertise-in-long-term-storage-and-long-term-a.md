@@ -15,10 +15,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
 presentation_url: null
+publication_type: paper
 size: 40197
 source_name: iPRES
-title: 'nestor - Network of Expertise in Long-Term Storage and Long-Term availability
-  of Digital Resources in Germany: Paper - iPRES 2007 - Beijing'
-type: paper
+title: nestor - Network of Expertise in Long-Term Storage and Long-Term availability
+  of Digital Resources in Germany
 year: 2007
 ---

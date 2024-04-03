@@ -11,8 +11,8 @@ abstract: This poster is about one of the deliverables of the Polonsky Foundatio
   in-house curricula. For the wider community, the toolkit is intended as a resource
   for developing digital curation and preservation training programmes.
 creators:
-- Pretlove, Lee
 - Mason, Sarah
+- Pretlove, Lee
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931130/download
 grand_parent: iPRES
@@ -27,10 +27,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: poster
 size: 315477
 source_name: iPRES
 title: 'Digital preservation training needs assessment toolkit: a collaborative development
   for skills auditing'
-type: poster
 year: 2017
 ---

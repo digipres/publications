@@ -28,10 +28,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
 presentation_url: null
+publication_type: presentation
 size: 1517516
 source_name: iPRES
 title: 'Digital Archive Partnership: National Library of New Zealand, Sun Microsystems,
-  Endeavor Information Systems: Presentation - iPRES 2006 - Ithaca'
-type: paper
+  Endeavor Information Systems'
 year: 2006
 ---

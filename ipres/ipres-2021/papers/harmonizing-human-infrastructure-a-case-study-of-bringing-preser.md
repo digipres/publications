@@ -20,9 +20,9 @@ abstract: 'The Hesburgh Libraries and Snite Museum of Art at the University of N
 
   '
 creators:
-- Narlock, Mikala
-- Griesinger, Peggy
 - Bertoldi, Hanna
+- Griesinger, Peggy
+- Narlock, Mikala
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424891/download
 grand_parent: iPRES
@@ -39,10 +39,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 982804
 source_name: iPRES
 title: 'Harmonizing human infrastructure: A case study of bringing preservation workflows
   of    a    library,    archive,    and    museum    into alignment'
-type: paper
 year: 2021
 ---

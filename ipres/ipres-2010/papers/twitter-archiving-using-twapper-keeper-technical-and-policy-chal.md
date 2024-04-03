@@ -16,11 +16,11 @@ abstract: 'Twitter is widely used in a range of different contexts, ranging from
   archive tweets posted during the WWW 2010 conference and summarising plans for further
   use of the service.'
 creators:
-- Rowe, Matthew
-- Kelly, Brian
-- Guy, Marieke
 - Hawksey, Martin
+- Guy, Marieke
+- Kelly, Brian
 - O’Brien, John
+- Rowe, Matthew
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245904/download
 grand_parent: iPRES
@@ -34,10 +34,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: poster
 size: 505033
 source_name: iPRES
-title: 'TWITTER ARCHIVING USING TWAPPER KEEPER: TECHNICAL AND POLICY CHALLENGES: Poster
-  - iPres 2010 - Vienna'
-type: poster
+title: 'TWITTER ARCHIVING USING TWAPPER KEEPER: TECHNICAL AND POLICY CHALLENGES'
 year: 2010
 ---

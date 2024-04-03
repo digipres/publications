@@ -24,8 +24,8 @@ abstract: In developing and debating digital repositories, the digital library w
   in a specific scientific field, for example domain-specific metadata standards,
   as well as the ability to give high-impact exposure to research products.
 creators:
-- Green, Ann
 - Gutmann, Myron
+- Green, Ann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294566/download
 grand_parent: iPRES
@@ -39,11 +39,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
 presentation_url: null
+publication_type: presentation
 size: 1274854
 source_name: iPRES
 title: 'Preserving Things that Count: exploring partnerships among domain specific
-  repositories, institutional repositories, and social science researchers: Presentation
-  - iPRES 2006 - Ithaca'
-type: paper
+  repositories, institutional repositories, and social science researchers'
 year: 2006
 ---

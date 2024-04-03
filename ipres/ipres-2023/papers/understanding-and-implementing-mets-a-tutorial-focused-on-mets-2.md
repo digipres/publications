@@ -28,9 +28,9 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
 presentation_url: null
+publication_type: unknown
 size: null
 source_name: iPRES
 title: 'UNDERSTANDING AND IMPLEMENTING METS: A tutorial focused on METS 2'
-type: unknown
 year: 2023
 ---

@@ -22,10 +22,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: paper
 size: 155042
 source_name: iPRES
-title: 'Building a Future for our Digital Memory A National Approach to Digital Preservation
-  in The Netherlands: Paper - iPRES 2016 - Swiss National Library, Bern'
-type: paper
+title: Building a Future for our Digital Memory A National Approach to Digital Preservation
+  in The Netherlands
 year: 2016
 ---

@@ -12,9 +12,9 @@ abstract: The JHOVE characterization framework is widely used by international d
   is not a simple digital file, but a (potentially) complex digital object that may
   be instantiated in multiple files.
 creators:
-- Cramer, Tom
 - Abrams, Stephen
 - Morrissey, Sheila
+- Cramer, Tom
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294106/download
 grand_parent: iPRES
@@ -28,10 +28,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 83670
 source_name: iPRES
-title: '“What? So What?” The Next-Generation JHOVE2 Architecture for Format-Aware
-  Characterization: Paper - iPRES 2008 - London'
-type: paper
+title: “What? So What?” The Next-Generation JHOVE2 Architecture for Format-Aware Characterization
 year: 2008
 ---

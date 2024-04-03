@@ -20,10 +20,10 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: long paper
 size: null
 source_name: iPRES
 title: 'Long Paper: Green Goes with Anything: Decreasing Environmental Impact of Digital
   Libraries at Virginia Tech'
-type: long paper
 year: 2022
 ---

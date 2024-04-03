@@ -51,8 +51,8 @@ abstract: 'Distributed digital preservation is a maturing and
 
   model for distributed digital preservation.'
 creators:
-- Gore, Emily B.
 - Schultz, Matt
+- Gore, Emily B.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185509/download
 grand_parent: iPRES
@@ -65,10 +65,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 194988
 source_name: iPRES
 title: 'THE IMPORTANCE OF TRUST IN DISTRIBUTED  DIGITAL PRESERVATION: A CASE STUDY
-  FROM THE  METAARCHIVE COOPERATIVE: Paper - iPres 2010 - Vienna'
-type: paper
+  FROM THE  METAARCHIVE COOPERATIVE'
 year: 2010
 ---

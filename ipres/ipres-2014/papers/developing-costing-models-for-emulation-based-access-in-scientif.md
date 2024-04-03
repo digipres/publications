@@ -14,9 +14,9 @@ abstract: Digital preservation practitioners are beginning to answer questions a
   these unexplored costs factors vary depending on the kind of digital objects and
   the objectives of the stakeholders involved in the activities.
 creators:
-- von Suchodoletz, Dirk
-- Cochrane, Euan
 - Rechert, Klaus
+- Cochrane, Euan
+- von Suchodoletz, Dirk
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378075/download
 grand_parent: iPRES
@@ -35,10 +35,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 106235
 source_name: iPRES
-title: 'Developing Costing Models for Emulation Based Access in Scientific Libraries:
-  Paper - iPRES 2014 - Melbourne'
-type: paper
+title: Developing Costing Models for Emulation Based Access in Scientific Libraries
 year: 2014
 ---

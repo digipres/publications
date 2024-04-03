@@ -15,10 +15,10 @@ abstract: 'The National Library of France (BnF) has recently implemented a new m
   that directed their selection as standards in SPAR: test data are now preserved
   as a new kind of reference package.'
 creators:
+- Ledoux, Thomas
+- Reecht, Stéphane
 - Tramoni, Jean-Philippe
 - Caron, Bertrand
-- Reecht, Stéphane
-- Ledoux, Thomas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429538/download
 grand_parent: iPRES
@@ -34,10 +34,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 995512
 source_name: iPRES
 title: 'Experiment, Document & Decide: a Collaborative Approach to Preservation Planning
   at the BnF'
-type: paper
 year: 2015
 ---

@@ -30,9 +30,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 575369
 source_name: iPRES
 title: Roles and Responsibilities for Sustaining Open Source Platforms and Tools
-type: paper
 year: 2015
 ---

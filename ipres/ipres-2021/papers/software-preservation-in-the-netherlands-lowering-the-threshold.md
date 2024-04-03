@@ -8,9 +8,9 @@ abstract: 'Thus far, software preservation in Dutch Heritage institutions is far
 
   '
 creators:
+- de Vos, Jesse
 - O'Donohoe, Eoin
 - Röck, Claudia
-- de Vos, Jesse
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424933/download
 grand_parent: iPRES
@@ -28,10 +28,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 105278
 source_name: iPRES
 title: 'Software Preservation in the Netherlands: Lowering the Threshold for Cultural
   Heritage Institutions'
-type: paper
 year: 2021
 ---

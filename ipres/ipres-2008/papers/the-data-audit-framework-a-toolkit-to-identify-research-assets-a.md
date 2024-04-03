@@ -12,8 +12,8 @@ abstract: Although vast quantities of data are being created within higher educa
   feedback on implementing the Data Audit Framework.
 creators:
 - Ruusalepp, Raivo
-- Ross, Seamus
 - Jones, Sarah
+- Ross, Seamus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294158/download
 grand_parent: iPRES
@@ -27,10 +27,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 304330
 source_name: iPRES
 title: 'The Data Audit Framework: a toolkit to identify research assets and improve
-  data management in research led institutions: Paper - iPRES 2008 - London'
-type: paper
+  data management in research led institutions'
 year: 2008
 ---

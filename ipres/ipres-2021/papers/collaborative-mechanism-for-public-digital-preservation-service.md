@@ -12,11 +12,11 @@ abstract: 'National Digital Preservation Program is built as a public service of
 
   '
 creators:
-- Fu, Honghu
-- Zhang, Xiaolin
 - Wu, Zhenxin
-- Zheng, Jiancheng
 - Zhang, Dongrong
+- Zhang, Xiaolin
+- Zheng, Jiancheng
+- Fu, Honghu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424952/download
 grand_parent: iPRES
@@ -37,9 +37,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 349872
 source_name: iPRES
 title: Collaborative Mechanism for Public Digital Preservation Service in China
-type: paper
 year: 2021
 ---

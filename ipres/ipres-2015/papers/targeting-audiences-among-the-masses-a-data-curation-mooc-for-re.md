@@ -8,9 +8,9 @@ abstract: 'In this poster, we illustrate the work of the IMLS-funded Curating Re
   and delivery of educational materials are varied to enable students to achieve learning
   objectives.'
 creators:
+- Tibbo, Helen
 - Christian, Thu-Mai
 - Goatley, Rachel
-- Tibbo, Helen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429607/download
 grand_parent: iPRES
@@ -29,10 +29,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 407692
 source_name: iPRES
 title: 'Targeting Audiences among the Masses: A Data Curation MOOC for Researchers
   and Information Professionals'
-type: poster
 year: 2015
 ---

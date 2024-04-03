@@ -42,9 +42,9 @@ abstract: "Web archiving can take many forms, but usually involves fully capturi
   other practitioners working with digital materials, and developers. No prior experience
   with web archiving will be required of attendees.\n"
 creators:
-- Dickson, Emma
-- Kreymer, Ilya
 - Ramirez-Lopez, Lorena
+- Kreymer, Ilya
+- Dickson, Emma
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424942/download
 grand_parent: iPRES
@@ -68,9 +68,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 43897
 source_name: iPRES
 title: 'From capture to replay: Web Archiving with webrecorder tools'
-type: paper
 year: 2021
 ---

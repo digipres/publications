@@ -18,15 +18,15 @@ abstract: 'With the development of digital technology, museums are facing a grea
 
   '
 creators:
+- Liu, Huan
 - Zhang, Peipei
 - Hou, Chenchen
-- Liu, Huan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424917/download
 grand_parent: iPRES
 institutions:
-- The Palace Museum
 - China Ordnance Industry Survey and Geotechnical Institute
+- The Palace Museum
 keywords:
 - museum
 - cultural relics
@@ -40,10 +40,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 468128
 source_name: iPRES
 title: Research on 3D Digitization Scheme of Cultural Relics Preserved for a Long
   Time
-type: paper
 year: 2021
 ---

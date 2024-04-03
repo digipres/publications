@@ -45,12 +45,12 @@ abstract: 'Given the growing need for cross-repository integration
 
   support them.'
 creators:
-- Davis, Daniel W.
+- Pcolar, David
 - Hou, Chien-Yi
 - Zhu, Bing
-- Pcolar, David
-- Marciano, Richard
+- Davis, Daniel W.
 - Chassanoff, Alexandra
+- Marciano, Richard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185507/download
 grand_parent: iPRES
@@ -63,10 +63,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 728893
 source_name: iPRES
 title: 'Policy-Driven Repository Interoperability:  Enabling Integration Patterns
-  for iRODS and Fedora: Paper - iPres 2010 - Vienna'
-type: paper
+  for iRODS and Fedora'
 year: 2010
 ---

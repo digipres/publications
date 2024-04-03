@@ -10,10 +10,10 @@ abstract: 'Memory institutions have already collected a substantial amount of di
   which we use to implement a characterization tool to suggest a suitable emulated
   rendering environment.'
 creators:
-- Valizada, Isgandar
-- Stobbe, Oleg
 - Steinke, Tobias
+- Valizada, Isgandar
 - Liebetraut, Thomas
+- Stobbe, Oleg
 - Rechert, Klaus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429556/download
@@ -28,9 +28,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 473621
 source_name: iPRES
 title: Characterization of CD-ROMs for Emulation-Based Access
-type: paper
 year: 2015
 ---

@@ -52,10 +52,10 @@ license: GPLv3
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 130176
 source_name: iPRES
 title: 'DEAL WITH CONFLICT,  CAPTURE THE RELATIONSHIP:  THE CASE OF DIGITAL OBJECT
-  PROPERTIES: Paper - iPres 2010 - Vienna'
-type: paper
+  PROPERTIES'
 year: 2010
 ---

@@ -12,11 +12,11 @@ abstract: "The Saxon State and University Library Dresden (SLUB) has built up it
   \n(3) checking the integrity of the archived data as a whole in a comprehensive
   but affordable fashion.\n"
 creators:
+- Berthold, Henrike
+- Sachse, Jörg
+- Krug, Sabine
 - Romeyke, Andreas
 - Fritzsche, Stefan
-- Krug, Sabine
-- Sachse, Jörg
-- Berthold, Henrike
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503168/download
 grand_parent: iPRES
@@ -29,10 +29,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: paper
 size: 626440
 source_name: iPRES
-title: 'Implementing Automatic Digital Preservation for a Mass Digitization Workflow:
-  Paper - iPRES 2016 - Swiss National Library, Bern'
-type: paper
+title: Implementing Automatic Digital Preservation for a Mass Digitization Workflow
 year: 2016
 ---

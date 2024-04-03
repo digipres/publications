@@ -18,8 +18,8 @@ date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424948/download
 grand_parent: iPRES
 institutions:
-- aBITpreservation
 - Donau-Universität Krems Austria
+- aBITpreservation
 keywords:
 - software-based artwork
 - digital sustainability
@@ -33,10 +33,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 423981
 source_name: iPRES
 title: Trans-Pe/ar(man)ent engage virtualization as a preservation strategy to create
   an open, sustainable, collaborative infrastructure in an extensive art museum
-type: paper
 year: 2021
 ---

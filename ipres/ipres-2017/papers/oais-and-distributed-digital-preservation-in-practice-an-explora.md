@@ -45,11 +45,11 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 558175
 source_name: iPRES
 title: 'OAIS and Distributed Digital Preservation in Practice: An exploration of Danish
   and other use cases that contributed to the development of the Outer OAIS–Inner
   OAIS Model for Distributed Digital Preservation'
-type: paper
 year: 2017
 ---

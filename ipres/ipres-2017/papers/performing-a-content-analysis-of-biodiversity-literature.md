@@ -29,9 +29,9 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: poster
 size: 105252
 source_name: iPRES
 title: Performing a Content Analysis of Biodiversity Literature
-type: poster
 year: 2017
 ---

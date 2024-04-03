@@ -7,13 +7,13 @@ abstract: This workshop offers a space to talk about open-source software for di
   preservation, forensics, discovery and access; and the identification of gaps which
   may need filled by these or other tools.
 creators:
-- Eckard, Max
-- Shallcross, Michael
-- Lee, Christopher
-- Mumma, Courtney
+- Meister, Sam
 - Di Bella, Christine
 - Westbrook, Bradley
-- Meister, Sam
+- Shallcross, Michael
+- Eckard, Max
+- Mumma, Courtney
+- Lee, Christopher
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429623/download
 grand_parent: iPRES
@@ -27,9 +27,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 381595
 source_name: iPRES
 title: Using Open-Source Tools to Fulfill Digital Preservation Requirements
-type: paper
 year: 2015
 ---

@@ -31,10 +31,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 760626
 source_name: iPRES
-title: 'e-Infrastructure and Digital Preservation: Challenges and Outlook: Paper -
-  iPRES 2009 - San Francisco'
-type: paper
+title: 'e-Infrastructure and Digital Preservation: Challenges and Outlook'
 year: 2009
 ---

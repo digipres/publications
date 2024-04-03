@@ -19,15 +19,15 @@ abstract: 'Astronomers are producing and analyzing data at ever more prodigious 
   Observatory, or any number of topically-oriented data services utilizing VO-standard
   access mechanisms.'
 creators:
-- DiLauro, Tim
 - Ehling, Teresa
-- Milkey, Robert
-- Szalay, Alex
+- DiLauro, Tim
 - Choudhury, Sayeed
 - Hanisch, Robert
-- Steffen, Julie
-- Plante, Ray
 - Vishniac, Ethan
+- Steffen, Julie
+- Szalay, Alex
+- Milkey, Robert
+- Plante, Ray
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294565/download
 grand_parent: iPRES
@@ -41,12 +41,11 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
 presentation_url: null
+publication_type: presentation
 size: 2044070
 source_name: iPRES
 title: 'Digital Data Preservation and Curation: A Collaboration Among Libraries, Publishers,
   and the Virtual Observatory - A pilot project aimed at preserving, curating, and
-  enabling access to digital data and associated electronic journals content.: Presentation
-  - iPRES 2006 - Ithaca'
-type: paper
+  enabling access to digital data and associated electronic journals content.'
 year: 2006
 ---

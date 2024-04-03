@@ -31,8 +31,8 @@ abstract: '"Computing checksums to prevent bit rot is accepted wisdom in the dig
   best practices in digital preservation and in high-performance computing. Sample
   code paths for working with and validating block checksums are also demonstrated."'
 creators:
-- Winter, Mike
 - Garnett, Alex
+- Winter, Mike
 - Simpson, Justin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923643/download
@@ -47,10 +47,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 168082
 source_name: iPRES
-title: 'Checksums on Modern Filesystems, or: On the virtuous consumption of CPU cycles:
-  iPres 2018 - Boston'
-type: paper
+title: 'Checksums on Modern Filesystems, or: On the virtuous consumption of CPU cycles'
 year: 2018
 ---

@@ -32,10 +32,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: poster
 size: 372195
 source_name: iPRES
 title: 'POSTERS & DEMONSTRATIONS - (Poster) Curation Cost Exchange platform: Demonstration
-  (Poster) - iPRES 2014 - Melbourne'
-type: poster
+  (Poster) '
 year: 2014
 ---

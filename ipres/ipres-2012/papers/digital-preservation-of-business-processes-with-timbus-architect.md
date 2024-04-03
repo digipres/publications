@@ -10,11 +10,11 @@ abstract: The majority of existing digital preservation solutions are focusing o
   upon a service oriented architecture.
 creators:
 - Gilani, Wasif
-- Taylor, Philip
-- Thomson, John
 - Galushka, Mykola
+- Thomson, John
 - Strodl, Stephan
 - Neumann, Martin Alexander
+- Taylor, Philip
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293772/download
 grand_parent: iPRES
@@ -32,10 +32,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 891998
 source_name: iPRES
-title: 'Digital Preservation Of Business Processes with TIMBUS Architecture: Paper
-  - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+title: Digital Preservation Of Business Processes with TIMBUS Architecture
 year: 2012
 ---

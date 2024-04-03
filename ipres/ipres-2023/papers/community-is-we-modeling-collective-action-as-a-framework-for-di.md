@@ -31,9 +31,9 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
 presentation_url: null
+publication_type: unknown
 size: null
 source_name: iPRES
 title: 'COMMUNITY IS WE: Modeling collective action as a framework for digital preservation'
-type: unknown
 year: 2023
 ---

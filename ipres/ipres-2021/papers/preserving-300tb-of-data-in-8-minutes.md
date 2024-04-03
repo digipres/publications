@@ -1,9 +1,9 @@
 ---
 abstract: null
 creators:
-- Fuertes, Maria
 - Redondo, Teofilo
 - Martinez, Antonio G
+- Fuertes, Maria
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424812/download
 grand_parent: iPRES
@@ -17,9 +17,9 @@ license: All rights reserved
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: lightning talk
 size: 52386
 source_name: iPRES
 title: PRESERVING 300TB OF DATA IN 8 MINUTES
-type: lightning talk
 year: 2021
 ---

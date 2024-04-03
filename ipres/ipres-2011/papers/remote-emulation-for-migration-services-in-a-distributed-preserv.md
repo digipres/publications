@@ -15,8 +15,8 @@ abstract: 'Previous studies have shown the feasibility of migration services whe
   allows the distribution of system components among specialized memory institutions.'
 creators:
 - Valizada, Isgandar
-- von Suchodoletz, Dirk
 - Rechert, Klaus
+- von Suchodoletz, Dirk
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294240/download
 grand_parent: iPRES
@@ -37,10 +37,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 1594693
 source_name: iPRES
-title: 'Remote Emulation for Migration Services in a Distributed Preservation Framework:
-  Paper - iPRES 2011 - Singapore'
-type: paper
+title: Remote Emulation for Migration Services in a Distributed Preservation Framework
 year: 2011
 ---

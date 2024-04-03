@@ -39,9 +39,9 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
 presentation_url: null
+publication_type: presentation
 size: null
 source_name: iPRES
 title: COMMUNITY ARCHIVES AT THE DIGITAL REPOSITORY OF IRELAND [presentation]
-type: presentation
 year: 2023
 ---

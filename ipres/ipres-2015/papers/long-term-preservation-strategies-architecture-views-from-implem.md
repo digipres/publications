@@ -9,11 +9,11 @@ abstract: 'Join us for a panel presentation on the dark side of preservation. Th
   librarianship and computer science and what values are implicit in the work and
   activities.'
 creators:
+- Meister, Sam
+- Skinner, Katherine
+- Pcolar, Dave
 - Schaefer, Sybil
 - Molinaro, Mary
-- Pcolar, Dave
-- Skinner, Katherine
-- Meister, Sam
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429529/download
 grand_parent: iPRES
@@ -29,9 +29,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 231836
 source_name: iPRES
 title: 'Long Term Preservation Strategies & Architecture: Views from Implementers'
-type: paper
 year: 2015
 ---

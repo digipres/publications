@@ -26,10 +26,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 475058
 source_name: iPRES
 title: 'TOTEM: Trusted Online Technical Environment Metadata - A Long-Term Solution
-  for a Relational Database / RDF Ontologies: Paper - iPRES 2011 - Singapore'
-type: paper
+  for a Relational Database / RDF Ontologies'
 year: 2011
 ---

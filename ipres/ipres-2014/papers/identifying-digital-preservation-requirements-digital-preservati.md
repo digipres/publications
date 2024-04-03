@@ -19,10 +19,10 @@ abstract: 'The British Library is increasingly a digital library. Over past deca
   that will support the implementation of the strategy, in particular for the capture
   of long-term preservation requirements. '
 creators:
+- Day, Michael
 - Kimura, Akiko
 - MacDonald, Ann
 - Pennock, Maureen
-- Day, Michael
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378119/download
 grand_parent: iPRES
@@ -39,10 +39,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 195040
 source_name: iPRES
 title: 'Identifying Digital Preservation Requirements: Digital Preservation Strategy
-  and Collection Profiling at the British Library: Paper - iPRES 2014 - Melbourne'
-type: paper
+  and Collection Profiling at the British Library'
 year: 2014
 ---

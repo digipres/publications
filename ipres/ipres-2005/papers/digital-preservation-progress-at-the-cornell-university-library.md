@@ -19,8 +19,8 @@ abstract: 'Cornell University Library (CUL) has developed nine priority goals fo
   SUB Göttingen and the unique set of challenges they present. Scenarios and use cases
   we have developed, and agreements we''ve made will be discussed, as well.'
 creators:
-- McGovern, Nancy
 - Rosenkrantz, Marcy E.
+- McGovern, Nancy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295045/download
 grand_parent: iPRES
@@ -34,10 +34,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2005
 presentation_url: null
+publication_type: paper
 size: 384671
 source_name: iPRES
 title: 'Digital Preservation Progress at the Cornell University Library: Presentation
   - iPRES 2005 - Göttingen'
-type: paper
 year: 2005
 ---

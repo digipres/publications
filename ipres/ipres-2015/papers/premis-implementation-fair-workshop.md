@@ -10,9 +10,9 @@ abstract: 'This workshop provides an overview of the PREMIS Data Dictionary for 
   or contexts, in particular the integration of preservation systems that support
   PREMIS with other digital management systems.'
 creators:
-- McLellan, Evelyn
 - Guenther, Rebecca
 - Bredenberg, Karin
+- McLellan, Evelyn
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429622/download
 grand_parent: iPRES
@@ -28,9 +28,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 161650
 source_name: iPRES
 title: PREMIS Implementation Fair Workshop
-type: paper
 year: 2015
 ---

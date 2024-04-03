@@ -25,10 +25,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: paper
 size: 430862
 source_name: iPRES
-title: 'Identifying Barriers To File Rendering In Bit-level Preservation Repositories:
-  Paper - iPRES 2016 - Swiss National Library, Bern'
-type: paper
+title: Identifying Barriers To File Rendering In Bit-level Preservation Repositories
 year: 2016
 ---

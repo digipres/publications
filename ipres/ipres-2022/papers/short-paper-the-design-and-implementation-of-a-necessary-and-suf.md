@@ -26,10 +26,10 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: short paper
 size: null
 source_name: iPRES
 title: 'Short Paper: The design and implementation of a necessary and sufficient system
   for the long-term archival retention of digital documents'
-type: short paper
 year: 2022
 ---

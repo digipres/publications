@@ -29,8 +29,8 @@ abstract: '"Digital preservation practitioners are often asked to make collec- t
   to aid with content selection for digital preservation in both general and special
   collections."'
 creators:
-- Work, Lauren
 - Tallman, Nathan
+- Work, Lauren
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923633/download
 grand_parent: iPRES
@@ -44,10 +44,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 200376
 source_name: iPRES
 title: 'Approaching Appraisal: Framing criteria for selecting digital content for
-  preservation: iPres 2018 - Boston'
-type: paper
+  preservation'
 year: 2018
 ---

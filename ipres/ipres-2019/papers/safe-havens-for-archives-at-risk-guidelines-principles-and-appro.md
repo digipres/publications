@@ -8,8 +8,8 @@ abstract: The main aim of our poster is to raise awareness among the Digital Pre
   format neutral, we highlight specific digital considerations that are emerging in
   development of the commentaries.
 creators:
-- Doek, Afelonne
 - Gollins, Tim
+- Doek, Afelonne
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079678/download
 grand_parent: iPRES
@@ -22,10 +22,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: poster
 size: 159537
 source_name: iPRES
-title: Safe Havens For Archives At Risk Guidelines, Principles and Approaches - iPRES
-  2019 Amsterdam
-type: poster
+title: 'Safe Havens For Archives At Risk Guidelines, Principles and Approaches '
 year: 2019
 ---

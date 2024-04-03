@@ -20,10 +20,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 458564
 source_name: iPRES
 title: The Strategic Framework and the Mechanism of Rights Management of Long-term
   Preservation
-type: paper
 year: 2015
 ---

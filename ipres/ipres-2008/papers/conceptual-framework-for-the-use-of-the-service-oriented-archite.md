@@ -14,8 +14,8 @@ abstract: This paper presents a conceptual framework for the use of the SOA1-app
   software system. The knowledge gained from the conceptual framework will serve as
   a basis for future digital preservation developments.
 creators:
-- Klett, Fanny
 - Saul, Christian
+- Klett, Fanny
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294163/download
 grand_parent: iPRES
@@ -33,10 +33,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 83627
 source_name: iPRES
-title: 'Conceptual Framework for the Use of the Service-oriented Architecture-Approach
-  in the Digital Preservation: Paper - iPRES 2008 - London'
-type: paper
+title: Conceptual Framework for the Use of the Service-oriented Architecture-Approach
+  in the Digital Preservation
 year: 2008
 ---

@@ -15,10 +15,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
 presentation_url: null
+publication_type: presentation
 size: 519747
 source_name: iPRES
 title: 'Dynamic management of digital rights for long-term preservation: The expert
-  system approach: Presentation - iPRES 2007 - Beijing'
-type: paper
+  system approach'
 year: 2007
 ---

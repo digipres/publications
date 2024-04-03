@@ -23,10 +23,10 @@ abstract: 'Creation and improvement of tools for digital preservation is a diffi
 
   sharing, but also several major challenges ahead.'
 creators:
-- Becker, Christoph
-- Rauber, Andreas
 - Kulmukhametov, Artur
 - Duretec, Kresimir
+- Rauber, Andreas
+- Becker, Christoph
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429547/download
 grand_parent: iPRES
@@ -42,9 +42,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 267974
 source_name: iPRES
 title: Benchmarks for Digital Preservation Tools
-type: paper
 year: 2015
 ---

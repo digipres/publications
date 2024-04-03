@@ -27,10 +27,10 @@ abstract: 'In this panel we want to report about the challenges and
 
   steps in international collaboration.'
 creators:
+- Kilbride, William
+- Ras, Marcel
 - Jung, Joachim
 - Schrimpf, Sabine
-- Ras, Marcel
-- Kilbride, William
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502814/download
 grand_parent: iPRES
@@ -43,10 +43,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: panel
 size: 105033
 source_name: iPRES
-title: 'Challenges and benefits of a collaboration of the Collaborators: Panel - iPRES
-  2016 - Swiss National Library, Bern'
-type: paper
+title: Challenges and benefits of a collaboration of the Collaborators
 year: 2016
 ---

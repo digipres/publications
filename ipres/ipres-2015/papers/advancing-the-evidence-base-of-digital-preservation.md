@@ -7,8 +7,8 @@ abstract: Research is critical to the advancement of both a basic understanding 
   risks, formal/machine actionable preservation strategies and implementations; and
   evaluation of preservation performance.
 creators:
-- Crabtree, Jonathan
 - Altman, Micah
+- Crabtree, Jonathan
 - Tibbo, Helen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429526/download
@@ -25,9 +25,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 342360
 source_name: iPRES
 title: Advancing the Evidence Base of Digital Preservation
-type: paper
 year: 2015
 ---

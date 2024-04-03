@@ -15,8 +15,8 @@ abstract: Video games, as an evolving medium, present specific challenges to pre
   implementing these approaches could be challenging for ARGs.
 creators:
 - Windleharth, Travis
-- Lee, Jin Ha
 - Keating, Stephen
+- Lee, Jin Ha
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931107/download
 grand_parent: iPRES
@@ -30,10 +30,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 150255
 source_name: iPRES
 title: 'Challenges in Preserving Augmented Reality Games: A Case Study of Ingress
   and Pokémon GO'
-type: paper
 year: 2017
 ---

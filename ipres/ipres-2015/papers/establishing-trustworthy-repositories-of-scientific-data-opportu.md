@@ -21,10 +21,10 @@ abstract: Scientific progress often depends on the ability of the scientific com
   to the development of the scientific community and to the emergence of new areas
   of study.
 creators:
-- Downs, Robert
-- Duerr, Ruth
-- Ramdeen, Sarah
 - Donaldson, Devan Ray
+- Ramdeen, Sarah
+- Duerr, Ruth
+- Downs, Robert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429584/download
 grand_parent: iPRES
@@ -39,10 +39,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 312685
 source_name: iPRES
 title: 'Establishing Trustworthy Repositories of Scientific Data: Opportunities and
   Benefits'
-type: paper
 year: 2015
 ---

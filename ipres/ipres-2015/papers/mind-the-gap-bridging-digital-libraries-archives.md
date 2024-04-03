@@ -31,9 +31,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 334963
 source_name: iPRES
 title: 'Mind the Gap: Bridging Digital Libraries & Archives'
-type: paper
 year: 2015
 ---

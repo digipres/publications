@@ -13,9 +13,9 @@ abstract: In 2018 and 2019, as part of the UK Legal Deposit Libraries’ sponsor
   surmountable with sufficient resource and investment, the lack of growth in this
   content area in recent years makes large scale investment questionable.
 creators:
-- Pennock, Maureen
-- May, Peter
 - Day, Michael
+- May, Peter
+- Pennock, Maureen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081751/download
 grand_parent: iPRES
@@ -28,10 +28,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 345806
 source_name: iPRES
-title: Considerations on the Acquisition and Preservation of eBook Mobile Apps - iPRES
-  2019 Amsterdam
-type: paper
+title: 'Considerations on the Acquisition and Preservation of eBook Mobile Apps '
 year: 2019
 ---

@@ -11,12 +11,12 @@ abstract: Emulation as a strategy for digital preservation is about to become an
   preservation workflows. This paper describes design and implementation of scalable
   emulation services as part of the bwFLA EaaS framework.
 creators:
-- Valizada, Isgandar
 - Meier, Konrad
-- von Suchodoletz, Dirk
+- Valizada, Isgandar
 - Wehrle, Dennis
 - Sabel, Leander
 - Rechert, Klaus
+- von Suchodoletz, Dirk
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377398/download
 grand_parent: iPRES
@@ -30,10 +30,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 2016768
 source_name: iPRES
-title: 'Cloudy Emulation – Efficient and Scaleable Emulation-based Services: Paper
-  - iPres 2013 - Lisbon'
-type: paper
+title: Cloudy Emulation – Efficient and Scaleable Emulation-based Services
 year: 2013
 ---

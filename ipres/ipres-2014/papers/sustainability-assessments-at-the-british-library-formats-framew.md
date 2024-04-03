@@ -25,8 +25,8 @@ abstract: "File format assessments have been the subject of much debate in and o
   argue that transparency of this format assessment process is fundamental if the
   resulting recommendations are to be fully understood in the future.\n "
 creators:
-- Pennock, Maureen
 - May, Peter
+- Pennock, Maureen
 - Wheatley, Paul
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378110/download
@@ -46,10 +46,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 177154
 source_name: iPRES
 title: 'Sustainability Assessments at the British Library: Formats, Frameworks, &
-  Findings: Paper - iPRES 2014 - Melbourne'
-type: paper
+  Findings'
 year: 2014
 ---

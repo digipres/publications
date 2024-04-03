@@ -6,8 +6,8 @@ abstract: This short paper describes problems arising in optical character recog
   shown on the example of the current project focused on improving the access to digitized
   Czech prints from the 19th century and the first half of the 20th century.
 creators:
-- Kucera, Karel
 - Stluka, Martin
+- Kucera, Karel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293845/download
 grand_parent: iPRES
@@ -28,10 +28,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 701725
 source_name: iPRES
-title: 'Challenges in Accessing Information in Digitized 19th-Century Czech Texts:
-  Paper - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+title: Challenges in Accessing Information in Digitized 19th-Century Czech Texts
 year: 2012
 ---

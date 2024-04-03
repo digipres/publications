@@ -33,9 +33,9 @@ abstract: 'The Planets Testbed, a key outcome of the EC co-funded
 
   learned from these challenges.'
 creators:
-- Barr, Matthew
-- Aitken, Matthew Barr, Brian
 - Lindley, Andrew
+- Aitken, Matthew Barr, Brian
+- Barr, Matthew
 - Ross, Seamus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185192/download
@@ -49,10 +49,10 @@ license: GPLv3
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 340312
 source_name: iPRES
 title: 'DEVELOPING INFRASTRUCTURAL SOFTWARE FOR PRESERVATION:  REFLECTIONS OF LESSONS
-  LEARNED DEVELOPING THE PLANETS  TESTBED: Paper - iPres 2010 - Vienna '
-type: paper
+  LEARNED DEVELOPING THE PLANETS  TESTBED'
 year: 2010
 ---

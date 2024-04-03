@@ -28,10 +28,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
 presentation_url: null
+publication_type: paper
 size: 640435
 source_name: iPRES
-title: 'AONS II: continuing the trend towards preservation software ''Nirvana'': Paper
-  - iPRES 2007 - Beijing'
-type: paper
+title: 'AONS II: continuing the trend towards preservation software ''Nirvana'''
 year: 2007
 ---

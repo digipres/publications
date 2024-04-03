@@ -13,12 +13,12 @@ abstract: We present, compare and contrast new directions in long term digital p
   new directions will make digital preservation applicable to a wider domain of users
   and will give better tools to assist in the process.
 creators:
-- Factor, Michael
-- Taylor, Philip
-- King, Ross
-- Risse, Thomas
 - Salant, Eliot
+- King, Ross
+- Factor, Michael
 - Edelstein, Orit
+- Risse, Thomas
+- Taylor, Philip
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294246/download
 grand_parent: iPRES
@@ -36,10 +36,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 695571
 source_name: iPRES
-title: 'Evolving Domains, Problems and Solutions for Long Term Digital Preservation:
-  Paper - iPRES 2011 - Singapore'
-type: paper
+title: Evolving Domains, Problems and Solutions for Long Term Digital Preservation
 year: 2011
 ---

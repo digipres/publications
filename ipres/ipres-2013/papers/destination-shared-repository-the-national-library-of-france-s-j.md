@@ -35,10 +35,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 51584
 source_name: iPRES
 title: 'Destination: Shared Repository: The National Library of France''s Journey
-  to Third-Party Archiving: Paper - iPres 2013 - Lisbon'
-type: paper
+  to Third-Party Archiving'
 year: 2013
 ---

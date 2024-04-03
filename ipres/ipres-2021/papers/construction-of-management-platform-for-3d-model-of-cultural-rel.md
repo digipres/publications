@@ -5,9 +5,9 @@ abstract: With the continuous enrichment of Museum digital resources, more and m
   three-dimensional images of cultural relics in terms of data acquisition, quality
   control, storage and security protection mechanisms.
 creators:
-- Yang, Chao
-- Liu, Fang
 - Li, Huabiao
+- Liu, Fang
+- Yang, Chao
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424919/download
 grand_parent: iPRES
@@ -25,9 +25,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 445984
 source_name: iPRES
 title: Construction of management platform for 3D model of cultural relics
-type: paper
 year: 2021
 ---

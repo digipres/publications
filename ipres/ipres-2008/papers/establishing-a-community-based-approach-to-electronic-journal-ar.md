@@ -31,10 +31,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 54835
 source_name: iPRES
 title: 'Establishing a Community-based Approach to Electronic Journal Archiving: the
-  UK LOCKSS Pilot Programme: Paper - iPRES 2008 - London'
-type: paper
+  UK LOCKSS Pilot Programme'
 year: 2008
 ---

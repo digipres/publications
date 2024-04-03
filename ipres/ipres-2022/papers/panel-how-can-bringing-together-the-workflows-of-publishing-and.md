@@ -36,12 +36,12 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: panel
 size: null
 source_name: iPRES
 title: 'Panel: How can bringing together the workflows of publishing and preservation
   lead to better, longer-term solutions that benefit both?: A panel with COPIM Work
   Package 7, the Embedding Preservability in New Forms of Scholarship Project (NYU),
   and Project JASPER'
-type: panel
 year: 2022
 ---

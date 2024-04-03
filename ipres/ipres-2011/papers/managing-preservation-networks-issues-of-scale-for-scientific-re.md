@@ -8,9 +8,9 @@ abstract: The preservation of science data requires consideration of a wide rang
   This paper presents issues of scale for scientific research assets which will be
   explored further on the SCAPE project.
 creators:
-- Lambert, Simon
 - Shaon, Arif
 - Matthews, Brian
+- Lambert, Simon
 - Conway, Esther
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294274/download
@@ -28,10 +28,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 477144
 source_name: iPRES
-title: 'Managing Preservation Networks: Issues of Scale for Scientific Research Assets:
-  Paper - iPRES 2011 - Singapore'
-type: paper
+title: 'Managing Preservation Networks: Issues of Scale for Scientific Research Assets'
 year: 2011
 ---

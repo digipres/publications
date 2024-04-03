@@ -22,9 +22,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: poster
 size: 313184
 source_name: iPRES
 title: IS THIS IMAGE THAT IMAGE?
-type: poster
 year: 2021
 ---

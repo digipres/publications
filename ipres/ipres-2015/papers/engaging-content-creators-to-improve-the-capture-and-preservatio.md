@@ -12,10 +12,10 @@ abstract: The 2015 National Agenda for Digital Stewardship calls for stewardship
   media and developing donor agreements for the transfer of assets will be discussed.
   Other born-digital content areas could also be covered.
 creators:
-- Walls, David
-- Halbert, Martin
 - Potter, Abigail
+- Halbert, Martin
 - Smith, Imogen
+- Walls, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429531/download
 grand_parent: iPRES
@@ -31,10 +31,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 289976
 source_name: iPRES
 title: Engaging Content Creators to Improve the Capture and Preservation of Born-Digital
   Content
-type: paper
 year: 2015
 ---

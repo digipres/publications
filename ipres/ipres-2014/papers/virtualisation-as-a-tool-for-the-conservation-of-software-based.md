@@ -20,9 +20,9 @@ abstract: 'Tate has a small but growing collection of software-based artworks. F
   virtual machines. As a conclusion, the workflow currently being developed for the
   preservation of Tate’s softwarebased artworks will be outlined.'
 creators:
+- Ashe, Alistair
 - Jones, Brian
 - Falcão, Patrícia
-- Ashe, Alistair
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378082/download
 grand_parent: iPRES
@@ -42,10 +42,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 515944
 source_name: iPRES
-title: 'Virtualisation as a Tool for the Conservation of Software-Based Artworks:
-  Paper - iPRES 2014 - Melbourne'
-type: paper
+title: Virtualisation as a Tool for the Conservation of Software-Based Artworks
 year: 2014
 ---

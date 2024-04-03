@@ -3,11 +3,11 @@ abstract: This poster presents implementation details, reception and lessons lea
   from a Cloud-based emulation project for world-wide interactive access to preserved
   CD-ROMs.
 creators:
+- Rechert, Klaus
 - Valizada, Isgandar
+- Liebetraut, Thomas
 - Stobbe, Oleg
 - Espenschied, Dragan
-- Liebetraut, Thomas
-- Rechert, Klaus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429586/download
 grand_parent: iPRES
@@ -24,10 +24,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 514672
 source_name: iPRES
 title: '(Re-)publication of Preserved, Interactive Content – Theresa Duncan CD-ROMs:
   Visionary Videogames for Girls'
-type: poster
 year: 2015
 ---

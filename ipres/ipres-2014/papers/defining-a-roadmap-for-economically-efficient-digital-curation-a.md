@@ -8,8 +8,8 @@ abstract: "The 4C Project is tasked with delivering a Roadmap report and it is t
   their own services and solutions. \n\n "
 creators:
 - Grindley, Neil
-- Stokes, Paul
 - Haage, Katarina
+- Stokes, Paul
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378135/download
 grand_parent: iPRES
@@ -25,10 +25,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: workshops and tutorials
 size: 217021
 source_name: iPRES
-title: 'Defining a Roadmap for Economically Efficient Digital Curation – a 4C Project
-  Workshop: Workshops and Tutorials - iPRES 2014 - Melbourne'
-type: paper
+title: Defining a Roadmap for Economically Efficient Digital Curation – a 4C Project
+  Workshop
 year: 2014
 ---

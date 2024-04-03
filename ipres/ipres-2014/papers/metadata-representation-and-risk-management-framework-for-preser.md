@@ -30,10 +30,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: poster
 size: 183941
 source_name: iPRES
 title: 'Metadata Representation and Risk Management Framework for Preservation Processes
-  in AV Archives: Poster (Poster) - iPRES 2014 - Melbourne'
-type: poster
+  in AV Archives: Poster (Poster) '
 year: 2014
 ---

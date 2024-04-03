@@ -33,9 +33,9 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
 presentation_url: null
+publication_type: unknown
 size: null
 source_name: iPRES
 title: 'STORAGE AND STANDARDS: Shaping Version 4 of the DP Storage Criteria'
-type: unknown
 year: 2023
 ---

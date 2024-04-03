@@ -10,8 +10,8 @@ abstract: 'The Criteria for Trusted Digital Long-Term Preservation Repositories 
   in Germany. Still, it must be discussed internationally and should adhere to international
   standards.'
 creators:
-- Strathmann, Stefan
 - Dobratz, Susanne
+- Strathmann, Stefan
 - Schoger, Astrid
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294549/download
@@ -26,10 +26,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
 presentation_url: null
+publication_type: presentation
 size: 189093
 source_name: iPRES
-title: 'The nestor Catalogue of Criteria for Trusted Digital Repository Evaluation
-  and Certification: Presentation - iPRES 2006 - Ithaca'
-type: paper
+title: The nestor Catalogue of Criteria for Trusted Digital Repository Evaluation
+  and Certification
 year: 2006
 ---

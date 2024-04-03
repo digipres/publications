@@ -40,10 +40,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 297322
 source_name: iPRES
-title: 'All that work … for what? Return on investment for trustworthy archive certification
-  processes – a case study: iPres 2018 - Boston'
-type: paper
+title: All that work … for what? Return on investment for trustworthy archive certification
+  processes – a case study
 year: 2018
 ---

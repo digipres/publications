@@ -16,20 +16,20 @@ abstract: 'When preserving spreadsheets, in certain cases it is decided to conve
 
   '
 creators:
-- Sein, Kati
-- Skødt, Asbjørn
 - Wijsman, Lotte
 - O’sullivan, Jack
-- Van Veenendaal, Remco
 - Takema, Jacob
+- Van Veenendaal, Remco
+- Sein, Kati
+- Skødt, Asbjørn
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424921/download
 grand_parent: iPRES
 institutions:
-- National Archives of Estonia
 - Danish National Archives
-- Preservica
 - National Archives of the Netherlands
+- Preservica
+- National Archives of Estonia
 keywords:
 - significant properties
 - spreadsheets
@@ -43,9 +43,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 214333
 source_name: iPRES
 title: The Significant Properties Of Spreadsheets
-type: paper
 year: 2021
 ---

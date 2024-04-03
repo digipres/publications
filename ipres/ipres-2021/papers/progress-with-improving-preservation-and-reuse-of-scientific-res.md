@@ -12,22 +12,22 @@ abstract: 'We report progress towards automatically transforming existing analys
 
   '
 creators:
-- Benichou, Laurence
 - Ruch, Patrick
-- Gonzalez Lopez, Jose Benito
+- Cornwell, Peter
 - Agosti, Donat
 - Herren, Madeleine
-- Cornwell, Peter
+- Gonzalez Lopez, Jose Benito
+- Benichou, Laurence
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424947/download
 grand_parent: iPRES
 institutions:
-- Museum of Natural History, Paris
-- CERN
-- Data Futures
-- Plazi
-- Swiss Instiutute of Bioinformatics
 - Institute for European Global History, Basel
+- Swiss Instiutute of Bioinformatics
+- Plazi
+- Museum of Natural History, Paris
+- Data Futures
+- CERN
 keywords:
 - research data preservation
 - scientific literature
@@ -43,9 +43,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 2425249
 source_name: iPRES
 title: PROGRESS WITH IMPROVING PRESERVATION AND REUSE OF SCIENTIFIC RESEARCH DATA
-type: paper
 year: 2021
 ---

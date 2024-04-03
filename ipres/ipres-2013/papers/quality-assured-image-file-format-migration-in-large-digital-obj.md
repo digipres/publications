@@ -11,15 +11,15 @@ abstract: This article gives an overview on how different components developed b
   Austrian National Library where the book page images are stored as JPEG2000 image
   files.
 creators:
-- Schlarb, Sven
-- Hahn, Matthias
-- van der Knijff, Johan
-- Cliff, Peter
-- Schindler, Alexander
-- Schmidt, Reiner
 - May, Peter
 - Palmer, William
+- Schindler, Alexander
+- Schmidt, Reiner
+- van der Knijff, Johan
 - Huber-Moerk, Reinhold
+- Cliff, Peter
+- Schlarb, Sven
+- Hahn, Matthias
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378056/download
 grand_parent: iPRES
@@ -33,10 +33,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 132829
 source_name: iPRES
-title: 'Quality assured image file format migration in large digital object repositories:
-  Paper - iPres 2013 - Lisbon'
-type: paper
+title: Quality assured image file format migration in large digital object repositories
 year: 2013
 ---

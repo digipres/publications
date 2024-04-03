@@ -12,11 +12,11 @@ abstract: 'The increase in computationally intensive science (called e-science) 
   and evaluating the performance thereof. The paper describes and applies the process
   steps of the three phases of the TIMBUS approach: plan, preserve and redeploy.'
 creators:
-- Mayer, Rudolf
-- Rauber, Andreas
-- Draws, Daniel
 - Strodl, Stephan
+- Mayer, Rudolf
 - Antunes, Gonçalo
+- Draws, Daniel
+- Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378017/download
 grand_parent: iPRES
@@ -32,10 +32,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 1983302
 source_name: iPRES
-title: 'Digital Preservation of a Process and its Application to e-Science Experiments:
-  Paper - iPres 2013 - Lisbon'
-type: paper
+title: Digital Preservation of a Process and its Application to e-Science Experiments
 year: 2013
 ---

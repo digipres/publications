@@ -27,8 +27,8 @@ abstract: 'For many decades, computer-aided design (CAD) packages have played an
   flows between a design team and the rest of the extended enterprise.'
 creators:
 - Patel, Manjula
-- Ding, Lian
 - Ball, Alexander
+- Ding, Lian
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294109/download
 grand_parent: iPRES
@@ -42,10 +42,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 140924
 source_name: iPRES
-title: 'Towards a Curation and Preservation Architecture for CAD Engineering Models:
-  Paper - iPRES 2008 - London'
-type: paper
+title: Towards a Curation and Preservation Architecture for CAD Engineering Models
 year: 2008
 ---

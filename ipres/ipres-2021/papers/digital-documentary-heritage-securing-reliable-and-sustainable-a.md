@@ -15,18 +15,18 @@ abstract: 'UNESCO Memory of the World Programme (MoW) and its Preservation Sub-C
 
   '
 creators:
-- Buckley, Robert
 - Milic-Frayling, Natasa
 - Phang, Lai Tee
 - Bradley, Kevin
+- Buckley, Robert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424946/download
 grand_parent: iPRES
 institutions:
-- UNESCO Preservation Sub-Committee
-- National Library of Australia
-- Intact Digital Ltd
 - The National Archives of UAE
+- Intact Digital Ltd
+- National Library of Australia
+- UNESCO Preservation Sub-Committee
 keywords:
 - digital preservation
 - digital documentary heritage
@@ -40,9 +40,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 297630
 source_name: iPRES
 title: 'DIGITAL DOCUMENTARY HERITAGE: SECURING RELIABLE AND SUSTAINABLE ACCESS'
-type: paper
 year: 2021
 ---

@@ -32,10 +32,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 319466
 source_name: iPRES
 title: 'Phantoms of the Digital Opera: The need for long term preservation of born-digital
   actorsand multimedia objects using methods that permit ongoing new creations'
-type: paper
 year: 2017
 ---

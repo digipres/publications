@@ -9,9 +9,9 @@ abstract: Software underpins the academic research process, regardless of discip
   software, makes some recommendations for good practice, and discusses the relationship
   between identifying source code and a playable version of this software.
 creators:
+- Jones, Catherine
 - Matthews, Brian
 - Gent, Ian
-- Jones, Catherine
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429590/download
 grand_parent: iPRES
@@ -25,9 +25,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 465612
 source_name: iPRES
 title: Software Reuse, Repurposing and Reproducibility
-type: poster
 year: 2015
 ---

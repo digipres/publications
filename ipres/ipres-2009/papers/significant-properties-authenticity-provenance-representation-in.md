@@ -9,13 +9,13 @@ abstract: The term "Significant Properties" has been given a variety of definiti
   consistent view of the concept. It also links together Authenticity and Provenance
   which are also key concepts in digital preservation.
 creators:
-- Giaretta, David
-- Matthews, Brian
-- Sawyer, Donald
-- Lambert, Simon
 - Michetti, Giovanni
-- Bicarregui, Juan
 - Guercio, Mariella
+- Giaretta, David
+- Sawyer, Donald
+- Matthews, Brian
+- Lambert, Simon
+- Bicarregui, Juan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294001/download
 grand_parent: iPRES
@@ -29,10 +29,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 878103
 source_name: iPRES
-title: 'Significant Properties, Authenticity, Provenance, Representation Information
-  and OAIS Information: Paper - iPRES 2009 - San Francisco'
-type: paper
+title: Significant Properties, Authenticity, Provenance, Representation Information
+  and OAIS Information
 year: 2009
 ---

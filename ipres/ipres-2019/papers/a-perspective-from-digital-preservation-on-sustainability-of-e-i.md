@@ -20,10 +20,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 146863
 source_name: iPRES
-title: A Perspective from Digital Preservation on Sustainability of E-Infrastructures
-  - iPRES 2019 Amsterdam
-type: paper
+title: 'A Perspective from Digital Preservation on Sustainability of E-Infrastructures '
 year: 2019
 ---

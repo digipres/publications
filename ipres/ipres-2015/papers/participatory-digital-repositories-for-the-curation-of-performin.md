@@ -24,10 +24,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 187156
 source_name: iPRES
 title: Participatory Digital Repositories for the Curation of Performing Arts with
   Digital Technology
-type: paper
 year: 2015
 ---

@@ -14,8 +14,8 @@ abstract: When using emulation to render digital objects, a dedicated system env
   for digital preservation tasks like automation, documentation and replication of
   interactive tasks.
 creators:
-- von Suchodoletz, Dirk
 - Rechert, Klaus
+- von Suchodoletz, Dirk
 - Stobbe, Oleg
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378720/download
@@ -29,10 +29,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: demonstration
 size: 102710
 source_name: iPRES
-title: 'Demonstration of an Integrated System for Platform-independent Description
-  of Human-Machine Interactions: Demonstration - iPRES 2014 - Melbourne'
-type: paper
+title: Demonstration of an Integrated System for Platform-independent Description
+  of Human-Machine Interactions
 year: 2014
 ---

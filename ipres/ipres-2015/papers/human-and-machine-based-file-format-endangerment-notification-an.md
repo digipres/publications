@@ -11,8 +11,8 @@ abstract: Effectively preserving access to digital content over time is dependen
   of statistically generated similarity profiles and machine-generated recommendations
   based on human expert input.
 creators:
-- Gordea, Sergiu
 - Ryan, Heather
+- Gordea, Sergiu
 - Graf, Roman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429557/download
@@ -30,10 +30,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 632583
 source_name: iPRES
 title: Human and Machine-based File Format Endangerment Notification and Recommender
   Systems Development
-type: paper
 year: 2015
 ---

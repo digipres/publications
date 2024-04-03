@@ -41,9 +41,9 @@ abstract: 'Over the last several decades, U.S. supercomputing centers such as th
   are evaluated.'
 creators:
 - Jordan, Christopher
-- Minor, David
-- Kozbial, Ardys
 - McDonald, Robert H.
+- Kozbial, Ardys
+- Minor, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294168/download
 grand_parent: iPRES
@@ -57,10 +57,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 47176
 source_name: iPRES
-title: 'Encouraging Cyberinfrastructure Collaboration for Digital Preservation: Paper
-  - iPRES 2008 - London'
-type: paper
+title: Encouraging Cyberinfrastructure Collaboration for Digital Preservation
 year: 2008
 ---

@@ -4,10 +4,10 @@ abstract: This tutorial will focus on an array of options and programs for audit
   self-audit, the European three-level model of certification, the Data Seal of Approval,
   peer-audit, ISO 16363 audit, and forthcoming certification of trustworthy repositories.
 creators:
-- Dillo, Ingrid
 - Sierman, Barbara
-- Tibbo, Helen
 - Mumma, Courtney
+- Dillo, Ingrid
+- Tibbo, Helen
 - McGovern, Nancy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429625/download
@@ -25,9 +25,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 393047
 source_name: iPRES
 title: 'From Theory to Practice: Using ISO 16363'
-type: paper
 year: 2015
 ---

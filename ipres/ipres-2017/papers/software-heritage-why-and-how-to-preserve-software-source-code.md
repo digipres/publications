@@ -16,8 +16,8 @@ abstract: 'Software is now a key component present in all aspects of our society
   code files and 700 million commits coming from more than 50 million software development
   projects.'
 creators:
-- Zacchiroli, Stefano
 - Di Cosmo, Roberto
+- Zacchiroli, Stefano
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931064/download
 grand_parent: iPRES
@@ -31,9 +31,9 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 662621
 source_name: iPRES
 title: 'Software Heritage: Why and How to Preserve Software Source Code'
-type: paper
 year: 2017
 ---

@@ -15,22 +15,22 @@ abstract: 'Cultural Heritage plays an important role in a modern city like Shenz
   of Shenzhen 5000 years ago innovatively with modern and technical elements.'
 creators:
 - Du, Juan
-- E, Henian
 - Hu, Yufan
-- Tang, Jigen
 - Jiang, Kailun
-- Zhang, Xiaoqing
+- E, Henian
 - Liu, Jiang
+- Tang, Jigen
+- Zhang, Xiaoqing
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424848/download
 grand_parent: iPRES
 institutions:
+- Shuli College, Southern University of Science and Technology
+- Library, Southern University of Science and Technology
 - Cultural Heritage Laboratory, Center for Social Sciences, Southern University of
   Science and Technology
 - Department of Computer Science and Engineering, Southern University of Science and
   Technology
-- Shuli College, Southern University of Science and Technology
-- Library, Southern University of Science and Technology
 keywords:
 - interdisciplinary collaboration
 - digital preservation
@@ -43,9 +43,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 426039
 source_name: iPRES
 title: Cultural Heritage Preservation using Multimedia and AI
-type: paper
 year: 2021
 ---

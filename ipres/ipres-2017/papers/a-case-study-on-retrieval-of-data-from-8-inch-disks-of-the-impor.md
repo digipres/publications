@@ -27,9 +27,9 @@ abstract: 'There are still a significant number of born-digital artefacts which 
   information, leading to a successful preliminary outcome. This is a cautionary tale
   which aims to provide some lessons for use in related contexts.'
 creators:
+- de Vries, Denise
 - Meyer, Willibald
 - von Suchodoletz, Dirk
-- de Vries, Denise
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931070/download
 grand_parent: iPRES
@@ -43,10 +43,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 302787
 source_name: iPRES
 title: 'A Case Study on Retrieval of Data from 8-inch Disks: Of the Importance of
   Hardware Repositories for Digital Preservation'
-type: paper
 year: 2017
 ---

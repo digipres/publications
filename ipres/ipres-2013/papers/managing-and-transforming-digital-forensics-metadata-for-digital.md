@@ -32,10 +32,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 902869
 source_name: iPRES
-title: 'Managing and Transforming Digital Forensics Metadata for Digital Collections:
-  Paper - iPres 2013 - Lisbon'
-type: paper
+title: Managing and Transforming Digital Forensics Metadata for Digital Collections
 year: 2013
 ---

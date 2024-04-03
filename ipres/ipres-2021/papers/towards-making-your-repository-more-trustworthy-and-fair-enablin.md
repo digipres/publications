@@ -15,9 +15,9 @@ license: All rights reserved
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: lightning talk
 size: 64120
 source_name: iPRES
 title: Towards making your repository more trustworthy and FAIR-enabling
-type: lightning talk
 year: 2021
 ---

@@ -7,10 +7,10 @@ abstract: In this paper, we describe research led by Educopia Institute regardin
   research phase, including substantive survey results regarding digital newspaper
   curation practices.
 creators:
+- Phillips, Mark
 - Halbert, Martin
 - Skinner, Katherine
 - Schultz, Matt
-- Phillips, Mark
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293843/download
 grand_parent: iPRES
@@ -40,10 +40,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 645160
 source_name: iPRES
 title: 'Digital Preservation of Newspapers: Findings of the Chronicles in Preservation
-  Project: Paper - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+  Project'
 year: 2012
 ---

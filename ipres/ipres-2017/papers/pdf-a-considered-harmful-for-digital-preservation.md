@@ -28,9 +28,9 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 155083
 source_name: iPRES
 title: PDF/A considered harmful for digital preservation
-type: paper
 year: 2017
 ---

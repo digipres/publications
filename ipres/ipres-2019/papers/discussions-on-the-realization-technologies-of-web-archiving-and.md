@@ -14,8 +14,8 @@ abstract: As an important component of china’s public culture system, the Nati
   of web archiving and the requirements for the system platform. It is hoped to provide
   reference for other institutes to carry out the related work.
 creators:
-- Shiyan, Ji
 - Danyang, Zhao
+- Shiyan, Ji
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1082720/download
 grand_parent: iPRES
@@ -28,10 +28,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 332052
 source_name: iPRES
-title: Discussions on the Realization Technologies Of Web Archiving and service Platform
-  of National Library of China - iPRES 2019 Amsterdam
-type: paper
+title: 'Discussions on the Realization Technologies Of Web Archiving and service Platform
+  of National Library of China '
 year: 2019
 ---

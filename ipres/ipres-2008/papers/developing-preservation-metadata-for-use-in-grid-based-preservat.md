@@ -5,10 +5,10 @@ abstract: Establishing metadata requirements is a key challenge for any attempt 
   paper describes the metadata posited to support services the Chronopolis preservation
   system will offer at the conclusion of its first year of development.
 creators:
-- Kozbial, Ardys
-- McDonald, Robert
 - Hutt, Arwen
+- McDonald, Robert
 - Sutton, Don
+- Kozbial, Ardys
 - Westbrook, Brad
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294143/download
@@ -23,10 +23,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 65384
 source_name: iPRES
-title: 'Developing Preservation Metadata for Use in Grid-Based Preservation Systems:
-  Paper - iPRES 2008 - London'
-type: paper
+title: Developing Preservation Metadata for Use in Grid-Based Preservation Systems
 year: 2008
 ---

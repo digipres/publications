@@ -26,11 +26,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 134674
 source_name: iPRES
 title: 'An attempt at modeling differentiated storage for digitized collections: finding
-  the balance between storage, costs and preservation of digitized publications: Paper
-  - iPres 2013 -  Lisbon'
-type: paper
+  the balance between storage, costs and preservation of digitized publications'
 year: 2013
 ---

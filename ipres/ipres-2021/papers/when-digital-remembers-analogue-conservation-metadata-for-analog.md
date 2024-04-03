@@ -20,9 +20,9 @@ abstract: 'While ""Digitization is not Digital Preservation"", the two processes
 
   '
 creators:
+- Friedrich, Merle
 - Lindlar, Michelle
 - Reiche, Miriam
-- Friedrich, Merle
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424944/download
 grand_parent: iPRES
@@ -39,10 +39,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 803489
 source_name: iPRES
 title: When Digital Remembers Analogue - Conservation Metadata for Analogue Film as
   Preservation Description Information in a Digital Archive
-type: paper
 year: 2021
 ---

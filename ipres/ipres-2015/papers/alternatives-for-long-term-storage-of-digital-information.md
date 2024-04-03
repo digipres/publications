@@ -19,8 +19,8 @@ abstract: 'The most fundamental component of digital preservation is managing th
   in her presentation “Considerations for Storage and Protection of Content”, lists
   Cost as the first factor in choosing a storage media option.'
 creators:
-- Lunt, Barry
 - Erickson, Chris
+- Lunt, Barry
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429585/download
 grand_parent: iPRES
@@ -34,9 +34,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 608458
 source_name: iPRES
 title: Alternatives for Long-Term Storage Of Digital Information
-type: poster
 year: 2015
 ---

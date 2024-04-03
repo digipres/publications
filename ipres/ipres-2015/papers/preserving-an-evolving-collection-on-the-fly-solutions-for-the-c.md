@@ -51,10 +51,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 761737
 source_name: iPRES
 title: 'Preserving an Evolving Collection: “On-The-Fly” Solutions for The Chora of
   Metaponto Publication Series'
-type: paper
 year: 2015
 ---

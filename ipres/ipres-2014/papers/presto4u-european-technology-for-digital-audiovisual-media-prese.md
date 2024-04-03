@@ -30,10 +30,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: poster
 size: 70532
 source_name: iPRES
 title: 'Presto4U- European Technology for Digital Audiovisual Media Preservation:
-  Poster (Text) - iPRES 2014 - Melbourne'
-type: poster
+  Poster (Text) '
 year: 2014
 ---

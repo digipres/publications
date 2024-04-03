@@ -8,8 +8,8 @@ abstract: 'Blog archiving and preservation is not a new challenge. Current solut
   for organisations of varying size and which can be implemented with relatively little
   resource and technical know-how: the ArchivePress project.'
 creators:
-- Davis, Richard
 - Pennock, Maureen
+- Davis, Richard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294013/download
 grand_parent: iPRES
@@ -23,10 +23,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 991675
 source_name: iPRES
-title: 'ArchivePress: A Really Simple Solution to Archiving Blog Content: Paper -
-  iPRES 2009 - San Francisco'
-type: paper
+title: 'ArchivePress: A Really Simple Solution to Archiving Blog Content'
 year: 2009
 ---

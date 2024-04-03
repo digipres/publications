@@ -9,8 +9,8 @@ abstract: Digital information often relies on the interactions of multiple indiv
   actions for a Representation.
 creators:
 - Smith, Richard
-- Tilbury, Jonathan
 - O'Sullivan, Jack
+- Tilbury, Jonathan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424890/download
 grand_parent: iPRES
@@ -27,9 +27,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 330641
 source_name: iPRES
 title: Identification of Multi-Part Digital Objects
-type: paper
 year: 2021
 ---

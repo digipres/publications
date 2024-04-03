@@ -7,16 +7,16 @@ abstract: 'Beyond the encouragement to check fixity, the field of digital preser
 
   '
 creators:
-- Kussmann, Carol
 - Krabbenhoeft, Nick
 - Schaefer, Sibyl
+- Kussmann, Carol
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424949/download
 grand_parent: iPRES
 institutions:
+- University of Minnesota
 - University of California San Diego
 - New York Public Library
-- University of Minnesota
 keywords:
 - fixity
 - survey
@@ -28,9 +28,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: poster
 size: 221412
 source_name: iPRES
 title: 'CHANGING PRACTICES IN FIXITY: Results from the 2021 NDSA Fixity Survey'
-type: poster
 year: 2021
 ---

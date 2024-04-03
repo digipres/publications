@@ -9,8 +9,8 @@ abstract: In this paper, we describe an innovative approach to the challenges as
   understanding with their information technology colleagues which is essential in
   order to achieve digital preservation objectives.
 creators:
-- Foscarini, Fiorella
 - Oliver, Gillian
+- Foscarini, Fiorella
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294266/download
 grand_parent: iPRES
@@ -28,10 +28,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 472338
 source_name: iPRES
-title: 'Corporate Recordkeeping: New Challenges for Digital Preservation: Paper -
-  iPRES 2011 - Singapore'
-type: paper
+title: 'Corporate Recordkeeping: New Challenges for Digital Preservation'
 year: 2011
 ---

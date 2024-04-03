@@ -4,12 +4,12 @@ abstract: 'From October 6‐10, 2014, the State Library of Victoria was pleased 
   Library of Victoria and the National Library of Australia. '
 creators:
 - Knight, Steve
-- McKinney, Peter
 - King, Ross
+- McKinney, Peter
 - Pearson, David
-- Coates, Serena
 - O'Meara, Erin
 - Lee, Christopher
+- Coates, Serena
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378066/download
 grand_parent: iPRES
@@ -28,10 +28,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: proceedings
 size: 39353324
 source_name: iPRES
-title: 'iPRES 2014 - Proceedings of the 11th International Conference on Preservation
-  of Digital Objects: Proceedings - iPRES 2014 - Melbourne'
-type: paper
+title: iPRES 2014 - Proceedings of the 11th International Conference on Preservation
+  of Digital Objects
 year: 2014
 ---

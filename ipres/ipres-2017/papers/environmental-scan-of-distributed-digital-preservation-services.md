@@ -19,10 +19,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 166780
 source_name: iPRES
 title: 'Environmental Scan of Distributed Digital Preservation Services: A Collective
   Case Study'
-type: paper
 year: 2017
 ---

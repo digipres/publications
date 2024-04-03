@@ -28,9 +28,9 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: workshop
 size: null
 source_name: iPRES
 title: 'Workshop: The Value of Catastrophic Data Loss'
-type: workshop
 year: 2022
 ---

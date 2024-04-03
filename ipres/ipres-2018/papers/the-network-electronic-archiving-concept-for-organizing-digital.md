@@ -9,8 +9,8 @@ abstract: 'This paper presents details about a network organization that enables
   small archive this case illustrates how sharing and collaboration via NEA has allowed
   them to do full-scale digital preservation in accordance with OAIS. '
 creators:
-- Johansen, Kathrine Hougaard Edsen
 - Nørøxe, Kim Schou
+- Johansen, Kathrine Hougaard Edsen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923638/download
 grand_parent: iPRES
@@ -24,10 +24,10 @@ license: All rights reserved
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 168571
 source_name: iPRES
-title: 'The Network Electronic Archiving Concept for Organizing Digital Preservation
-  for Small Archives: iPres 2018 - Boston'
-type: paper
+title: The Network Electronic Archiving Concept for Organizing Digital Preservation
+  for Small Archives
 year: 2018
 ---

@@ -24,10 +24,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 141287
 source_name: iPRES
-title: Introducing the memento tracer framework for scalable high-quality web archiving
-  - iPRES 2019 Amsterdam
-type: paper
+title: 'Introducing the memento tracer framework for scalable high-quality web archiving '
 year: 2019
 ---

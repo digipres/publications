@@ -18,8 +18,8 @@ abstract: The goal of this paper is to examine the extent to which social scienc
   PI characteristics, grant award features, and institutional characteristics.
 creators:
 - Lyle, Jared
-- Alter, George
 - Pienta, Amy
+- Alter, George
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294251/download
 grand_parent: iPRES
@@ -36,10 +36,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 532779
 source_name: iPRES
 title: 'The Enduring Value of Social Science Research: The Use and Reuse of Primary
-  Research Data: Paper - iPRES 2011 - Singapore'
-type: paper
+  Research Data'
 year: 2011
 ---

@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Ruusalepp, Raivo
 - Innocenti, Perla
+- Ruusalepp, Raivo
 - McHugh, Andrew
 - Ross, Seamus
 date: null
@@ -18,10 +18,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
 presentation_url: null
+publication_type: presentation
 size: 341330
 source_name: iPRES
 title: 'Digital Curation Centre (DCC) and DigitalPreservationEurope (DPE) Audit Toolkit:
-  DRAMBORA: Presentation - iPRES 2007 - Beijing'
-type: paper
+  DRAMBORA'
 year: 2007
 ---

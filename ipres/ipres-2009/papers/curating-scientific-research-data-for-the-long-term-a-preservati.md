@@ -12,8 +12,8 @@ abstract: 'The challenge of digital preservation of scientific data lies in the 
   necessary to rise to this challenge. '
 creators:
 - Giaretta, David
-- Dunckley, Matthew
 - Conway, Esther
+- Dunckley, Matthew
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294021/download
 grand_parent: iPRES
@@ -27,10 +27,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 929395
 source_name: iPRES
 title: 'Curating Scientific Research Data for the Long Term: A Preservation Analysis
-  Method in Context: Paper - iPRES 2009 - San Francisco'
-type: paper
+  Method in Context'
 year: 2009
 ---

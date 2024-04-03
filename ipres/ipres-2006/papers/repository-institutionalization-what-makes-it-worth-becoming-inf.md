@@ -37,10 +37,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
 presentation_url: null
+publication_type: presentation
 size: 61752
 source_name: iPRES
-title: 'Repository Institutionalization: What makes it worth becoming infrastructure?:
-  Presentation - iPRES 2006 - Ithaca'
-type: paper
+title: 'Repository Institutionalization: What makes it worth becoming infrastructure?'
 year: 2006
 ---

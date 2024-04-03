@@ -26,10 +26,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 580383
 source_name: iPRES
-title: 'Using Automated Dependency Analysis To Generate Representation Information:
-  Paper - iPRES 2011 - Singapore'
-type: paper
+title: Using Automated Dependency Analysis To Generate Representation Information
 year: 2011
 ---

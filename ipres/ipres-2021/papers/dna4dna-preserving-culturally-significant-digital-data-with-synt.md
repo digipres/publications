@@ -13,19 +13,19 @@ abstract: 'The growing adoption of AI and data analytics in various sectors has 
 
   '
 creators:
-- Sella, Omer
-- Marinelli, Eugenio
 - Appuswamy, Raja
+- Sella, Omer
 - Ghabach, Eddy
-- Heinis, Thomas
+- Marinelli, Eugenio
 - Bolbroe, Thomas
+- Heinis, Thomas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424930/download
 grand_parent: iPRES
 institutions:
 - Imperial College London
-- Rigsarkivet
 - EURECOM
+- Rigsarkivet
 keywords:
 - dna storage
 - long-term storage
@@ -38,9 +38,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 568326
 source_name: iPRES
 title: 'DNA4DNA: Preserving Culturally Significant Digital Data with Synthetic DNA'
-type: paper
 year: 2021
 ---

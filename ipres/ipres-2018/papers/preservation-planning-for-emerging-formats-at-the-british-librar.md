@@ -23,9 +23,9 @@ abstract: 'The British Library and the other UK Legal Deposit Libraries have bee
   providers will be key to resolving all of these in a satisfactory manner.'
 creators:
 - Jenkins, Jeremy
-- Day, Michael
 - Pennock, Maureen
 - Cooke, Ian
+- Day, Michael
 - Smith, Caylin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923625/download
@@ -40,10 +40,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 337528
 source_name: iPRES
-title: 'Preservation planning for emerging formats at the British Library: iPres 2018
-  - Boston'
-type: paper
+title: Preservation planning for emerging formats at the British Library
 year: 2018
 ---

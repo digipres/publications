@@ -1,9 +1,9 @@
 ---
 abstract: null
 creators:
+- Mei, Zhang
 - Zhenxin, Wu
 - Xiaolin, Zhang
-- Mei, Zhang
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294501/download
 grand_parent: iPRES
@@ -17,10 +17,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
 presentation_url: null
+publication_type: presentation
 size: 89914
 source_name: iPRES
-title: 'Recommended Guidelines and Procedures for Certifying Digital Archives: Presentation
-  - iPRES 2007 - Beijing'
-type: paper
+title: Recommended Guidelines and Procedures for Certifying Digital Archives
 year: 2007
 ---

@@ -12,9 +12,9 @@ abstract: 'A digital repository can be seen as a combination of services, resour
   business model most appropriate to the participating organizations. '
 creators:
 - Hou, Chien-Yi
-- Shah, Chirag
 - Lee, Christopher
 - Marciano, Richard
+- Shah, Chirag
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294017/download
 grand_parent: iPRES
@@ -28,11 +28,11 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 1335084
 source_name: iPRES
 title: 'Mainstreaming Preservation through Slicing and Dicing of Digital Repositories:
   Investigating Alternative Service and Resource Options for ContextMiner Using Data
-  Grid Technology: Paper - iPRES 2009 - San Francisco'
-type: paper
+  Grid Technology'
 year: 2009
 ---

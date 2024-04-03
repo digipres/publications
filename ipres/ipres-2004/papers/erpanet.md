@@ -1,24 +1,23 @@
 ---
-parent: "iPRES 2004"
-grand_parent: iPRES
-layout: publication
-source_name: iPRES
-landing_page_url: https://phaidra.univie.ac.at/o:295023
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295023/download
-slides_url: null
-notes_url: null
-year: 2004
-title: 'erpanet'
 abstract: null
-language: eng
 creators:
-  - Aschenbrenner, Andreas
-institutions: []
-license: CC BY-SA 3.0 AT
-size: 114954
-publication_type: paper
+- Aschenbrenner, Andreas
 date: null
+document_url: https://services.phaidra.univie.ac.at/api/object/o:295023/download
+grand_parent: iPRES
+institutions: []
 keywords:
-  - beijing
+- beijing
+landing_page_url: https://phaidra.univie.ac.at/o:295023
+language: eng
+layout: publication
+license: CC BY-SA 3.0 AT
+notes_url: null
+parent: iPRES 2004
+presentation_url: null
+publication_type: presentation
+size: 114954
+source_name: iPRES
+title: erpanet
+year: 2004
 ---
-

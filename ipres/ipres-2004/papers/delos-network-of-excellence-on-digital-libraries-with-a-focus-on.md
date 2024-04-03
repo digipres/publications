@@ -24,10 +24,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2004
 presentation_url: null
+publication_type: presentation
 size: 62524
 source_name: iPRES
 title: 'DELOS: Network of Excellence on Digital Libraries, with a focus on the Preservation
-  Cluster: Presentation - iPRES 2004 - Beijing'
-type: paper
+  Cluster'
 year: 2004
 ---

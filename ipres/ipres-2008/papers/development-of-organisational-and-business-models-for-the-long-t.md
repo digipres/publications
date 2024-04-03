@@ -14,13 +14,13 @@ abstract: The number of digital objects (and digital collections) will increase 
   solutions in the form of scalable business and organisational models and clarifying
   the agenda for further research.
 creators:
-- Rödig, Peter
-- Beinert, Tobias
-- Schoger, Astrid
-- Borghoff, Uwe M.
-- Lang, Susanne
-- Hagel, Harald
 - Minkus, Michael
+- Hagel, Harald
+- Schoger, Astrid
+- Lang, Susanne
+- Beinert, Tobias
+- Rödig, Peter
+- Borghoff, Uwe M.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294056/download
 grand_parent: iPRES
@@ -34,10 +34,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 174120
 source_name: iPRES
-title: 'Development of Organisational and Business Models for the Long-Term Preservation
-  of Digital Objects: Paper - iPRES 2008 - London'
-type: paper
+title: Development of Organisational and Business Models for the Long-Term Preservation
+  of Digital Objects
 year: 2008
 ---

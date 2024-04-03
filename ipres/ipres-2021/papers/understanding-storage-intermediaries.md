@@ -30,9 +30,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 205974
 source_name: iPRES
 title: Understanding Storage Intermediaries
-type: paper
 year: 2021
 ---

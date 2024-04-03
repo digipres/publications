@@ -7,8 +7,8 @@ abstract: A significant amount of cultural activity has moved to the world wide 
   (EaaS), a complete web site (web server, content management system, database) can
   be preserved and functionally re-enacted efficiently on demand.
 creators:
-- Liebetraut, Thomas
 - Wehrle, Dennis
+- Liebetraut, Thomas
 - Rechert, Klaus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378701/download
@@ -24,10 +24,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: poster
 size: 489870
 source_name: iPRES
-title: 'Preservation of Web Content – An Emulation-based Case Study: Poster (Poster)
-  - iPRES 2014 - Melbourne'
-type: poster
+title: 'Preservation of Web Content – An Emulation-based Case Study: Poster (Poster) '
 year: 2014
 ---

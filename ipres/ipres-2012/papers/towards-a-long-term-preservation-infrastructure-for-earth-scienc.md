@@ -10,18 +10,18 @@ abstract: The effective preservation of both current and historical scientific d
   which implement core preservation concepts, thus guaranteeing the long-term access
   and exploitation of data assets across and beyond their designated communities.
 creators:
-- Giaretta, David
 - Shaon, Arif
-- di Giammatteo, Ugo
-- Guarino, Raffaele
-- Marelli, Fulvio
-- Crompton, Shirley
-- Matthews, Brian
-- Tzitzikas, Yannis
-- Conway, Esther
-- Marketakis, Yannis
-- Engel, Felix
 - Yu, Jinsongdi
+- Crompton, Shirley
+- Giaretta, David
+- Marelli, Fulvio
+- Conway, Esther
+- Engel, Felix
+- Matthews, Brian
+- Guarino, Raffaele
+- di Giammatteo, Ugo
+- Marketakis, Yannis
+- Tzitzikas, Yannis
 - Brocks, Holger
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293768/download
@@ -42,10 +42,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 965379
 source_name: iPRES
-title: 'Towards a Long-term Preservation Infrastructure for Earth Science Data: Paper
-  - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+title: Towards a Long-term Preservation Infrastructure for Earth Science Data
 year: 2012
 ---

@@ -64,10 +64,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 228071
 source_name: iPRES
-title: 'REPRESENTATION OF DIGITAL MATERIAL  PRESERVED IN A LIBRARY CONTEXT: Paper
-  - iPres 2010 - Vienna'
-type: paper
+title: REPRESENTATION OF DIGITAL MATERIAL  PRESERVED IN A LIBRARY CONTEXT
 year: 2010
 ---

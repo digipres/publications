@@ -37,10 +37,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 73449
 source_name: iPRES
 title: 'From Theory to Practice: The art and implementation of trustworthy digital
-  repository certification: iPres 2018 - Boston'
-type: paper
+  repository certification'
 year: 2018
 ---

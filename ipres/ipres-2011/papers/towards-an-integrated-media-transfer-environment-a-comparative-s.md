@@ -13,13 +13,13 @@ abstract: Efficient media transfer is a difficult challenge facing digital prese
   source of information for media transfer activities.
 creators:
 - Konstantelos, Leo
-- Bergmeyer, Winfried
-- Delve, Janet
-- Lange, Andreas
 - Joguin, Vincent
-- Pinchbeck, Dan
 - Ciuffreda, Antonio
 - Anderson, David
+- Pinchbeck, Dan
+- Delve, Janet
+- Lange, Andreas
+- Bergmeyer, Winfried
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294207/download
 grand_parent: iPRES
@@ -40,11 +40,11 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 520524
 source_name: iPRES
 title: 'Towards an Integrated Media Transfer Environment: A Comparative Summary of
   Available Transfer Tools and Recommendations for the Development of a Toolset for
-  the Preservation of Complex Digital Objects: Paper - iPRES 2011 - Singapore'
-type: paper
+  the Preservation of Complex Digital Objects'
 year: 2011
 ---

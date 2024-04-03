@@ -7,8 +7,8 @@ abstract: "This paper reflects on a decade of digital collecting and digital pre
   preservation system and compare them to the status of the current preservation programme
   and requirements roadmap. \n"
 creators:
-- Smith, Kirsty
 - Rosin, Leigh
+- Smith, Kirsty
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378122/download
 grand_parent: iPRES
@@ -25,10 +25,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 78802
 source_name: iPRES
 title: 'Then and Now: The Evolution of Digital Preservation and Collecting Requirements
-  Over a Decade: Paper - iPRES 2014 - Melbourne'
-type: paper
+  Over a Decade'
 year: 2014
 ---

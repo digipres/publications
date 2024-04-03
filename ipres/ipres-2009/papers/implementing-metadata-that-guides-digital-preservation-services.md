@@ -6,8 +6,8 @@ abstract: Effective digital preservation depends on a set of preservation servic
   that guide digital preservation services. This paper analyzes how these services
   interact and use this metadata and develops a data dictionary to support them.
 creators:
-- Dappert, Angela
 - Farquhar, Adam
+- Dappert, Angela
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294020/download
 grand_parent: iPRES
@@ -21,10 +21,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 16855994
 source_name: iPRES
-title: 'Implementing Metadata that Guides Digital Preservation Services: Paper - iPRES
-  2009 - San Francisco'
-type: paper
+title: Implementing Metadata that Guides Digital Preservation Services
 year: 2009
 ---

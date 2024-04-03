@@ -13,8 +13,8 @@ abstract: 'Organisations with a commitment to long-term digital preservation nee
   16363. We explain some of the challenges of the work and the immediate effects of
   the process, which, at the time of writing, is not finished yet. '
 creators:
-- Elstrøm, Gry
 - Junge, Jette
+- Elstrøm, Gry
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378128/download
 grand_parent: iPRES
@@ -33,10 +33,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 183994
 source_name: iPRES
 title: 'Self-assessment of the Digital Repository at the State and University Library,
-  Denmark - a Case Study: Paper - iPES 2014 - Melbourne'
-type: paper
+  Denmark - a Case Study: Paper '
 year: 2014
 ---

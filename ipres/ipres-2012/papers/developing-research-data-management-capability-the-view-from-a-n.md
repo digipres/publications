@@ -20,8 +20,8 @@ abstract: 'An increasing number of UK Higher Education Institutions (HEIs) are d
   support and a transferable RDM toolkit.'
 creators:
 - Whyte, Angus
-- Pryor, Graham
 - Jones, Sarah
+- Pryor, Graham
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293775/download
 grand_parent: iPRES
@@ -44,10 +44,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 676702
 source_name: iPRES
 title: 'Developing Research Data Management Capability: the View from a National Support
-  Service: Paper - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+  Service'
 year: 2012
 ---

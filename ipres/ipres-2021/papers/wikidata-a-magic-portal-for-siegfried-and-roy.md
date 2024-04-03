@@ -19,8 +19,8 @@ abstract: 'A project team was established in late 2019 to create a Siegfried/Wik
 
   '
 creators:
-- Lehane, Richard
 - Thornton, Katherine
+- Lehane, Richard
 - Cochrane, Euan
 - Spencer, Ross
 date: null
@@ -43,9 +43,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 567766
 source_name: iPRES
 title: 'Wikidata: A Magic Portal for Siegfried and Roy'
-type: paper
 year: 2021
 ---

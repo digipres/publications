@@ -15,11 +15,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
 presentation_url: null
+publication_type: presentation
 size: 129781
 source_name: iPRES
-title: 'Certification Efforts at Nestor Working Group and cooperation with Certification
-  Efforts at RLG/OCLC to become an international ISO standard: Presentation - iPRES
-  2007 - Beijing'
-type: paper
+title: Certification Efforts at Nestor Working Group and cooperation with Certification
+  Efforts at RLG/OCLC to become an international ISO standard
 year: 2007
 ---

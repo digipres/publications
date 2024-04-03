@@ -31,10 +31,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: poster
 size: 237042
 source_name: iPRES
-title: 'THE DEVELOPMENT OF A RETENTION AND DISPOSITION SCHEDULE IN A PRIVATE ENTERPRISE:
-  Poster - iPres 2010 - Vienna'
-type: poster
+title: THE DEVELOPMENT OF A RETENTION AND DISPOSITION SCHEDULE IN A PRIVATE ENTERPRISE
 year: 2010
 ---

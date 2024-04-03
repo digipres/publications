@@ -18,14 +18,14 @@ abstract: With growing concerns about environmental problems, and an exponential
   large-scale SDIs like INSPIRE.
 creators:
 - Shaon, Arif
-- Gerber, Urs
-- Naumann, Kai
-- Rönsdorf, Carsten
 - Woolf, Andrew
-- Mason, Paul
-- Samuelsson, Göran
-- Kirstein, Michael
+- Rönsdorf, Carsten
 - Bos, Marguérite
+- Kirstein, Michael
+- Mason, Paul
+- Gerber, Urs
+- Samuelsson, Göran
+- Naumann, Kai
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294224/download
 grand_parent: iPRES
@@ -45,10 +45,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 1150321
 source_name: iPRES
 title: 'Long-Term Sustainability of Spatial Data Infrastructures: A Metadata Framework
-  and Principles of Geo-Archiving: Paper - iPRES 2011 - Singapore'
-type: paper
+  and Principles of Geo-Archiving'
 year: 2011
 ---

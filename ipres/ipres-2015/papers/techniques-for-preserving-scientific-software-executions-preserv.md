@@ -19,8 +19,8 @@ abstract: 'An increasing amount of scientific work is performed in silico, such 
   Umbrella, and Prune.'
 creators:
 - Meng, Haiyan
-- Ivie, Peter
 - Thain, Douglas
+- Ivie, Peter
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429560/download
 grand_parent: iPRES
@@ -35,10 +35,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 781009
 source_name: iPRES
 title: 'Techniques for Preserving Scientific Software Executions: Preserve the Mess
   or Encourage Cleanliness?'
-type: paper
 year: 2015
 ---

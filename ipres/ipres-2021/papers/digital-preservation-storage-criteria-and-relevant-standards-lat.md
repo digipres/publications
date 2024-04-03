@@ -16,19 +16,19 @@ abstract: 'This poster provides the latest updates on the Digital Preservation S
 
   '
 creators:
-- Schaefer, Sibyl
-- Zierau, Eld
 - Wu, Cynthia
+- Zierau, Eld
 - Goethals, Andrea
+- Schaefer, Sibyl
 - McGovern, Nancy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424849/download
 grand_parent: iPRES
 institutions:
-- University of California
-- National Library of New Zealand
 - Royal Danish Library
+- National Library of New Zealand
 - Massachusetts Institute of Technology
+- University of California
 keywords:
 - digital preservation storage
 - archival storage
@@ -42,10 +42,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: poster
 size: 426039
 source_name: iPRES
 title: DIGITAL PRESERVATION STORAGE CRITERIA AND RELEVANT STANDARDS - Latest Development
   on the Digital Preservation Storage Criteria
-type: poster
 year: 2021
 ---

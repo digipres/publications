@@ -21,10 +21,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: poster
 size: 147915
 source_name: iPRES
-title: 'SUSTAINABILITY CASE STUDY: EXPLORING COMMUNITY-BASED BUSINESS MODELS FOR ARXIV:
-  Poster - iPres 2010 - Vienna'
-type: poster
+title: 'SUSTAINABILITY CASE STUDY: EXPLORING COMMUNITY-BASED BUSINESS MODELS FOR ARXIV'
 year: 2010
 ---

@@ -8,10 +8,10 @@ abstract: 'This paper reports on a curriculum mapping study that examined job de
   data science principles to frame and extend their curriculum to prepare their students
   for data-driven career opportunities.'
 creators:
-- Acker, Amelia
 - Langmead, Alison
 - Mattern, Eleanor
 - Lyon, Liz
+- Acker, Amelia
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429552/download
 grand_parent: iPRES
@@ -28,9 +28,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 1410916
 source_name: iPRES
 title: Applying Translational Principles to Data Science Curriculum Development
-type: paper
 year: 2015
 ---

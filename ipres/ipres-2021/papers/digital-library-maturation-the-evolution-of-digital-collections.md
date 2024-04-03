@@ -7,22 +7,22 @@ abstract: 'This panel will present and discuss the development of digital collec
 
   '
 creators:
-- Day, Michael
-- Wheatley, Paul
+- Owens, Trevor
 - Olivares, Lisandro Pablo
 - van der Hoeven, Jeffrey
+- Wheatley, Paul
+- Day, Michael
 - Goethals, Andrea
-- Owens, Trevor
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424928/download
 grand_parent: iPRES
 institutions:
-- National Library of the Netherlands
-- Biblioteca Nacional de México
+- Library of Congress
+- Digital Preservation Coalition
 - National Library of New Zealand
 - The British Library
-- Digital Preservation Coalition
-- Library of Congress
+- Biblioteca Nacional de México
+- National Library of the Netherlands
 keywords:
 - digital preservation
 - national libraries
@@ -38,10 +38,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 419041
 source_name: iPRES
 title: 'Digital Library Maturation: The Evolution of Digital Collections Management
   Programs at National Libraries'
-type: paper
 year: 2021
 ---

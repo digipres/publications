@@ -33,9 +33,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 756361
 source_name: iPRES
 title: Towards a Common Approach for Access to Digital Archival Records in Europe
-type: paper
 year: 2015
 ---

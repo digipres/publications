@@ -11,8 +11,8 @@ abstract: 'This paper describes the developments in the Netherlands to establish
   of existing facilities. In this paper the focus is on the activities related to
   the sustainable preservation of the Dutch national digital heritage.'
 creators:
-- Sierman, Barbara
 - Ras, Marcel
+- Sierman, Barbara
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429559/download
 grand_parent: iPRES
@@ -28,9 +28,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 199846
 source_name: iPRES
 title: Best until … A National Infrastructure for Digital Preservation in the Netherlands
-type: paper
 year: 2015
 ---

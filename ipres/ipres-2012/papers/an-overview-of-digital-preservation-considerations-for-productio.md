@@ -36,11 +36,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 964008
 source_name: iPRES
 title: 'An Overview of Digital Preservation Considerations for Production of “Preservable”
-  e-Records: An Indian e-Government Case Study: Paper - iPRES 2012 - Digital Curation
-  Institute, iSchool, Toronto'
-type: paper
+  e-Records: An Indian e-Government Case Study'
 year: 2012
 ---

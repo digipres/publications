@@ -38,11 +38,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 606825
 source_name: iPRES
 title: 'Preserving Electronic Theses and Dissertations: Findings of the Lifecycle
-  Management for ETDs Project: Paper - iPRES 2012 - Digital Curation Institute, iSchool,
-  Toronto'
-type: paper
+  Management for ETDs Project'
 year: 2012
 ---

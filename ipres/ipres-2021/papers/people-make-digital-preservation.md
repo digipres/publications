@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Kilbride, William
 - Middleton, Sarah
+- Kilbride, William
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424726/download
 grand_parent: iPRES
@@ -16,9 +16,9 @@ license: All rights reserved
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: lightning talk
 size: 93019
 source_name: iPRES
 title: People Make Digital Preservation
-type: lightning talk
 year: 2021
 ---

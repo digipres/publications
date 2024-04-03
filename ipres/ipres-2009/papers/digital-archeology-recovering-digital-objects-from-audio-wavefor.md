@@ -12,11 +12,11 @@ abstract: Specimens of early computer systems stop working every day. One storag
   It also becomes clear, that it is easier to build solutions now when the original
   systems are still available.
 creators:
-- John, Annu
-- Rauber, Andreas
-- Guttenbrunner, Mark
-- Lederer, Chrisanth
 - Ghete, Mihai
+- John, Annu
+- Lederer, Chrisanth
+- Guttenbrunner, Mark
+- Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294011/download
 grand_parent: iPRES
@@ -30,10 +30,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 1555969
 source_name: iPRES
-title: 'Digital Archeology: Recovering Digital Objects from Audio Waveforms: Paper
-  - iPRES 2009 - San Francisco'
-type: paper
+title: 'Digital Archeology: Recovering Digital Objects from Audio Waveforms'
 year: 2009
 ---

@@ -25,10 +25,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 538671
 source_name: iPRES
-title: 'Archives New Zealand Migration from Fedora Commons to the Rosetta Digital
-  Preservation System: Paper - iPres 2013 -  Lisbon'
-type: paper
+title: Archives New Zealand Migration from Fedora Commons to the Rosetta Digital Preservation
+  System
 year: 2013
 ---

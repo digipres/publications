@@ -14,19 +14,19 @@ abstract: 'In order to assess the potential suitability of digital preservation 
 
   '
 creators:
-- Taylor, Alex
-- Leigh, Alexandra
-- Makri, Stephann
 - Ranade, Sonia
-- Mulinder, Alec
 - Hamdi, Sarra
+- Makri, Stephann
+- Leigh, Alexandra
+- Mulinder, Alec
+- Taylor, Alex
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424927/download
 grand_parent: iPRES
 institutions:
-- City, University of London / The National Archives, UK
-- City, University of London
 - The National Archives, UK
+- City, University of London
+- City, University of London / The National Archives, UK
 keywords:
 - archives
 - human information interaction
@@ -39,10 +39,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 473426
 source_name: iPRES
 title: 'Preserving for People: Observing Humanities Scholars'' Research Practices
   in a Hybrid Archive Environment'
-type: paper
 year: 2021
 ---

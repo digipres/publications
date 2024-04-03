@@ -37,10 +37,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 1261982
 source_name: iPRES
 title: 'EXECUTABLE ARCHIVES: Software integrity for data readability and validation
   of archived studies'
-type: paper
 year: 2021
 ---

@@ -32,10 +32,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 57999
 source_name: iPRES
 title: 'The process of building a national trusted digital repository: solving the
-  federation problem: Paper - iPRES 2014 - Melbourne'
-type: paper
+  federation problem'
 year: 2014
 ---

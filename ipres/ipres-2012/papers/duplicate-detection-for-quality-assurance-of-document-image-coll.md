@@ -30,10 +30,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 1772262
 source_name: iPRES
-title: 'Duplicate Detection for Quality Assurance of Document Image Collections: Paper
-  - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+title: Duplicate Detection for Quality Assurance of Document Image Collections
 year: 2012
 ---

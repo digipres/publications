@@ -9,9 +9,9 @@ abstract: Archivematica is an open source software platform that incorporates th
   about how the system, and how the software can move forward alongside the entire
   digital preservation community.
 creators:
-- Blewer, Ashley
 - Romkey, Sarah
 - Spencer, Ross
+- Blewer, Ashley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080498/download
 grand_parent: iPRES
@@ -24,10 +24,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 236648
 source_name: iPRES
-title: Archivematica as a Case Study for Sustained Digital Preservation - iPRES 2019
-  Amsterdam
-type: paper
+title: 'Archivematica as a Case Study for Sustained Digital Preservation '
 year: 2019
 ---

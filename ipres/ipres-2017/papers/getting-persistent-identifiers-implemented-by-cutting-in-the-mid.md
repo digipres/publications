@@ -44,9 +44,9 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 352423
 source_name: iPRES
 title: Getting Persistent Identifiers Implemented By ‘Cutting In The Middle-Man’
-type: paper
 year: 2017
 ---

@@ -19,13 +19,13 @@ abstract: 'Awareness of the need to provide digital preservation solutions is sp
   an introduction to the problem domain and discuss solutions for the curation of
   eScience processes. '
 creators:
+- Dappert, Angela
+- Garijo, Daniel
 - Mayer, Rudolf
 - Palma, Raul
-- Rauber, Andreas
-- Pröll, Stefan
-- Garijo, Daniel
 - Page, Kevin
-- Dappert, Angela
+- Pröll, Stefan
+- Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378139/download
 grand_parent: iPRES
@@ -44,10 +44,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: workshops and tutorials
 size: 152606
 source_name: iPRES
-title: 'Preserving Data to Preserving Research: Curation of Process and Context: Workshops
-  and Tutorials - iPRES 2014 - Melbourne'
-type: paper
+title: 'Preserving Data to Preserving Research: Curation of Process and Context'
 year: 2014
 ---

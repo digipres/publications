@@ -14,8 +14,8 @@ abstract: 'Fedora is a flexible, extensible repository platform for the manageme
   that will give them a chance to install, configure, and explore Fedora 4 by following
   step-by-step instructions.'
 creators:
-- Woods, Andrews
 - Cox, David
+- Woods, Andrews
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429626/download
 grand_parent: iPRES
@@ -32,9 +32,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 356668
 source_name: iPRES
 title: Fedora 4 Tutorial
-type: paper
 year: 2015
 ---

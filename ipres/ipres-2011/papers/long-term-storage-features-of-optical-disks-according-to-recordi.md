@@ -7,9 +7,9 @@ abstract: Optical disks are widely used in libraries and archives as digital dat
   Through the evaluation of longterm storage features by the data stability test,
   a higher recording speed over 12x resulted in better long-term storage stability.
 creators:
+- Kim, Young-Joo
 - Lee, Kwan-Yong
 - Cho, Won-Ik
-- Kim, Young-Joo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294272/download
 grand_parent: iPRES
@@ -28,10 +28,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 844476
 source_name: iPRES
-title: 'Long-Term Storage Features of Optical Disks According to Recording Conditions:
-  Paper - iPRES 2011 - Singapore'
-type: paper
+title: Long-Term Storage Features of Optical Disks According to Recording Conditions
 year: 2011
 ---

@@ -12,10 +12,10 @@ abstract: The preservation of epidemiological information is challenging in seve
   such as its authors, is preserved and can be searched even in the absence of the
   data itself.
 creators:
-- M. Couto, Francisco
 - D. Ferreira, João
-- Pesquita, Cátia
 - J. Silva, Mário
+- Pesquita, Cátia
+- M. Couto, Francisco
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378034/download
 grand_parent: iPRES
@@ -34,10 +34,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 120007
 source_name: iPRES
-title: 'Digital preservation of epidemic resources: coupling metadata and ontologies:
-  Paper - iPres 2013 - Lisbon'
-type: paper
+title: 'Digital preservation of epidemic resources: coupling metadata and ontologies'
 year: 2013
 ---

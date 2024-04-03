@@ -15,8 +15,8 @@ abstract: 'In this paper, we describe an OAIS aligned data model and architectur
 
   and iRODS.'
 creators:
-- Amrhein, Kilian
 - Klindt, Marco
+- Amrhein, Kilian
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429551/download
 grand_parent: iPRES
@@ -36,9 +36,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 279934
 source_name: iPRES
 title: One Core Preservation System for All your Data. No Exceptions!
-type: paper
 year: 2015
 ---

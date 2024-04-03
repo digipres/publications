@@ -25,9 +25,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 551619
 source_name: iPRES
 title: 'Educational Records of Practice: Preservation and Access Concerns'
-type: paper
 year: 2015
 ---

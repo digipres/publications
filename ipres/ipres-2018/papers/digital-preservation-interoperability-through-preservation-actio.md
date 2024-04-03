@@ -29,10 +29,10 @@ abstract: Current digital preservation systems such as Archivematica and Preserv
   preservation, provide users with more flexibility and knowledge sharing opportunities,
   and accelerate the adoption of digital preservation in new sectors.
 creators:
-- O'Sullivan, Jack
 - Tilbury, Jonathan
-- Simpson , Justin
+- O'Sullivan, Jack
 - Addis , Matthew
+- Simpson , Justin
 - Stokes , Paul
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:922205/download
@@ -47,10 +47,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 783805
 source_name: iPRES
-title: 'Digital preservation interoperability through preservation actions registries:
-  iPres 2018 - Boston'
-type: paper
+title: Digital preservation interoperability through preservation actions registries
 year: 2018
 ---

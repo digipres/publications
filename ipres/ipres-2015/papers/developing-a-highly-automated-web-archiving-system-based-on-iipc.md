@@ -13,9 +13,9 @@ abstract: 'In this paper, we describe our development of a highly automated
   archiving workflows and provide more services.'
 creators:
 - Hu, Jiying
-- Xie, Jing
 - Wu, Zhenxin
 - Zhang, Zhixiong
+- Xie, Jing
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429565/download
 grand_parent: iPRES
@@ -31,10 +31,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 813717
 source_name: iPRES
 title: Developing a Highly Automated Web Archiving System Based on IIPC Open Source
   Software
-type: paper
 year: 2015
 ---

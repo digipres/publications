@@ -17,9 +17,9 @@ abstract: 'BABS is an acronym for Library Archiving and Access System (Bibliothe
   which have to be taken into consideration when enhancing an existing infrastructure
   for digital long-term preservation.'
 creators:
-- Brantl, Markus
-- Kugler, Anna
 - Beinert, Tobias
+- Kugler, Anna
+- Brantl, Markus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185325/download
 grand_parent: iPRES
@@ -32,10 +32,10 @@ license: GPLv3
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 181245
 source_name: iPRES
 title: 'BABS2: A NEW PHASE, A NEW PERSPECTIVE IN DIGITAL LONG-TERM PRESERVATION –
-  AN EXPERIENCE REPORT FROM THE BAVARIAN STATE LIBRARY: Paper - iPres 2010 - Vienna'
-type: paper
+  AN EXPERIENCE REPORT FROM THE BAVARIAN STATE LIBRARY'
 year: 2010
 ---

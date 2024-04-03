@@ -16,8 +16,8 @@ abstract: We present a model and testbed for a curation and preservation infrast
   through to its use on archival data.
 creators:
 - Padhy, Smruti
-- Marciano, Richard
 - Jansen, Gregory
+- Marciano, Richard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502901/download
 grand_parent: iPRES
@@ -30,10 +30,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: paper
 size: 1221060
 source_name: iPRES
-title: 'Designing Scalable Cyberinfrastructure for Metadata Extraction in Billion-Record
-  Archives: Paper - iPRES 2016 - Swiss National Library, Bern'
-type: paper
+title: Designing Scalable Cyberinfrastructure for Metadata Extraction in Billion-Record
+  Archives
 year: 2016
 ---

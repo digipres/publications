@@ -16,8 +16,8 @@ abstract: 'In this paper, the authors describe the work done within the NSLA Dig
   address these needs.  '
 creators:
 - Pearson, David
-- Coufal, Libor
 - Slade, Sarah
+- Coufal, Libor
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378130/download
 grand_parent: iPRES
@@ -34,10 +34,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 185469
 source_name: iPRES
-title: 'A Digital Preservation Environment Maturity Matrix for NSLA Libraries: Paper
-  - iPES 2014 - Melbourne'
-type: paper
+title: 'A Digital Preservation Environment Maturity Matrix for NSLA Libraries: Paper '
 year: 2014
 ---

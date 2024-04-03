@@ -18,9 +18,9 @@ abstract: 'This paper outlines an approach for developing tools and services tha
   format.'
 creators:
 - Hemmje, Matthias
+- Görzig, Heike
 - Brocks, Holger
 - Engel, Felix
-- Görzig, Heike
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429549/download
 grand_parent: iPRES
@@ -43,10 +43,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 907742
 source_name: iPRES
 title: Lessons Learned and Open Challenges Regarding Support for Data Management Plans
   and Research Data Management
-type: paper
 year: 2015
 ---

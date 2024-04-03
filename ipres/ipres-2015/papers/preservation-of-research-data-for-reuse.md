@@ -6,9 +6,9 @@ abstract: This panel aims to link research and practice around the preservation 
   across the continuum and rendering, and shaping research data services to address
   the two in a more effective, integrated manner.
 creators:
-- Faniel, Ixchel
-- Hull, Elizabeth
 - Ensberg, Vessela
+- Hull, Elizabeth
+- Faniel, Ixchel
 - Shaw, Seth
 - Moore, Reagan
 date: null
@@ -27,9 +27,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 266515
 source_name: iPRES
 title: Preservation of Research Data for Reuse
-type: paper
 year: 2015
 ---

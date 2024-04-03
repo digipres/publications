@@ -15,9 +15,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2004
 presentation_url: null
+publication_type: paper
 size: 113955
 source_name: iPRES
 title: 'KOPAL: KOoPerativer Aufbau eines Langzeitarchivs digitaler Informationen'
-type: paper
 year: 2004
 ---

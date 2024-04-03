@@ -28,10 +28,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 377920
 source_name: iPRES
-title: 'Transfer and Inventory Services in Support of Preservation at the Library
-  of Congress: Paper - iPres 2010 - Vienna'
-type: paper
+title: Transfer and Inventory Services in Support of Preservation at the Library of
+  Congress
 year: 2010
 ---

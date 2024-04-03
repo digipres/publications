@@ -2,8 +2,8 @@
 abstract: In this poster we present the concept of Minimal Effort Ingest into a digital
   repository and discuss benefits and disadvantages of this approach.
 creators:
-- Christiansen, Kåre Fiedler
 - Jurik, Bolette Ammitzbøll
+- Christiansen, Kåre Fiedler
 - Blekinge, Asger Askov
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429591/download
@@ -23,9 +23,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 109696
 source_name: iPRES
 title: Minimal Effort Ingest
-type: poster
 year: 2015
 ---

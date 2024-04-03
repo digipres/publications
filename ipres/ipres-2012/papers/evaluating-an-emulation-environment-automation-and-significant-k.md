@@ -19,8 +19,8 @@ abstract: 'Evaluating digital preservation actions performed on digital objects 
   provide possible corrections as well as generalized recommendations for developing
   emulators for digital preservation.'
 creators:
-- Rauber, Andreas
 - Guttenbrunner, Mark
+- Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293842/download
 grand_parent: iPRES
@@ -38,10 +38,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 993909
 source_name: iPRES
-title: 'Evaluating an Emulation Environment: Automation and Significant Key Characteristics:
-  Paper - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+title: 'Evaluating an Emulation Environment: Automation and Significant Key Characteristics'
 year: 2012
 ---

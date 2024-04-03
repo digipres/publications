@@ -8,10 +8,10 @@ abstract: 'In this paper, we describe the current challenges to the effective ma
   the design of the second, paying particular attention to initiatives to develop
   and embed training materials.'
 creators:
-- Goldstein, Stephane
-- Hodson, Simon
 - Davidson, Joy
 - Molloy, Laura
+- Hodson, Simon
+- Goldstein, Stephane
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293861/download
 grand_parent: iPRES
@@ -36,10 +36,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 673753
 source_name: iPRES
 title: 'Addressing data management training needs: a practice- based approach from
-  the UK: Paper - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+  the UK'
 year: 2012
 ---

@@ -9,12 +9,12 @@ abstract: Recent years have been marked by growing adoption of Archival Resource
   community, and finally “ARK Summit 2018”, a major event in the construction of a
   francophone community of interest around ARK identifiers.
 creators:
-- Caron, Bertrand
 - Ledoux, Thomas
+- Tramoni, Jean-Philippe
+- Caron, Bertrand
 - Reecht, Stéphane
 - de La Houssaye, Jordan
 - Peyrard, Sébastien
-- Tramoni, Jean-Philippe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923636/download
 grand_parent: iPRES
@@ -28,10 +28,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 415502
 source_name: iPRES
 title: 'ARK is in the Air: ARKs Trending in the French-speaking Area and the BnF’s
-  Role in the ARK Story: iPres 2018 - Boston'
-type: paper
+  Role in the ARK Story'
 year: 2018
 ---

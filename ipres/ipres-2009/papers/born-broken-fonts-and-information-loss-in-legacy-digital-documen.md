@@ -10,8 +10,8 @@ abstract: 'For millions of legacy documents, correct rendering depends upon reso
   not available, and the ways in which support software might be used to control font
   substitution in a preservation environment. '
 creators:
-- Woods, Kam
 - Brown, Geoffrey
+- Woods, Kam
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294029/download
 grand_parent: iPRES
@@ -25,10 +25,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 1351125
 source_name: iPRES
-title: 'Born Broken: Fonts and Information Loss in Legacy Digital Documents: Paper
-  - iPRES 2009 - San Francisco'
-type: paper
+title: 'Born Broken: Fonts and Information Loss in Legacy Digital Documents'
 year: 2009
 ---

@@ -23,11 +23,11 @@ abstract: 'An integrated research data management (RDM) enables reproducible and
   '
 creators:
 - Leendertse, Jan
-- Semaan, Saher
-- Von Suchodoletz, Dirk
-- Tolkatsch, Dimitri
-- Gieschke, Rafael
 - Goldammer, Björn
+- Semaan, Saher
+- Tolkatsch, Dimitri
+- Von Suchodoletz, Dirk
+- Gieschke, Rafael
 - Rechert, Klaus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424925/download
@@ -49,10 +49,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 365690
 source_name: iPRES
 title: Developing a holistic research data management strategy for a university -
   Making preservation planning and long term access first grade citizens in RDM
-type: paper
 year: 2021
 ---

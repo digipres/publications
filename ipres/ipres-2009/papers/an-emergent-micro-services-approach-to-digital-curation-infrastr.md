@@ -12,9 +12,9 @@ abstract: In order better to meet the needs of its diverse University of Califor
   with regard to local policies and practices and sustainable despite the inevitability
   of disruptive change in technology and user expectation.
 creators:
-- Kunze, John
 - Abrams, Stephen
 - Loy, David
+- Kunze, John
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294039/download
 grand_parent: iPRES
@@ -28,10 +28,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 1150743
 source_name: iPRES
-title: 'An Emergent Micro-Services Approach to Digital Curation Infrastructure: Paper
-  - iPRES 2009 - San Francisco'
-type: paper
+title: An Emergent Micro-Services Approach to Digital Curation Infrastructure
 year: 2009
 ---

@@ -25,10 +25,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: poster
 size: 138167
 source_name: iPRES
-title: 'Establishing Digital Preservation At the University of Melbourne: Poster -
-  iPRES 2016 - Swiss National Library, Bern'
-type: poster
+title: Establishing Digital Preservation At the University of Melbourne
 year: 2016
 ---

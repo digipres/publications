@@ -25,11 +25,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: tutorial
 size: 428621
 source_name: iPRES
-title: 'Acquiring and Providing Access to Born-Digital Materials with the BitCurator
-  Environment and BitCurator Access Webtools: Tutorial - iPRES 2016 - Swiss National
-  Library, Bern'
-type: paper
+title: Acquiring and Providing Access to Born-Digital Materials with the BitCurator
+  Environment and BitCurator Access Webtools
 year: 2016
 ---

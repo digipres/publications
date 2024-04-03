@@ -17,8 +17,8 @@ abstract: 'This paper proposes steps towards a roadmap for improving the integra
 
   We also sketch out initial results of our ongoing work along this roadmap.'
 creators:
-- Dappert, Angela
 - Farquhar, Adam
+- Dappert, Angela
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931068/download
 grand_parent: iPRES
@@ -32,10 +32,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 393687
 source_name: iPRES
 title: 'Permanence of the Scholarly Record: Persistent Identification and Digital
   Preservation – A Roadmap'
-type: paper
 year: 2017
 ---

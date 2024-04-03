@@ -20,10 +20,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 86966
 source_name: iPRES
-title: 'Preserving the content and the network: An innovative approach to web archiving:
-  Paper - iPRES 2008 - London'
-type: paper
+title: 'Preserving the content and the network: An innovative approach to web archiving'
 year: 2008
 ---

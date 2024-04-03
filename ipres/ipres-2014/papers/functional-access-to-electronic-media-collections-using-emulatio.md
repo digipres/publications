@@ -7,8 +7,8 @@ abstract: Over the last 30 years the German National Library of Science and Tech
 creators:
 - Bähr, Thomas
 - Liebetraut, Thomas
-- Lindlar, Michelle
 - Rechert, Klaus
+- Lindlar, Michelle
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378691/download
 grand_parent: iPRES
@@ -24,10 +24,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: poster
 size: 412336
 source_name: iPRES
 title: 'Functional Access to Electronic Media Collections using Emulation-as-a-Service:
-  Poster (Poster) - iPRES 2014 - Melbourne'
-type: poster
+  Poster (Poster) '
 year: 2014
 ---

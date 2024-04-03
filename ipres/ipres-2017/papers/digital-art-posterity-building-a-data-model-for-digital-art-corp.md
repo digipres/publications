@@ -16,12 +16,12 @@ abstract: 'The research project “Digital art and posterity”, February 2015- 
   so that all institutions involved in the collection, preservation and diffusion
   of digital art can provide input regarding its pertinence and interoperability.'
 creators:
-- Sicre, Adèle
 - Aziosmanoff, Florent
-- Chen, Chu-Yin
-- N'Diaye, Nola
-- Thomas, Céline
 - Fauduet, Louise
+- N'Diaye, Nola
+- Sicre, Adèle
+- Thomas, Céline
+- Chen, Chu-Yin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931069/download
 grand_parent: iPRES
@@ -35,9 +35,9 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 741873
 source_name: iPRES
 title: 'Digital art posterity: building a data model for digital art corpora'
-type: paper
 year: 2017
 ---

@@ -38,10 +38,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2005
 presentation_url: null
+publication_type: paper
 size: 1786530
 source_name: iPRES
 title: 'Information Life Cycle Management and Long Term Preservation - Technical Aspects
   Of Workflow Organisation: Presentation - iPRES 2005 - Göttingen'
-type: paper
 year: 2005
 ---

@@ -11,8 +11,8 @@ abstract: 'As part of the two-year Polonsky digital preservation research projec
   current systems, the collaboration relating to au- diting and reporting software
   used, the work which has already completed, and what is planned for rest of 2017-2018.'
 creators:
-- Gerrard, David
 - Mooney, James
+- Gerrard, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931141/download
 grand_parent: iPRES
@@ -27,10 +27,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: poster
 size: 285040
 source_name: iPRES
 title: Technical aspects from the Polonsky Digital Preservation Programme - The story
   so far at The Bodleian Libraries and Cambridge University Library
-type: poster
 year: 2017
 ---

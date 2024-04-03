@@ -6,8 +6,8 @@ abstract: In this paper, we study the usability of a range of emulators using vi
   a number of usability challenges. Finally, we discuss possible solutions to the
   usability challenges founded.
 creators:
-- Jensen, Claus
 - Moesgaard, Jakob
+- Jensen, Claus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424887/download
 grand_parent: iPRES
@@ -26,9 +26,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 238490
 source_name: iPRES
 title: A Usability Study of Emulation
-type: paper
 year: 2021
 ---

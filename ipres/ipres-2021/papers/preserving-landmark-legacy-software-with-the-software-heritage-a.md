@@ -21,9 +21,9 @@ abstract: 'The source code of landmark software developed since the beginning of
   '
 creators:
 - Scatena, Guido
+- Di Cosmo, Roberto
 - Montangero, Carlo
 - Bussi, Laura
-- Di Cosmo, Roberto
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424833/download
 grand_parent: iPRES
@@ -42,10 +42,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 6270751
 source_name: iPRES
 title: Preserving landmark legacy software with the Software Heritage Acquisition
   Process
-type: paper
 year: 2021
 ---

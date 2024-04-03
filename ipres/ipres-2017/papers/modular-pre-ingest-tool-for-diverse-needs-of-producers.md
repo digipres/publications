@@ -10,11 +10,11 @@ abstract: We introduce an open-source pre-ingest tool that assists the generatio
   to deeply understand either METS, PREMIS or other metadata formats to be able to
   preserve digital assets.
 creators:
-- Törnroos, Juha
-- Vatanen, Mikko
-- Somerkoski, Pauliina
-- Koivunen, Kimmo
 - Lehtonen, Kuisma
+- Koivunen, Kimmo
+- Vatanen, Mikko
+- Törnroos, Juha
+- Somerkoski, Pauliina
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931108/download
 grand_parent: iPRES
@@ -28,9 +28,9 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 432897
 source_name: iPRES
 title: Modular Pre-Ingest Tool for Diverse Needs of Producers
-type: paper
 year: 2017
 ---

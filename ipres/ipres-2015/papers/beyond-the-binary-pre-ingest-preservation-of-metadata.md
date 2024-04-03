@@ -9,8 +9,8 @@ abstract: This paper describes some of the challenges the National Library of Ne
   from the two perspectives of the digital archivist and the digital preservation
   analyst, and how these two perspectives inform our current thinking.
 creators:
-- Moran, Jessica
 - Gattuso, Jay
+- Moran, Jessica
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429555/download
 grand_parent: iPRES
@@ -27,9 +27,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 560666
 source_name: iPRES
 title: 'Beyond the Binary: Pre-Ingest Preservation of Metadata'
-type: paper
 year: 2015
 ---

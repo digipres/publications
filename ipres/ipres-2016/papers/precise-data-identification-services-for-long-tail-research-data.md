@@ -16,9 +16,9 @@ abstract: While sophisticated research infrastructures assist scientists in mana
   and allows efficient sharing of specific subsets of data even in highly dynamic
   data settings.
 creators:
+- Rauber, Andreas
 - Meixner, Kristof
 - Pröll, Stefan
-- Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502904/download
 grand_parent: iPRES
@@ -31,10 +31,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: paper
 size: 441345
 source_name: iPRES
-title: 'Precise Data Identification Services for Long Tail Research Data: Paper -
-  iPRES 2016 - Swiss National Library, Bern'
-type: paper
+title: Precise Data Identification Services for Long Tail Research Data
 year: 2016
 ---

@@ -22,10 +22,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 426557
 source_name: iPRES
 title: Research on Accessibility of Digital Documentation on Physical Media across
   Different Versions of MS Windows
-type: poster
 year: 2015
 ---

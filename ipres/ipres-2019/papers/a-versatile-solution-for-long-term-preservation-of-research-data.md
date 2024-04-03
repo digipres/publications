@@ -8,9 +8,9 @@ abstract: 'Developed in the context of the 2017- 2020 Swiss national programme â
   data straightforward, yet allows the qualification of the submitted formats so as
   to inform users of the risks incurred on the long term.'
 creators:
-- Cazeaux, Hugues
 - Echernier, Lydie
 - Burgi, Pierre-Yves
+- Cazeaux, Hugues
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079749/download
 grand_parent: iPRES
@@ -23,10 +23,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 137200
 source_name: iPRES
-title: A versatile solution for long-term preservation of research data - iPRES 2019
-  Amsterdam
-type: paper
+title: 'A versatile solution for long-term preservation of research data '
 year: 2019
 ---

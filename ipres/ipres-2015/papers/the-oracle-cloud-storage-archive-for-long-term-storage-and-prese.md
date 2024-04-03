@@ -26,9 +26,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 431223
 source_name: iPRES
 title: The Oracle Cloud Storage Archive for Long-term Storage and Preservation
-type: paper
 year: 2015
 ---

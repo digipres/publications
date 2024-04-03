@@ -24,10 +24,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 283884
 source_name: iPRES
-title: Building the future of digital preservation in french archival services - iPRES
-  2019 Amsterdam
-type: paper
+title: 'Building the future of digital preservation in french archival services '
 year: 2019
 ---

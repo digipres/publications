@@ -5,8 +5,8 @@ abstract: In this paper we describe a process of consultation and data gathering
   and requirements gathering with a particular focus on access, reuse and community
   engagement.
 creators:
-- O'Carroll, Aileen
 - Webb, Sharon
+- O'Carroll, Aileen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378090/download
 grand_parent: iPRES
@@ -27,11 +27,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 448575
 source_name: iPRES
 title: 'The process of building a national trusted digital repository: a user centric
-  approach for requirements gathering and policy development: Paper - iPres 2013 -
-  Lisbon'
-type: paper
+  approach for requirements gathering and policy development'
 year: 2013
 ---

@@ -13,8 +13,8 @@ abstract: Significant progress and guidance has been produced in data recovery f
   older 8-inch floppy media content to researchers.
 creators:
 - Roche, Austin
-- Adams , Abby
 - Sampson, Walker
+- Adams , Abby
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923648/download
 grand_parent: iPRES
@@ -28,10 +28,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 973455
 source_name: iPRES
-title: 'Data Recovery and Investigation from 8-inch Floppy Disk Media: Three Use Cases:
-  iPres 2018 - Boston'
-type: paper
+title: 'Data Recovery and Investigation from 8-inch Floppy Disk Media: Three Use Cases'
 year: 2018
 ---

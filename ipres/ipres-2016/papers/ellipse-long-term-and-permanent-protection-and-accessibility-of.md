@@ -12,9 +12,9 @@ abstract: 'Archiving of geodata historically focused on methods of keeping digit
   will report our findings and solutions as well as the obstacles we encountered during
   the course of Project Ellipse.'
 creators:
+- Marciani, Chiara
 - Mast, Alain
 - Ohnesorge, Krystyna W.
-- Marciani, Chiara
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503167/download
 grand_parent: iPRES
@@ -27,10 +27,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: paper
 size: 534404
 source_name: iPRES
-title: 'Ellipse – Long-term and Permanent Protection and Accessibility of Geodata:
-  Paper - iPRES 2016 - Swiss National Library, Bern'
-type: paper
+title: Ellipse – Long-term and Permanent Protection and Accessibility of Geodata
 year: 2016
 ---

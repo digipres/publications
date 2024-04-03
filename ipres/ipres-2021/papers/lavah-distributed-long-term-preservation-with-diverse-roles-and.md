@@ -9,8 +9,8 @@ abstract: 'Distributed long-term preservation with diverse roles and responsibil
 
   '
 creators:
-- Sinkovic, Martina
 - Schumann, Natascha
+- Sinkovic, Martina
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424901/download
 grand_parent: iPRES
@@ -27,9 +27,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: poster
 size: 61433
 source_name: iPRES
 title: LaVaH - Distributed long-term preservation with diverse roles and responsibilities
-type: poster
 year: 2021
 ---

@@ -19,10 +19,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: workshops and tutorials
 size: 123089
 source_name: iPRES
-title: 'Leveraging Web Archiving Tools for Research and LongTerm Access: Workshops
-  and Tutorials - iPRES 2014 - Melbourne'
-type: paper
+title: Leveraging Web Archiving Tools for Research and LongTerm Access
 year: 2014
 ---

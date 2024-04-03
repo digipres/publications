@@ -9,10 +9,10 @@ abstract: Scientists collect, generate, and analyze data in a variety of forms. 
   medicine domain that leverages archival, digital preservation, and data curation
   expertise and resources.
 creators:
-- Imker, Heidi
 - Braxton, Susan
 - Anderson,  Bethany
 - Popp, Tracy
+- Imker, Heidi
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923641/download
 grand_parent: iPRES
@@ -26,10 +26,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 271059
 source_name: iPRES
 title: 'The Art of Preserving Scientific Data: Building collaboration into the preservation
-  of a legacy database: iPres 2018 - Boston'
-type: paper
+  of a legacy database'
 year: 2018
 ---

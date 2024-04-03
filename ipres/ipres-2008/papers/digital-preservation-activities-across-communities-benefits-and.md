@@ -26,10 +26,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 28104
 source_name: iPRES
-title: 'Digital preservation activities across communities – benefits and problems:
-  Paper - iPRES 2008 - London'
-type: paper
+title: Digital preservation activities across communities – benefits and problems
 year: 2008
 ---

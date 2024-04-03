@@ -9,8 +9,8 @@ abstract: Scholars Portal sponsored Artefactual Systems Inc. to develop the abil
   potential for future developments to meet additional use cases, service models and
   preservation approaches for research data.
 creators:
-- Hurley, Grant
 - Goodchild, Meghan
+- Hurley, Grant
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081756/download
 grand_parent: iPRES
@@ -23,10 +23,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 392860
 source_name: iPRES
-title: Integrating Dataverse and Archivematica for Research Data Preservation - iPRES
-  2019 Amsterdam
-type: paper
+title: 'Integrating Dataverse and Archivematica for Research Data Preservation '
 year: 2019
 ---

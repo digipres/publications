@@ -24,9 +24,9 @@ abstract: 'Many memory institutions hold large collections of hand-held
   migration workflow and have stabilized over 16 terabytes of data in a scalable and
   economical manner.'
 creators:
-- Jackson, Andrew
-- Dappert, Angela
 - Kimura, Akiko
+- Dappert, Angela
+- Jackson, Andrew
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294206/download
 grand_parent: iPRES
@@ -44,10 +44,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 586478
 source_name: iPRES
-title: 'Developing a Robust Migration Workflow for Preserving and Curating Hand-held
-  Media: Paper - iPRES 2011 - Singapore'
-type: paper
+title: Developing a Robust Migration Workflow for Preserving and Curating Hand-held
+  Media
 year: 2011
 ---

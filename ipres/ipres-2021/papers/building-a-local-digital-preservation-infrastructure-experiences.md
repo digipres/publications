@@ -10,18 +10,18 @@ abstract: 'As cultural heritage organizations seek solutions, open source, commu
 
   '
 creators:
-- Ruest, Nick
-- Boock, Michael
 - Rieger, Oya Y.
+- Ruest, Nick
 - McCormack, Lindsay
+- Boock, Michael
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424893/download
 grand_parent: iPRES
 institutions:
-- Ithaka S+R
-- University of Oxford
-- Oregon State University
 - York University
+- University of Oxford
+- Ithaka S+R
+- Oregon State University
 keywords:
 - preservation systems
 - digital asset management
@@ -34,10 +34,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 166834
 source_name: iPRES
 title: 'BUILDING A LOCAL DIGITAL PRESERVATION INFRASTRUCTURE:  Experiences in Selecting
   and Implementing Digital Preservation Systems'
-type: paper
 year: 2021
 ---

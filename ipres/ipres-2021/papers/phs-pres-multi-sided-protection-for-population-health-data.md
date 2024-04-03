@@ -5,10 +5,10 @@ abstract: 'This poster presents the challenges of population health data long-te
 
   '
 creators:
+- Hu, Jiahui
+- Fan, Yunman
 - Yang, Chenliu
 - Fang, An
-- Fan, Yunman
-- Hu, Jiahui
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424923/download
 grand_parent: iPRES
@@ -26,9 +26,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: poster
 size: 302142
 source_name: iPRES
 title: 'PHS-PRES: MULTI-SIDED PROTECTION FOR POPULATION HEALTH DATA'
-type: poster
 year: 2021
 ---

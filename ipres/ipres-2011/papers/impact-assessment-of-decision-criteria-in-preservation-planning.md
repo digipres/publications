@@ -36,10 +36,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 1106015
 source_name: iPRES
-title: 'Impact Assessment of Decision Criteria in Preservation Planning: Paper - iPRES
-  2011 - Singapore'
-type: paper
+title: Impact Assessment of Decision Criteria in Preservation Planning
 year: 2011
 ---

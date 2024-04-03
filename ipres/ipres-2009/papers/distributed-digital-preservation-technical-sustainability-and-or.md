@@ -5,11 +5,11 @@ abstract: Representatives from a variety of distributed digital preservation ini
   networks to preserve the vast array of at-risk digital content produced by our societies
   and their institutions.
 creators:
-- Wilson, Thomas C.
+- Bishoff, Liz
+- Jordan, Mark
 - Walters, Tyler
 - Gore, Emily B.
-- Jordan, Mark
-- Bishoff, Liz
+- Wilson, Thomas C.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294025/download
 grand_parent: iPRES
@@ -23,10 +23,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 1070397
 source_name: iPRES
 title: 'Distributed Digital Preservation: Technical, Sustainability, and Organizational
-  Developments: Paper - iPRES 2009 - San Francisco'
-type: paper
+  Developments'
 year: 2009
 ---

@@ -16,11 +16,11 @@ abstract: 'To develop a comprehensive digital preservation program for maintaini
 
   policies and preservation operations.'
 creators:
-- Wu, Annie
 - Manning, Mary
 - Spragg, Rob
-- Krewer, Drew
 - Thompson, Santi
+- Wu, Annie
+- Krewer, Drew
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429562/download
 grand_parent: iPRES
@@ -34,10 +34,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 185061
 source_name: iPRES
 title: 'Preserving the Fruit of Our Labor: Establishing Digital Preservation Policies
   and Strategies at the University of Houston Libraries'
-type: paper
 year: 2015
 ---

@@ -5,8 +5,8 @@ abstract: In this hands on workshop we will address the tools, models and proces
   and test the use of existing tools with real world institutional problems and potential
   future tools/services.
 creators:
-- Beagrie, Neil
 - Kilbride, William
+- Beagrie, Neil
 - Stokes, Paul
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502825/download
@@ -20,10 +20,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: workshop
 size: 123550
 source_name: iPRES
-title: 'Building The Business Case And Funding Advocacy For Data Management Services:
-  Workshop - iPRES 2016 - Swiss National Library, Bern'
-type: paper
+title: Building The Business Case And Funding Advocacy For Data Management Services
 year: 2016
 ---

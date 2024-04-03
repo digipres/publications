@@ -22,11 +22,11 @@ abstract: The ability to recognize when digital content is becoming endangered i
   viability of the approach as an alternative or auxiliary method for automatically
   gathering information on preservation risks in digital content.
 creators:
+- Ferreira, Miguel
+- Ras, Marcel
+- Akbik, Alan
 - Carlos Ramalho, José
 - Sierman, Barbara
-- Akbik, Alan
-- Ras, Marcel
-- Ferreira, Miguel
 - Faria, Luís
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377390/download
@@ -46,10 +46,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 227721
 source_name: iPRES
-title: 'Automatic Preservation Watch using Information Extraction on the Web: Paper
-  - iPres 2013 - Lisbon'
-type: paper
+title: Automatic Preservation Watch using Information Extraction on the Web
 year: 2013
 ---

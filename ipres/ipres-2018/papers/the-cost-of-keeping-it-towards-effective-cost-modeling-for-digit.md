@@ -23,8 +23,8 @@ abstract: '"With the introduction of tools like the DLF’s Digitization Cost Ca
   introduce our use case and require- ments, current development challenges, and propose
   a prospective roadmap and options for community engagement."'
 creators:
-- Dohe, Kate
 - Durden, David
+- Dohe, Kate
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923634/download
 grand_parent: iPRES
@@ -38,10 +38,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 394325
 source_name: iPRES
-title: 'The Cost of Keeping It: Towards effective cost-modeling for digital preservation:
-  iPres 2018 - Boston'
-type: paper
+title: 'The Cost of Keeping It: Towards effective cost-modeling for digital preservation'
 year: 2018
 ---

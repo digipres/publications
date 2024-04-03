@@ -10,8 +10,8 @@ abstract: This session will outline the workflow associated with migrating socia
   be explored. Examples from the ongoing project to migrate the Yale Social Science
   Data Archive from a postgreSQL database into FEDORA will be provided.
 creators:
-- Gewirtz, David
 - Gano, Gretchen
+- Gewirtz, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294856/download
 grand_parent: iPRES
@@ -25,10 +25,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
 presentation_url: null
+publication_type: presentation
 size: 108365
 source_name: iPRES
 title: 'Towards A Preservation Content Model for Numeric Data Collections: PREMIS
-  and FEDORA: Presentation - iPRES 2006 - Ithaca'
-type: paper
+  and FEDORA'
 year: 2006
 ---

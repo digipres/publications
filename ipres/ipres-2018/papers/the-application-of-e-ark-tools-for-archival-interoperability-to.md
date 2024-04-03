@@ -26,10 +26,10 @@ abstract: Since the early 2000s the European Union has promoted and supported th
   on the SIP format, as well as the steps the European Commission is taking towards
   building a thriving digital preservation community around the E-ARK outcomes.
 creators:
-- Anderson, David
 - Kaminski, Jaime
-- Aas, Kuldar
 - Bredenberg, Karin
+- Aas, Kuldar
+- Anderson, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923635/download
 grand_parent: iPRES
@@ -43,10 +43,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 187585
 source_name: iPRES
-title: 'The application of E-ARK tools for archival interoperability to support a
-  long-term sustainable Digital Single Market: iPres 2018 - Boston'
-type: paper
+title: The application of E-ARK tools for archival interoperability to support a long-term
+  sustainable Digital Single Market
 year: 2018
 ---

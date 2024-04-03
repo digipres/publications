@@ -17,12 +17,12 @@ abstract: 'Digital preservation is increasingly recognized as a need by organiza
   assessment method proved to be a valuable tool for raising awareness of the digital
   preservation issues in those organizations.'
 creators:
-- Becker, Christoph
-- Barateiro, Jose
-- Antunes, Goncalo
-- Vieira, Ricardo
-- Proenca, Diogo
 - Borbinha, Jose
+- Vieira, Ricardo
+- Antunes, Goncalo
+- Barateiro, Jose
+- Proenca, Diogo
+- Becker, Christoph
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293865/download
 grand_parent: iPRES
@@ -43,10 +43,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 984759
 source_name: iPRES
-title: 'Assessing Digital Preservation Capabilities Using a Checklist Assessment Method:
-  Paper - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+title: Assessing Digital Preservation Capabilities Using a Checklist Assessment Method
 year: 2012
 ---

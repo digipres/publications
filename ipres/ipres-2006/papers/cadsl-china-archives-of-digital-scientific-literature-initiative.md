@@ -30,10 +30,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
 presentation_url: null
+publication_type: presentation
 size: 186892
 source_name: iPRES
-title: 'CADSL: China Archives of Digital Scientific Literature Initiative: Presentation
-  - iPRES 2006 - Ithaca'
-type: paper
+title: 'CADSL: China Archives of Digital Scientific Literature Initiative'
 year: 2006
 ---

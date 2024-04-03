@@ -60,10 +60,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 41010
 source_name: iPRES
-title: 'PRESERVING VISUAL APPEARANCE OF EGOVERNMENT  WEB FORMS USING METADATA  DRIVEN
-  IMITATION: Paper - iPres 2010 - Vienna'
-type: paper
+title: PRESERVING VISUAL APPEARANCE OF EGOVERNMENT  WEB FORMS USING METADATA  DRIVEN
+  IMITATION
 year: 2010
 ---

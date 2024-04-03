@@ -20,17 +20,17 @@ abstract: Members of the digital preservation community collate and cap-ture met
   advantages to the cultural heritage do-main that proprietary knowledge bases do
   not provide.
 creators:
-- Caron, Bertrand
 - Thornton, Katherine
 - Ledoux, Thomas
-- Cochrane, Euan
+- Caron, Bertrand
 - Wilson, Carl
+- Cochrane, Euan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931058/download
 grand_parent: iPRES
 institutions:
-- Open Preservation Foundation
 - Yale University
+- Open Preservation Foundation
 - Bibliotheque nationale de France
 keywords:
 - kyoto
@@ -41,9 +41,9 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 999853
 source_name: iPRES
 title: Modeling the Domain of Digital Preservation in Wikidata
-type: paper
 year: 2017
 ---

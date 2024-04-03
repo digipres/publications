@@ -11,8 +11,8 @@ abstract: 'Databases preserved in archives contain highly valuable information t
 
   '
 creators:
-- Rauber, Andreas
 - Weise, Martin
+- Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424920/download
 grand_parent: iPRES
@@ -29,10 +29,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 215184
 source_name: iPRES
 title: A data-visiting infrastructure for providing access to preserved databases
   that cannot be shared or made publicly accessible
-type: paper
 year: 2021
 ---

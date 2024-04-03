@@ -10,13 +10,13 @@ abstract: 'The creation of most digital objects occurs solely in interactive gra
   Success terms for the conception and functionality of emulation environments are
   therefore devised which should be applied to future long-term archiving methods. '
 creators:
-- Schroder, Jasper
 - van den Dobbelsteen, Maurice
 - van der Hoeven, Jeffrey
-- von Suchodoletz, Dirk
-- Roberts, Bill
+- Schroder, Jasper
 - Welte, Randolph
 - Rechert, Klaus
+- von Suchodoletz, Dirk
+- Roberts, Bill
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294023/download
 grand_parent: iPRES
@@ -30,10 +30,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 1551899
 source_name: iPRES
-title: 'Novel Workflows for Abstract Handling of Complex Interaction Processes in
-  Digital Preservation: Paper - iPRES 2009 - San Francisco'
-type: paper
+title: Novel Workflows for Abstract Handling of Complex Interaction Processes in Digital
+  Preservation
 year: 2009
 ---

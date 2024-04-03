@@ -21,8 +21,8 @@ abstract: 'Digital business records are more at risk now than ever
 
   firms.'
 creators:
-- Kirsch, David A.
 - Meister, Sam
+- Kirsch, David A.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245908/download
 grand_parent: iPRES
@@ -36,10 +36,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: poster
 size: 156036
 source_name: iPRES
-title: 'SHERWOOD ARCHIVE PROJECT: PRESERVING THE  PRIVATE RECORDS OF PUBLIC INTEREST:
-  Poster - iPres 2010 - Vienna'
-type: poster
+title: 'SHERWOOD ARCHIVE PROJECT: PRESERVING THE  PRIVATE RECORDS OF PUBLIC INTEREST'
 year: 2010
 ---

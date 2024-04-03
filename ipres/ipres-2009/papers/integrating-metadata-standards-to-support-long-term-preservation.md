@@ -17,8 +17,8 @@ abstract: This paper explores the purpose and development of best practice guide
   of an exchange format and creation/validation tools based on the PREMIS in METS
   guidelines.
 creators:
-- Wolfe, Robert
 - Guenther, Rebecca
+- Wolfe, Robert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293897/download
 grand_parent: iPRES
@@ -32,11 +32,11 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 798402
 source_name: iPRES
 title: 'Integrating Metadata Standards to Support Long-Term Preservation of Digital
   Assets: Developing Best Practices for Expressing Preservation Metadata in a Container
-  Format: Paper - iPRES 2009 - San Francisco'
-type: paper
+  Format'
 year: 2009
 ---

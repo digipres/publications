@@ -29,10 +29,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 494888
 source_name: iPRES
 title: 'We are all Archivists: Encouraging Personal Digital Archiving and Citizen
-  Archiving on a Community Scale: Paper - iPRES 2011 - Singapore'
-type: paper
+  Archiving on a Community Scale'
 year: 2011
 ---

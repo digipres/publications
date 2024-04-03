@@ -15,9 +15,9 @@ license: All rights reserved
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: lightning talk
 size: 78029
 source_name: iPRES
 title: Preserving Immersive Media
-type: lightning talk
 year: 2021
 ---

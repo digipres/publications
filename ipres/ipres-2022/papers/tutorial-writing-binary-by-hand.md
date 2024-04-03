@@ -20,9 +20,9 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: tutorial
 size: null
 source_name: iPRES
 title: 'Tutorial: Writing Binary By Hand'
-type: tutorial
 year: 2022
 ---

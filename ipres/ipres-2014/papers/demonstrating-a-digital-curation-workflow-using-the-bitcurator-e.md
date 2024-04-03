@@ -29,10 +29,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: demonstration
 size: 140743
 source_name: iPRES
-title: 'Demonstrating a Digital Curation Workflow using the BitCurator Environment:
-  Demonstration - iPRES 2014 - Melbourne'
-type: paper
+title: Demonstrating a Digital Curation Workflow using the BitCurator Environment
 year: 2014
 ---

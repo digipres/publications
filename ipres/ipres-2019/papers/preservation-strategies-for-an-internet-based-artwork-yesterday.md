@@ -12,10 +12,10 @@ abstract: This paper investigates possible preservation strategies for an intern
   to handle these challenges and discusses its benefits and disadvantages for long-term
   preservation.
 creators:
+- Rechert, Klaus
+- Noordegraaf, Julia
 - Gieschke, Rafael
 - Roeck, Claudia
-- Noordegraaf, Julia
-- Rechert, Klaus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081740/download
 grand_parent: iPRES
@@ -28,10 +28,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 546620
 source_name: iPRES
-title: Preservation strategies for an internet-based artwork yesterday today and tomorrow
-  - iPRES 2019 Amsterdam
-type: paper
+title: 'Preservation strategies for an internet-based artwork yesterday today and
+  tomorrow '
 year: 2019
 ---

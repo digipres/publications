@@ -27,10 +27,10 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: panel
 size: null
 source_name: iPRES
 title: 'Panel: Computational Access to Digital Material: Exploring topics around engagement,
   ethics and resources'
-type: panel
 year: 2022
 ---

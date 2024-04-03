@@ -67,10 +67,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 113414
 source_name: iPRES
 title: 'PAPER TEMPLATE FOR IPRES 2010: QUALITY  INSURANCE THROUGH BUSINESS PROCESS  MANAGEMENT
-  IN A FRENCH ARCHIVE: Paper - iPres 2010 - Vienna'
-type: paper
+  IN A FRENCH ARCHIVE'
 year: 2010
 ---

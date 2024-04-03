@@ -29,10 +29,10 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: short paper
 size: null
 source_name: iPRES
 title: 'Short Paper: Developing an approach for archiving Digital Audio Workstation
   projects: A pilot study'
-type: short paper
 year: 2022
 ---

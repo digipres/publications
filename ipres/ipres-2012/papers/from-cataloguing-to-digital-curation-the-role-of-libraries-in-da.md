@@ -38,10 +38,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 658337
 source_name: iPRES
-title: 'From cataloguing to digital curation: the role of libraries in data exchange:
-  Paper - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+title: 'From cataloguing to digital curation: the role of libraries in data exchange'
 year: 2012
 ---

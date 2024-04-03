@@ -15,10 +15,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
 presentation_url: null
+publication_type: presentation
 size: 801569
 source_name: iPRES
-title: 'The Chronopolis Demonstration Project: A Grid-Based Digital Preservation Environment:
-  Presentation - iPRES 2007 - Beijing'
-type: paper
+title: 'The Chronopolis Demonstration Project: A Grid-Based Digital Preservation Environment'
 year: 2007
 ---

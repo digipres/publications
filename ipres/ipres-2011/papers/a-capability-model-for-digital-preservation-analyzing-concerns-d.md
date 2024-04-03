@@ -15,10 +15,10 @@ abstract: The last decade has seen a number of reference models and compliance c
   the understanding of cross-cutting concerns and the dicussion on maturity models
   in DP.
 creators:
-- Becker, Christoph
 - Vieira, Ricardo
-- Antunes, Gonçalo
+- Becker, Christoph
 - Barateiro, José
+- Antunes, Gonçalo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294202/download
 grand_parent: iPRES
@@ -38,10 +38,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
 presentation_url: null
+publication_type: paper
 size: 2658337
 source_name: iPRES
 title: 'A Capability Model for Digital Preservation : Analyzing Concerns, Drivers,
-  Constraints, Capabilities and Maturities: Paper - iPRES 2011 - Singapore'
-type: paper
+  Constraints, Capabilities and Maturities'
 year: 2011
 ---

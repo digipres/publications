@@ -39,10 +39,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 945272
 source_name: iPRES
 title: A Dutch approach in constructing a network of nationwide facilities for digital
   preservation together
-type: paper
 year: 2017
 ---

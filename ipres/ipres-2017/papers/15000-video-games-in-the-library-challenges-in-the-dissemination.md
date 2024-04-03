@@ -20,10 +20,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: poster
 size: 95305
 source_name: iPRES
 title: 15,000 video games in the library Challenges in the dissemination of interactive
   digital objects
-type: poster
 year: 2017
 ---

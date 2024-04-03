@@ -10,8 +10,8 @@ abstract: Format identification output needs to be assessed within an institutio
   are mostly independent of the specific tools and systems employed.
 creators:
 - Suri, Roland E.
-- Geisser, Franziska
 - Töwe, Matthias
+- Geisser, Franziska
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503183/download
 grand_parent: iPRES
@@ -24,10 +24,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: poster
 size: 44108
 source_name: iPRES
-title: 'To Act or Not to Act – Handling File Format Identification Issues in Practice:
-  Poster - iPRES 2016 - Swiss National Library, Bern'
-type: poster
+title: To Act or Not to Act – Handling File Format Identification Issues in Practice
 year: 2016
 ---

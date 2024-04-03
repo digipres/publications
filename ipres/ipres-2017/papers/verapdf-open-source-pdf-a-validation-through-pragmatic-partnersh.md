@@ -6,10 +6,10 @@ abstract: veraPDF is an open source industry-supported PDF/A conformance checker
   the software. It also explores how the unique partnership between cultural heritage
   organisations and PDF industry has created an active open source community.
 creators:
-- Wilson, Carl
-- Doubrov, Boris
-- Johnson, Duff
 - McGuinness, Rebecca
+- Johnson, Duff
+- Doubrov, Boris
+- Wilson, Carl
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931098/download
 grand_parent: iPRES
@@ -23,9 +23,9 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 381867
 source_name: iPRES
 title: 'veraPDF: open source PDF/A validation through pragmatic partnership'
-type: paper
 year: 2017
 ---

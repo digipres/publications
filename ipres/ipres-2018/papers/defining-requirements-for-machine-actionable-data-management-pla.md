@@ -27,10 +27,10 @@ abstract: "\"Data Management Plans (DMPs) are free-form text documents describin
   how needs for infor- mation of particular stakeholders evolve over phases of the
   research data lifecycle.\""
 creators:
-- Neish, Peter
 - Walk, Paul
-- Miksa, Tomasz
 - Rauber, Andreas
+- Neish, Peter
+- Miksa, Tomasz
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923628/download
 grand_parent: iPRES
@@ -44,10 +44,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
 presentation_url: null
+publication_type: paper
 size: 970093
 source_name: iPRES
-title: 'Defining requirements for machine-actionable data management plans: iPres
-  2018 - Boston'
-type: paper
+title: Defining requirements for machine-actionable data management plans
 year: 2018
 ---

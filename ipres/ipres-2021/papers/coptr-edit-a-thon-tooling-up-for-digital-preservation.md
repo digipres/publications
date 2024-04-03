@@ -21,16 +21,16 @@ abstract: 'Community Owned digital Preservation Tool Registry (COPTR) was develo
 
   '
 creators:
-- Erdman, Stacey
 - Molenda, Ania
+- Erdman, Stacey
 - Wheatley, Paul
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424907/download
 grand_parent: iPRES
 institutions:
-- Dutch Digital Heritage Organization
-- Digital Preservation Coalition
 - Digital POWRR
+- Digital Preservation Coalition
+- Dutch Digital Heritage Organization
 keywords:
 - preservation tools
 - open source tools
@@ -43,9 +43,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 140939
 source_name: iPRES
 title: COPTR-EDIT-A-THON Tooling up for digital preservation
-type: paper
 year: 2021
 ---

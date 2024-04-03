@@ -16,11 +16,11 @@ abstract: Important legal and economic motivations exist for the design and engi
   of the engineering industry.
 creators:
 - Wilkes, Wolfgang
-- Heidbrink, Hans-Ulrich
+- Hundsdörfer, Andreas
+- Brunsmann, Jörg
 - Hemmje, Matthias
 - Heutelbeck, Dominic
-- Brunsmann, Jörg
-- Hundsdörfer, Andreas
+- Heidbrink, Hans-Ulrich
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294018/download
 grand_parent: iPRES
@@ -34,10 +34,9 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
 presentation_url: null
+publication_type: paper
 size: 788850
 source_name: iPRES
-title: 'Towards Support for Long-Term Digital Preservation in Product Life Cycle Management:
-  Paper - iPRES 2009 - San Francisco'
-type: paper
+title: Towards Support for Long-Term Digital Preservation in Product Life Cycle Management
 year: 2009
 ---

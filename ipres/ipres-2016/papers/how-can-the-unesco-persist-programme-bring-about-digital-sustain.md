@@ -16,9 +16,9 @@ abstract: This workshop will address the topic of sustained access to digital co
   preservation given the novel nature of the topic.
 creators:
 - Delve, Janet
-- Lee, C. A. L.
 - Milic-Frayling, Natasa
 - Anderson, David
+- Lee, C. A. L.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502831/download
 grand_parent: iPRES
@@ -31,10 +31,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
 presentation_url: null
+publication_type: workshop
 size: 266591
 source_name: iPRES
-title: 'How can the UNESCO PERSIST Programme bring about Digital Sustainability through
-  Legacy Software Services?: Workshop - iPRES 2016 - Swiss National Library, Bern'
-type: paper
+title: How can the UNESCO PERSIST Programme bring about Digital Sustainability through
+  Legacy Software Services?
 year: 2016
 ---

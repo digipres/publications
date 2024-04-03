@@ -55,10 +55,10 @@ abstract: 'An accepted digital preservation workflow is emerging in
 
   preservation actions.'
 creators:
-- Rauber, Andreas
-- Carr, Les
-- Hitchcock, Steve
 - Kulovits, Hannes
+- Hitchcock, Steve
+- Carr, Les
+- Rauber, Andreas
 - Tarrant, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185510/download
@@ -72,10 +72,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
 presentation_url: null
+publication_type: paper
 size: 745335
 source_name: iPRES
-title: 'CONNECTING PRESERVATION PLANNING AND PLATO WITH  DIGITAL REPOSITORY INTERFACES:
-  Paper - iPres 2010 - Vienna'
-type: paper
+title: CONNECTING PRESERVATION PLANNING AND PLATO WITH  DIGITAL REPOSITORY INTERFACES
 year: 2010
 ---

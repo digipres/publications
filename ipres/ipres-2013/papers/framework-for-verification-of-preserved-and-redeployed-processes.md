@@ -9,13 +9,13 @@ abstract: Preserving processes requires not only the identification of all proce
   preservation and the redeployment of the eScience process is tested by migrating
   it to substantially different environments.
 creators:
-- Mayer, Rudolf
 - Miksa, Tomasz
-- Rauber, Andreas
-- Pröll, Stefan
 - Vieira, Ricardo
 - Strodl, Stephan
+- Mayer, Rudolf
 - Barateiro, José
+- Pröll, Stefan
+- Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378039/download
 grand_parent: iPRES
@@ -29,10 +29,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 203026
 source_name: iPRES
-title: 'Framework for Verification of Preserved and Redeployed Processes: Paper -
-  iPres 2013 - Lisbon'
-type: paper
+title: Framework for Verification of Preserved and Redeployed Processes
 year: 2013
 ---

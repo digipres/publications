@@ -12,12 +12,12 @@ abstract: 'In 2019 the Library of Congress launched the Digital Collections Mana
 
   '
 creators:
-- Cassidy-Amstutz, Andrew
-- Gonzalez-Fernandez, Pedro
-- Salas, Camille
-- Darby, Kristy
 - Owens, Trevor
+- Darby, Kristy
+- Salas, Camille
 - Johnston, Jesse
+- Gonzalez-Fernandez, Pedro
+- Cassidy-Amstutz, Andrew
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424886/download
 grand_parent: iPRES
@@ -36,10 +36,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 245245
 source_name: iPRES
 title: 'Building Policy & Capacity: Launching the U.S. Library of Congress Digital
   Collections Management Compendium'
-type: paper
 year: 2021
 ---

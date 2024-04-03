@@ -12,10 +12,10 @@ abstract: This paper aims to explain how the National Library of France(BnF) fac
   reality. Some improvements were provided, while taking intoaccount the rest of the
   digital ecosystem of the BnF.
 creators:
-- Caron, Bertrand
-- de La Houssaye, Jordan
 - Ledoux, Thomas
+- de La Houssaye, Jordan
 - Reecht, Stéphane
+- Caron, Bertrand
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931065/download
 grand_parent: iPRES
@@ -29,10 +29,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 1612415
 source_name: iPRES
 title: 'Life and Death of an Information Package: Implementing the Lifecycle in a
   Multi-Purpose Preservation System'
-type: paper
 year: 2017
 ---

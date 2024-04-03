@@ -32,9 +32,9 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 638332
 source_name: iPRES
 title: How the Dutch prepared for certification
-type: paper
 year: 2017
 ---

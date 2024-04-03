@@ -27,10 +27,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: paper
 size: 164448
 source_name: iPRES
 title: 'The SCAPE Policy Framework, maturity levels and the need for realistic preservation
-  policies: Paper - iPES 2014 - Melbourne'
-type: paper
+  policies: Paper '
 year: 2014
 ---

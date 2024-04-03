@@ -15,9 +15,9 @@ abstract: In the beginning, SPAR, the National Library of France's repository, w
   are met while SPAR remains viable.
 creators:
 - Derrot, Sophie
-- Fauduet, Louise
 - Oury, Clement
 - Peyrard, Sebastien
+- Fauduet, Louise
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:292755/download
 grand_parent: iPRES
@@ -37,10 +37,9 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 presentation_url: null
+publication_type: paper
 size: 594017
 source_name: iPRES
-title: 'Preservation Is Knowledge: A community-driven preservation approach: Paper
-  - iPRES 2012 - Digital Curation Institute, iSchool, Toronto'
-type: paper
+title: 'Preservation Is Knowledge: A community-driven preservation approach'
 year: 2012
 ---

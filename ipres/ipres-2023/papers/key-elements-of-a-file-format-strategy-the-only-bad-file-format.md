@@ -26,10 +26,10 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
 presentation_url: null
+publication_type: presentation
 size: null
 source_name: iPRES
 title: 'KEY ELEMENTS OF A FILE FORMAT STRATEGY: The only bad file format is one that
   hasn''t been documented. [presentation]'
-type: presentation
 year: 2023
 ---

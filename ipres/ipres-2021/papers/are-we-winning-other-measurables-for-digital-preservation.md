@@ -29,9 +29,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 359497
 source_name: iPRES
 title: Are we winning? Other measurables for Digital Preservation
-type: paper
 year: 2021
 ---

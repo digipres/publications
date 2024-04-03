@@ -25,10 +25,10 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
 presentation_url: null
+publication_type: short paper
 size: null
 source_name: iPRES
 title: 'Short Paper: Digital Preservation Pipeline for Data Storage Media At The Cinémathèque
   Suisse'
-type: short paper
 year: 2022
 ---

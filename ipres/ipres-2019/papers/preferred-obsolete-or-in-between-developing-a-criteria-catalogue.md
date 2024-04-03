@@ -19,10 +19,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
 presentation_url: null
+publication_type: paper
 size: 135706
 source_name: iPRES
-title: Preferred, Obsolete Or In-Between? Developing A Criteria Catalogue For AV-Material
-  - iPRES 2019 Amsterdam
-type: paper
+title: 'Preferred, Obsolete Or In-Between? Developing A Criteria Catalogue For AV-Material '
 year: 2019
 ---

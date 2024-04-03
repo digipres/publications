@@ -30,10 +30,9 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: poster
 size: 345628
 source_name: iPRES
-title: 'Automating the Preservation of Electronic Theses and Dissertations with Archivematica:
-  Poster - iPres 2013 - Lisbon'
-type: poster
+title: Automating the Preservation of Electronic Theses and Dissertations with Archivematica
 year: 2013
 ---

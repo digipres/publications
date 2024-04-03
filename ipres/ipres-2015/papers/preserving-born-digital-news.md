@@ -15,12 +15,12 @@ abstract: The news industry has quickly adopted networked digital technologies t
   as will tools that have been developed to capture social media and other content
   from the web that contributes to the present day news ecosystem.
 creators:
-- Klein, Martin
+- Sommers, Hannah
 - Reecht, Stéphane
-- Potter, Abigail
 - Moffatt, Christie
 - McCain, Edward
-- Sommers, Hannah
+- Klein, Martin
+- Potter, Abigail
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429528/download
 grand_parent: iPRES
@@ -36,9 +36,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 253019
 source_name: iPRES
 title: Preserving Born-Digital News
-type: paper
 year: 2015
 ---

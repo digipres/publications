@@ -5,9 +5,9 @@ abstract: We present the status of digital preservation at the National Digital 
   and preservation of digital cultural heritage.
 creators:
 - Tiainen, Mikko
-- Lehtonen, Juha
 - Koivunen, Kimmo
 - Helin, Heikki
+- Lehtonen, Juha
 - Lehtonen, Kuisma
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429594/download
@@ -24,9 +24,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: paper
 size: 317744
 source_name: iPRES
 title: A National Preservation Solution for Cultural Heritage
-type: paper
 year: 2015
 ---

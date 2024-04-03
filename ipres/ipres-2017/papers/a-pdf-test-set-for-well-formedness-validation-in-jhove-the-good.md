@@ -17,8 +17,8 @@ abstract: Digital preservation and active software stewardship are both cycli- c
   detected inconsistencies of the PDF-module back into the open source development
   process.
 creators:
-- Wilson, Carl
 - Lindlar, Michelle
+- Wilson, Carl
 - Tunnat, Yvonne
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931074/download
@@ -33,10 +33,10 @@ license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
 presentation_url: null
+publication_type: paper
 size: 156182
 source_name: iPRES
 title: A PDF Test-Set for Well-Formedness Validation in JHOVE - The Good, the Bad
   and the Ugly
-type: paper
 year: 2017
 ---

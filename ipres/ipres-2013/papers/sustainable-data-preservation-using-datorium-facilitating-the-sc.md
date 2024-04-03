@@ -40,10 +40,10 @@ license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
 presentation_url: null
+publication_type: paper
 size: 324045
 source_name: iPRES
 title: 'Sustainable Data Preservation using datorium – facilitating the Scientific
-  Ideal of Data Sharing in the Social Sciences : Paper - iPres 2013 - Lisbon'
-type: paper
+  Ideal of Data Sharing in the Social Sciences '
 year: 2013
 ---

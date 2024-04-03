@@ -12,10 +12,10 @@ abstract: 'This paper presents the Minimum Preservation Tool (MPT), designed and
 
   '
 creators:
-- Davies, Kevin
-- Pennock, Maureen
-- Beaman, John
 - May, Peter
+- Beaman, John
+- Pennock, Maureen
+- Davies, Kevin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424906/download
 grand_parent: iPRES
@@ -38,9 +38,9 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
 presentation_url: null
+publication_type: paper
 size: 338549
 source_name: iPRES
 title: 'BACK TO BASICS: THE MINIMUM PRESERVATION TOOL'
-type: paper
 year: 2021
 ---

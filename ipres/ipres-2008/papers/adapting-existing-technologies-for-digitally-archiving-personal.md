@@ -22,11 +22,10 @@ license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
 presentation_url: null
+publication_type: paper
 size: 60512
 source_name: iPRES
-title: 'Adapting Existing Technologies for Digitally Archiving Personal Lives Digital
-  Forensics, Ancestral Computing, and Evolutionary Perspectives and Tools: Paper -
-  iPRES 2008 - London'
-type: paper
+title: Adapting Existing Technologies for Digitally Archiving Personal Lives Digital
+  Forensics, Ancestral Computing, and Evolutionary Perspectives and Tools
 year: 2008
 ---

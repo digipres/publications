@@ -31,10 +31,10 @@ license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
 presentation_url: null
+publication_type: poster
 size: 355512
 source_name: iPRES
 title: Automatic Identification and Preservation of National Parts of the Internet
   Outside a Country’s Top Level Domain
-type: poster
 year: 2015
 ---

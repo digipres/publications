@@ -5,13 +5,13 @@ abstract: 'This workshop introduces the work of the National and State Libraries
   with working through exercises designed not only to give participants an understanding
   of the model, but to test and critique it. '
 creators:
-- McKinney, Peter
-- Knight, Steve
-- Gattuso, Jay
-- Spencer, Ross
-- Hutař, Jan
 - Coufal, Libor
+- Knight, Steve
+- Hutař, Jan
 - DeVorsey, Kevin
+- McKinney, Peter
+- Spencer, Ross
+- Gattuso, Jay
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378142/download
 grand_parent: iPRES
@@ -31,10 +31,10 @@ license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 presentation_url: null
+publication_type: workshops and tutorials
 size: 141075
 source_name: iPRES
-title: 'Modelling File Formats and Technical Environments using the NSLA Digital Preservation
-  Technical Registry (DPTR): Workshops and Tutorials - iPRES 2014 - Melbourne'
-type: paper
+title: Modelling File Formats and Technical Environments using the NSLA Digital Preservation
+  Technical Registry (DPTR)
 year: 2014
 ---
