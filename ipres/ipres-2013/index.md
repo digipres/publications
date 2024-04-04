@@ -18,4 +18,4 @@ has_children: true
 
 Some photos from iPRES 2013 are available at:
 
-- https://www.flickr.com/photos/100843315@N06/
+- <https://www.flickr.com/photos/100843315@N06/>
