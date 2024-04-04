@@ -1,13 +1,5 @@
 ---
-abstract: Emulation frameworks as well as emulation as an access strategy have matured.
-  With more simplified access to emulation and improved workflows, there is still
-  a gap to be closed, primarily the availability of emulators and especially for smaller
-  niches like arcade games or pre-PC computers. In this article we propose methods
-  to simplify emulator preparation for framework integration as well as describing
-  an emulator’s technical capabilities. Both, the technical design and the technical
-  description of emulators will provide a foundation for cooperative work to identify,
-  list, describe and integrate emulators of interest for the digital preservation
-  community.
+abstract: null
 creators:
 - Sierman, Barbara
 date: null
