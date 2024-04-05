@@ -17,8 +17,8 @@ callouts:
 aux_links:
   GitHub: https://github.com/digipres/publications
 
-plugins:
-  - jekyll-datapage-generator
+#plugins:
+#  - jekyll-datapage-generator
 
 # Generate pages from data:
 #page_gen-dirs: true
