@@ -1,2 +1,7 @@
+title: "DigiPresPubs (WIP)"
+
 url: https://digipres-org-publications.netlify.app
 baseurl: ""
+
+# Specific to this site, enable a warning when running on Netlify:
+show_edit_site_warning: true
