@@ -7,6 +7,9 @@ backend:
   branch: main
 media_folder: "assets/uploads"
 
+# Use the PR-based editorial workflow:
+publish_mode: editorial_workflow
+
 #site_url: https://www.digipres.org/publications/
 
 collections:
@@ -60,7 +63,8 @@ collections:
   - label: "Session Recordings URL"
     name: session_recordings
     required: false
-  - {label: "Body", name: "body", widget: "markdown", required: false}
+  - { label: 'Show Child Pages', name: 'has_children', widget: 'boolean', default: true, hint: "This controls whether the navigation menu includes a sub-section for the publications associated with this conference. If there are none, this can be switched off to make the menu look neater." }
+  - { label: "Body", name: "body", widget: "markdown", required: false }
 
 - name: 'pages'
   label: 'Pages'
