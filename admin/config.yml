@@ -70,3 +70,12 @@ collections:
         - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
         - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'home' }
         - { label: 'Body', name: 'body', widget: 'markdown' }
+    - label: 'iPRES Introduction Page'
+      name: 'iPRES-intro-page'
+      file: 'ipres/index.md'
+      fields:
+        - { label: 'Title', name: 'title', widget: 'hidden', default: 'iPRES' }
+        - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+        - { label: 'Has Children', name: 'has_children', widget: 'hidden', default: true }
+        - { label: 'Has TOC', name: 'has_toc', widget: 'hidden', default: false }
+        - { label: 'Body', name: 'body', widget: 'markdown' }
