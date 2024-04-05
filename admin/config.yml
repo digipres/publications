@@ -71,7 +71,7 @@ collections:
         - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'home' }
         - { label: 'Body', name: 'body', widget: 'markdown' }
     - label: 'iPRES Introduction Page'
-      name: 'iPRES-intro-page'
+      name: 'ipres/index'
       file: 'ipres/index.md'
       fields:
         - { label: 'Title', name: 'title', widget: 'hidden', default: 'iPRES' }
