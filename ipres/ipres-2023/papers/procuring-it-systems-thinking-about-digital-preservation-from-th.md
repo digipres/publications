@@ -25,7 +25,7 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
 presentation_url: null
-publication_type: unknown
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'PROCURING IT SYSTEMS: Thinking about digital preservation from the start'

@@ -24,24 +24,24 @@ abstract: Records created in organizations that have archival value should be pr
 creators:
 - Sağlık, Özhan
 date: null
-document_url: https://www.ideals.illinois.edu/items/128846/bitstreams/430286/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128293/bitstreams/428951/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
 - digital records
 - digital preservation
 - trustworthiness
-landing_page_url: https://hdl.handle.net/2142/121652
+landing_page_url: https://hdl.handle.net/2142/121089
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121652
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'NDSA LEVELS OF DIGITAL PRESERVATION: A REVIEW IN TERMS OF TRUSTWORTHINESS
-  OF DIGITAL RECORDS [presentation]'
+  OF DIGITAL RECORDS'
 year: 2023
 ---

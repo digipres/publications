@@ -25,6 +25,6 @@ publication_type: presentation
 size: null
 source_name: iPRES
 title: 'CREATING AN END-TO-END PROCESS FOR IMPLEMENTING A DIGITAL ARCHIVING WORKFLOW:
-  How we are putting theory into practice [presentation]'
+  How we are putting theory into practice'
 year: 2023
 ---

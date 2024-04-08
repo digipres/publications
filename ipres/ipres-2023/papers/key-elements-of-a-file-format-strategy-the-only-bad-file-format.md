@@ -12,24 +12,24 @@ abstract: Within the Digital Preservation Community there are many references to
 creators:
 - Thorsted, Tyler
 date: null
-document_url: https://www.ideals.illinois.edu/items/128873/bitstreams/430336/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128330/bitstreams/429025/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
 - file formats
 - documentation
 - registry
-landing_page_url: https://hdl.handle.net/2142/121679
+landing_page_url: https://hdl.handle.net/2142/121127
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121679
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'KEY ELEMENTS OF A FILE FORMAT STRATEGY: The only bad file format is one that
-  hasn''t been documented. [presentation]'
+  hasn''t been documented.'
 year: 2023
 ---

@@ -12,7 +12,7 @@ creators:
 - Curtis, Rachel
 - Drake Davis, Laura
 date: null
-document_url: https://www.ideals.illinois.edu/items/128845/bitstreams/430284/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128332/bitstreams/429029/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -21,17 +21,17 @@ keywords:
 - scalability
 - technical infrastructure
 - digital preservation
-landing_page_url: https://hdl.handle.net/2142/121651
+landing_page_url: https://hdl.handle.net/2142/121129
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121651
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'EVOLUTION OF BORN-DIGITAL MOVING IMAGE PROCESSING: Moving to scalable and
-  sustainable workflows [presentation]'
+  sustainable workflows'
 year: 2023
 ---

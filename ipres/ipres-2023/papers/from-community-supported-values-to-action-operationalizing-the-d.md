@@ -19,7 +19,7 @@ creators:
 - Mumma, Courtney
 - Schaefer, Sibyl
 date: null
-document_url: https://www.ideals.illinois.edu/items/128869/bitstreams/430332/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128280/bitstreams/428925/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -28,17 +28,17 @@ keywords:
 - values
 - transparency
 - accountability
-landing_page_url: https://hdl.handle.net/2142/121675
+landing_page_url: https://hdl.handle.net/2142/121076
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121675
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'FROM COMMUNITY-SUPPORTED VALUES TO ACTION: Operationalizing the Digital Preservation
-  Declaration of Shared Values [presentation]'
+  Declaration of Shared Values'
 year: 2023
 ---

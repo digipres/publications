@@ -9,7 +9,7 @@ abstract: We proposed a decentralized version tracking system using the existing
 creators:
 - Alam, Sawood
 date: null
-document_url: https://www.ideals.illinois.edu/items/128854/bitstreams/430302/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128294/bitstreams/428953/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -18,17 +18,17 @@ keywords:
 - decentralized web
 - dweb
 - web archiving
-landing_page_url: https://hdl.handle.net/2142/121660
+landing_page_url: https://hdl.handle.net/2142/121090
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121660
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'IPARO: INTERPLANETARY ARCHIVAL RECORD OBJECT FOR DECENTRALIZED WEB ARCHIVING
-  AND REPLAY [presentation]'
+  AND REPLAY'
 year: 2023
 ---

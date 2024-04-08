@@ -10,7 +10,7 @@ creators:
 - McMeekin, Sharon
 - Haunton, Melinda
 date: null
-document_url: https://www.ideals.illinois.edu/items/128877/bitstreams/430342/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128303/bitstreams/428971/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -18,17 +18,17 @@ keywords:
 - workforce development
 - skills
 - collaboration
-landing_page_url: https://hdl.handle.net/2142/121683
+landing_page_url: https://hdl.handle.net/2142/121099
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121683
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'RUNNING UP THAT HILL: Making Digital Preservation Skills Accessible with Novice
-  to Know-How [presentation]'
+  to Know-How'
 year: 2023
 ---

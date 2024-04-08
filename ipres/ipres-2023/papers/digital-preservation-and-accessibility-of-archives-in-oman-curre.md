@@ -39,6 +39,6 @@ publication_type: presentation
 size: null
 source_name: iPRES
 title: 'DIGITAL PRESERVATION AND ACCESSIBILITY OF ARCHIVES IN OMAN: Current Status
-  and Future Directions [presentation]'
+  and Future Directions'
 year: 2023
 ---

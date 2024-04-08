@@ -10,7 +10,7 @@ abstract: This paper reports on the results from a qualitative study that asks w
 creators:
 - Frank, Rebecca D.
 date: null
-document_url: https://www.ideals.illinois.edu/items/128847/bitstreams/430288/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128290/bitstreams/428945/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -19,17 +19,17 @@ keywords:
 - iso 16363
 - trac
 - repository assessment
-landing_page_url: https://hdl.handle.net/2142/121653
+landing_page_url: https://hdl.handle.net/2142/121086
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121653
+publication_type: paper
 size: null
 source_name: iPRES
 title: REPOSITORY STAFF PERSPECTIVES ON THE BENEFITS OF TRUSTWORTHY DIGITAL REPOSITORY
-  CERTIFICATION [presentation]
+  CERTIFICATION
 year: 2023
 ---

@@ -11,7 +11,7 @@ creators:
 - McAlpine, Katrina
 - Stanton, Jennifer
 date: null
-document_url: https://www.ideals.illinois.edu/items/128848/bitstreams/430290/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128324/bitstreams/429013/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -20,17 +20,17 @@ keywords:
 - data curation
 - sustainability
 - digital preservation
-landing_page_url: https://hdl.handle.net/2142/121654
+landing_page_url: https://hdl.handle.net/2142/121121
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121654
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'RESCUING LEGACY DIGITAL COLLECTIONS: Lessons Learned from Migrating Historical
-  Bespoke Digital Collections [presentation]'
+  Bespoke Digital Collections'
 year: 2023
 ---

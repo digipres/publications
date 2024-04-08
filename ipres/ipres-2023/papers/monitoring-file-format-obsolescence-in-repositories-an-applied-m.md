@@ -14,7 +14,7 @@ abstract: The Dutch Digital Heritage Network (DDHN) wants to improve the monitor
 creators:
 - Alloing, Sam
 date: null
-document_url: https://www.ideals.illinois.edu/items/128851/bitstreams/430296/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128320/bitstreams/429005/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -23,16 +23,16 @@ keywords:
 - applied research
 - file format obsolescence
 - bass diffusion model
-landing_page_url: https://hdl.handle.net/2142/121657
+landing_page_url: https://hdl.handle.net/2142/121117
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121657
+publication_type: paper
 size: null
 source_name: iPRES
-title: 'MONITORING FILE FORMAT OBSOLESCENCE IN REPOSITORIES: An applied method [presentation]'
+title: 'MONITORING FILE FORMAT OBSOLESCENCE IN REPOSITORIES: An applied method'
 year: 2023
 ---

@@ -13,9 +13,11 @@ abstract: Many preservation actions that we undertake on digital content are dri
 creators:
 - O’Sullivan, Jack
 - Clipsham, David
+- Soni, Divyesh
 - Smith, Richard
+- Tilbury, Jonathan
 date: null
-document_url: https://www.ideals.illinois.edu/items/128859/bitstreams/430312/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128291/bitstreams/428947/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -23,17 +25,17 @@ keywords:
 - automation
 - characterization
 - preservation actions
-landing_page_url: https://hdl.handle.net/2142/121665
+landing_page_url: https://hdl.handle.net/2142/121087
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121665
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'A QUESTION OF CHARACTER: How do we automatically recharacterize data at cloud
-  scales? [presentation]'
+  scales?'
 year: 2023
 ---

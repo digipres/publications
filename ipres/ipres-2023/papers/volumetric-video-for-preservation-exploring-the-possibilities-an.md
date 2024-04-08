@@ -12,7 +12,7 @@ creators:
 - Carter, Bryan
 - Bliedung von der Heide, Sven
 date: null
-document_url: https://www.ideals.illinois.edu/items/128880/bitstreams/430348/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128284/bitstreams/428933/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -21,17 +21,17 @@ keywords:
 - digital storytelling
 - inclusion
 - preservation
-landing_page_url: https://hdl.handle.net/2142/121686
+landing_page_url: https://hdl.handle.net/2142/121080
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121686
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'VOLUMETRIC VIDEO FOR PRESERVATION: Exploring the Possibilities and Challenges
-  for Immersive BIPOC Storytelling [presentation]'
+  for Immersive BIPOC Storytelling'
 year: 2023
 ---

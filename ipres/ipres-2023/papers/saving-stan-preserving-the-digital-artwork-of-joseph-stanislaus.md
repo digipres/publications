@@ -12,7 +12,7 @@ abstract: It is not unusual to find at-risk obsolete carriers in archival collec
 creators:
 - Ellis, Taryn
 date: null
-document_url: https://www.ideals.illinois.edu/items/128881/bitstreams/430350/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128314/bitstreams/428993/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -21,17 +21,16 @@ keywords:
 - risc os
 - born digital
 - digital artwork
-landing_page_url: https://hdl.handle.net/2142/121687
+landing_page_url: https://hdl.handle.net/2142/121111
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121687
+publication_type: paper
 size: null
 source_name: iPRES
-title: 'SAVING STAN: Preserving the Digital Artwork of Joseph Stanislaus Ostoja-Kotkowski
-  [presentation]'
+title: 'SAVING STAN: Preserving the Digital Artwork of Joseph Stanislaus Ostoja-Kotkowski'
 year: 2023
 ---

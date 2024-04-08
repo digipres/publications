@@ -8,32 +8,34 @@ abstract: In 2020, Adobe announced that they would end support for Adobe Flash P
   to our Flash objects through emulation. We were curious to find out if we had Flash
   objects, where they were located, and which solution would help us render these
   objects. This was done with the use of the three preservation functions (Watch,
-  Action, and Planning). After locating the Flash objects, we were able to test potential
+  Action, and Planning).  After locating the Flash objects, we were able to test potential
   solutions. The results were then applied to our situation at the National Archives.
   This led to the development of conclusions and several pieces of advice accompanying
   those.
 creators:
-- Rappard, Marin
+- van Veenendaal, Remco
 - Wijsman, Lotte
+- Takema, Jacob
+- Rappard, Marin
 date: null
-document_url: https://www.ideals.illinois.edu/items/128789/bitstreams/430170/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128299/bitstreams/428963/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
 - flash
 - emulation
 - migration
-landing_page_url: https://hdl.handle.net/2142/121595
+landing_page_url: https://hdl.handle.net/2142/121095
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121595
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'AROUND FOR DECADES, GONE IN A FLASH: How we dealt with Flash objects at the
-  National Archives of the Netherlands [presentation]'
+  National Archives of the Netherlands'
 year: 2023
 ---

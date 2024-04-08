@@ -8,7 +8,7 @@ creators:
 - Kaltman, Eric
 - Larson, Adam
 date: null
-document_url: https://www.ideals.illinois.edu/items/128853/bitstreams/430300/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128333/bitstreams/429031/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -16,17 +16,16 @@ keywords:
 - digital preservation
 - qualitative analysis
 - grounded theory
-landing_page_url: https://hdl.handle.net/2142/121659
+landing_page_url: https://hdl.handle.net/2142/121130
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121659
+publication_type: paper
 size: null
 source_name: iPRES
-title: 'TACIT PROCESSES: Qualitative Analysis Toward Bottom-Up Emulation Workflows
-  [presentation]'
+title: 'TACIT PROCESSES: Qualitative Analysis Toward Bottom-Up Emulation Workflows'
 year: 2023
 ---

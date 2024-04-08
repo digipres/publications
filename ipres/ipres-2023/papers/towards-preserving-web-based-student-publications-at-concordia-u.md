@@ -11,7 +11,7 @@ creators:
 - Lake, Sarah
 - Richan, John
 date: null
-document_url: https://www.ideals.illinois.edu/items/128879/bitstreams/430346/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128316/bitstreams/428997/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -20,16 +20,16 @@ keywords:
 - university archives
 - academic libraries
 - archive-it
-landing_page_url: https://hdl.handle.net/2142/121685
+landing_page_url: https://hdl.handle.net/2142/121113
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121685
+publication_type: paper
 size: null
 source_name: iPRES
-title: TOWARDS PRESERVING WEB-BASED STUDENT PUBLICATIONS AT CONCORDIA UNIVERSITY [presentation]
+title: TOWARDS PRESERVING WEB-BASED STUDENT PUBLICATIONS AT CONCORDIA UNIVERSITY
 year: 2023
 ---

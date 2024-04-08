@@ -4,7 +4,7 @@ abstract: While New York University Libraries has a long history of and commitme
   policies governing the services and activities of digital preservation prior to
   2022. This paper details the creation of a holistic digital preservation policy
   statement, with contributors from across ten functional units at NYU Libraries.
-  The policy was grounded in the Libraries’ mission and values–including deep commitments
+  The policy was grounded in the Libraries’ mission and values–including  deep commitments
   to inclusion, diversity, belonging, equity, and accessibility–and drew on themes
   crafted by all members of the group to ensure their work was represented in the
   statement. The success of the policy group was rooted in its intentional formation
@@ -17,7 +17,7 @@ creators:
 - McCann, Laura
 - Stephan, Weatherly A.
 date: null
-document_url: https://www.ideals.illinois.edu/items/128793/bitstreams/430179/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128309/bitstreams/428983/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -26,17 +26,16 @@ keywords:
 - policy
 - preservation strategy
 - stewardship
-landing_page_url: https://hdl.handle.net/2142/121599
+landing_page_url: https://hdl.handle.net/2142/121106
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121599
+publication_type: paper
 size: null
 source_name: iPRES
-title: 'FROM SILOS TO COMMUNITY: The Path to a Holistic Digital Preservation Policy
-  [presentation]'
+title: 'FROM SILOS TO COMMUNITY: The Path to a Holistic Digital Preservation Policy'
 year: 2023
 ---

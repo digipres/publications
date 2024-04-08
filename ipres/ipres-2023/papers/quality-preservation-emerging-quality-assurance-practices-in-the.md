@@ -12,8 +12,9 @@ abstract: Building sustainable quality assurance practices is a challenge for to
   in the Library of Congress Web Archiving Program.
 creators:
 - Lyon, Meghan
+- Bicho, Grace
 date: null
-document_url: https://www.ideals.illinois.edu/items/128856/bitstreams/430306/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128325/bitstreams/429015/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -21,17 +22,17 @@ keywords:
 - quality assurance
 - workflows
 - human-centered digital practitioners
-landing_page_url: https://hdl.handle.net/2142/121662
+landing_page_url: https://hdl.handle.net/2142/121122
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121662
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'QUALITY PRESERVATION: Emerging Quality Assurance Practices in the Library
-  of Congress Web Archives [presentation]'
+  of Congress Web Archives'
 year: 2023
 ---

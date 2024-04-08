@@ -32,7 +32,7 @@ license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
 presentation_url: null
-publication_type: unknown
+publication_type: paper
 size: null
 source_name: iPRES
 title: 'EAASI PRESERVATION OF MOBILE APPLICATIONS: Progress with the long-term preservation

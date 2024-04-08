@@ -17,9 +17,9 @@ abstract: Most of the knowledge generated in academic institutions today is in d
   Southern African public Universities Institutional Repositories.
 creators:
 - Erima, Juliet
-- Mosweu, Tshepho L.
+- Mosweu , Tshepho L.
 date: null
-document_url: https://www.ideals.illinois.edu/items/128866/bitstreams/430326/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128289/bitstreams/428943/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -28,17 +28,17 @@ keywords:
 - universities
 - digital records curation
 - institutional repositories
-landing_page_url: https://hdl.handle.net/2142/121672
+landing_page_url: https://hdl.handle.net/2142/121085
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121672
+publication_type: paper
 size: null
 source_name: iPRES
 title: DIGITAL RECORDS CURATION AT THE EAST AND SOUTHERN AFRICAN UNIVERSITIES INSTITUTIONAL
-  REPOSITORIES (IRS) [presentation]
+  REPOSITORIES (IRS)
 year: 2023
 ---

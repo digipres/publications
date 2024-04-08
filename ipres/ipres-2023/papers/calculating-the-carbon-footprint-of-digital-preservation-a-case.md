@@ -11,8 +11,11 @@ abstract: Environmental sustainability is becoming an important factor in digita
   the services is smaller than the annual carbon footprint of three average Finns.
 creators:
 - Tiainen, Mikko
+- Lehtonen, Juha
+- Helin, Heikki
+- Kylander, Johan
 date: null
-document_url: https://www.ideals.illinois.edu/items/128849/bitstreams/430292/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128307/bitstreams/428979/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -21,16 +24,16 @@ keywords:
 - data centers
 - hardware manufacturing
 - hardware service life
-landing_page_url: https://hdl.handle.net/2142/121655
+landing_page_url: https://hdl.handle.net/2142/121104
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
-publication_type: presentation
+presentation_url: https://hdl.handle.net/2142/121655
+publication_type: paper
 size: null
 source_name: iPRES
-title: 'CALCULATING THE CARBON FOOTPRINT OF DIGITAL PRESERVATION: A Case Study [presentation]'
+title: 'CALCULATING THE CARBON FOOTPRINT OF DIGITAL PRESERVATION: A Case Study'
 year: 2023
 ---

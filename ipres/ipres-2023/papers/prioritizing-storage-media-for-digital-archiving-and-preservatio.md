@@ -26,6 +26,6 @@ presentation_url: null
 publication_type: presentation
 size: null
 source_name: iPRES
-title: PRIORITIZING STORAGE MEDIA FOR DIGITAL ARCHIVING AND PRESERVATION [presentation]
+title: PRIORITIZING STORAGE MEDIA FOR DIGITAL ARCHIVING AND PRESERVATION
 year: 2023
 ---
