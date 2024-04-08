@@ -21,7 +21,7 @@ collections:
   path: '{{slug}}/index'
   slug: '{{title}}'
   filter: { field: "parent", value: "iPRES" }
-  preview_path: ipres/{{slug}}
+  preview_path: ipres/{{dirname}}/
   fields:
   - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'ipres' }
   - { label: 'Parent', name: 'parent', widget: 'hidden', default: 'iPRES' }
