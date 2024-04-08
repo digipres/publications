@@ -13,10 +13,10 @@ abstract: The requirements to support large-scale and complex research collectio
   of sustainable collections and a seamless transition through data gathering and
   curation, large-scale analysis, and collections dissemination and preservation.
 creators:
-- Jordan, Christopher
-- Urban, Tomislav
 - Esteva, Maria
 - Walling, David
+- Urban, Tomislav
+- Jordan, Christopher
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294218/download
 grand_parent: iPRES

@@ -17,9 +17,9 @@ abstract: 'This paper presents an approach for merging information automatically
 
   '
 creators:
+- Graf, Roman
 - Ryan, Heather
 - Gordea, Sergiu
-- Graf, Roman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378112/download
 grand_parent: iPRES

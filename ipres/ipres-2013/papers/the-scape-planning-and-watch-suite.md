@@ -10,9 +10,9 @@ abstract: Increasingly, content owners are operating repositories with large, he
   planning, and monitoring, and show how they can be combined to support scalable
   management of preservation over time.
 creators:
-- Duretec, Kresimir
 - Kraxner, Michael
 - Plangg, Markus
+- Duretec, Kresimir
 - Becker, Christoph
 - Faria, Luís
 date: null

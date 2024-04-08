@@ -41,8 +41,8 @@ abstract: 'The Bibliothèque nationale de France has developed its
 
   collection curator or system manager.'
 creators:
-- Peyrard, Sébastien
 - Fauduet, Louise
+- Peyrard, Sébastien
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185415/download
 grand_parent: iPRES

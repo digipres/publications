@@ -9,16 +9,16 @@ abstract: Some of the shared digital artefacts of digital research are executabl
   change. Our approach makes extensive use of provenance information and also considers
   aggregate structures called Research Objects as a means for promoting workflow preservation.
 creators:
-- Hettne, Kristina
-- Goble, Carole
-- Gómez-Pérez, José Manuel
-- Klyne, Graham
 - De Roure, David
+- Goble, Carole
+- Klyne, Graham
 - Roos, Marco
+- Hettne, Kristina
 - Ruiz, José Enrique
+- Palma, Raúl
+- Gómez-Pérez, José Manuel
 - Missier, Paolo
 - Belhajjame, Khalid
-- Palma, Raúl
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294253/download
 grand_parent: iPRES

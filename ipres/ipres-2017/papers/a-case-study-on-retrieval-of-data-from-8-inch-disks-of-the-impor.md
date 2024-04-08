@@ -28,8 +28,8 @@ abstract: 'There are still a significant number of born-digital artefacts which 
   which aims to provide some lessons for use in related contexts.'
 creators:
 - de Vries, Denise
-- Meyer, Willibald
 - von Suchodoletz, Dirk
+- Meyer, Willibald
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931070/download
 grand_parent: iPRES

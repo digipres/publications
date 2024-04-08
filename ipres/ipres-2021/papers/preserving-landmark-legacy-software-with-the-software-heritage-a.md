@@ -20,9 +20,9 @@ abstract: 'The source code of landmark software developed since the beginning of
 
   '
 creators:
-- Scatena, Guido
 - Di Cosmo, Roberto
 - Montangero, Carlo
+- Scatena, Guido
 - Bussi, Laura
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424833/download

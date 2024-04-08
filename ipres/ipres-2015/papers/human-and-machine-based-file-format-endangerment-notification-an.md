@@ -12,8 +12,8 @@ abstract: Effectively preserving access to digital content over time is dependen
   based on human expert input.
 creators:
 - Ryan, Heather
-- Gordea, Sergiu
 - Graf, Roman
+- Gordea, Sergiu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429557/download
 grand_parent: iPRES

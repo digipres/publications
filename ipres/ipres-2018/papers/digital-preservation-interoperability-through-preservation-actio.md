@@ -29,11 +29,11 @@ abstract: Current digital preservation systems such as Archivematica and Preserv
   preservation, provide users with more flexibility and knowledge sharing opportunities,
   and accelerate the adoption of digital preservation in new sectors.
 creators:
-- Tilbury, Jonathan
-- O'Sullivan, Jack
 - Addis , Matthew
+- O'Sullivan, Jack
 - Simpson , Justin
 - Stokes , Paul
+- Tilbury, Jonathan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:922205/download
 grand_parent: iPRES

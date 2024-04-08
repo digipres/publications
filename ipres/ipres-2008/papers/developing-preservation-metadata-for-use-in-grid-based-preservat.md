@@ -6,8 +6,8 @@ abstract: Establishing metadata requirements is a key challenge for any attempt 
   system will offer at the conclusion of its first year of development.
 creators:
 - Hutt, Arwen
-- McDonald, Robert
 - Sutton, Don
+- McDonald, Robert
 - Kozbial, Ardys
 - Westbrook, Brad
 date: null

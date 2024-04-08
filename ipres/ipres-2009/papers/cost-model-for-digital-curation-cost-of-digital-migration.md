@@ -15,8 +15,8 @@ abstract: The Danish Ministry of Culture is currently funding a project to set u
   need additional detailing in order to cost activities accurately.
 creators:
 - Kejser, Ulla Bøgvad
-- Nielsen, Anders Bo
 - Thirifays, Alex
+- Nielsen, Anders Bo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294004/download
 grand_parent: iPRES

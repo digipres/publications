@@ -12,9 +12,9 @@ abstract: Digital preservation research has increasingly been shifting focus fro
   the challenges and implications for establishing sustainable and verifiable eScience
   processes.
 creators:
+- Mayer, Rudolf
 - Proell, Stefan
 - Rauber, Andreas
-- Mayer, Rudolf
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293771/download
 grand_parent: iPRES

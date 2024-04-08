@@ -13,8 +13,8 @@ abstract: 'Organisations with a commitment to long-term digital preservation nee
   16363. We explain some of the challenges of the work and the immediate effects of
   the process, which, at the time of writing, is not finished yet. '
 creators:
-- Junge, Jette
 - Elstrøm, Gry
+- Junge, Jette
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378128/download
 grand_parent: iPRES

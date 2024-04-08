@@ -6,8 +6,8 @@ abstract: This poster session describes the selection criteria and process used 
   mapping of “rights” elements in DC datastreams to PREMIS “rightsExtension” elements,
   and more.
 creators:
-- Henderson, Jaime
 - Truman, Gail
+- Henderson, Jaime
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429609/download
 grand_parent: iPRES

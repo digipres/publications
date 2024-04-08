@@ -20,14 +20,14 @@ abstract: 'Astronomers are producing and analyzing data at ever more prodigious 
   access mechanisms.'
 creators:
 - Ehling, Teresa
+- Plante, Ray
+- Milkey, Robert
+- Vishniac, Ethan
+- Szalay, Alex
 - DiLauro, Tim
 - Choudhury, Sayeed
-- Hanisch, Robert
-- Vishniac, Ethan
 - Steffen, Julie
-- Szalay, Alex
-- Milkey, Robert
-- Plante, Ray
+- Hanisch, Robert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294565/download
 grand_parent: iPRES

@@ -23,8 +23,8 @@ abstract: '"With the introduction of tools like the DLF’s Digitization Cost Ca
   introduce our use case and require- ments, current development challenges, and propose
   a prospective roadmap and options for community engagement."'
 creators:
-- Durden, David
 - Dohe, Kate
+- Durden, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923634/download
 grand_parent: iPRES

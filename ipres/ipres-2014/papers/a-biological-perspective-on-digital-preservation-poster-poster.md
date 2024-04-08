@@ -12,11 +12,11 @@ abstract: Successful preservation of Digital Objects (DOs) ultimately demands a 
   background. It includes first results from a case-study examining a software-based
   art preservation scenario (SBA) developed as part of the PERICLES FP7 project.
 creators:
-- Eggers, Anna
 - Pocklington, Michael
-- Hedges, Mark
-- Ludwig, Jens
+- Eggers, Anna
 - Corubolo, Fabio
+- Ludwig, Jens
+- Hedges, Mark
 - Darányi, Sándor
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378714/download

@@ -24,8 +24,8 @@ abstract: In developing and debating digital repositories, the digital library w
   in a specific scientific field, for example domain-specific metadata standards,
   as well as the ability to give high-impact exposure to research products.
 creators:
-- Gutmann, Myron
 - Green, Ann
+- Gutmann, Myron
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294566/download
 grand_parent: iPRES

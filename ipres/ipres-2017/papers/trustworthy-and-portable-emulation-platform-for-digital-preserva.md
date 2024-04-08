@@ -12,9 +12,9 @@ abstract: We present an architecture for a trustworthy and portableemulation pla
   of encrypted data on the untrusted user platform foruse by the emulator and hence
   limits the potential perfor-mance issues originated from remote execution over Internetconnections.
 creators:
-- Myers, Steven
-- Brown, Geoffrey
 - Tarkhani, Zahra
+- Brown, Geoffrey
+- Myers, Steven
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931066/download
 grand_parent: iPRES

@@ -18,15 +18,15 @@ abstract: 'With the development of digital technology, museums are facing a grea
 
   '
 creators:
-- Liu, Huan
 - Zhang, Peipei
+- Liu, Huan
 - Hou, Chenchen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424917/download
 grand_parent: iPRES
 institutions:
-- China Ordnance Industry Survey and Geotechnical Institute
 - The Palace Museum
+- China Ordnance Industry Survey and Geotechnical Institute
 keywords:
 - museum
 - cultural relics

@@ -12,9 +12,9 @@ abstract: This paper looks at some of the domain specific preservation challenge
   comprehensive and practical advice for data creators plus a number of case studies
   which demonstrate the real practical application of the Guides.
 creators:
+- Mitcham, Jenny
 - Niven, Kieron
 - Richards, Julian
-- Mitcham, Jenny
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185505/download
 grand_parent: iPRES

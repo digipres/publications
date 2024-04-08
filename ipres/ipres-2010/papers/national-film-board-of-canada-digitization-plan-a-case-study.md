@@ -9,9 +9,9 @@ abstract: The digital revolution has completely changed how audiences use and in
   more sophisticated than past technologies, but also much more open and promising.
   Our aim is to exploit the full potential of these new and constantly evolving technologies.
 creators:
+- Dutrisac, Julie
 - Ruel, Christian
 - Frate, Luisa
-- Dutrisac, Julie
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245906/download
 grand_parent: iPRES

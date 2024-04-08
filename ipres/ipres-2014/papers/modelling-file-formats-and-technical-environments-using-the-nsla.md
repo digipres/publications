@@ -5,13 +5,13 @@ abstract: 'This workshop introduces the work of the National and State Libraries
   with working through exercises designed not only to give participants an understanding
   of the model, but to test and critique it. '
 creators:
-- Coufal, Libor
-- Knight, Steve
-- Hutař, Jan
-- DeVorsey, Kevin
-- McKinney, Peter
-- Spencer, Ross
 - Gattuso, Jay
+- DeVorsey, Kevin
+- Coufal, Libor
+- Spencer, Ross
+- Hutař, Jan
+- McKinney, Peter
+- Knight, Steve
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378142/download
 grand_parent: iPRES

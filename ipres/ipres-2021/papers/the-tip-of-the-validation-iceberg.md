@@ -6,8 +6,8 @@ abstract: 'This paper describes the volume of JHOVE-based file validation warnin
 
   '
 creators:
-- Goethals, Andrea
 - Gattuso, Jay
+- Goethals, Andrea
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424902/download
 grand_parent: iPRES

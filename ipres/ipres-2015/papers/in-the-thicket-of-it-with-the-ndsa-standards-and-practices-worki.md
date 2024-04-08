@@ -17,11 +17,11 @@ abstract: The engaged membership of the National Digital Stewardship Alliance’
   nature of the S&P’s varied projects as well as to increase community awareness of
   the collaboratively developed resources and products.
 creators:
-- Kussmann, Carol
 - Atkins, Winston
 - Engle, Erin
 - Goethals, Andrea
 - Jackson, Karl
+- Kussmann, Carol
 - Murray, Kate
 - Paolillo, Michelle
 - Soprano, Mariella

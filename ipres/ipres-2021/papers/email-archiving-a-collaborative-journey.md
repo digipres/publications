@@ -10,18 +10,18 @@ abstract: 'This panel examines the current and future developments in email arch
 
   '
 creators:
-- Abrams, Stephen
 - Martinez, Ruby
 - Prom, Chris
-- Teichman, Matt
+- Abrams, Stephen
 - Wiedeman, Gregory
+- Teichman, Matt
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424945/download
 grand_parent: iPRES
 institutions:
-- University of Albany, SUNY
 - University of Illinois
 - Harvard University
+- University of Albany, SUNY
 - University of Chicago
 keywords:
 - email archiving

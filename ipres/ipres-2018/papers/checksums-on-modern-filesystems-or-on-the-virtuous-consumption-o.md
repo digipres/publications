@@ -32,8 +32,8 @@ abstract: '"Computing checksums to prevent bit rot is accepted wisdom in the dig
   code paths for working with and validating block checksums are also demonstrated."'
 creators:
 - Garnett, Alex
-- Winter, Mike
 - Simpson, Justin
+- Winter, Mike
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923643/download
 grand_parent: iPRES

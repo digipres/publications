@@ -20,11 +20,11 @@ abstract: Digital preservation is a resource intensive task, requiring specific 
   and recommendations a thesis will be formulated for each of the three factors, which
   will then be checked against the experience gained by the Goportis consortium.
 creators:
-- Friese, Yvonne
-- Bähr, Thomas
 - Lindlar, Michelle
-- von Trosdorf, Anja
+- Friese, Yvonne
 - Müller, Elisabeth
+- Bähr, Thomas
+- von Trosdorf, Anja
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377394/download
 grand_parent: iPRES

@@ -8,8 +8,8 @@ abstract: Digital information often relies on the interactions of multiple indiv
   this enables us to determine which tools to use to undertake particular preservation
   actions for a Representation.
 creators:
-- Smith, Richard
 - O'Sullivan, Jack
+- Smith, Richard
 - Tilbury, Jonathan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424890/download

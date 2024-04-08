@@ -10,8 +10,8 @@ abstract: The National Diet Library (NDL) has been providing access to digitized
   challenges faced in effecting long-term preservation while meeting the functional
   requirements of the OAIS reference model.
 creators:
-- Kamitsuna, Shuji
 - Kimezawa, Tsukasa
+- Kamitsuna, Shuji
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502843/download
 grand_parent: iPRES

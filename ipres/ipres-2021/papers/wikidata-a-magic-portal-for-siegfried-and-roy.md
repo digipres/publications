@@ -19,17 +19,17 @@ abstract: 'A project team was established in late 2019 to create a Siegfried/Wik
 
   '
 creators:
+- Spencer, Ross
 - Thornton, Katherine
 - Lehane, Richard
 - Cochrane, Euan
-- Spencer, Ross
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424926/download
 grand_parent: iPRES
 institutions:
+- Ravensburger AG
 - Yale University Library
 - International Atomic Energy Agency
-- Ravensburger AG
 keywords:
 - wikidata
 - wikidp

@@ -10,8 +10,8 @@ abstract: Digital preservation workflows for image collections involving automat
   and well in accordance with results obtained independently by human visual inspection.
 creators:
 - Huber-Mork, Reinhold
-- Schlarb, Sven
 - Schindler, Alexander
+- Schlarb, Sven
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293840/download
 grand_parent: iPRES

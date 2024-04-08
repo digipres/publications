@@ -6,10 +6,10 @@ abstract: This panel aims to link research and practice around the preservation 
   across the continuum and rendering, and shaping research data services to address
   the two in a more effective, integrated manner.
 creators:
-- Ensberg, Vessela
-- Hull, Elizabeth
 - Faniel, Ixchel
+- Ensberg, Vessela
 - Shaw, Seth
+- Hull, Elizabeth
 - Moore, Reagan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429527/download

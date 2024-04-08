@@ -9,10 +9,10 @@ abstract: 'We describe a hybrid approach for access to digital objects contained
   digital forensics software libraries to produce web-accessible file system views
   to support single-file access and provide visualizations of the file system.'
 creators:
-- Rechert, Klaus
-- Liebetraut, Thomas
 - Woods, Kam
 - Lee, Christopher
+- Liebetraut, Thomas
+- Rechert, Klaus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429564/download
 grand_parent: iPRES

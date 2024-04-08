@@ -12,10 +12,10 @@ abstract: This paper aims to explain how the National Library of France(BnF) fac
   reality. Some improvements were provided, while taking intoaccount the rest of the
   digital ecosystem of the BnF.
 creators:
-- Ledoux, Thomas
-- de La Houssaye, Jordan
-- Reecht, Stéphane
 - Caron, Bertrand
+- de La Houssaye, Jordan
+- Ledoux, Thomas
+- Reecht, Stéphane
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931065/download
 grand_parent: iPRES

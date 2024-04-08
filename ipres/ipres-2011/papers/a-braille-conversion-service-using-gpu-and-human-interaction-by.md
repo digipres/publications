@@ -15,8 +15,8 @@ abstract: Scalable systems and services for preserving digital content became im
   using Braille patterns. No special input device and skills are needed, only familiarity
   with Braille code is required.
 creators:
-- Huber-Mörk, Reinhold
 - Graf, Roman
+- Huber-Mörk, Reinhold
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294245/download
 grand_parent: iPRES

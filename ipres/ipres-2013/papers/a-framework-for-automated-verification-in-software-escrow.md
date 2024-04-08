@@ -15,9 +15,9 @@ abstract: If a business is in need of customized software it often orders it fro
   framework.
 creators:
 - Weigl, Elisabeth
+- Binder, Johannes
 - Strodl, Stephan
 - Kolany, Barbara
-- Binder, Johannes
 - Draws, Daniel
 - Rauber, Andreas
 date: null

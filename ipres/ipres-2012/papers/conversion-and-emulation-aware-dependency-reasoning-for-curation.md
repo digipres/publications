@@ -9,8 +9,8 @@ abstract: A quite general view of the digital preservation problem and its assoc
   reduce the human effort required for periodically checking (monitoring) whether
   a task on a digital object is performable.
 creators:
-- Marketakis, Yannis
 - Tzitzikas, Yannis
+- Marketakis, Yannis
 - Kargakis, Yannis
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293679/download

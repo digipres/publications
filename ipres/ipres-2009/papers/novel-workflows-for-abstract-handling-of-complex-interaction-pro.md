@@ -10,13 +10,13 @@ abstract: 'The creation of most digital objects occurs solely in interactive gra
   Success terms for the conception and functionality of emulation environments are
   therefore devised which should be applied to future long-term archiving methods. '
 creators:
-- van den Dobbelsteen, Maurice
-- van der Hoeven, Jeffrey
-- Schroder, Jasper
-- Welte, Randolph
 - Rechert, Klaus
-- von Suchodoletz, Dirk
+- Schroder, Jasper
+- van der Hoeven, Jeffrey
 - Roberts, Bill
+- van den Dobbelsteen, Maurice
+- Welte, Randolph
+- von Suchodoletz, Dirk
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294023/download
 grand_parent: iPRES

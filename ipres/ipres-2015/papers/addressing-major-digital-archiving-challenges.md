@@ -9,9 +9,9 @@ abstract: The E-ARK project (E-ARK is funded by the European Commission’s FP7 
   challenges in this problem space. This poster will graphically demonstrate the various
   challenges and show how E-ARK is meeting them now, or plans to in the future.
 creators:
-- Wilson, Andrew
 - Delve, Janet
 - Anderson, David
+- Wilson, Andrew
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429583/download
 grand_parent: iPRES

@@ -4,8 +4,8 @@ abstract: This poster tells the story of designing the PMD in a way that is full
   insight in the main structure of the PMD and it will illustrate its practical use
   with some examples.
 creators:
-- Steeman, Marjolein
 - Hollander, Yvette
+- Steeman, Marjolein
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080501/download
 grand_parent: iPRES

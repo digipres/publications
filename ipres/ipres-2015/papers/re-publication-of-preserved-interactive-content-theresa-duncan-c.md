@@ -3,11 +3,11 @@ abstract: This poster presents implementation details, reception and lessons lea
   from a Cloud-based emulation project for world-wide interactive access to preserved
   CD-ROMs.
 creators:
-- Rechert, Klaus
-- Valizada, Isgandar
-- Liebetraut, Thomas
-- Stobbe, Oleg
 - Espenschied, Dragan
+- Valizada, Isgandar
+- Stobbe, Oleg
+- Liebetraut, Thomas
+- Rechert, Klaus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429586/download
 grand_parent: iPRES

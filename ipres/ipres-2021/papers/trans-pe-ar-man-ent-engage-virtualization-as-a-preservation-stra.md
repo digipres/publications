@@ -18,8 +18,8 @@ date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424948/download
 grand_parent: iPRES
 institutions:
-- Donau-Universität Krems Austria
 - aBITpreservation
+- Donau-Universität Krems Austria
 keywords:
 - software-based artwork
 - digital sustainability

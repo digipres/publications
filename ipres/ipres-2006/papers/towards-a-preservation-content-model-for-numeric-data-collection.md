@@ -10,8 +10,8 @@ abstract: This session will outline the workflow associated with migrating socia
   be explored. Examples from the ongoing project to migrate the Yale Social Science
   Data Archive from a postgreSQL database into FEDORA will be provided.
 creators:
-- Gano, Gretchen
 - Gewirtz, David
+- Gano, Gretchen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294856/download
 grand_parent: iPRES

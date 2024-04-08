@@ -13,8 +13,8 @@ document_url: https://services.phaidra.univie.ac.at/api/object/o:1424836/downloa
 grand_parent: iPRES
 institutions:
 - Kommunalförbundet Sydarkivera
-- TIB Leibniz Information Centre for Science and Technology
 - The Royal Danish Library
+- TIB Leibniz Information Centre for Science and Technology
 keywords:
 - preservation strategies and workflows
 - systems and tools

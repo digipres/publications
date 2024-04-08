@@ -7,10 +7,10 @@ abstract: "While interoperability between active e-government systems has been a
   EC-funded E-ARK project proposes further actions to address the challenge in a cost-effective
   manner. \n"
 creators:
-- King, Ross
-- Delve, Janet
 - Aas, Kuldar
+- Delve, Janet
 - Vieira, Ricardo
+- King, Ross
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378127/download
 grand_parent: iPRES

@@ -49,8 +49,8 @@ abstract: 'This article describes the development of Archives
 
   interoperability among diverse archival systems.'
 creators:
-- Lunghi, Maurizio
 - Di Iorio, Angela
+- Lunghi, Maurizio
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185403/download
 grand_parent: iPRES

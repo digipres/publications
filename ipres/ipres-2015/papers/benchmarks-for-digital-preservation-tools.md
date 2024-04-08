@@ -23,8 +23,8 @@ abstract: 'Creation and improvement of tools for digital preservation is a diffi
 
   sharing, but also several major challenges ahead.'
 creators:
-- Kulmukhametov, Artur
 - Duretec, Kresimir
+- Kulmukhametov, Artur
 - Rauber, Andreas
 - Becker, Christoph
 date: null

@@ -13,8 +13,8 @@ abstract: The JHOVE characterization framework is widely used by international d
   be instantiated in multiple files.
 creators:
 - Abrams, Stephen
-- Morrissey, Sheila
 - Cramer, Tom
+- Morrissey, Sheila
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294106/download
 grand_parent: iPRES

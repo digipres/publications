@@ -10,8 +10,8 @@ abstract: Libraries and archives are motivated to capture and archive scholarly 
   and archivists tasked to capture the scholarly web of these differences and help
   guide them to use appropriate tools.
 creators:
-- Balakireva, Lyudmila
 - Shankar, Harihar
+- Balakireva, Lyudmila
 - Klein, Martin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081744/download

@@ -7,9 +7,9 @@ abstract: veraPDF is an open source industry-supported PDF/A conformance checker
   organisations and PDF industry has created an active open source community.
 creators:
 - McGuinness, Rebecca
+- Wilson, Carl
 - Johnson, Duff
 - Doubrov, Boris
-- Wilson, Carl
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931098/download
 grand_parent: iPRES

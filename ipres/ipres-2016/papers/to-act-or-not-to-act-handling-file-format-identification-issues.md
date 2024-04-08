@@ -9,8 +9,8 @@ abstract: Format identification output needs to be assessed within an institutio
   to address file format identification and validation issues. The underlying issues
   are mostly independent of the specific tools and systems employed.
 creators:
-- Suri, Roland E.
 - Töwe, Matthias
+- Suri, Roland E.
 - Geisser, Franziska
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503183/download

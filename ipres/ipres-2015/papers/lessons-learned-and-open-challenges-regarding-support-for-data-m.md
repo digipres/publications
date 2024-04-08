@@ -17,10 +17,10 @@ abstract: 'This paper outlines an approach for developing tools and services tha
   Information related to a data object is supported in a serialization using the OAI-ORE
   format.'
 creators:
-- Hemmje, Matthias
 - Görzig, Heike
-- Brocks, Holger
 - Engel, Felix
+- Brocks, Holger
+- Hemmje, Matthias
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429549/download
 grand_parent: iPRES

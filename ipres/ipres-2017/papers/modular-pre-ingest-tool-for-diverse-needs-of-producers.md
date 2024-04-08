@@ -11,10 +11,10 @@ abstract: We introduce an open-source pre-ingest tool that assists the generatio
   preserve digital assets.
 creators:
 - Lehtonen, Kuisma
-- Koivunen, Kimmo
-- Vatanen, Mikko
-- Törnroos, Juha
 - Somerkoski, Pauliina
+- Törnroos, Juha
+- Vatanen, Mikko
+- Koivunen, Kimmo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931108/download
 grand_parent: iPRES

@@ -12,8 +12,8 @@ abstract: Digital preservation is about memory and giving easy access to it. If 
   a human resources information system.
 creators:
 - Rahman, Arif Ur
-- David, Gabriel
 - Ribeiro, Cristina
+- David, Gabriel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294268/download
 grand_parent: iPRES

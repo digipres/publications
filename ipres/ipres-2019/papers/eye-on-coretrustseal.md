@@ -10,8 +10,8 @@ abstract: 'The CoreTrustSeal (CTS) is an accepted trustworthy digital Repository
   community view. We distill concrete recommendations, which will be fed back to the
   CTS Board as part of the 2019 public call for review.'
 creators:
-- Lindlar, Michelle
 - Rudnik, Pia
+- Lindlar, Michelle
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081753/download
 grand_parent: iPRES

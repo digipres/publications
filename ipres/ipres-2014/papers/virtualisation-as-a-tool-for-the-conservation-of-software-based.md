@@ -20,9 +20,9 @@ abstract: 'Tate has a small but growing collection of software-based artworks. F
   virtual machines. As a conclusion, the workflow currently being developed for the
   preservation of Tate’s softwarebased artworks will be outlined.'
 creators:
+- Falcão, Patrícia
 - Ashe, Alistair
 - Jones, Brian
-- Falcão, Patrícia
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378082/download
 grand_parent: iPRES

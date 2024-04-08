@@ -9,8 +9,8 @@ abstract: 'Developed in the context of the 2017- 2020 Swiss national programme â
   to inform users of the risks incurred on the long term.'
 creators:
 - Echernier, Lydie
-- Burgi, Pierre-Yves
 - Cazeaux, Hugues
+- Burgi, Pierre-Yves
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079749/download
 grand_parent: iPRES

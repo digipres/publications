@@ -8,10 +8,10 @@ abstract: 'In this paper, we describe the current challenges to the effective ma
   the design of the second, paying particular attention to initiatives to develop
   and embed training materials.'
 creators:
-- Davidson, Joy
 - Molloy, Laura
 - Hodson, Simon
 - Goldstein, Stephane
+- Davidson, Joy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293861/download
 grand_parent: iPRES

@@ -21,8 +21,8 @@ abstract: 'TIPR, Towards Interoperable Preservation Repositories, is a project f
   the course of the project so far.'
 creators:
 - Caplan, Priscilla
-- Kehoe, William
 - Pawletko, Joseph
+- Kehoe, William
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294006/download
 grand_parent: iPRES

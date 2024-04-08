@@ -2,9 +2,9 @@
 abstract: Introductory Pages of the Proceedings of the 11th International Conference
   on Digital Preservation
 creators:
-- Knight, Steve
 - Metcalfe, Anna
 - Lee, Christopher
+- Knight, Steve
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378067/download
 grand_parent: iPRES

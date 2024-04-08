@@ -15,18 +15,18 @@ abstract: Research outputs produced by developing countries lack visibility. Com
   from ROMOR project that helped in establishing policies, systems, and organizational
   workflows at four Palestinian universities.
 creators:
-- Davidson, Joy
+- AbuZir, Yousef
 - Salman, Nael
-- Miksa, Tomasz
-- Yahya, Adnan
-- Rauber, Andreas
 - ALAgha, Iyad
 - Awadallah, Rawia
 - Anderson, David
-- Tammaro, Anna Maria
-- Caselli, Stefano
 - Anderson, Janet
-- AbuZir, Yousef
+- Caselli, Stefano
+- Tammaro, Anna Maria
+- Yahya, Adnan
+- Davidson, Joy
+- Rauber, Andreas
+- Miksa, Tomasz
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080464/download
 grand_parent: iPRES

@@ -9,8 +9,8 @@ abstract: The Computer History Museum (CHM) had its own mini deluge of digital d
   the Museum in the forefront of small cultural institutions creating digital repositories
   and we hope to share what we have learned with other similar organizations.
 creators:
-- Kott, Katherine
 - Jabloner, Paula
+- Kott, Katherine
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293870/download
 grand_parent: iPRES

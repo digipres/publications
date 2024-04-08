@@ -22,10 +22,10 @@ abstract: Memory institutions face increasing volumes of electronic documents an
   bodies and memory institutions – about the opportunities offered by PREFORMA and
   the challenges that are still to be addressed.
 creators:
-- Pharow, Peter
+- Justrell, Börje
 - Verbruggen, Erwin
 - Geber, Magnus
-- Justrell, Börje
+- Pharow, Peter
 - Fresa, Antonella
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502813/download

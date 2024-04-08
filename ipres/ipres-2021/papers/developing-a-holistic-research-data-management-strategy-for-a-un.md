@@ -22,13 +22,13 @@ abstract: 'An integrated research data management (RDM) enables reproducible and
 
   '
 creators:
-- Leendertse, Jan
-- Goldammer, Björn
-- Semaan, Saher
-- Tolkatsch, Dimitri
 - Von Suchodoletz, Dirk
-- Gieschke, Rafael
+- Leendertse, Jan
 - Rechert, Klaus
+- Gieschke, Rafael
+- Semaan, Saher
+- Goldammer, Björn
+- Tolkatsch, Dimitri
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424925/download
 grand_parent: iPRES

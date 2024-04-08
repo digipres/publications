@@ -12,8 +12,8 @@ abstract: Multimedia Collection Management Research Project developed by the Stu
   Finally, the research ending product will be accomplished by a database development,
   based on technical characteristics of the identified multimedia works.
 creators:
-- Ferreira, Ruben
 - Souza, Cláudio
+- Ferreira, Ruben
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378047/download
 grand_parent: iPRES

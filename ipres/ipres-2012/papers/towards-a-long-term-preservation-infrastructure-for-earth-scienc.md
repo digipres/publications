@@ -11,18 +11,18 @@ abstract: The effective preservation of both current and historical scientific d
   and exploitation of data assets across and beyond their designated communities.
 creators:
 - Shaon, Arif
-- Yu, Jinsongdi
-- Crompton, Shirley
-- Giaretta, David
-- Marelli, Fulvio
-- Conway, Esther
 - Engel, Felix
+- Giaretta, David
+- Conway, Esther
 - Matthews, Brian
-- Guarino, Raffaele
-- di Giammatteo, Ugo
-- Marketakis, Yannis
 - Tzitzikas, Yannis
+- Marketakis, Yannis
 - Brocks, Holger
+- di Giammatteo, Ugo
+- Yu, Jinsongdi
+- Guarino, Raffaele
+- Marelli, Fulvio
+- Crompton, Shirley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293768/download
 grand_parent: iPRES

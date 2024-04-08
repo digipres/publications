@@ -8,14 +8,14 @@ abstract: The Data-At-Risk and Rescue Initiative (DARI), an extension of the int
   metadata core, consisting of 13 core elements, is presented, and future directions
   are noted.
 creators:
+- C. Earls, Anona
 - Clary, Erin
-- Swauger, Shea
-- Robertson, W. Davenport
 - Greenberg, Jane
 - Kirschenfeld, Aaron
-- L. Anderson, William
 - P. Murillo, Angela
-- C. Earls, Anona
+- Robertson, W. Davenport
+- Swauger, Shea
+- L. Anderson, William
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378089/download
 grand_parent: iPRES

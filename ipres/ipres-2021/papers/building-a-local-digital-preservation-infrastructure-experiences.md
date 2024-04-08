@@ -11,17 +11,17 @@ abstract: 'As cultural heritage organizations seek solutions, open source, commu
   '
 creators:
 - Rieger, Oya Y.
-- Ruest, Nick
-- McCormack, Lindsay
 - Boock, Michael
+- McCormack, Lindsay
+- Ruest, Nick
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424893/download
 grand_parent: iPRES
 institutions:
-- York University
-- University of Oxford
 - Ithaka S+R
 - Oregon State University
+- University of Oxford
+- York University
 keywords:
 - preservation systems
 - digital asset management

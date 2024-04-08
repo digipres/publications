@@ -10,12 +10,12 @@ abstract: 'Preservation metadata is the significant component of digital long-te
 
   '
 creators:
-- Hu, Jiahui
 - Yang, Chenliu
-- Fang, An
-- Wang, Lei
+- Hu, Jiahui
 - Wang, Qian
+- Wang, Lei
 - Yao, Kuanda
+- Fang, An
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424924/download
 grand_parent: iPRES

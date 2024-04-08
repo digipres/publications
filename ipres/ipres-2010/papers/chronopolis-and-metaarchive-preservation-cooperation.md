@@ -43,9 +43,9 @@ abstract: 'This paper will examine ongoing work between two
 
   interactions.'
 creators:
+- Minor, David
 - Phillips, Mark
 - Schultz, Matt
-- Minor, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185504/download
 grand_parent: iPRES

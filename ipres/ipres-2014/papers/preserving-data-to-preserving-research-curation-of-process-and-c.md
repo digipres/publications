@@ -20,12 +20,12 @@ abstract: 'Awareness of the need to provide digital preservation solutions is sp
   eScience processes. '
 creators:
 - Dappert, Angela
-- Garijo, Daniel
 - Mayer, Rudolf
-- Palma, Raul
-- Page, Kevin
 - Pröll, Stefan
 - Rauber, Andreas
+- Page, Kevin
+- Palma, Raul
+- Garijo, Daniel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378139/download
 grand_parent: iPRES

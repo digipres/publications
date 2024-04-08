@@ -14,9 +14,9 @@ abstract: 'Preservation pipelines demonstrate extended value when digitized cont
 
   '
 creators:
-- Kelly, Mat
 - Greenberg, Jane
 - Rauch, Christopher B.
+- Kelly, Mat
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424940/download
 grand_parent: iPRES

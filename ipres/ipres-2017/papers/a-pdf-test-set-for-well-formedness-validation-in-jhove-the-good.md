@@ -18,8 +18,8 @@ abstract: Digital preservation and active software stewardship are both cycli- c
   process.
 creators:
 - Lindlar, Michelle
-- Wilson, Carl
 - Tunnat, Yvonne
+- Wilson, Carl
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931074/download
 grand_parent: iPRES

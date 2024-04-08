@@ -55,11 +55,11 @@ abstract: 'An accepted digital preservation workflow is emerging in
 
   preservation actions.'
 creators:
-- Kulovits, Hannes
 - Hitchcock, Steve
-- Carr, Les
 - Rauber, Andreas
+- Kulovits, Hannes
 - Tarrant, David
+- Carr, Les
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185510/download
 grand_parent: iPRES

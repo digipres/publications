@@ -9,8 +9,8 @@ abstract: This poster offers the iPRES community an interim update on work at Th
   the project, highlighting the potential benefits of the approach and identifying
   areas for further investigation.
 creators:
-- Ranade, Sonia
 - Underdown, David H
+- Ranade, Sonia
 - Mulinder, Alec
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1082719/download

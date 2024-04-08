@@ -19,9 +19,9 @@ abstract: 'An increasing number of UK Higher Education Institutions (HEIs) are d
   and training. Through this programme we will develop a service model for institutional
   support and a transferable RDM toolkit.'
 creators:
-- Whyte, Angus
 - Jones, Sarah
 - Pryor, Graham
+- Whyte, Angus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293775/download
 grand_parent: iPRES

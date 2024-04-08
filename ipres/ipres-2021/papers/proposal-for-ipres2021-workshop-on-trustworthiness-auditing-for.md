@@ -16,14 +16,14 @@ abstract: 'Digital preservation (DP) service can be provided at various levels a
 
   '
 creators:
-- Tong, Yh
 - Zhang, Xl
+- Tong, Yh
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424935/download
 grand_parent: iPRES
 institutions:
-- Peking U., China
 - NDPP, NSL, CAS
+- Peking U., China
 keywords:
 - trustworthiness auditing
 - digital preservation services

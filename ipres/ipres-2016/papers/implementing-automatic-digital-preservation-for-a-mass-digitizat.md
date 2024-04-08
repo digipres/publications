@@ -13,10 +13,10 @@ abstract: "The Saxon State and University Library Dresden (SLUB) has built up it
   but affordable fashion.\n"
 creators:
 - Berthold, Henrike
-- Sachse, Jörg
 - Krug, Sabine
-- Romeyke, Andreas
 - Fritzsche, Stefan
+- Sachse, Jörg
+- Romeyke, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503168/download
 grand_parent: iPRES

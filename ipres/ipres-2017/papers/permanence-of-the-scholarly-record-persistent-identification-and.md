@@ -17,8 +17,8 @@ abstract: 'This paper proposes steps towards a roadmap for improving the integra
 
   We also sketch out initial results of our ongoing work along this roadmap.'
 creators:
-- Farquhar, Adam
 - Dappert, Angela
+- Farquhar, Adam
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931068/download
 grand_parent: iPRES

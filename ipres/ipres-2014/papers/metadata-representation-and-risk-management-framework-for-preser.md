@@ -11,8 +11,8 @@ abstract: This paper proposes an approach to assessing risks related to audiovis
   tools and devices used in an AV preservation workflow.
 creators:
 - Bailer, Werner
-- Veres, Galina
 - Hall-May, Martin
+- Veres, Galina
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378710/download
 grand_parent: iPRES

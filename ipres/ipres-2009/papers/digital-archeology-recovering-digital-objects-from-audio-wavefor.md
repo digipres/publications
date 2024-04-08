@@ -12,11 +12,11 @@ abstract: Specimens of early computer systems stop working every day. One storag
   It also becomes clear, that it is easier to build solutions now when the original
   systems are still available.
 creators:
-- Ghete, Mihai
-- John, Annu
-- Lederer, Chrisanth
 - Guttenbrunner, Mark
 - Rauber, Andreas
+- Lederer, Chrisanth
+- John, Annu
+- Ghete, Mihai
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294011/download
 grand_parent: iPRES

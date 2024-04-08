@@ -7,8 +7,8 @@ abstract: Optical disks are widely used in libraries and archives as digital dat
   Through the evaluation of longterm storage features by the data stability test,
   a higher recording speed over 12x resulted in better long-term storage stability.
 creators:
-- Kim, Young-Joo
 - Lee, Kwan-Yong
+- Kim, Young-Joo
 - Cho, Won-Ik
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294272/download

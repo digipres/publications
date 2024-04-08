@@ -11,13 +11,13 @@ abstract: 'Database preservation frequently happens post-factum: databases are t
   right from the onset. We present the FAIR Data Austria Database Repository (FDA-DBRepo)
   infrastructure and provide a first version of an open-source reference implementation.'
 creators:
-- Ganguly, Raman
-- Michlits, Cornelia
 - Weise, Martin
-- Gergely, Eva
+- Michlits, Cornelia
 - Staudinger, Moritz
-- Rauber, Andreas
+- Gergely, Eva
 - Stytsenko, Kirill
+- Ganguly, Raman
+- Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424911/download
 grand_parent: iPRES

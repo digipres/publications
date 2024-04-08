@@ -15,10 +15,10 @@ abstract: Web archiving is crucial to ensure that cultural, scientific and socia
   has been established to demonstrate the viability of the proposed method for assessing
   Website Archivability
 creators:
-- Manolopoulos, Yannis
-- Kim, Yunhyong
 - Banos, Vangelis
+- Kim, Yunhyong
 - Ross, Seamus
+- Manolopoulos, Yannis
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377397/download
 grand_parent: iPRES

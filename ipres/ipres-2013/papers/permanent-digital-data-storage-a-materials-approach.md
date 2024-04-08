@@ -9,12 +9,12 @@ abstract: Permanent marks, interpreted as bits, are the sine qua non of deep arc
   explains the approach used to develop these products and advance the research for
   permanent digital data storage.
 creators:
-- Wang, Hao
-- Dredge, John
+- M. Lunt, Barry
 - Davis, Robert
 - Hansen, Douglas
 - R. Linford, Matthew
-- M. Lunt, Barry
+- Wang, Hao
+- Dredge, John
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378053/download
 grand_parent: iPRES

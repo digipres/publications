@@ -10,10 +10,10 @@ abstract: “Digital preservation metadata” is the information that is needed 
   describes on-going efforts within the PREMIS data dictionary’s Editorial Committee
   to define an improved metadata description for them.
 creators:
-- Chou, Carol C.H.
-- Delve, Janet
-- Peyrard, Sebastien
 - Dappert, Angela
+- Peyrard, Sebastien
+- Delve, Janet
+- Chou, Carol C.H.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293684/download
 grand_parent: iPRES

@@ -10,12 +10,12 @@ abstract: 'In this paper, we present and address a number of challenges in digit
   using the developed model. We, finally, conclude the paper by discussing the applicability
   of our proposed model and its associated techniques.'
 creators:
+- Neumann, Martin Alexander
 - Beigl, Michael
 - Mayer, Rudolf
-- Antunes, Goncalo
-- Neumann, Martin Alexander
 - Miri, Hossein
 - Thomson, John
+- Antunes, Goncalo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293773/download
 grand_parent: iPRES

@@ -15,8 +15,8 @@ abstract: In the beginning, SPAR, the National Library of France's repository, w
   are met while SPAR remains viable.
 creators:
 - Derrot, Sophie
-- Oury, Clement
 - Peyrard, Sebastien
+- Oury, Clement
 - Fauduet, Louise
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:292755/download

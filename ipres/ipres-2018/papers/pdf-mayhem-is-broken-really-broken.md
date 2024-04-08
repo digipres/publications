@@ -14,9 +14,9 @@ abstract: 'In this paper, we focus on the quality of PDF files. We are intereste
   reliable manner we need further studies to build on what we have presented here.'
 creators:
 - Lehtonen, Juha
+- Helin, Heikki
 - Kylander, Johan
 - Koivunen, Kimmo
-- Helin, Heikki
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923651/download
 grand_parent: iPRES

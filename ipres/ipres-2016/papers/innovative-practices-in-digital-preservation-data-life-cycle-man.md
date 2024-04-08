@@ -3,10 +3,10 @@ abstract: In this workshop, we show how researchers and information professional
   are supported throughout the data life-cycle in order to ensure innovative and professional
   digital preservation in Switzerland.
 creators:
-- Blumer, Eliane
+- Burgi, Pierre-Yves
 - Sesartić, Ana
 - Dieudé, Aude
-- Burgi, Pierre-Yves
+- Blumer, Eliane
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502832/download
 grand_parent: iPRES

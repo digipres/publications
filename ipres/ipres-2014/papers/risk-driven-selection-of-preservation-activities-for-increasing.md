@@ -13,11 +13,11 @@ abstract: 'The increasing demands faced by repository systems and the growing po
   and increase reproducibility of the workflows.'
 creators:
 - Miksa, Tomasz
+- Antunes, Goncalo
 - Vieira, Ricardo
+- Rauber, Andreas
 - Strodl, Stephan
 - Mayer, Rudolf
-- Antunes, Goncalo
-- Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378104/download
 grand_parent: iPRES

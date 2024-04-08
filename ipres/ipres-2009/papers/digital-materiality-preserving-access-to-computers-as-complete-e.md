@@ -17,13 +17,13 @@ abstract: This paper addresses a particular domain within the sphere of activity
   materials in literary collections at Emory University, the Harry Ransom Center at
   The University of Texas at Austin, and the University of Maryland.
 creators:
-- Farr, Erika L.
-- Nelson, Naomi
-- Peters, Catherine Stollar
-- Kraus, Kari M.
-- Reside, Doug
 - Kirschenbaum, Matthew
+- Reside, Doug
 - Redwine, Gabriela
+- Peters, Catherine Stollar
+- Nelson, Naomi
+- Kraus, Kari M.
+- Farr, Erika L.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294010/download
 grand_parent: iPRES

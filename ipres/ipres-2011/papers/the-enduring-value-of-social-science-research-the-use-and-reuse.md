@@ -17,8 +17,8 @@ abstract: The goal of this paper is to examine the extent to which social scienc
   to not sharing data. This finding is robust even when the models are adjusted for
   PI characteristics, grant award features, and institutional characteristics.
 creators:
-- Lyle, Jared
 - Pienta, Amy
+- Lyle, Jared
 - Alter, George
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294251/download

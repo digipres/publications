@@ -15,9 +15,9 @@ abstract: 'The project Research Data Management Organiser (RDMO)1 develops a too
   be linked with dedicated stakeholder responsibilities.'
 creators:
 - Engelhardt, Claudia
+- Enke, Harry
 - Klar, Jochen
 - Ludwig, Jens
-- Enke, Harry
 - Neuroth, Heike
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931097/download

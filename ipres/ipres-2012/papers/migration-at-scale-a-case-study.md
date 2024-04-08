@@ -18,12 +18,12 @@ abstract: 'Increasing experience in developing and maintaining large repositorie
   technical challenges, and quality assurance demands associated with digital object
   migration at very large scales.'
 creators:
-- Cheruku, Vinay
-- Howard, William J.
-- Stoeffler, Matthew
-- Kadirvel, Suresh
-- Meyer, John
 - Morrissey, Sheila M.
+- Kadirvel, Suresh
+- Howard, William J.
+- Cheruku, Vinay
+- Meyer, John
+- Stoeffler, Matthew
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293769/download
 grand_parent: iPRES

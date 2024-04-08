@@ -49,9 +49,9 @@ abstract: 'More and more information that is considered for digital
 
   and PREMIS.'
 creators:
+- Popitsch, Niko
 - Mosser, Robert
 - Philipp, Wolfgang
-- Popitsch, Niko
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185508/download
 grand_parent: iPRES

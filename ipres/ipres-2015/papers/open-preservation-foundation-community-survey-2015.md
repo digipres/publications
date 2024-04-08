@@ -13,9 +13,9 @@ abstract: 'This poster will present the headline results from the Open Preservat
   by the end of 2015.'
 creators:
 - Fay, Ed
-- Krabbenhoeft, Nick
 - McGuinness, Becky
 - Wilson, Carl
+- Krabbenhoeft, Nick
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429587/download
 grand_parent: iPRES

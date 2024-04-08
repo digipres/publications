@@ -6,8 +6,8 @@ abstract: "As the scholarly communication system evolves to become natively web-
   based on a perspective of the developing future scholarly communication infrastructure.
   \n\n\n"
 creators:
-- Treloar, Andrew
 - Van de Sompel, Herbert
+- Treloar, Andrew
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378116/download
 grand_parent: iPRES

@@ -14,13 +14,13 @@ abstract: 'This paper presents the initial results of the ENSURE (Enabling kNowl
   challenges addressed by the ENSURE system.'
 creators:
 - Braud, Maïte
-- Sanya, Isaac
 - Edelstein, Orit
-- Droppert, Aad
 - Rauch, Jochen
 - Rabinovici-Cohen, Simona
 - Voets, David
+- Sanya, Isaac
 - Randers, Frode
+- Droppert, Aad
 - Klecha, Marcin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378037/download

@@ -9,11 +9,11 @@ abstract: For memory institutions both preservation and presentation of digital 
   of digital art by the example of a collection of CD-ROM art. Furthermore, we evaluate
   the performance results of an emulation-based approach.
 creators:
-- Russler, Nick
-- Valizada, Isgandar
 - Espenschied, Dragan
 - Rechert, Klaus
 - von Suchodoletz, Dirk
+- Valizada, Isgandar
+- Russler, Nick
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378042/download
 grand_parent: iPRES

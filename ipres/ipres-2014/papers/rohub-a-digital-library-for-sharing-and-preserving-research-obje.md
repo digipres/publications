@@ -9,11 +9,11 @@ abstract: 'ROHub is a digital library system, enhanced with Semantic Web technol
   provides a set of RESTful APIs along with a Web Interface for users and developers.
   A demo installation is available at: www.rohub.org.'
 creators:
-- Hołubowicz, Piotr
 - Palma, Raul
-- Gómez-Pérez, José
 - Mazurek, Cezary
+- Hołubowicz, Piotr
 - Corcho, Oscar
+- Gómez-Pérez, José
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378712/download
 grand_parent: iPRES

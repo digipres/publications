@@ -21,9 +21,9 @@ abstract: 'From September 3-5, 2013 (with tutorials the September 2 and workshop
   students, industry representatives and other professionals involved in digital preservation
   to network and share information.'
 creators:
-- Knight, Steve
 - Borbinha, José
 - Nelson, Michael
+- Knight, Steve
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378099/download
 grand_parent: iPRES

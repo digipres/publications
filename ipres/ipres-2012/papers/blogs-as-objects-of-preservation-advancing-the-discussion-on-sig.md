@@ -14,13 +14,13 @@ abstract: The quest for identifying ‘significant properties’ is a common cha
   It concludes by discussing the limitations of the approach and suggesting directions
   for future research.
 creators:
-- Joy, Mike
 - Stepanyan, Karen
+- Ross, Seamus
 - Trier, Matthias
+- Joy, Mike
+- Cristea, Alexandra I.
 - Gkotsis, George
 - Kalb, Hendrik
-- Cristea, Alexandra I.
-- Ross, Seamus
 - Kim, Yunhyong
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293844/download

@@ -14,13 +14,13 @@ abstract: The number of digital objects (and digital collections) will increase 
   solutions in the form of scalable business and organisational models and clarifying
   the agenda for further research.
 creators:
-- Minkus, Michael
-- Hagel, Harald
-- Schoger, Astrid
-- Lang, Susanne
 - Beinert, Tobias
 - Rödig, Peter
+- Minkus, Michael
+- Hagel, Harald
 - Borghoff, Uwe M.
+- Schoger, Astrid
+- Lang, Susanne
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294056/download
 grand_parent: iPRES

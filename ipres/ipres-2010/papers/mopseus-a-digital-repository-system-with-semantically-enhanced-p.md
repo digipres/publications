@@ -14,8 +14,8 @@ abstract: Repository platforms offer significant tools aiding institutions to pr
   repository to semantically equivalent PREMIS metadata.
 creators:
 - Gavrilis, Dimitris
-- Papatheodorou, Christos
 - Angelis, Stavros
+- Papatheodorou, Christos
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185421/download
 grand_parent: iPRES

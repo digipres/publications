@@ -3,11 +3,11 @@ abstract: This poster outlines the retroTECH program at the Georgia Tech Library
   an innovative model of digital preservation in which hands-on access and campus
   community engagement are at the forefront.
 creators:
+- Brown, Sherri
+- Hagenmaier, Wendy
+- Rolando, Lizzy
 - Thompson, Jody
 - Valk, Alison
-- Brown, Sherri
-- Rolando, Lizzy
-- Hagenmaier, Wendy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429578/download
 grand_parent: iPRES

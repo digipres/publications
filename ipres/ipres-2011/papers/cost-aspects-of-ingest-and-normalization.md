@@ -18,8 +18,8 @@ abstract: 'The Danish National Archives, and The Royal Library and the State and
   to test the CMDP and the results of this test are described.'
 creators:
 - Kejser, Ulla Bøgvad
-- Nielsen, Anders Bo
 - Thirifays, Alex
+- Nielsen, Anders Bo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294222/download
 grand_parent: iPRES

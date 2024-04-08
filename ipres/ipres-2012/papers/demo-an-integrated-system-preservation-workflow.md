@@ -14,8 +14,8 @@ abstract: 'Preserving a full computer system for long-term access is in some cas
 creators:
 - Valizada, Isgandar
 - Rechert, Klaus
-- Schmelzer, Sebastian
 - von Suchodoletz, Dirk
+- Schmelzer, Sebastian
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294082/download
 grand_parent: iPRES

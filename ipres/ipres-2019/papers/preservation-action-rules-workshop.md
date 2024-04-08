@@ -18,12 +18,12 @@ abstract: 'The Preservation Action Registries project (http://parcore.org) is de
   will be led through the process of describing a new preservation policy using the
   PAR data model. Finally, groups will present their work to the other groups.'
 creators:
-- Romkey, Sarah
 - Tilbury, Jon
-- O’Sullivan, Jack
-- Simpson, Justin
-- Addis, Matthew
+- Romkey, Sarah
 - Wilson, Carl
+- O’Sullivan, Jack
+- Addis, Matthew
+- Simpson, Justin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079845/download
 grand_parent: iPRES

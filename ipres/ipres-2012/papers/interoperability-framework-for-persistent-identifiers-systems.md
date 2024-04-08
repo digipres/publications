@@ -9,13 +9,13 @@ abstract: 'In this paper, we propose an Interoperability Framework (IF) for Pers
   translated into concrete use cases to serve as requirements for designing the model.
   Conclusions and intended future work close the paper.'
 creators:
-- Bouquet, Paolo
-- Lunghi, Maurizio
-- Giaretta, David
-- Cirinna, Chiara
 - Bazzanella, Barbara
-- Bellini, Emanuele
 - van Horik, Rene
+- Giaretta, David
+- Lunghi, Maurizio
+- Bellini, Emanuele
+- Bouquet, Paolo
+- Cirinna, Chiara
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293678/download
 grand_parent: iPRES

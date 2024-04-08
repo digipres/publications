@@ -7,8 +7,8 @@ abstract: This paper presents an approach for semi-automatic aggregation of know
   domain model. Furthermore, we employ expert rules for inferring explicit knowledge
   on the nature and preservation friendliness of the file formats.
 creators:
-- Gordea, Sergiu
 - Graf, Roman
+- Gordea, Sergiu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293868/download
 grand_parent: iPRES

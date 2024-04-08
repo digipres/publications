@@ -16,8 +16,8 @@ document_url: https://services.phaidra.univie.ac.at/api/object/o:1424835/downloa
 grand_parent: iPRES
 institutions:
 - Kommunalförbundet Sydarkivera
-- Deutsche Nationalbibliothek
 - CSC – IT Center for Science
+- Deutsche Nationalbibliothek
 keywords:
 - '"metadata and information strategies and workflows'
 - infrastructure and systems

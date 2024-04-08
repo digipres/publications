@@ -7,8 +7,8 @@ abstract: As institutions turn towards developing archival digital repositories,
   structural, PREMIS preservation and MODS descriptive metadata for the British Library’s
   eJournal system.
 creators:
-- Enders, Markus
 - Dappert, Angela
+- Enders, Markus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294144/download
 grand_parent: iPRES

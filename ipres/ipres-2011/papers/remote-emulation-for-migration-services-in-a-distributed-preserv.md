@@ -14,9 +14,9 @@ abstract: 'Previous studies have shown the feasibility of migration services whe
   based on a digital artifacts'' original applications. The component-based architecture
   allows the distribution of system components among specialized memory institutions.'
 creators:
+- von Suchodoletz, Dirk
 - Valizada, Isgandar
 - Rechert, Klaus
-- von Suchodoletz, Dirk
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294240/download
 grand_parent: iPRES

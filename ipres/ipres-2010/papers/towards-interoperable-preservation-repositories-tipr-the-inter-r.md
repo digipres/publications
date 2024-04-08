@@ -11,8 +11,8 @@ abstract: The TIPR Project (Towards Interoperable Preservation Repositories) run
   service agreement.
 creators:
 - Caplan, Priscilla
-- Kehoe, William
 - Pawletko, Joseph
+- Kehoe, William
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245903/download
 grand_parent: iPRES

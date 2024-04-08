@@ -17,8 +17,8 @@ abstract: This workshop will address the topic of sustained access to digital co
 creators:
 - Delve, Janet
 - Milic-Frayling, Natasa
-- Anderson, David
 - Lee, C. A. L.
+- Anderson, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502831/download
 grand_parent: iPRES

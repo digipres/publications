@@ -11,11 +11,11 @@ abstract: While dynamic and interactive Web applications are becoming increasing
   preservation. We will present our ongoing work on the prototype, andalso discuss
   some use cases and avenues for future development.
 creators:
-- Chirigati, Fernando
-- Boss, Katherine
 - Hoffman, Brian
+- Chirigati, Fernando
 - Rampin, Rémi
 - Steeves, Vicky
+- Boss, Katherine
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081743/download
 grand_parent: iPRES

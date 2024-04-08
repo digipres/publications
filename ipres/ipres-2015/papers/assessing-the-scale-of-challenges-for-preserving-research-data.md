@@ -5,18 +5,18 @@ abstract: This poster reports on the outcomes of and lessons learned from a pilo
   used to pass datasets from an established domain repository through an archival
   processing pipeline and establish discovery and access layers from the output.
 creators:
-- Knabl, Jason
-- Chard, Kyle
-- Humphrey, Chuck
-- Garnett, Alex
-- O'Neil, Dugan
-- Huck, John
-- Cavanaugh, Sean
 - Qasim, Umar
 - Pruyne, Jim
-- Trimble, Leanne
+- Knabl, Jason
 - Hlady, Jason
+- Chard, Kyle
 - Ananthakrishnan, Rachana
+- Humphrey, Chuck
+- Huck, John
+- Trimble, Leanne
+- Garnett, Alex
+- O'Neil, Dugan
+- Cavanaugh, Sean
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429597/download
 grand_parent: iPRES

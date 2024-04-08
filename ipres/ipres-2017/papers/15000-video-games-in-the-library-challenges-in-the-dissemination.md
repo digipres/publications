@@ -4,8 +4,8 @@ abstract: This poster describes current processes and challenges for the preserv
   of France (BnF).
 creators:
 - Bertrand, Élodie
-- Humblot, Jean-Philippe
 - Fauduet, Louise
+- Humblot, Jean-Philippe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931137/download
 grand_parent: iPRES

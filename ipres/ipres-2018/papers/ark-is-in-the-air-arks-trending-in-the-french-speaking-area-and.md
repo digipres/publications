@@ -9,12 +9,12 @@ abstract: Recent years have been marked by growing adoption of Archival Resource
   community, and finally “ARK Summit 2018”, a major event in the construction of a
   francophone community of interest around ARK identifiers.
 creators:
-- Ledoux, Thomas
-- Tramoni, Jean-Philippe
 - Caron, Bertrand
-- Reecht, Stéphane
 - de La Houssaye, Jordan
+- Ledoux, Thomas
 - Peyrard, Sébastien
+- Reecht, Stéphane
+- Tramoni, Jean-Philippe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923636/download
 grand_parent: iPRES

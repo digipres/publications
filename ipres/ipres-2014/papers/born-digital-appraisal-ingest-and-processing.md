@@ -3,13 +3,13 @@ abstract: "This workshop is designed to gather together the community of digital
   and others working specifically with born digital collections to discuss aspects
   of the appraisal, processing, and ingest process. \n"
 creators:
-- Mennerich, Donald
-- Rosin, Leigh
 - Moran, Jessica
-- Langley, Somaya
 - O'Meara, Erin
+- Rosin, Leigh
 - Elford, Douglas
 - Jolly, Emma
+- Langley, Somaya
+- Mennerich, Donald
 - Lee, Christopher
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378136/download

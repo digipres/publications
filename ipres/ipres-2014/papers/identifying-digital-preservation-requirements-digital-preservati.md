@@ -20,9 +20,9 @@ abstract: 'The British Library is increasingly a digital library. Over past deca
   of long-term preservation requirements. '
 creators:
 - Day, Michael
+- Pennock, Maureen
 - Kimura, Akiko
 - MacDonald, Ann
-- Pennock, Maureen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378119/download
 grand_parent: iPRES

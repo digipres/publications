@@ -15,10 +15,10 @@ abstract: 'The National Library of France (BnF) has recently implemented a new m
   that directed their selection as standards in SPAR: test data are now preserved
   as a new kind of reference package.'
 creators:
+- Caron, Bertrand
 - Ledoux, Thomas
 - Reecht, Stéphane
 - Tramoni, Jean-Philippe
-- Caron, Bertrand
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429538/download
 grand_parent: iPRES

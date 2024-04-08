@@ -14,11 +14,11 @@ abstract: Capturing OAIS defined representation information in a standardised wa
   object and automatically read the data it contains and render it in the appropriate
   way.
 creators:
-- Dunckley, Matt
-- Giaretta, David
 - Rankin, Stephen
+- Dunckley, Matt
 - McIlwrath, Brian
 - Crothers, Steve
+- Giaretta, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294862/download
 grand_parent: iPRES

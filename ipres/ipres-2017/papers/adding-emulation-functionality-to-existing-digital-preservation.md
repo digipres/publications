@@ -16,8 +16,8 @@ abstract: The emulation of obsolete hardware and software environments to enable
   a reality.
 creators:
 - Cochrane, Euan
-- Stobbe, Oleg
 - Tilbury, Jonathan
+- Stobbe, Oleg
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931101/download
 grand_parent: iPRES

@@ -26,8 +26,8 @@ abstract: 'The problem of identifying and re–identifying data put the notion o
   treatment of data concepts. '
 creators:
 - Sacchi, Simone
-- Renear, Allen H.
 - Wickett, Karen M.
+- Renear, Allen H.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294078/download
 grand_parent: iPRES

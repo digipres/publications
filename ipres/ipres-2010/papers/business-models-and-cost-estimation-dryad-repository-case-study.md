@@ -18,8 +18,8 @@ abstract: 'Data attrition compromises the ability of scientists to validate and 
   among scholarly publishers, funding agencies and research institutions.'
 creators:
 - Beagrie, Neil
-- Vision, Todd
 - Eakin-Richards, Lorraine
+- Vision, Todd
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185233/download
 grand_parent: iPRES

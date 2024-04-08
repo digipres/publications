@@ -13,13 +13,13 @@ abstract: This paper describes the scalable e-archiving repository system develo
   been used to build the prototype. Furthermore, the paper provides experimental results
   and gives directions for future work.
 creators:
-- Aas, Kuldar
-- Karl, Roman
-- Bartha, Mihai
-- Rörden, Jan
-- Schmidt, Rainer
-- Delve, Janet
 - Schlarb, Sven
+- Aas, Kuldar
+- Delve, Janet
+- Rörden, Jan
+- Bartha, Mihai
+- Karl, Roman
+- Schmidt, Rainer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502851/download
 grand_parent: iPRES

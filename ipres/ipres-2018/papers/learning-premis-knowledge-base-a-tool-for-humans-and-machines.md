@@ -17,8 +17,8 @@ abstract: 'Inspired by the “Knowledge Base” definition of the Open Archival 
   to be enriched and documentend by their originationg knowledge context, and thus
   to be properly interpreted.'
 creators:
-- Schaerf, Marco
 - Di Iorio, Angela
+- Schaerf, Marco
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923630/download
 grand_parent: iPRES

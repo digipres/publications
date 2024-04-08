@@ -10,14 +10,14 @@ abstract: 'In the last few years digital preservation has started to transition 
   solutions). It also shows that there is a new challenge emerging: moving from running
   digital preservation projects to embedding the processes within their organisations. '
 creators:
+- Sinclair, Pauline
 - Sharpe, Robert
-- Billenness, Clive
+- Keen, Ann
 - Jardine, Lewis
+- Humphreys, Jane
 - Farquhar, Adam
 - Duckworth, James
-- Sinclair, Pauline
-- Keen, Ann
-- Humphreys, Jane
+- Billenness, Clive
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294014/download
 grand_parent: iPRES

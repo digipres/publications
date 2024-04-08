@@ -12,10 +12,10 @@ abstract: The 2015 National Agenda for Digital Stewardship calls for stewardship
   media and developing donor agreements for the transfer of assets will be discussed.
   Other born-digital content areas could also be covered.
 creators:
-- Potter, Abigail
-- Halbert, Martin
 - Smith, Imogen
 - Walls, David
+- Halbert, Martin
+- Potter, Abigail
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429531/download
 grand_parent: iPRES

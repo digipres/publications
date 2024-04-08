@@ -6,11 +6,11 @@ abstract: 'This is an introductory level tutorial. The goals of the tutorial are
   set of needs; and to share case studies that are relevant to the Digital Preservation
   community.'
 creators:
-- van Veenendaal, Remco
-- Hakala, Juha
-- Ras, Marcel
-- Lunghi, Maurizio
 - Clark, Jonathan
+- Hakala, Juha
+- Lunghi, Maurizio
+- Ras, Marcel
+- van Veenendaal, Remco
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502826/download
 grand_parent: iPRES

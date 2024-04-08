@@ -10,9 +10,9 @@ abstract: As storage costs drop, storage is becoming the lowest cost in a digita
   to eliminate the all-or-nothing approach of current IT systems, reduce the impact
   of failures of digital storage technology and mitigate against loss of digital data.
 creators:
+- Wright, Richard
 - Miller, Ant
 - Addis, Matthew
-- Wright, Richard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294140/download
 grand_parent: iPRES

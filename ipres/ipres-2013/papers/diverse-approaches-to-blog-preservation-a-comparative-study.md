@@ -6,9 +6,9 @@ abstract: This poster presents highlights of a comparative study of three distin
   digital preservation as well as practical considerations derived from the authors'
   experience as users and designers of digital archiving tools and systems.
 creators:
-- Arango-Docio, Silvia
 - M. Davis, Richard
 - Pinsent, Edward
+- Arango-Docio, Silvia
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378035/download
 grand_parent: iPRES

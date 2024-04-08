@@ -15,8 +15,8 @@ abstract: 'Emulation-as-a-Service makes emulation widely available for non-exper
 
   '
 creators:
-- Rechert, Klaus
 - Liebetraut, Thomas
+- Rechert, Klaus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378105/download
 grand_parent: iPRES

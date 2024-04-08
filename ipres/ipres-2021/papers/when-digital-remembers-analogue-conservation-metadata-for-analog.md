@@ -20,8 +20,8 @@ abstract: 'While ""Digitization is not Digital Preservation"", the two processes
 
   '
 creators:
-- Friedrich, Merle
 - Lindlar, Michelle
+- Friedrich, Merle
 - Reiche, Miriam
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424944/download

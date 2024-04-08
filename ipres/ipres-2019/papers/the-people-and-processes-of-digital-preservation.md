@@ -9,8 +9,8 @@ abstract: 'Most initiatives to build digital preservation programs focus almost 
   issues, leveraging expertise, international organizations'
 creators:
 - Deserno, Ineke
-- Kramer-Smyth, Jeanne
 - Canela, Montserrat
+- Kramer-Smyth, Jeanne
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080460/download
 grand_parent: iPRES

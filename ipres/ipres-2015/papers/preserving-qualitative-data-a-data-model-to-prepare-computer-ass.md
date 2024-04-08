@@ -10,8 +10,8 @@ abstract: A rapid change in technology has a great impact on the long-term acces
   model to normalize computer assisted qualitative data analysis software files to
   support long term access.
 creators:
-- Roark, Kendall
 - Qasim, Umar
+- Roark, Kendall
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429598/download
 grand_parent: iPRES

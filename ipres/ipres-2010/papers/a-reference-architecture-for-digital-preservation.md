@@ -43,9 +43,9 @@ abstract: 'Apart from being a technological issue, digital
 
   of digital preservation.'
 creators:
+- Antunes, Gonçalo
 - Barateiro, José
 - Borbinha, José
-- Antunes, Gonçalo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185217/download
 grand_parent: iPRES

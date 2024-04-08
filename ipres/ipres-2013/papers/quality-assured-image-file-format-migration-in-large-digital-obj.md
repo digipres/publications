@@ -11,15 +11,15 @@ abstract: This article gives an overview on how different components developed b
   Austrian National Library where the book page images are stored as JPEG2000 image
   files.
 creators:
+- Schlarb, Sven
+- Cliff, Peter
 - May, Peter
 - Palmer, William
+- Hahn, Matthias
+- Huber-Moerk, Reinhold
 - Schindler, Alexander
 - Schmidt, Reiner
 - van der Knijff, Johan
-- Huber-Moerk, Reinhold
-- Cliff, Peter
-- Schlarb, Sven
-- Hahn, Matthias
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378056/download
 grand_parent: iPRES

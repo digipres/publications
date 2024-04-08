@@ -16,8 +16,8 @@ abstract: 'Since 1996, the Internet Archive (IA) has provided storage, preservat
 
   '
 creators:
-- Lee, Peggy
 - Bailey, Jefferson
+- Lee, Peggy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424934/download
 grand_parent: iPRES

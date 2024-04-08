@@ -4,9 +4,9 @@ abstract: This tutorial will provide participants with an introduction to the PR
   models of implementation.
 creators:
 - McKinney, Peter
-- Zierau, Eld
 - Dappert, Angela
 - McLellan, Evelyn
+- Zierau, Eld
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502828/download
 grand_parent: iPRES

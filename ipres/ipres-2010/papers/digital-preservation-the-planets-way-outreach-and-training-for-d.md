@@ -30,8 +30,8 @@ abstract: 'This paper outlines the Europe-wide programme of
   and digital preservation training activities.'
 creators:
 - Casarosa, Vittore
-- Molloy, Laura
 - Snow, Kellie
+- Molloy, Laura
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245901/download
 grand_parent: iPRES

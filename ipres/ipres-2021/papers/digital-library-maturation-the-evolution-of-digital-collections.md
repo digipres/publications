@@ -8,21 +8,21 @@ abstract: 'This panel will present and discuss the development of digital collec
   '
 creators:
 - Owens, Trevor
-- Olivares, Lisandro Pablo
+- Goethals, Andrea
 - van der Hoeven, Jeffrey
+- Olivares, Lisandro Pablo
 - Wheatley, Paul
 - Day, Michael
-- Goethals, Andrea
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424928/download
 grand_parent: iPRES
 institutions:
 - Library of Congress
-- Digital Preservation Coalition
 - National Library of New Zealand
-- The British Library
-- Biblioteca Nacional de México
 - National Library of the Netherlands
+- Biblioteca Nacional de México
+- Digital Preservation Coalition
+- The British Library
 keywords:
 - digital preservation
 - national libraries

@@ -6,9 +6,9 @@ abstract: This workshop provides an overview of the PREMIS Data Dictionary for P
   systems or contexts.
 creators:
 - McKinney, Peter
-- Zierau, Eld
 - Dappert, Angela
 - McLellan, Evelyn
+- Zierau, Eld
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502829/download
 grand_parent: iPRES

@@ -31,10 +31,10 @@ abstract: 'A prerequisite for digital preservation is to be able to capture
 
   issues relevant to archiving this high-profile website.'
 creators:
-- Coram, Roger
-- Crawford, Lewis
-- Johnson, Stephen
 - Hockx-Yu, Helen
+- Johnson, Stephen
+- Crawford, Lewis
+- Coram, Roger
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185468/download
 grand_parent: iPRES

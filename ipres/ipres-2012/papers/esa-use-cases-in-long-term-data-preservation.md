@@ -11,9 +11,9 @@ abstract: Long Term Data Preservation (LTDP) aims at ensuring the intelligibilit
   future generations data use and accessibility of this cultural heritage is needed
   to define a systematic approach, accompanied by different use cases.
 creators:
-- Tona, Calogera
 - Albani, Mirko
 - Leone, Rosemarie
+- Tona, Calogera
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293846/download
 grand_parent: iPRES

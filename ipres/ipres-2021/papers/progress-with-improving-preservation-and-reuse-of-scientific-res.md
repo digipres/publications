@@ -12,22 +12,22 @@ abstract: 'We report progress towards automatically transforming existing analys
 
   '
 creators:
-- Ruch, Patrick
 - Cornwell, Peter
 - Agosti, Donat
-- Herren, Madeleine
-- Gonzalez Lopez, Jose Benito
 - Benichou, Laurence
+- Gonzalez Lopez, Jose Benito
+- Herren, Madeleine
+- Ruch, Patrick
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424947/download
 grand_parent: iPRES
 institutions:
-- Institute for European Global History, Basel
-- Swiss Instiutute of Bioinformatics
+- Data Futures
 - Plazi
 - Museum of Natural History, Paris
-- Data Futures
 - CERN
+- Institute for European Global History, Basel
+- Swiss Instiutute of Bioinformatics
 keywords:
 - research data preservation
 - scientific literature

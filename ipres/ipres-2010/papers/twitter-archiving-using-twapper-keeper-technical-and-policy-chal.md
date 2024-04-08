@@ -16,11 +16,11 @@ abstract: 'Twitter is widely used in a range of different contexts, ranging from
   archive tweets posted during the WWW 2010 conference and summarising plans for further
   use of the service.'
 creators:
-- Hawksey, Martin
-- Guy, Marieke
 - Kelly, Brian
-- O’Brien, John
 - Rowe, Matthew
+- Guy, Marieke
+- O’Brien, John
+- Hawksey, Martin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245904/download
 grand_parent: iPRES

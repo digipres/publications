@@ -8,9 +8,9 @@ abstract: Users frequently mistype queries and blame the web archive for poor se
   of archived web collections. The final result can be tested at http://archive.pt
   and the software is publicly available as an open source project.
 creators:
+- Costa, Miguel
 - Miranda, João
 - Cruz, David
-- Costa, Miguel
 - Gomes, Daniel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378057/download

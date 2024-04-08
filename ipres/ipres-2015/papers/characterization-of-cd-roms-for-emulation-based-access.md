@@ -10,11 +10,11 @@ abstract: 'Memory institutions have already collected a substantial amount of di
   which we use to implement a characterization tool to suggest a suitable emulated
   rendering environment.'
 creators:
-- Steinke, Tobias
-- Valizada, Isgandar
+- Rechert, Klaus
 - Liebetraut, Thomas
 - Stobbe, Oleg
-- Rechert, Klaus
+- Valizada, Isgandar
+- Steinke, Tobias
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429556/download
 grand_parent: iPRES

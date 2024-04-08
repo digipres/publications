@@ -10,9 +10,9 @@ abstract: In this paper we describe the National Library of New Zealand’s atte
   and the levels of effort required to achieve those, we will be able to better understand
   where our effort is being expended and the levels of preservation we are achieving.
 creators:
-- McKinney, Peter
 - Mosely, Sean
 - Gattuso, Jay
+- McKinney, Peter
 - Moran, Jessica
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503190/download

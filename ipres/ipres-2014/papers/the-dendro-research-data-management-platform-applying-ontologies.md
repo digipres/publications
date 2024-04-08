@@ -11,10 +11,10 @@ abstract: "It has been shown that data management should start as early as possi
   acting as a staging area for later deposit in long-term preservation solutions.
   \n\n "
 creators:
-- Castro, João
-- Lopes, João
 - da Silva, João
+- Castro, João
 - Ribeiro, Cristina
+- Lopes, João
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378115/download
 grand_parent: iPRES

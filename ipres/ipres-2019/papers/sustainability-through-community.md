@@ -5,8 +5,8 @@ abstract: This paper will present the online resource ffmprovisr as a case study
   This paper will cover how the website was developed, its role in fostering a collaborative
   educational environment, and its impact on the field and beyond.
 creators:
-- WeaverWeaver, Andrew
 - Blewer, Ashley
+- WeaverWeaver, Andrew
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080494/download
 grand_parent: iPRES

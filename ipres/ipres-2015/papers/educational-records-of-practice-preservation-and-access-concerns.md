@@ -8,9 +8,9 @@ abstract: 'Researchers in information science are placing increased attention on
   this content, though their needs differ. We focus on three issues that raise challenges
   for preservation and access: file format, context, and dissemination.'
 creators:
-- Suzuka, Kara
-- Frank, Rebecca
 - Yakel, Elizabeth
+- Frank, Rebecca
+- Suzuka, Kara
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429567/download
 grand_parent: iPRES

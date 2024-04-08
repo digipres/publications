@@ -22,12 +22,12 @@ abstract: The ability to recognize when digital content is becoming endangered i
   viability of the approach as an alternative or auxiliary method for automatically
   gathering information on preservation risks in digital content.
 creators:
-- Ferreira, Miguel
-- Ras, Marcel
-- Akbik, Alan
-- Carlos Ramalho, José
-- Sierman, Barbara
 - Faria, Luís
+- Akbik, Alan
+- Sierman, Barbara
+- Ras, Marcel
+- Ferreira, Miguel
+- Carlos Ramalho, José
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377390/download
 grand_parent: iPRES

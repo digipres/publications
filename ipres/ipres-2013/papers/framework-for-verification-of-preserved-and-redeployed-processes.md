@@ -10,11 +10,11 @@ abstract: Preserving processes requires not only the identification of all proce
   it to substantially different environments.
 creators:
 - Miksa, Tomasz
-- Vieira, Ricardo
-- Strodl, Stephan
-- Mayer, Rudolf
-- Barateiro, José
 - Pröll, Stefan
+- Mayer, Rudolf
+- Strodl, Stephan
+- Vieira, Ricardo
+- Barateiro, José
 - Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378039/download

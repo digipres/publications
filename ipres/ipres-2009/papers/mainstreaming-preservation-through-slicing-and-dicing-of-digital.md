@@ -11,10 +11,10 @@ abstract: 'A digital repository can be seen as a combination of services, resour
   resource use, (2) management of dependencies across entities, and (3) the repository
   business model most appropriate to the participating organizations. '
 creators:
-- Hou, Chien-Yi
 - Lee, Christopher
-- Marciano, Richard
 - Shah, Chirag
+- Hou, Chien-Yi
+- Marciano, Richard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294017/download
 grand_parent: iPRES

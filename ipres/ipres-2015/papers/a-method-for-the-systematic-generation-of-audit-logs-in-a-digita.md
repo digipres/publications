@@ -21,14 +21,14 @@ abstract: 'In a digital preservation environment there is a need for a complete 
   theoretical development and practical applications.'
 creators:
 - Xu, Hao
-- Rajasekar, Arcot
-- Russell, Terrell
 - Coposky, Jason
-- Greer, Zoey
+- Bedard, Dan
+- Ward, Jewel
+- Russell, Terrell
+- Rajasekar, Arcot
 - Moore, Reagan
 - Keller, Ben
-- Ward, Jewel
-- Bedard, Dan
+- Greer, Zoey
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429566/download
 grand_parent: iPRES

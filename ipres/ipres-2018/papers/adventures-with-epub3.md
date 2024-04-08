@@ -30,8 +30,8 @@ abstract: '"The role of standards in digital preservation is widely acknowledged
   be able to identify items with explicit rendering needs beyond those served by their
   default rendering viewers."'
 creators:
-- Day, Michael
 - Pennock, Maureen
+- Day, Michael
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923650/download
 grand_parent: iPRES

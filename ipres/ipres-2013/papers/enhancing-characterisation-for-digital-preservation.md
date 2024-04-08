@@ -8,9 +8,9 @@ abstract: Advances in digital preservation software tools have sometimes been sl
   of requirements identified by practitioners, and will describe four resulting tool
   developments that significantly advance our digital preservation capability.
 creators:
+- Wheathley, Paul
 - McGath, Gary
 - Petrov, Petar
-- Wheathley, Paul
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378036/download
 grand_parent: iPRES

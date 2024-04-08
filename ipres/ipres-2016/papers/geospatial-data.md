@@ -8,8 +8,8 @@ abstract: In this poster, we describe a work package of the project Ellipse - ar
   fundamental importance when dealing with geospatial data sets, so to ensure the
   combinability in the long term.
 creators:
-- Schlatter, Martin
 - Gollin, Helen
+- Schlatter, Martin
 - Gerber, Urs
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502844/download

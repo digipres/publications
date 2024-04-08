@@ -3,8 +3,8 @@ abstract: In this paper, we describe the structure and contents for the OSS4Pres
   workshop.
 creators:
 - Meister, Sam
-- Peltzman, Shira
 - Dowding, Heidi
+- Peltzman, Shira
 - Wilson, Carl
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502835/download

@@ -16,10 +16,10 @@ abstract: Preserved digital data is often of limited use and value, due to the u
   to capture and identify the relevant context, plan preservation actions and execute
   and store business process for the future.
 creators:
-- Rauber, Andreas
 - Strodl, Stephan
 - Draws, Daniel
 - Antunes, Goncalo
+- Rauber, Andreas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293867/download
 grand_parent: iPRES

@@ -19,8 +19,8 @@ abstract: 'Cornell University Library (CUL) has developed nine priority goals fo
   SUB Göttingen and the unique set of challenges they present. Scenarios and use cases
   we have developed, and agreements we''ve made will be discussed, as well.'
 creators:
-- Rosenkrantz, Marcy E.
 - McGovern, Nancy
+- Rosenkrantz, Marcy E.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295045/download
 grand_parent: iPRES

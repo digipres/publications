@@ -13,18 +13,18 @@ abstract: 'In 2019 the Library of Congress launched the Digital Collections Mana
   '
 creators:
 - Owens, Trevor
-- Darby, Kristy
 - Salas, Camille
 - Johnston, Jesse
-- Gonzalez-Fernandez, Pedro
 - Cassidy-Amstutz, Andrew
+- Gonzalez-Fernandez, Pedro
+- Darby, Kristy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424886/download
 grand_parent: iPRES
 institutions:
-- University of Michigan
 - Library of Congress
 - U.S. Library of Congress
+- University of Michigan
 keywords:
 - policy
 - planning

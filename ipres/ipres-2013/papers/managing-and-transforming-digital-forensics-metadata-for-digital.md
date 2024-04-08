@@ -10,9 +10,9 @@ abstract: In this paper we present ongoing work conducted as part of the BitCura
   documentation of integrity and provenance, tracking events associated with pre-ingest
   and post-ingest forensic processing, and providing specific evidence of authenticity.
 creators:
-- A. Lee, Christopher
 - Woods, Kam
 - Chassanoff, Alexandra
+- A. Lee, Christopher
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378044/download
 grand_parent: iPRES

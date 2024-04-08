@@ -11,8 +11,8 @@ abstract: Although vast quantities of data are being created within higher educa
   This paper outlines the audit methodology, introduces the online toolkit, and provides
   feedback on implementing the Data Audit Framework.
 creators:
-- Ruusalepp, Raivo
 - Jones, Sarah
+- Ruusalepp, Raivo
 - Ross, Seamus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294158/download

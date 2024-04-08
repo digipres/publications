@@ -13,8 +13,8 @@ abstract: 'Collaboration is a key to success in digital preservation. In Finland
 creators:
 - Lehtonen, Juha
 - Koivunen, Kimmo
-- Kylander, Johan
 - Helin, Heikki
+- Kylander, Johan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081727/download
 grand_parent: iPRES

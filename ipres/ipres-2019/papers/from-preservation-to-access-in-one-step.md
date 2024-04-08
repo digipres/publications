@@ -16,8 +16,8 @@ abstract: 'Access to audiovisual content continues to lag behind that of textual
   systems. We expect to be able to provide a demonstration of the system and this
   specific feature at iPRES 2019.'
 creators:
-- Vízner, Pamela
 - Lyons, Bertram
+- Vízner, Pamela
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079790/download
 grand_parent: iPRES

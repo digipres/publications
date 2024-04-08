@@ -4,11 +4,11 @@ abstract: We present the status of digital preservation at the National Digital 
   and services ensuring the effective and high-quality management, dissemination,
   and preservation of digital cultural heritage.
 creators:
-- Tiainen, Mikko
-- Koivunen, Kimmo
-- Helin, Heikki
 - Lehtonen, Juha
+- Helin, Heikki
+- Koivunen, Kimmo
 - Lehtonen, Kuisma
+- Tiainen, Mikko
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429594/download
 grand_parent: iPRES

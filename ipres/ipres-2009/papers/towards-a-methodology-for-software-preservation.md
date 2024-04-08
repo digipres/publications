@@ -11,12 +11,12 @@ abstract: 'Only a small part of the research which has been carried out to date 
   how the adequacy of the a software preservation method. Finally we discuss some
   implications for preservation analysis for the case of software artifacts. '
 creators:
-- Shaon, Arif
+- Matthews, Brian
 - Conway, Esther
 - Woodcock, Jim
-- Matthews, Brian
 - Jones, Catherine
 - Bicarregui, Juan
+- Shaon, Arif
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294040/download
 grand_parent: iPRES

@@ -19,9 +19,9 @@ abstract: 'This workshop will update the community on the work of the Levels of 
 
   '
 creators:
-- Daigle, Bradley
 - Tallman, Nathan
 - Work, Lauren
+- Daigle, Bradley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079677/download
 grand_parent: iPRES

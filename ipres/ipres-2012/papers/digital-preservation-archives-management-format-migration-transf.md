@@ -13,9 +13,9 @@ abstract: 'In a recent scoping study we have inquired into the data management n
   dedicated repository pro- vides the grounds for collecting researcher feedback on
   the curation process.'
 creators:
-- Correia Lopes, Joao
-- Riberio, Cristina
 - Rocha da Silva, Joao
+- Riberio, Cristina
+- Correia Lopes, Joao
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293770/download
 grand_parent: iPRES

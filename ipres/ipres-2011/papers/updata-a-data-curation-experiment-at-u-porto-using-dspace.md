@@ -15,9 +15,9 @@ abstract: UPData is a scientific data curation experiment currently under develo
   to scan each file. The collected datasets will be used as test cases for data deposit,
   and also to evaluate the effort required by the curation procedure.
 creators:
-- Ribeiro, Cristina
 - Rocha da Silva, João
 - Lopes, João Correia
+- Ribeiro, Cristina
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294252/download
 grand_parent: iPRES

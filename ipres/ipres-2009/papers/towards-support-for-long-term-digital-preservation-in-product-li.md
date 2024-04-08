@@ -16,11 +16,11 @@ abstract: Important legal and economic motivations exist for the design and engi
   of the engineering industry.
 creators:
 - Wilkes, Wolfgang
-- Hundsdörfer, Andreas
-- Brunsmann, Jörg
-- Hemmje, Matthias
-- Heutelbeck, Dominic
 - Heidbrink, Hans-Ulrich
+- Hemmje, Matthias
+- Hundsdörfer, Andreas
+- Heutelbeck, Dominic
+- Brunsmann, Jörg
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294018/download
 grand_parent: iPRES

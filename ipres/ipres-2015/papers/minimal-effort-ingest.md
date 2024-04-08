@@ -3,8 +3,8 @@ abstract: In this poster we present the concept of Minimal Effort Ingest into a 
   repository and discuss benefits and disadvantages of this approach.
 creators:
 - Jurik, Bolette Ammitzbøll
-- Christiansen, Kåre Fiedler
 - Blekinge, Asger Askov
+- Christiansen, Kåre Fiedler
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429591/download
 grand_parent: iPRES

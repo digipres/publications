@@ -14,8 +14,8 @@ abstract: 'Emulation is often considered a technically very complex subject. The
   Each of the four steps of the emulation workflow are described in detail, providing
   a simple tool for managing a complex decision making process.'
 creators:
-- van der Hoeven, Jeffrey
 - Lohman, Bram
+- van der Hoeven, Jeffrey
 - Michel, David
 - Kiers, Bart
 date: null

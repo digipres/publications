@@ -13,9 +13,9 @@ abstract: The preservation of epidemiological information is challenging in seve
   data itself.
 creators:
 - D. Ferreira, João
-- J. Silva, Mário
 - Pesquita, Cátia
 - M. Couto, Francisco
+- J. Silva, Mário
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378034/download
 grand_parent: iPRES

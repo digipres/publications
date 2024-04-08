@@ -7,9 +7,9 @@ abstract: The goal of the bwFLA project is the implementation and development of
   is to build-on ongoing digital preservation research in international and national
   projects to integrate workflows for emulation-based access strategies.
 creators:
-- Valizada, Isgandar
 - Rechert, Klaus
 - von Suchodoletz, Dirk
+- Valizada, Isgandar
 - Fauduet, Louise
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294077/download

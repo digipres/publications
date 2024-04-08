@@ -10,14 +10,14 @@ abstract: The PREMIS 3.0 Ontology Working Group recognized the need for the pres
   how interoperability issues have been addressed, with the intent of maintaining
   continuity between the PREMIS Data Dictionary and the PREMIS OWL ontology.
 creators:
-- Guenther, Rebecca
-- Blair, Charles
-- Bountouri, Lina
 - Caron, Bertrand
 - Di Iorio, Angela
-- Cowles, Esme
-- Russey Roke, Elizabeth
+- Blair, Charles
+- Bountouri, Lina
+- Guenther, Rebecca
 - McLellan, Evelyn
+- Russey Roke, Elizabeth
+- Cowles, Esme
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923631/download
 grand_parent: iPRES

@@ -21,17 +21,17 @@ abstract: Members of the digital preservation community collate and cap-ture met
   not provide.
 creators:
 - Thornton, Katherine
+- Cochrane, Euan
 - Ledoux, Thomas
 - Caron, Bertrand
 - Wilson, Carl
-- Cochrane, Euan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931058/download
 grand_parent: iPRES
 institutions:
 - Yale University
-- Open Preservation Foundation
 - Bibliotheque nationale de France
+- Open Preservation Foundation
 keywords:
 - kyoto
 landing_page_url: https://phaidra.univie.ac.at/o:931058

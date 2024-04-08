@@ -14,8 +14,8 @@ abstract: Digital preservation aims at guaranteeing that data or digital objects
   where federated grids not thought for preservation purposes can be extended to preservation
   and their spare resources used with that mission.
 creators:
-- Pina, Helder
 - Antunes, Gonçalo
+- Pina, Helder
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294216/download
 grand_parent: iPRES

@@ -16,11 +16,11 @@ abstract: 'To develop a comprehensive digital preservation program for maintaini
 
   policies and preservation operations.'
 creators:
-- Manning, Mary
-- Spragg, Rob
 - Thompson, Santi
 - Wu, Annie
 - Krewer, Drew
+- Manning, Mary
+- Spragg, Rob
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429562/download
 grand_parent: iPRES

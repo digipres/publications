@@ -2,8 +2,8 @@
 abstract: 7th International Conference on Preservation of Digital Objects, September
   19 – 24, 2010, Vienna, Austria
 creators:
-- Constantopoulos, Panos
 - Rauber, Andreas
+- Constantopoulos, Panos
 - Kaiser, Max
 - Guenther, Rebecca
 date: null

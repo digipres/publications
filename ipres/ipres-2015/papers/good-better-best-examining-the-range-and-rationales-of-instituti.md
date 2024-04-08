@@ -3,8 +3,8 @@ abstract: Many academic institutions are grappling with managing local research 
   assets. Resources and approaches vary. This panel will explore curation procedures
   at institutional data repositories.
 creators:
-- Peer, Limor
 - Rice, Robin
+- Peer, Limor
 - White, Wendy
 - Arguillas, Florio
 date: null

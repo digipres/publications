@@ -11,8 +11,8 @@ abstract: 'The challenge of digital preservation of scientific data lies in the 
   archives caring for scientific data sets with the full arsenal of tools and techniques
   necessary to rise to this challenge. '
 creators:
-- Giaretta, David
 - Conway, Esther
+- Giaretta, David
 - Dunckley, Matthew
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294021/download

@@ -12,9 +12,9 @@ abstract: This paper provides a historical look at the technical migrations of t
   through staff and organizational changes.
 creators:
 - Schaefer, Sibyl
-- Smorul, Mike
 - Ritter, Mike
 - Minor, David
+- Smorul, Mike
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502845/download
 grand_parent: iPRES

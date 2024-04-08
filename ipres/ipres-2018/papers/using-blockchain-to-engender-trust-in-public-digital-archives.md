@@ -17,15 +17,15 @@ abstract: '"Archives are special – the homes of our collective memories. Altho
   This data is permanently preserved through peer-to-peer distribution and consensus
   checking without the need for a trusted third party."'
 creators:
-- Bui, Tu
-- Tennison, Jeni
-- Brown, Alan
 - Green, Alex
-- Thereaux, Olivier
-- Fawcett, Jamie
+- Bell, Mark
 - Sheridan, John
 - Collomosse, John
-- Bell, Mark
+- Bui, Tu
+- Brown, Alan
+- Fawcett, Jamie
+- Thereaux, Olivier
+- Tennison, Jeni
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923629/download
 grand_parent: iPRES

@@ -14,19 +14,19 @@ abstract: 'In order to assess the potential suitability of digital preservation 
 
   '
 creators:
-- Ranade, Sonia
-- Hamdi, Sarra
-- Makri, Stephann
 - Leigh, Alexandra
-- Mulinder, Alec
+- Makri, Stephann
 - Taylor, Alex
+- Mulinder, Alec
+- Hamdi, Sarra
+- Ranade, Sonia
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424927/download
 grand_parent: iPRES
 institutions:
-- The National Archives, UK
-- City, University of London
 - City, University of London / The National Archives, UK
+- City, University of London
+- The National Archives, UK
 keywords:
 - archives
 - human information interaction

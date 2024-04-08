@@ -10,12 +10,12 @@ abstract: In 2006 the Portuguese National Archives (Directorate-General of the P
   into a complete digital preservation solution based on currently available archiving
   and preservation standards, e.g. OAIS, EAD, PREMIS, METS and ANSI/NISO Z39.87.
 creators:
-- Ferreira, Miguel
-- Faria, Luis
-- Castro, Rui
 - Ramalho, José Carlos
-- Barbedo, Francisco
 - Corujo, Luis
+- Barbedo, Francisco
+- Castro, Rui
+- Faria, Luis
+- Ferreira, Miguel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294164/download
 grand_parent: iPRES

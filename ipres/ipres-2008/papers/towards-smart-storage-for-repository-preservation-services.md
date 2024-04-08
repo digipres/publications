@@ -10,11 +10,11 @@ abstract: The move to digital is being accompanied by a huge rise in volumes of 
   and management. Some early examples will be presented, focussing on storage management
   and format risk assessment.
 creators:
-- Brown, Adrian
-- O’Steen, Ben
-- Carr, Leslie
 - Hitchcock, Steve
+- Carr, Leslie
 - Jefferies, Neil
+- O’Steen, Ben
+- Brown, Adrian
 - Tarrant, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294148/download

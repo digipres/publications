@@ -15,19 +15,19 @@ abstract: "Since 2019, four groups have been created within the French associati
   from the French national Library, it was created to use digital objects and images
   available in Gallica, the French digital national library online (https://gallica.bnf.fr).\n"
 creators:
+- Grandcolas, Yannick
 - Bechard, Lorène
+- Humbert, Marion
 - Sin Blima-Barru, Martine
 - Levasseur, Emeline
-- Humbert, Marion
-- Grandcolas, Yannick
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424941/download
 grand_parent: iPRES
 institutions:
-- Archives nationales
-- CINES
 - BIBLIOTHEQUE NATIONALE DE FRANCE
+- CINES
 - Archives de la Moselle
+- Archives nationales
 keywords:
 - digital
 - preservation

@@ -23,9 +23,7 @@ document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inco
 grand_parent: iPRES
 institutions:
 - Queens College, City University Of New York
-keywords:
-- digital preservation
-- scientific data
+keywords: []
 landing_page_url: null
 language: eng
 layout: publication

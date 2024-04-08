@@ -9,13 +9,13 @@ abstract: In this extended abstract, the Open Preservation Foundation’s Archiv
   and can be used to calculate the complexity of a spreadsheet based on the values
   of those properties.
 creators:
-- van Veenendaal, Remco
-- Kjærskov, Frederik Holmelund
 - Takema, Jacob
-- Sein, Kati
-- O’Sullivan, Jack
-- Nielsen, Anders Bo
 - Tømmerholt, Phillip Mike
+- Nielsen, Anders Bo
+- O’Sullivan, Jack
+- Sein, Kati
+- Kjærskov, Frederik Holmelund
+- van Veenendaal, Remco
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079784/download
 grand_parent: iPRES

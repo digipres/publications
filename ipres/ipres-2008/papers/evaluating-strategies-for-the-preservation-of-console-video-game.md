@@ -19,8 +19,8 @@ abstract: The amount of content from digital origin permanently increases. The s
   emulation and migration in the same planning process and that the selection of suitable
   sample records is crucial.
 creators:
-- Kehrberg, Carmen
 - Guttenbrunner, Mark
+- Kehrberg, Carmen
 - Rauber, Andreas
 - Becker, Christoph
 date: null

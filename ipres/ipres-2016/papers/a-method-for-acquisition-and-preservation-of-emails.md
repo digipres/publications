@@ -10,8 +10,8 @@ abstract: In this paper we describe new methods for the acquisition of emails fr
   file characterisation, thereby facilitating the level of preservation watch we want
   in connection with the preservation of the acquisitioned emails.
 creators:
-- Hedegaard, Christen
 - Jensen, Claus
+- Hedegaard, Christen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502847/download
 grand_parent: iPRES

@@ -12,11 +12,11 @@ abstract: 'Preserving software is a prerequisite for preserving and providing ac
   can use to conduct further research on sustainable software preservation services.'
 creators:
 - Erickson, Seth
-- Williford, Christa
-- Lassere, Monique
-- Hagenmaier, Wendy
-- Work, Lauren
 - Benner, Jessica G.
+- Work, Lauren
+- Lassere, Monique
+- Williford, Christa
+- Hagenmaier, Wendy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080502/download
 grand_parent: iPRES

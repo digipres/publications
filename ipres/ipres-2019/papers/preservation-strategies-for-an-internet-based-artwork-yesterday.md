@@ -12,8 +12,8 @@ abstract: This paper investigates possible preservation strategies for an intern
   to handle these challenges and discusses its benefits and disadvantages for long-term
   preservation.
 creators:
-- Rechert, Klaus
 - Noordegraaf, Julia
+- Rechert, Klaus
 - Gieschke, Rafael
 - Roeck, Claudia
 date: null

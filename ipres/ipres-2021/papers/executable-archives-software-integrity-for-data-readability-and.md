@@ -22,8 +22,8 @@ date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424943/download
 grand_parent: iPRES
 institutions:
-- University of Hertfordshire
 - Intact Digital Ltd
+- University of Hertfordshire
 keywords:
 - data integrity
 - software integrity

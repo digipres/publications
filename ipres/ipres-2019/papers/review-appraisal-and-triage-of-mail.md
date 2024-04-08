@@ -11,8 +11,8 @@ abstract: This full-day tutorial will focus on open-source software (OSS) tools 
   and how processing of email can fit into larger digital curation workflows. We will
   conclude with a discussion of implications for participants in their own institutions.
 creators:
-- Lee, Christopher A.
 - Woods, Kam
+- Lee, Christopher A.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080466/download
 grand_parent: iPRES

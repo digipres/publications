@@ -6,9 +6,9 @@ abstract: In today’s literature digital preservation and its concepts are usua
   is limited to a significantly shorter timeline. In this paper we discuss three different
   real-world use cases that benefit from DP concepts on a short term basis.
 creators:
+- Draws, Daniel
 - Simon, Frank
 - Simon, Daniel
-- Draws, Daniel
 - Euteneuer, Sven
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294225/download

@@ -15,8 +15,8 @@ abstract: The last decade has seen a number of reference models and compliance c
   the understanding of cross-cutting concerns and the dicussion on maturity models
   in DP.
 creators:
-- Vieira, Ricardo
 - Becker, Christoph
+- Vieira, Ricardo
 - Barateiro, José
 - Antunes, Gonçalo
 date: null

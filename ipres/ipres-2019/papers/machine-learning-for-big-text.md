@@ -11,8 +11,8 @@ abstract: 'Big datasets can be a rich source of history, yet they pose many chal
   practices to enable digital preservation of large textual datasets at scale. Hands-on
   experience with specific tools is provided.'
 creators:
-- West, Brent
 - Kaczmarek, Joanne
+- West, Brent
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080463/download
 grand_parent: iPRES

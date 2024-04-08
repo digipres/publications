@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Redondo, Teofilo
 - Martinez, Antonio G
+- Redondo, Teofilo
 - Fuertes, Maria
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424810/download

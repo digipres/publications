@@ -16,20 +16,20 @@ abstract: 'When preserving spreadsheets, in certain cases it is decided to conve
 
   '
 creators:
-- Wijsman, Lotte
-- O’sullivan, Jack
-- Takema, Jacob
 - Van Veenendaal, Remco
-- Sein, Kati
+- Wijsman, Lotte
 - Skødt, Asbjørn
+- Sein, Kati
+- Takema, Jacob
+- O’sullivan, Jack
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424921/download
 grand_parent: iPRES
 institutions:
-- Danish National Archives
 - National Archives of the Netherlands
-- Preservica
+- Danish National Archives
 - National Archives of Estonia
+- Preservica
 keywords:
 - significant properties
 - spreadsheets

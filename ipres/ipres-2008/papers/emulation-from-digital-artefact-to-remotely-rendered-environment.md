@@ -15,8 +15,8 @@ abstract: Emulation1 used as a long-term preservation strategy offers the possib
   of this strategy are that it improves user convenience while maximizing emulation
   capabilities.
 creators:
-- van der Hoeven, Jeffrey
 - von Suchodoletz, Dirk
+- van der Hoeven, Jeffrey
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294107/download
 grand_parent: iPRES

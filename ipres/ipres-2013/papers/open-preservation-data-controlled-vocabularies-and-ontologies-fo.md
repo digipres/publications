@@ -16,9 +16,9 @@ abstract: The preservation community is busily building systems for repositories
 creators:
 - Kulovits, Hannes
 - Kraxner, Michael
-- Bechhofer, Sean
 - Plangg, Markus
 - Becker, Christoph
+- Bechhofer, Sean
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378051/download
 grand_parent: iPRES

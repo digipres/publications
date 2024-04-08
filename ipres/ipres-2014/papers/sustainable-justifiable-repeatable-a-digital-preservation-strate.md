@@ -12,8 +12,8 @@ abstract: 'Appraisal has long been a source of intense debate in the archival co
   value. '
 creators:
 - West, Brent
-- Phoenix, Jordan
 - Kaczmarek, Joanne
+- Phoenix, Jordan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378704/download
 grand_parent: iPRES

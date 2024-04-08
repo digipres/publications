@@ -1,16 +1,16 @@
 ---
 abstract: null
 creators:
-- Ulvestad, Deanna
-- Howard, Rachel
 - Kinnaman, Alex
+- Howard, Rachel
+- Ulvestad, Deanna
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1422933/download
 grand_parent: iPRES
 institutions:
-- Greene County Public Library
-- University of Louisville Libraries
 - Virginia Tech University Libraries
+- University of Louisville Libraries
+- Greene County Public Library
 keywords: []
 landing_page_url: https://phaidra.univie.ac.at/o:1422933
 language: eng

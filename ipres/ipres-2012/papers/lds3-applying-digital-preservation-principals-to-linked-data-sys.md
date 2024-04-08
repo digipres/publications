@@ -16,8 +16,8 @@ abstract: Data publishing using semantic web and linked data techniques enables 
   be referenced and discovered in order to build customisable alerting services for
   risk management in preservation systems.
 creators:
-- Carr, Les
 - Tarrant, David
+- Carr, Les
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293766/download
 grand_parent: iPRES

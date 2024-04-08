@@ -12,9 +12,9 @@ abstract: "This paper provides an overview of the methodology and supporting adv
   as evidence of business activity are strategic assets in their own right, not just
   a byproduct of the business process, owned by the application. \n"
 creators:
-- Morris, Anna
-- Fitzgerald, Neal
 - MacDonald, Ingrid
+- Fitzgerald, Neal
+- Morris, Anna
 - Cunningham, Adrian
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378129/download

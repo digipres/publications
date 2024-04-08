@@ -19,14 +19,14 @@ abstract: 'This paper presents findings from a multi-method study in archiving, 
   '
 creators:
 - Kinnaman, Alex
+- Saverot, Maureen
 - Chen, Yinlin
+- Long, Kara
+- Polys, Nicholas
 - Nesbit, Sterling
 - Stocker, Michelle
-- Hall, Nathan
-- Saverot, Maureen
-- Long, Kara
 - Xiao, Shuhai
-- Polys, Nicholas
+- Hall, Nathan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424939/download
 grand_parent: iPRES

@@ -5,8 +5,8 @@ abstract: In this paper we describe a process of consultation and data gathering
   and requirements gathering with a particular focus on access, reuse and community
   engagement.
 creators:
-- Webb, Sharon
 - O'Carroll, Aileen
+- Webb, Sharon
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378090/download
 grand_parent: iPRES

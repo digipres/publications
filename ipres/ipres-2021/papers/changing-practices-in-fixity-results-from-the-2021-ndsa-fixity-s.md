@@ -8,15 +8,15 @@ abstract: 'Beyond the encouragement to check fixity, the field of digital preser
   '
 creators:
 - Krabbenhoeft, Nick
-- Schaefer, Sibyl
 - Kussmann, Carol
+- Schaefer, Sibyl
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424949/download
 grand_parent: iPRES
 institutions:
+- New York Public Library
 - University of Minnesota
 - University of California San Diego
-- New York Public Library
 keywords:
 - fixity
 - survey

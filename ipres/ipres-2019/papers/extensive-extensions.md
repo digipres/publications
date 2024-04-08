@@ -10,8 +10,8 @@ creators:
 - Owens, Trevor
 - Salas, Camille
 - Johnston, Jesse
-- Cooper, Mark
 - DesRochers, Aly
+- Cooper, Mark
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079779/download
 grand_parent: iPRES

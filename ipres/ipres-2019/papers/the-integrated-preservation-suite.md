@@ -9,8 +9,8 @@ abstract: The Integrated Preservation Suite is an internally funded project at t
   and populated for the formats currently supported.
 creators:
 - Russo, David
-- May, Peter
 - Pennock, Maureen
+- May, Peter
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079922/download
 grand_parent: iPRES

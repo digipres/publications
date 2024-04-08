@@ -1,13 +1,5 @@
 ---
-abstract: Jisc and the Digital Preservation Coalition (DPC) have undertaken an anonymous
-  surveying exercise in order to unearth the true cost of catastrophic data loss—not
-  only in terms of the value of the data, but also the cost of the knock-on effects
-  that may only become apparent some considerable time after the event. This information
-  can be used to help organisations make a stronger case for robust and effective
-  digital preservation practice and to inform those trying to take steps to avoid
-  their own data loss disaster. This workshop, intended to bring together those who
-  have lost data with those who wish to avoid losses, explores the usefulness of such
-  data loss events to the community.
+abstract: null
 creators:
 - Martinez, Antonio Guillermo
 date: null

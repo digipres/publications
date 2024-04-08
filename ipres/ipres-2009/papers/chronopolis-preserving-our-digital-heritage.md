@@ -5,10 +5,10 @@ abstract: The Chronopolis Digital Preservation Initiative, one of the Library of
   of a wide range of cultural and social domains. In this paper we will explore the
   major themes within Chronopolis.
 creators:
-- Smorul, Michael
-- Sutton, Don
-- Burek, Michael
 - Minor, David
+- Smorul, Michael
+- Burek, Michael
+- Sutton, Don
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293999/download
 grand_parent: iPRES

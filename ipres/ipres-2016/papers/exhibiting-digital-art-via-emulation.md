@@ -9,9 +9,9 @@ abstract: The availability and accessibility of digital artworks is closely tied
   booting directly into a prepared emulated environment. Furthermore, we report from
   practical experiences using the system in two museum exhibitions.
 creators:
+- Espenschied, Dragan
 - Rechert, Klaus
 - Liebetraut, Thomas
-- Espenschied, Dragan
 - Stobbe, Oleg
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503174/download

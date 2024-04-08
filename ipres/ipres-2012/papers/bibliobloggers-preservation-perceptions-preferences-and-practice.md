@@ -12,8 +12,8 @@ abstract: The biblioblogosphere comprises the personal, typically professional-o
   and better understand the phenomenon of blogging in academe and implications for
   long-term stewardship of this form.
 creators:
-- Sugimoto, Cassidy R.
 - Hank, Carolyn
+- Sugimoto, Cassidy R.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293869/download
 grand_parent: iPRES

@@ -3,13 +3,13 @@ abstract: 'From October 6‐10, 2014, the State Library of Victoria was pleased 
   the eleventh annual iPRES Conference. The conference was co-hosted by the State
   Library of Victoria and the National Library of Australia. '
 creators:
-- Knight, Steve
-- King, Ross
-- McKinney, Peter
-- Pearson, David
-- O'Meara, Erin
-- Lee, Christopher
 - Coates, Serena
+- King, Ross
+- Knight, Steve
+- Lee, Christopher
+- McKinney, Peter
+- O'Meara, Erin
+- Pearson, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378066/download
 grand_parent: iPRES

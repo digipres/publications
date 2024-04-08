@@ -6,8 +6,8 @@ abstract: 'This workshop provides an overview of the PREMIS Data Dictionary for 
   or contexts. '
 creators:
 - McKinney, Peter
-- Zierau, Eld
 - Guenther, Rebecca
+- Zierau, Eld
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378137/download
 grand_parent: iPRES

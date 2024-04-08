@@ -15,18 +15,18 @@ abstract: 'UNESCO Memory of the World Programme (MoW) and its Preservation Sub-C
 
   '
 creators:
-- Milic-Frayling, Natasa
 - Phang, Lai Tee
-- Bradley, Kevin
+- Milic-Frayling, Natasa
 - Buckley, Robert
+- Bradley, Kevin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424946/download
 grand_parent: iPRES
 institutions:
-- The National Archives of UAE
-- Intact Digital Ltd
-- National Library of Australia
 - UNESCO Preservation Sub-Committee
+- Intact Digital Ltd
+- The National Archives of UAE
+- National Library of Australia
 keywords:
 - digital preservation
 - digital documentary heritage

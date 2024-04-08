@@ -27,8 +27,8 @@ abstract: 'Today, more and more information is being produced in a digital form.
   compliance (the retention or destruction of certain documents in accordance to legal
   requirements).'
 creators:
-- Strodl, Stephan
 - Korb, Joachim
+- Strodl, Stephan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185501/download
 grand_parent: iPRES

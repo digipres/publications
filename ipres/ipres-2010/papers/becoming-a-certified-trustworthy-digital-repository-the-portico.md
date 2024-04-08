@@ -49,8 +49,8 @@ abstract: 'The scholarly community’s dependence on electronic
 creators:
 - Kirchhoff, Amy
 - Morrissey, Sheila
-- Orphan, Stephanie
 - Fenton, Eileen
+- Orphan, Stephanie
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185497/download
 grand_parent: iPRES

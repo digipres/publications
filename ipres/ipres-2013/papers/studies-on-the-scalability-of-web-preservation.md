@@ -33,12 +33,12 @@ abstract: 'This paper describes a mechanism for improving the scalability of pre
   several orders of magnitude, producing a corresponding increase in performance and
   scalability.'
 creators:
-- Sharpe, Robert
-- O'Sullivan, Jack
-- Sinclair, Pauline
-- Patel, Ismail
-- Hunter, Ashley
 - Blevins, Rory
+- Patel, Ismail
+- O'Sullivan, Jack
+- Hunter, Ashley
+- Sharpe, Robert
+- Sinclair, Pauline
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378060/download
 grand_parent: iPRES

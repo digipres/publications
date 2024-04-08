@@ -57,9 +57,9 @@ abstract: 'Geospatial data are widely used by many institutions, governments, an
   Tech, and has also allowed us to leverage campus partners to better optimize our
   ability to serve the discovery and preservation needs of the Virginia Tech community.'
 creators:
-- Farag, Mohamed
-- Ogier, Andrea
 - Coleman, R. Shane
+- Ogier, Andrea
+- Farag, Mohamed
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429581/download
 grand_parent: iPRES

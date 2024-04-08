@@ -13,8 +13,8 @@ abstract: The SHAMAN project targets a framework integrating advances in the dat
   In the end we derive a service-oriented architecture with a grid-based integration
   layer as an initial approach to manage the challenges.
 creators:
-- Hemmje, Matthias
 - Klas, Claus-Peter
+- Hemmje, Matthias
 - Müller, Lars
 - Brocks, Holger
 date: null

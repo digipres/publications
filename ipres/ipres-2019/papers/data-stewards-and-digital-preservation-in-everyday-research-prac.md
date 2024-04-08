@@ -6,9 +6,9 @@ abstract: Data Stewards at TU Delft promote digital preservation by incorporatin
   university and examples of preservation work, including the creation of data repositories
   and a trial of Webrecorder.
 creators:
+- Love, J.S.
 - Wang, Yan
 - Plomp, Esther
-- Love, J.S.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081735/download
 grand_parent: iPRES

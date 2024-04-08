@@ -7,8 +7,8 @@ abstract: This poster presents the concept of Autonomous Preservation Tools, as 
   of real-world implementations of Autonomous Preser- vation Tools.
 creators:
 - Askov Blekinge, Asger
-- Ammitzbøll Jurik, Bolette
 - Ravn Andersen, Thorbjørn
+- Ammitzbøll Jurik, Bolette
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502846/download
 grand_parent: iPRES

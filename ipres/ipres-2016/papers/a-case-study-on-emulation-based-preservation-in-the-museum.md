@@ -6,10 +6,10 @@ abstract: We use emulation to preserve a complex digital artifact in the museum.
   researchers and museum practitioners. The preserved artifact now is on display in
   real exhibitions.
 creators:
-- Tögel, Philipp
+- Padberg, Frank
 - Häberle, Martin
 - Irrgang, Daniel
-- Padberg, Frank
+- Tögel, Philipp
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502855/download
 grand_parent: iPRES

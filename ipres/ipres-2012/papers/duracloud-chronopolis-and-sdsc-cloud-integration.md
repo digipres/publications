@@ -5,10 +5,10 @@ abstract: 'In this paper we describe the interaction of three different systems:
   a new storage and preservation service available to a wide range of users'
 creators:
 - Woods, Andrew
-- Sutton, Don
 - Burek, Michael
 - Branan, Bill
 - Minor, David
+- Sutton, Don
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294081/download
 grand_parent: iPRES

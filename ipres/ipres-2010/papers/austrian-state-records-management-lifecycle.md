@@ -24,8 +24,8 @@ abstract: 'The Austrian state is building an integrated “cradle to grave” el
   which will be the sources of historical research in the future, are being created.
   This will preserve the historical heritage of Austria for generations to come.'
 creators:
-- Sharpe, Robert
 - Konrath, Berthold
+- Sharpe, Robert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245897/download
 grand_parent: iPRES

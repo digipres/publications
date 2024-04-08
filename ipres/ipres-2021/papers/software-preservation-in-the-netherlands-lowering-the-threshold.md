@@ -9,8 +9,8 @@ abstract: 'Thus far, software preservation in Dutch Heritage institutions is far
   '
 creators:
 - de Vos, Jesse
-- O'Donohoe, Eoin
 - Röck, Claudia
+- O'Donohoe, Eoin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424933/download
 grand_parent: iPRES

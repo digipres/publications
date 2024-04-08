@@ -11,8 +11,8 @@ abstract: 'With the advent of the so-called Web 2.0 technologies, web resources 
 
   '
 creators:
-- Rechert, Klaus
 - Gieschke, Rafael
+- Rechert, Klaus
 - Mocken, Susanne
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424931/download

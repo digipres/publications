@@ -12,8 +12,8 @@ abstract: Apart from technical, organisational and economical challenges of long
   of the Netherlands).
 creators:
 - van der Hoeven, Jeffrey
-- Sepetjan, Sophie
 - Dindorf, Marcus
+- Sepetjan, Sophie
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245907/download
 grand_parent: iPRES

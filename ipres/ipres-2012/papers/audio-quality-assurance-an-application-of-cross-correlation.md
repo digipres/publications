@@ -9,8 +9,8 @@ abstract: 'We describe algorithms for automated quality assurance on content of 
   The SCAPE project is co-funded by the European Union under FP7 ICT-2009.4.1 (Grant
   Agreement number 270137).'
 creators:
-- Sindahl Nielsen, Jesper
 - Ammitzboll Jurik, Bolette
+- Sindahl Nielsen, Jesper
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293841/download
 grand_parent: iPRES

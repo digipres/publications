@@ -6,10 +6,10 @@ abstract: In this poster, we provide an overview of the SafeArchive system and d
   is obtained from a set of LOCKSS peers without modifying the LOCKSS trust model
   or configuration, and the organization of SafeArchive software components.
 creators:
-- Altman, Micah
-- Crabtree, Jonathan
 - Christian, Thu-Mai
+- Altman, Micah
 - McGovern, Nancy
+- Crabtree, Jonathan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294264/download
 grand_parent: iPRES

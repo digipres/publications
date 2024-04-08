@@ -4,8 +4,8 @@ abstract: By working collaboratively with Ex Libris and utilizing advanced tape 
   Christ of Latter-day Saints has been able to advance the state of the art of data
   integrity and long term preservation in a rapidly growing digital preservation archive.
 creators:
-- Wright, Gary T.
 - Sherwinter, Nir
+- Wright, Gary T.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293833/download
 grand_parent: iPRES

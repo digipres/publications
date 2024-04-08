@@ -45,9 +45,9 @@ abstract: '"In order to preserve software-based art the research community has p
   like a full-system emulation; the latter only being possible when the speed advantage
   of the new hardware is large enough."'
 creators:
-- Rechert, Klaus
-- Noordegraaf, Julia
 - Roeck, Claudia
+- Noordegraaf, Julia
+- Rechert, Klaus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923622/download
 grand_parent: iPRES

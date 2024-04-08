@@ -33,10 +33,10 @@ abstract: 'In 2015 a new preservation policy of the National Archives of The Net
   in The Netherlands. The development of a collaborative knowledge base is also necessary
   as we evolve more and more towards a national preservation network.'
 creators:
-- Ras , Marcel
+- Lucker, Pepijn
 - van Veenendaal, Remco
 - Sierman , Barbara
-- Lucker, Pepijn
+- Ras , Marcel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:922203/download
 grand_parent: iPRES

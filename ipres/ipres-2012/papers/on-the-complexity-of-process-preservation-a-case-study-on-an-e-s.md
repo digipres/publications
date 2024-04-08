@@ -7,9 +7,9 @@ abstract: Digital preservation of (business) processes is an emerging topic in D
   Retrieval. We show the magnitude of aspects involved, on technology as well as organisational,
   legal and other aspects.
 creators:
+- Mayer, Rudolf
 - Strodl, Stephan
 - Rauber, Andreas
-- Mayer, Rudolf
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293872/download
 grand_parent: iPRES

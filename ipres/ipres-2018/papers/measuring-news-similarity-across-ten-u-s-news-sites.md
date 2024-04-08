@@ -19,8 +19,8 @@ abstract: News websites make editorial decisions about what stories to in- clude
   on Election Day, and an increase (0.354) after Election Day. Our method shows that
   we can effectively identity top stories and quantify news similarity.
 creators:
-- Nwala, Alexander
 - Atkins, Grant
+- Nwala, Alexander
 - Weigle, Michele
 - Nelson, Michael
 date: null

@@ -15,8 +15,8 @@ abstract: 'Archivists at the University of Michigan Bentley Historical Library r
   to early feedback and ultimately adapt our recommendations to better align with
   archivists’ needs.'
 creators:
-- Alexa
 - Eckard, Max
+- Alexa
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923647/download
 grand_parent: iPRES

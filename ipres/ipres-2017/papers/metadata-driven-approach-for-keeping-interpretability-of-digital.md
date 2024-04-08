@@ -29,8 +29,8 @@ abstract: Metadata about digital objects help users find, understand, use and re
   provenance related research. Finally, the main findings of this research are summarized
   in the conclusions.
 creators:
-- Sugimoto, Shigeo
 - Li, Chunqiu
+- Sugimoto, Shigeo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931067/download
 grand_parent: iPRES

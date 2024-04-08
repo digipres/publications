@@ -35,9 +35,9 @@ abstract: 'As digital scholarship continues to transform research, so it
 
   documented, analyzed, and distributed.'
 creators:
-- Jackson, Lauren
-- Esteva, Maria
 - Trelogan, Jessica
+- Esteva, Maria
+- Jackson, Lauren
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429572/download
 grand_parent: iPRES

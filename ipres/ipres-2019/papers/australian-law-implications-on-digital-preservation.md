@@ -25,8 +25,8 @@ abstract: Collection institutions (Libraries, Archives, Galleries, and Museums) 
   institutions as well as potential threats already sitting in storage and the laws
   and policies that may serve as guidelines to help overcome/mitigate such issues.
 creators:
-- de Vries, Denise
 - Mooney, Carl
+- de Vries, Denise
 - Hart, Timothy Robert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079695/download

@@ -21,10 +21,10 @@ abstract: 'After four years of research within the PLANETS project
 
   complete emulation-based strategies in long-term preservation.'
 creators:
+- von Suchodoletz, Dirk
 - van der Hoeven, Jeffrey
 - Rechert, Klaus
 - Schr¨oder, Jasper
-- von Suchodoletz, Dirk
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185512/download
 grand_parent: iPRES

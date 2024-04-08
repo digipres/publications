@@ -18,14 +18,14 @@ abstract: With growing concerns about environmental problems, and an exponential
   large-scale SDIs like INSPIRE.
 creators:
 - Shaon, Arif
-- Woolf, Andrew
-- Rönsdorf, Carsten
+- Samuelsson, Göran
 - Bos, Marguérite
 - Kirstein, Michael
+- Woolf, Andrew
 - Mason, Paul
-- Gerber, Urs
-- Samuelsson, Göran
 - Naumann, Kai
+- Gerber, Urs
+- Rönsdorf, Carsten
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294224/download
 grand_parent: iPRES

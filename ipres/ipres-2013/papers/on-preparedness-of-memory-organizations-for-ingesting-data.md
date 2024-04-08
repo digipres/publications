@@ -15,9 +15,9 @@ abstract: The National Digital Library of Finland is an entity, which aims to cr
   preservation.
 creators:
 - Lehtonen, Juha
+- Helin, Heikki
 - Koivunen, Kimmo
 - Lehtonen, Kuisma
-- Helin, Heikki
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378049/download
 grand_parent: iPRES

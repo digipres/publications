@@ -19,8 +19,7 @@ document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inco
 grand_parent: iPRES
 institutions:
 - Dell And CDW
-keywords:
-- automated topic detection
+keywords: []
 landing_page_url: null
 language: eng
 layout: publication

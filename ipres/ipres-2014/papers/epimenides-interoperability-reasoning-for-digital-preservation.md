@@ -9,8 +9,8 @@ abstract: ' This paper presents Epimenides, a system that implements a novel int
   on how Epimenides could be used and the benefits that would bring.'
 creators:
 - Kargakis, Yannis
-- Tzitzikas, Yannis
 - van Horik, René
+- Tzitzikas, Yannis
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378106/download
 grand_parent: iPRES

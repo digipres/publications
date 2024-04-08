@@ -19,11 +19,11 @@ abstract: Manual quality assurance (QA) of digitised content is typically fallib
   problem solving and discusses the incidental benefits and community building that
   this strategy facilitated.
 creators:
+- Wheatley, Paul
+- McGuinness, Rebecca
+- Jackson, Andrew N.
 - Double, Jodie
 - Middleton, Bo
-- McGuinness, Rebecca
-- Wheatley, Paul
-- Jackson, Andrew N.
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294255/download
 grand_parent: iPRES

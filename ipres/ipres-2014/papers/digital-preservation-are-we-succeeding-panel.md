@@ -6,13 +6,13 @@ abstract: "The Programme Committee created a panel for this year’s conference 
   from the event, rather than a summary and conclusion. A video of the event is available
   on the iPRES 2014 website. \n\n "
 creators:
-- Wilkinson, Ross
-- Fay, Ed
-- Sierman, Barbara
-- Ross, Seamus
 - Hendy, Shaun
-- Rauber, Andreas
+- Wilkinson, Ross
 - Tibbo, Helen
+- Rauber, Andreas
+- Ross, Seamus
+- Sierman, Barbara
+- Fay, Ed
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378133/download
 grand_parent: iPRES

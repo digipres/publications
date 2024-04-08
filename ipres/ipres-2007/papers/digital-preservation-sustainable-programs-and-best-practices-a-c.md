@@ -6,11 +6,11 @@ abstract: This paper reviews iPRES2007 digital preservation international confer
   experiences and lessons existing in practice, discusses problems that we have and
   brings forward the important concerns for the next phase of digital preservation.
 creators:
-- Jianhua, Liu
+- Zhenxin, Wu
 - Jing, Xiang
 - Qi, Zhao
 - Mei, Zhang
-- Zhenxin, Wu
+- Jianhua, Liu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294431/download
 grand_parent: iPRES

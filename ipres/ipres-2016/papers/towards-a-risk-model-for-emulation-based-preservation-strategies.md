@@ -12,8 +12,8 @@ abstract: Virtualization and emulation provide the technical basis for a potenti
   of disk images in the medium-to-long-term, and strategies to mitigate the risks
   related to external dependencies.
 creators:
-- Ensom, Tom
 - Rechert, Klaus
+- Ensom, Tom
 - Falcão, Patrícia
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503169/download

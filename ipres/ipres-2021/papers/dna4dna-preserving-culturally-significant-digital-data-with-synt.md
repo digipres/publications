@@ -13,19 +13,19 @@ abstract: 'The growing adoption of AI and data analytics in various sectors has 
 
   '
 creators:
-- Appuswamy, Raja
-- Sella, Omer
-- Ghabach, Eddy
 - Marinelli, Eugenio
+- Ghabach, Eddy
 - Bolbroe, Thomas
+- Sella, Omer
 - Heinis, Thomas
+- Appuswamy, Raja
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424930/download
 grand_parent: iPRES
 institutions:
-- Imperial College London
 - EURECOM
 - Rigsarkivet
+- Imperial College London
 keywords:
 - dna storage
 - long-term storage

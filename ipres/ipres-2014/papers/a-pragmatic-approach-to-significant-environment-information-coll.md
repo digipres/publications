@@ -20,12 +20,12 @@ abstract: When aiming to ensure the long-term usage of digital objects, it is im
   the user (e.g. scientist, artist in our use cases) would have to find time to perform
   manually.
 creators:
+- Corubolo, Fabio
 - Eggers, Anna
-- Waddington, Simon
 - Hasan, Adil
 - Hedges, Mark
+- Waddington, Simon
 - Ludwig, Jens
-- Corubolo, Fabio
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378125/download
 grand_parent: iPRES

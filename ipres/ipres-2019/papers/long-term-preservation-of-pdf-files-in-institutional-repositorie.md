@@ -8,9 +8,9 @@ abstract: In the open access environment, many textual resources have become ava
   PDFs did not have embedded metadata. These results imply that PDF files in Japanese
   IRs have several serious problems for their long-term preservation.
 creators:
+- Ikeuchi, Atsushi
 - Miyata, Yosuke
 - Agata, Teru
-- Ikeuchi, Atsushi
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081752/download
 grand_parent: iPRES

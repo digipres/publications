@@ -15,8 +15,8 @@ abstract: 'This paper describes how the E-ARK project (European Archival Records
   format before detailing what the access solution will look like, which tools will
   be developed and, not least, why the E-ARK Access system will be used and work.'
 creators:
-- Hougaard Edsen Johansen, Katherine
 - Thirifays, Alex
+- Hougaard Edsen Johansen, Katherine
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429561/download
 grand_parent: iPRES

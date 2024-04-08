@@ -5,10 +5,10 @@ abstract: This poster reports preliminary results from an intensive review of En
   digital library and digital curation curriculum.
 creators:
 - Hank, Carolyn
-- Kirkpatrick, Charlene
 - Lasley, Noah
-- Shireman, Kylan
 - Zhu, Xiaohua
+- Shireman, Kylan
+- Kirkpatrick, Charlene
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429589/download
 grand_parent: iPRES

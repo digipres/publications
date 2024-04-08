@@ -14,11 +14,11 @@ abstract: 'Access to many born-digital materials can only be accomplished econom
   by examining, for a large data set, both the cost of creating such scripts and the
   common problems that these scripts must resolve.'
 creators:
-- Areyan, Enrique
-- Cornelius, Kevin
 - Toshniwal, Swetha
-- Whelan, Gavin
+- Areyan, Enrique
 - Brown, Geoffrey
+- Cornelius, Kevin
+- Whelan, Gavin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293866/download
 grand_parent: iPRES

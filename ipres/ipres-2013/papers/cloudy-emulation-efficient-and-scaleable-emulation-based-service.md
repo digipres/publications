@@ -11,12 +11,12 @@ abstract: Emulation as a strategy for digital preservation is about to become an
   preservation workflows. This paper describes design and implementation of scalable
   emulation services as part of the bwFLA EaaS framework.
 creators:
-- Meier, Konrad
 - Valizada, Isgandar
-- Wehrle, Dennis
-- Sabel, Leander
 - Rechert, Klaus
+- Meier, Konrad
+- Wehrle, Dennis
 - von Suchodoletz, Dirk
+- Sabel, Leander
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377398/download
 grand_parent: iPRES

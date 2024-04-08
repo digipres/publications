@@ -10,11 +10,11 @@ abstract: Quality management is one of the essential parts to become a trustwort
   like documentation, transparency, adequacy, and measureability in order to demonstrate
   the trustworthiness of their digital archive.
 creators:
-- Schoger, Astrid
 - Dobratz, Susanne
-- Rödig, Peter
+- Schoger, Astrid
 - Rätzke, Björn
 - Borghoff, Uwe M.
+- Rödig, Peter
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294155/download
 grand_parent: iPRES

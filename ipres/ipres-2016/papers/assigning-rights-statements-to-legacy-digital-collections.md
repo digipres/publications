@@ -4,8 +4,8 @@ abstract: This poster reports on a project at the University of Miami Libraries 
   access in the UM Digital Collections, and to assign item-level rights statements
   to over 52,000 items.
 creators:
-- Williams, Elliot
 - Capell, Laura
+- Williams, Elliot
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502824/download
 grand_parent: iPRES

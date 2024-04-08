@@ -19,9 +19,9 @@ abstract: Until now, digital preservation research has been mainly driven by pub
   determine the corresponding actions, and contribute to the overall commercial success
   of enterprises.
 creators:
-- Simon, Daniel
 - Barateiro, José
 - Burda, Daniel
+- Simon, Daniel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378043/download
 grand_parent: iPRES

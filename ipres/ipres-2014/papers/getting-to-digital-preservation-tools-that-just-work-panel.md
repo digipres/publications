@@ -5,11 +5,11 @@ abstract: 'In this paper, we describe a panel that discussed experiences, strate
   with the audience, explored the challenges and discussed potential solutions to
   developing more robust and sustainable support structures for these tools. '
 creators:
-- Abrams, Stephen
-- Fay, Ed
-- Wheatley, Paul
 - Goethals, Andrea
+- Wheatley, Paul
+- Abrams, Stephen
 - Delve, Janet
+- Fay, Ed
 - Lee, Christopher
 - von Suchodoletz, Dirk
 date: null

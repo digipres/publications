@@ -10,8 +10,8 @@ abstract: 'The availability of migration tools for older formats is often limite
   using migration together with the emulation of original environments.'
 creators:
 - Valizada, Isgandar
-- Rechert, Klaus
 - von Suchodoletz, Dirk
+- Rechert, Klaus
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294260/download
 grand_parent: iPRES

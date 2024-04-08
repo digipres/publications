@@ -9,11 +9,11 @@ abstract: Approaches to digital stewardship vary from institution to institution
   preservation at their respective institutions.
 creators:
 - Verbruggen, Erwin
-- Griesinger, Peggy
+- Steeves, Vicky
 - Peltzman, Shira
 - Kim, Julia
+- Griesinger, Peggy
 - Blumenthal, Karl-Rainer
-- Steeves, Vicky
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079780/download
 grand_parent: iPRES

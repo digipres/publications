@@ -6,8 +6,8 @@ abstract: This proposal is for a full day workshop to be held at the IPRES 2015 
   software benchmarking practices in digital preservation and how these can contribute
   to improving digital preservation tools.
 creators:
-- Kulmukhametov, Artur
 - Duretec, Kresimir
+- Kulmukhametov, Artur
 - Rauber, Andreas
 - Becker, Christoph
 date: null

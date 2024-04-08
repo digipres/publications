@@ -12,14 +12,14 @@ abstract: Academic libraries are increasingly adopting virtual reality (VR) tech
   programs. This paper describes the findings of this project and outlines strategies
   and techniques for curating and preserving 3D/VR.
 creators:
-- Cook, Matt
-- Johnson, Jennifer
-- McDonald, Robert
-- Hall, Nathan
-- Lischer-Katz, Zack
 - Carlisle, Tara
-- Hardesty, Juliet
+- McDonald, Robert
+- Johnson, Jennifer
 - Wittenberg, Jamie
+- Hardesty, Juliet
+- Hall, Nathan
+- Cook, Matt
+- Lischer-Katz, Zack
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080495/download
 grand_parent: iPRES

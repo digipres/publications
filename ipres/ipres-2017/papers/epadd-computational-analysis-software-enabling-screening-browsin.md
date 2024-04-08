@@ -8,9 +8,9 @@ abstract: ePADD is free and open-source computational analysis software facilita
   and delivery of email held by archival repositories and other memory institutions,
   filling an important role in the preservation of these materials.
 creators:
-- Edwards, Glynn
-- Chan, Peter
 - Schneider, Josh
+- Chan, Peter
+- Edwards, Glynn
 - Hangal, Sudheendra
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931099/download

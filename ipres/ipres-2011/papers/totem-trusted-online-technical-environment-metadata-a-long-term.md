@@ -11,8 +11,8 @@ abstract: For emulation and other preservation actions, metadata is needed to de
   compatible with OAIS and PREMIS version 2.
 creators:
 - Delve, Janet
-- Konstantelos, Leo
 - Ciuffreda, Antonio
+- Konstantelos, Leo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294265/download
 grand_parent: iPRES

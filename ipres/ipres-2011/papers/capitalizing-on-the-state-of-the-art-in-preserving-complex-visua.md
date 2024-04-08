@@ -16,15 +16,15 @@ abstract: 'Complex visual digital objects and environments present the digital p
   art in preserving complex objects, provide input to collections management and create
   fertile ground for future collaborations between academia and industry.'
 creators:
-- Beacham, Richard
 - Konstantelos, Leo
-- Billenness, Clive
-- Joguin, Vincent
 - Baker, Drew
-- Anderson, David
+- Billenness, Clive
 - Dobreva, Milena
 - Delve, Janet
 - Séfi, Sonia
+- Joguin, Vincent
+- Beacham, Richard
+- Anderson, David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294276/download
 grand_parent: iPRES

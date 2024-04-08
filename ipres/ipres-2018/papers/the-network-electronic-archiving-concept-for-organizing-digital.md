@@ -9,8 +9,8 @@ abstract: 'This paper presents details about a network organization that enables
   small archive this case illustrates how sharing and collaboration via NEA has allowed
   them to do full-scale digital preservation in accordance with OAIS. '
 creators:
-- Nørøxe, Kim Schou
 - Johansen, Kathrine Hougaard Edsen
+- Nørøxe, Kim Schou
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923638/download
 grand_parent: iPRES

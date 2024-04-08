@@ -11,10 +11,10 @@ abstract: The University of Illinois at Urbana-Champaign's library-based Researc
   practices from the archives community to develop preservation review processes and
   guidelines for datasets published in the Illinois Data Bank.
 creators:
-- Dunham, Elise
+- Anderson, Bethany
 - Rimkus, Kyle
 - Imker, Heidi
-- Anderson, Bethany
+- Dunham, Elise
 - Braxton, Susan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502905/download

@@ -6,9 +6,9 @@ abstract: This paper discusses the challenges of preserving art in the digital c
   We will see that while work has been done towards digital preservation, significant
   issues remain.
 creators:
-- Carpendale, Sheelagh
 - Au Yeung, Tim
 - Greenberg, Saul
+- Carpendale, Sheelagh
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294099/download
 grand_parent: iPRES

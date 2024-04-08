@@ -3,10 +3,10 @@ abstract: This paper describes the Preservation Policy model as designed in the 
   project SCAPE and an experiment to test the viability of the model against two real
   life preservation policies.
 creators:
+- Sierman, Barbara
 - Jones, Catherine
 - Bechhofer, Sean
 - Elstrøm, Gry
-- Sierman, Barbara
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378055/download
 grand_parent: iPRES

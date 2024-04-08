@@ -13,10 +13,10 @@ abstract: Every day, unique valuable information that describes our current days
   1996 (www.archive.pt). It also provides access methods to enable research and development
   activities over web-archived data.
 creators:
-- Cruz, David
-- Costa, Miguel
 - Gomes, Daniel
+- Cruz, David
 - Miranda, João
+- Costa, Miguel
 - Fontes, Simão
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377375/download

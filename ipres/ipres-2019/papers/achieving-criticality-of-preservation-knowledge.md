@@ -18,9 +18,9 @@ abstract: 'The concerns of the digital preservation community are shared by thos
   nuclear field can contribute to the broader digital preservation community thus
   opening a dialogue on how we can progress together.'
 creators:
-- Kilbride, William
 - Moye, Jim
 - Mitcham, Jenny
+- Kilbride, William
 - Kata, Elizabeth
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1082724/download

@@ -11,10 +11,10 @@ abstract: The advance in technologies for publishing digital scholarship has out
   for maximum preservability.
 creators:
 - Doerr, Susan
-- Wittenberg, Kate
 - Van Dyck, Craig
-- Millman, David
 - Hanson, Karen
+- Millman, David
+- Wittenberg, Kate
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079778/download
 grand_parent: iPRES

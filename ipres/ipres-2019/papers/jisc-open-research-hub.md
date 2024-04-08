@@ -24,10 +24,10 @@ abstract: 'Jisc’s Open Research Hub (JORH) integrates a number of repository, 
   decisions informed by our research and domain expertise.'
 creators:
 - Davey, Tom
-- Stokes, Paul
+- Fripp, Dom
 - Burland, Tamsin
 - Kaye, John
-- Fripp, Dom
+- Stokes, Paul
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1082722/download
 grand_parent: iPRES

@@ -9,11 +9,11 @@ abstract: 'Join us for a panel presentation on the dark side of preservation. Th
   librarianship and computer science and what values are implicit in the work and
   activities.'
 creators:
-- Meister, Sam
-- Skinner, Katherine
-- Pcolar, Dave
-- Schaefer, Sybil
 - Molinaro, Mary
+- Pcolar, Dave
+- Skinner, Katherine
+- Meister, Sam
+- Schaefer, Sybil
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429529/download
 grand_parent: iPRES

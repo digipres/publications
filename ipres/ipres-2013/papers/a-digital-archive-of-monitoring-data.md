@@ -14,9 +14,9 @@ abstract: The change of status of data files from mere stepping stones to build 
   during the metadata specification phase, and an iterative development approach during
   the prototype construction phase of a digital archive for the same group.
 creators:
-- Cunha, Álvaro
 - Costa, Fábio
 - David, Gabriel
+- Cunha, Álvaro
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377371/download
 grand_parent: iPRES

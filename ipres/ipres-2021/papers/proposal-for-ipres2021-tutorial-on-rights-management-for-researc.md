@@ -9,8 +9,8 @@ abstract: 'Purpose: Research data (RD) is a fast developing area of digital reso
 
   '
 creators:
-- Zhang, Zeyu
 - Sheng, Zhihong
+- Zhang, Zeyu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424937/download
 grand_parent: iPRES

@@ -15,9 +15,9 @@ abstract: "The scope of digital curation at the BnF covers documents digitized f
   be used in order to preserve both faces of French digital heritage. \n"
 creators:
 - Derrot, Sophie
+- Moreux, Jean-Philippe
 - Oury, Clément
 - Reecht, Stéphane
-- Moreux, Jean-Philippe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378123/download
 grand_parent: iPRES

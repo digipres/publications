@@ -9,8 +9,8 @@ abstract: Archivematica is an open source software platform that incorporates th
   about how the system, and how the software can move forward alongside the entire
   digital preservation community.
 creators:
-- Romkey, Sarah
 - Spencer, Ross
+- Romkey, Sarah
 - Blewer, Ashley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080498/download
