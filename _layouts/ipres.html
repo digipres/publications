@@ -4,9 +4,7 @@ layout: default
 
 <h1>{{page.title}}</h1>
 
-{% if page.images %}
-<img src="{{ page.images }}">
-{% endif %}
+{% if page.images %}<img src="{{ page.images }}" style="max-height: 120px;">{% endif %}
 
 {% include ipres_table.html %}
 
