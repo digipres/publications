@@ -21,6 +21,7 @@ collections:
   path: '{{slug}}/index'
   slug: '{{title}}'
   filter: { field: "parent", value: "iPRES" }
+  preview_path: publications/ipres/{{slug}}
   fields:
   - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'ipres' }
   - { label: 'Parent', name: 'parent', widget: 'hidden', default: 'iPRES' }
@@ -66,6 +67,7 @@ collections:
     - label: 'Homepage'
       name: 'index'
       file: 'index.md'
+      preview_path: publications
       fields:
         - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
         - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'home' }
@@ -73,6 +75,7 @@ collections:
     - label: 'iPRES Introduction Page'
       name: 'ipres/index'
       file: 'ipres/index.md'
+      preview_path: publications/ipres
       fields:
         - { label: 'Title', name: 'title', widget: 'hidden', default: 'iPRES' }
         - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
