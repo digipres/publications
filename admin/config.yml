@@ -28,7 +28,7 @@ collections:
   - { label: Title, name: title, widget: string }
   - { label: Location, name: location, widget: string }
   - { label: Dates, name: date, widget: string }
-  - { label: "Logo", name: "images", widget: "image", media_folder: "images" }
+  - { label: "Logo", name: "images", widget: "image", media_folder: "images", required: false }
   - { label: Website, name: website, widget: string }
   - label: "Website Status"
     name: website_status
