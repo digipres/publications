@@ -41,9 +41,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: paper
 size: 6270751
+slides_url: null
 source_name: iPRES
 title: Preserving landmark legacy software with the Software Heritage Acquisition
   Process

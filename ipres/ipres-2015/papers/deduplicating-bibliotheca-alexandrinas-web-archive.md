@@ -32,9 +32,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
-presentation_url: null
 publication_type: paper
 size: 167519
+slides_url: null
 source_name: iPRES
 title: Deduplicating Bibliotheca Alexandrina’s Web Archive
 year: 2015

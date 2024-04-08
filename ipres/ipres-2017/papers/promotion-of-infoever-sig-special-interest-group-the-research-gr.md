@@ -26,9 +26,9 @@ layout: publication
 license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
-presentation_url: null
 publication_type: paper
 size: 22038
+slides_url: null
 source_name: iPRES
 title: Promotion of InfoEver SIG (Special Interest Group), the Research Group Seeking
   to Establish a Grand Design for Long-Term Preservation of Digital Information in

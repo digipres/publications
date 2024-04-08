@@ -34,9 +34,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2005
-presentation_url: null
 publication_type: paper
 size: 562032
+slides_url: null
 source_name: iPRES
 title: 'Web Archiving: a collaborative effort in progress: Presentation - iPRES 2005
   - Göttingen'

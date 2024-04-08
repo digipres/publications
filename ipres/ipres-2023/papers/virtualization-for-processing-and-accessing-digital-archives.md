@@ -29,9 +29,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121666
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121666
 source_name: iPRES
 title: VIRTUALIZATION FOR PROCESSING AND ACCESSING DIGITAL ARCHIVES
 year: 2023

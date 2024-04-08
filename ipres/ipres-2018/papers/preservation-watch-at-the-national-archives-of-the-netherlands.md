@@ -49,9 +49,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
-presentation_url: null
 publication_type: paper
 size: 151412
+slides_url: null
 source_name: iPRES
 title: Preservation Watch at the National Archives of The Netherlands
 year: 2018

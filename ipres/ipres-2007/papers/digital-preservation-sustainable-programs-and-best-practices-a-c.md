@@ -27,9 +27,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
-presentation_url: null
 publication_type: paper
 size: 447604
+slides_url: null
 source_name: iPRES
 title: 'Digital Preservation : Sustainable Programs and Best Practices - A Comprehensive
   Review of iPRES 2007'

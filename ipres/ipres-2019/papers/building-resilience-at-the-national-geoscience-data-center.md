@@ -25,9 +25,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
-presentation_url: null
 publication_type: paper
 size: 189332
+slides_url: null
 source_name: iPRES
 title: 'Building Resilience at the National Geoscience Data Center '
 year: 2019

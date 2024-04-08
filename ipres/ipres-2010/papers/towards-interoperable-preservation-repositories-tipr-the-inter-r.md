@@ -25,9 +25,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: poster
 size: 370874
+slides_url: null
 source_name: iPRES
 title: 'TOWARDS INTEROPERABLE PRESERVATION REPOSITORIES (TIPR): THE INTER-REPOSITORY
   SERVICE AGREEMENT'

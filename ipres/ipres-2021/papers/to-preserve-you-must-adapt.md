@@ -18,9 +18,9 @@ layout: publication
 license: All rights reserved
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: lightning talk
 size: 50452
+slides_url: null
 source_name: iPRES
 title: To Preserve, You Must Adapt.
 year: 2021

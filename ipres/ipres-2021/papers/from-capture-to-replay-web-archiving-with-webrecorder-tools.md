@@ -67,9 +67,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: paper
 size: 43897
+slides_url: null
 source_name: iPRES
 title: 'From capture to replay: Web Archiving with webrecorder tools'
 year: 2021

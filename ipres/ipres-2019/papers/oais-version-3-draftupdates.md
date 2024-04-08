@@ -21,9 +21,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
-presentation_url: null
 publication_type: paper
 size: 259881
+slides_url: null
 source_name: iPRES
 title: 'Oais version 3 draftupdates '
 year: 2019

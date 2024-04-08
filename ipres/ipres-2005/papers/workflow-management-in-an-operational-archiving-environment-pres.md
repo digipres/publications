@@ -20,9 +20,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2005
-presentation_url: null
 publication_type: paper
 size: 280485
+slides_url: null
 source_name: iPRES
 title: 'Workflow Management in an Operational Archiving Environment: Presentation
   - iPRES 2005 - Göttingen'

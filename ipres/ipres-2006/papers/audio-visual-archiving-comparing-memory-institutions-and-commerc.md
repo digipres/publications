@@ -30,9 +30,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
-presentation_url: null
 publication_type: presentation
 size: 3504446
+slides_url: null
 source_name: iPRES
 title: 'Audio-Visual Archiving: Comparing Memory Institutions and Commercial Industries'
 year: 2006

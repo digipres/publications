@@ -24,9 +24,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
-presentation_url: null
 publication_type: paper
 size: 1351125
+slides_url: null
 source_name: iPRES
 title: 'Born Broken: Fonts and Information Loss in Legacy Digital Documents'
 year: 2009

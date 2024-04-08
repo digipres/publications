@@ -30,9 +30,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
 publication_type: presentation
 size: null
+slides_url: null
 source_name: iPRES
 title: 'PUBLISHING AGRICULTURAL DATA FROM THE MORROW PLOTS: The Value and Logistics
   of Preserving a Long-Term Research Experiment'

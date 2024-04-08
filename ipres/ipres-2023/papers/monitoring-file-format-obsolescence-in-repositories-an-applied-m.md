@@ -29,9 +29,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121657
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121657
 source_name: iPRES
 title: 'MONITORING FILE FORMAT OBSOLESCENCE IN REPOSITORIES: An applied method'
 year: 2023

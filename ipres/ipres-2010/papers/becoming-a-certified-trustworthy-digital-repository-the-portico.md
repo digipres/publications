@@ -62,9 +62,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: paper
 size: 241067
+slides_url: null
 source_name: iPRES
 title: 'BECOMING A CERTIFIED TRUSTWORTHY DIGITAL REPOSITORY:  THE PORTICO EXPERIENCE'
 year: 2010

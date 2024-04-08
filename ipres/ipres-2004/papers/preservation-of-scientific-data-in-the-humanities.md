@@ -14,9 +14,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2004
-presentation_url: null
 publication_type: presentation
 size: 941403
+slides_url: null
 source_name: iPRES
 title: Preservation of Scientific Data in the Humanities
 year: 2004

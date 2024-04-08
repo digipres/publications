@@ -31,9 +31,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
-presentation_url: null
 publication_type: paper
 size: 1467609
+slides_url: null
 source_name: iPRES
 title: Exploring Friedrich Kittler’s Digital Legacy on Different Levels
 year: 2016

@@ -37,9 +37,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
-presentation_url: null
 publication_type: paper
 size: 394325
+slides_url: null
 source_name: iPRES
 title: 'The Cost of Keeping It: Towards effective cost-modeling for digital preservation'
 year: 2018

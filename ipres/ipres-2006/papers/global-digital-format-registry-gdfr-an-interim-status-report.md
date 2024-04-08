@@ -27,9 +27,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
-presentation_url: null
 publication_type: presentation
 size: 156401
+slides_url: null
 source_name: iPRES
 title: 'Global Digital Format Registry (GDFR): An Interim Status Report'
 year: 2006

@@ -36,9 +36,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
-presentation_url: null
 publication_type: paper
 size: 594017
+slides_url: null
 source_name: iPRES
 title: 'Preservation Is Knowledge: A community-driven preservation approach'
 year: 2012

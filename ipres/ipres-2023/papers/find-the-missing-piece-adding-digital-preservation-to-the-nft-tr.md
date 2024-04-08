@@ -31,9 +31,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121650
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121650
 source_name: iPRES
 title: 'FIND THE MISSING PIECE: Adding Digital Preservation to the NFT Trading Ecosystem'
 year: 2023

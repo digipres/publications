@@ -26,9 +26,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: poster
 size: 61433
+slides_url: null
 source_name: iPRES
 title: LaVaH - Distributed long-term preservation with diverse roles and responsibilities
 year: 2021

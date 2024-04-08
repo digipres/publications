@@ -41,9 +41,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
-presentation_url: null
 publication_type: paper
 size: 965379
+slides_url: null
 source_name: iPRES
 title: Towards a Long-term Preservation Infrastructure for Earth Science Data
 year: 2012

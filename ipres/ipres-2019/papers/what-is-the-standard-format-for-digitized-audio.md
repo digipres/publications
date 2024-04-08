@@ -22,9 +22,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
-presentation_url: null
 publication_type: paper
 size: 215715
+slides_url: null
 source_name: iPRES
 title: 'What is the Standard Format for Digitized Audio? '
 year: 2019

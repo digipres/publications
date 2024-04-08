@@ -28,9 +28,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
-presentation_url: null
 publication_type: poster
 size: 87386
+slides_url: null
 source_name: iPRES
 title: 'Strategies for Audit-Based Repository Certification: Guidelines, Resources,
   and Tools to Prepare, Organize, and Evaluate Criteria Evidence'

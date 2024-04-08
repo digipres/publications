@@ -27,9 +27,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: paper
 size: 680373
+slides_url: null
 source_name: iPRES
 title: 'Permanent digital data storage: A materials approach'
 year: 2013

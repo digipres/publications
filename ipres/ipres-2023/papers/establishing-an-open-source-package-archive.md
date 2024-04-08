@@ -89,9 +89,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
 publication_type: paper
 size: null
+slides_url: null
 source_name: iPRES
 title: ESTABLISHING AN OPEN-SOURCE PACKAGE “ARCHIVE"
 year: 2023

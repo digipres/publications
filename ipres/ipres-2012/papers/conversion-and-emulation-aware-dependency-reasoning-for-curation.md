@@ -30,9 +30,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
-presentation_url: null
 publication_type: paper
 size: 738194
+slides_url: null
 source_name: iPRES
 title: Conversion and Emulation-aware Dependency Reasoning for Curation Services
 year: 2012

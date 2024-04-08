@@ -36,9 +36,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: poster
 size: 12723002
+slides_url: null
 source_name: iPRES
 title: iPRES 2013 - Proceedings of the 10th International Conference on Preservation
   of Digital Objects

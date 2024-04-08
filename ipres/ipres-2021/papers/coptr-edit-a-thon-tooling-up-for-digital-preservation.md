@@ -42,9 +42,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: paper
 size: 140939
+slides_url: null
 source_name: iPRES
 title: COPTR-EDIT-A-THON Tooling up for digital preservation
 year: 2021

@@ -39,9 +39,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
-presentation_url: null
 publication_type: paper
 size: 337528
+slides_url: null
 source_name: iPRES
 title: Preservation planning for emerging formats at the British Library
 year: 2018

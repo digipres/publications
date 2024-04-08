@@ -41,9 +41,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
-presentation_url: null
 publication_type: paper
 size: 267974
+slides_url: null
 source_name: iPRES
 title: Benchmarks for Digital Preservation Tools
 year: 2015

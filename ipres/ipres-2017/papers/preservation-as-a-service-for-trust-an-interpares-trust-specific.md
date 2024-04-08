@@ -26,9 +26,9 @@ layout: publication
 license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
-presentation_url: null
 publication_type: paper
 size: 669775
+slides_url: null
 source_name: iPRES
 title: 'Preservation as a Service for Trust: An InterPARES Trust Specification for
   Preserving Authentic Records in the Cloud'

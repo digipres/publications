@@ -29,9 +29,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
-presentation_url: null
 publication_type: paper
 size: 424158
+slides_url: null
 source_name: iPRES
 title: 'Towards a Universal Virtual Interactor (UVI) for Digital Objects '
 year: 2019

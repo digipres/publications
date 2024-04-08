@@ -15,9 +15,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2004
-presentation_url: null
 publication_type: presentation
 size: 152053
+slides_url: null
 source_name: iPRES
 title: Preservation Strategy Proposals for Licensed Resources of CSDL
 year: 2004

@@ -27,9 +27,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121687
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121687
 source_name: iPRES
 title: 'SAVING STAN: Preserving the Digital Artwork of Joseph Stanislaus Ostoja-Kotkowski'
 year: 2023

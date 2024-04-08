@@ -33,9 +33,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: paper
 size: 120007
+slides_url: null
 source_name: iPRES
 title: 'Digital preservation of epidemic resources: coupling metadata and ontologies'
 year: 2013

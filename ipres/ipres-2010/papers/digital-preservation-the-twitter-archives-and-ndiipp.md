@@ -30,9 +30,9 @@ layout: publication
 license: GPLv3
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: paper
 size: 46110
+slides_url: null
 source_name: iPRES
 title: 'DIGITAL PRESERVATION: THE TWITTER ARCHIVES AND NDIIPP'
 year: 2010

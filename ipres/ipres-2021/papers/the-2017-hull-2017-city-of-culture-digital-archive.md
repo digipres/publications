@@ -14,9 +14,9 @@ layout: publication
 license: All rights reserved
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: lightning talk
 size: 36197
+slides_url: null
 source_name: iPRES
 title: The 2017 Hull 2017 City of Culture Digital Archive
 year: 2021

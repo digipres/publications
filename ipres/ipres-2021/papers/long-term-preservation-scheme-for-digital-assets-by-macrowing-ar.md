@@ -14,9 +14,9 @@ layout: publication
 license: All rights reserved
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: lightning talk
 size: 643448
+slides_url: null
 source_name: iPRES
 title: Long Term Preservation Scheme for Digital Assets by Macrowing Archivals
 year: 2021

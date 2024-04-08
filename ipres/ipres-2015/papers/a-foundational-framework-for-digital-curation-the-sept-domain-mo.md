@@ -47,9 +47,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
-presentation_url: null
 publication_type: paper
 size: 274866
+slides_url: null
 source_name: iPRES
 title: 'A Foundational Framework for Digital Curation: The Sept Domain Model'
 year: 2015

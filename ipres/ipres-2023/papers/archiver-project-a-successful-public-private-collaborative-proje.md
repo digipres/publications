@@ -27,9 +27,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121677
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121677
 source_name: iPRES
 title: 'ARCHIVER PROJECT: A SUCCESSFUL PUBLIC-PRIVATE COLLABORATIVE PROJECT'
 year: 2023

@@ -37,9 +37,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: paper
 size: 284814
+slides_url: null
 source_name: iPRES
 title: PROPOSING A FRAMEWORK AND A VISUAL TOOL FOR  ANALYSING GAPS IN DIGITAL PRESERVATION  PRACTICE
   – A CASE STUDY AMONG SCIENTIFIC  LIBRARIES IN EUROPE

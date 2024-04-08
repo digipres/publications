@@ -27,9 +27,9 @@ layout: publication
 license: GPLv3
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: paper
 size: 197802
+slides_url: null
 source_name: iPRES
 title: MOPSEUS – A DIGITAL REPOSITORY SYSTEM WITH SEMANTICALLY ENHANCED PRESERVATION
   SERVICES

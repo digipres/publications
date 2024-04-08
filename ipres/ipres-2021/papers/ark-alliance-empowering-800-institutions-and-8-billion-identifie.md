@@ -14,9 +14,9 @@ layout: publication
 license: All rights reserved
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: lightning talk
 size: 43236
+slides_url: null
 source_name: iPRES
 title: 'ARK Alliance: Empowering 800 institutions and 8 billion identifiers since
   2001'

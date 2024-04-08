@@ -39,9 +39,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: paper
 size: 593313
+slides_url: null
 source_name: iPRES
 title: Modelling Data Value in Digital Preservation
 year: 2013

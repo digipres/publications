@@ -37,9 +37,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
-presentation_url: null
 publication_type: presentation
 size: 297941
+slides_url: null
 source_name: iPRES
 title: DAITSS and the Florida Digital Archive
 year: 2006

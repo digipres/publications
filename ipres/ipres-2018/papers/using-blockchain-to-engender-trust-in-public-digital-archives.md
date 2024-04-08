@@ -38,9 +38,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
-presentation_url: null
 publication_type: paper
 size: 141098
+slides_url: null
 source_name: iPRES
 title: Using blockchain to engender trust in public digital archives
 year: 2018

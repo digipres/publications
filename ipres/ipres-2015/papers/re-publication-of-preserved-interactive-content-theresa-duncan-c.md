@@ -23,9 +23,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
-presentation_url: null
 publication_type: poster
 size: 514672
+slides_url: null
 source_name: iPRES
 title: '(Re-)publication of Preserved, Interactive Content – Theresa Duncan CD-ROMs:
   Visionary Videogames for Girls'

@@ -37,9 +37,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: paper
 size: 419041
+slides_url: null
 source_name: iPRES
 title: 'Digital Library Maturation: The Evolution of Digital Collections Management
   Programs at National Libraries'

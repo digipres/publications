@@ -23,9 +23,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
-presentation_url: null
 publication_type: poster
 size: 158715
+slides_url: null
 source_name: iPRES
 title: 'ARCHIVING THE SCHOLARLY GIT EXPERIENCE '
 year: 2019

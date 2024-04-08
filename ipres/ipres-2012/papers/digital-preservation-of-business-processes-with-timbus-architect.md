@@ -31,9 +31,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
-presentation_url: null
 publication_type: paper
 size: 891998
+slides_url: null
 source_name: iPRES
 title: Digital Preservation Of Business Processes with TIMBUS Architecture
 year: 2012

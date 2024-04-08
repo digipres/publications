@@ -24,9 +24,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
-presentation_url: null
 publication_type: short paper
 size: null
+slides_url: null
 source_name: iPRES
 title: "Short Paper: FROM RAY CATS TO DPC RAM: HOW BEST TO PRESERVE A DIGITAL MEMORY
   OF THE NUCLEAR DECOMMISSIONING PROCESS\r\n"

@@ -30,9 +30,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: paper
 size: 1678147
+slides_url: null
 source_name: iPRES
 title: 'Interoperability Objectives and Approaches: Results from the APARSEN NoE'
 year: 2013

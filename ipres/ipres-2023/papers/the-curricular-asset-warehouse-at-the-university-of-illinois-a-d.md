@@ -34,9 +34,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121656
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121656
 source_name: iPRES
 title: 'THE CURRICULAR ASSET WAREHOUSE AT THE UNIVERSITY OF ILLINOIS: A Digital Archive’s
   Sustainability Case Study'

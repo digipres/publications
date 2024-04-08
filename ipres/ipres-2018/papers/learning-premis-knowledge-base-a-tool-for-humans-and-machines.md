@@ -31,9 +31,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
-presentation_url: null
 publication_type: paper
 size: 1023949
+slides_url: null
 source_name: iPRES
 title: 'Learning PREMIS Knowledge Base: a tool for humans and machines'
 year: 2018

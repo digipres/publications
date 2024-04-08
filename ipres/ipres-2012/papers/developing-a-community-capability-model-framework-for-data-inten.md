@@ -50,9 +50,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
-presentation_url: null
 publication_type: paper
 size: 649626
+slides_url: null
 source_name: iPRES
 title: Developing a Community Capability Model Framework for data-intensive research
 year: 2012

@@ -21,9 +21,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2004
-presentation_url: null
 publication_type: presentation
 size: 721395
+slides_url: null
 source_name: iPRES
 title: Preservation Planning, Institutional Strategies and Policies
 year: 2004

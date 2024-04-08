@@ -19,9 +19,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
-presentation_url: null
 publication_type: poster
 size: 61030
+slides_url: null
 source_name: iPRES
 title: 'State Records NSW Digital Archives: Poster (Poster) '
 year: 2014

@@ -22,9 +22,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: null
 publication_type: presentation
 size: null
+slides_url: null
 source_name: iPRES
 title: PRIORITIZING STORAGE MEDIA FOR DIGITAL ARCHIVING AND PRESERVATION
 year: 2023

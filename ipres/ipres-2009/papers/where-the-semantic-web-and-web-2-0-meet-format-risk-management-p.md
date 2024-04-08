@@ -29,9 +29,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
-presentation_url: null
 publication_type: paper
 size: 1236739
+slides_url: null
 source_name: iPRES
 title: 'Where the Semantic Web and Web 2.0 Meet Format Risk Management: P2 Registry'
 year: 2009

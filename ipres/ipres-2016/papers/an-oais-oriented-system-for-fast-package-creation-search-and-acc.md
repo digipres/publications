@@ -31,9 +31,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
-presentation_url: null
 publication_type: paper
 size: 770037
+slides_url: null
 source_name: iPRES
 title: An OAIS-oriented System for Fast Package Creation, Search, and Access
 year: 2016

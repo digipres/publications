@@ -31,9 +31,9 @@ layout: publication
 license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
-presentation_url: null
 publication_type: paper
 size: 285957
+slides_url: null
 source_name: iPRES
 title: 'Research Data Management Organiser: A tool to support the planning, implementation
   and organisation of research data management'

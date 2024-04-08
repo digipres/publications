@@ -56,9 +56,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: paper
 size: 229641
+slides_url: null
 source_name: iPRES
 title: 'LIFE3: A PREDICTIVE COSTING TOOL  FOR DIGITAL COLLECTIONS'
 year: 2010

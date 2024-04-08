@@ -30,9 +30,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121661
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121661
 source_name: iPRES
 title: A STORAGE AND SEARCH DEMONSTRATION WITH DNA-ENCODED TEXT
 year: 2023

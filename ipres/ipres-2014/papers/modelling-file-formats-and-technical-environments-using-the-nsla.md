@@ -30,9 +30,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
-presentation_url: null
 publication_type: workshops and tutorials
 size: 141075
+slides_url: null
 source_name: iPRES
 title: Modelling File Formats and Technical Environments using the NSLA Digital Preservation
   Technical Registry (DPTR)

@@ -15,9 +15,9 @@ layout: publication
 license: All rights reserved
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: lightning talk
 size: 120341
+slides_url: null
 source_name: iPRES
 title: Preservation as the Priority
 year: 2021

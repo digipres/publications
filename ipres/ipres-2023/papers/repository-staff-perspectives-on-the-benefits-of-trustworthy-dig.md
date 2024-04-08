@@ -25,9 +25,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121653
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121653
 source_name: iPRES
 title: REPOSITORY STAFF PERSPECTIVES ON THE BENEFITS OF TRUSTWORTHY DIGITAL REPOSITORY
   CERTIFICATION

@@ -26,9 +26,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
-presentation_url: null
 publication_type: paper
 size: 57784
+slides_url: null
 source_name: iPRES
 title: 'Networked Instruction for Research Data Curation Education: The CRADLE Project'
 year: 2014

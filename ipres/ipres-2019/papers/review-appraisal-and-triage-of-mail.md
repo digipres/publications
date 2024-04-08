@@ -24,9 +24,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
-presentation_url: null
 publication_type: paper
 size: 110290
+slides_url: null
 source_name: iPRES
 title: 'Review, Appraisal, And Triage of Mail: '
 year: 2019

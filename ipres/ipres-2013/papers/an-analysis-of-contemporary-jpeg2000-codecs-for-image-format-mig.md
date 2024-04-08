@@ -47,9 +47,9 @@ layout: publication
 license: CC BY-ND 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: paper
 size: 939049
+slides_url: null
 source_name: iPRES
 title: An Analysis of Contemporary JPEG2000 Codecs for Image Format Migration
 year: 2013

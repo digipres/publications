@@ -33,9 +33,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
-presentation_url: null
 publication_type: paper
 size: 496606
+slides_url: null
 source_name: iPRES
 title: Cyberinfrastructure Supporting Evolving Data Collections
 year: 2011

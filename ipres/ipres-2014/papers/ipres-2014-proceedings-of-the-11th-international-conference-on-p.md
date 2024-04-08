@@ -27,9 +27,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
-presentation_url: null
 publication_type: proceedings
 size: 39353324
+slides_url: null
 source_name: iPRES
 title: iPRES 2014 - Proceedings of the 11th International Conference on Preservation
   of Digital Objects

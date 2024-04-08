@@ -27,9 +27,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: paper
 size: 117373
+slides_url: null
 source_name: iPRES
 title: 'TAP: A Tiered Preservation Model for Digital Resources'
 year: 2013

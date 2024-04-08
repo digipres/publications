@@ -61,9 +61,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: poster
 size: 191175
+slides_url: null
 source_name: iPRES
 title: GUIDING A CAMPUS THROUGH THE TRANSITION TO A  PAPERLESS RECORDS SYSTEM
 year: 2010

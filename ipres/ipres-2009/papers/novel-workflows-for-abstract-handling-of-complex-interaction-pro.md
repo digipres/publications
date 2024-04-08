@@ -29,9 +29,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
-presentation_url: null
 publication_type: paper
 size: 1551899
+slides_url: null
 source_name: iPRES
 title: Novel Workflows for Abstract Handling of Complex Interaction Processes in Digital
   Preservation

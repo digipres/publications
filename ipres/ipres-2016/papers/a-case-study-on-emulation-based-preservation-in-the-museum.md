@@ -21,9 +21,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
-presentation_url: null
 publication_type: paper
 size: 475172
+slides_url: null
 source_name: iPRES
 title: A Case Study on Emulation-based Preservation in the Museum
 year: 2016

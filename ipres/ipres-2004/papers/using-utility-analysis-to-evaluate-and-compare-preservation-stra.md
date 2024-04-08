@@ -30,9 +30,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2004
-presentation_url: null
 publication_type: presentation
 size: 188207
+slides_url: null
 source_name: iPRES
 title: Using Utility Analysis to Evaluate and Compare Preservation Strategies
 year: 2004

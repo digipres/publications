@@ -37,9 +37,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121652
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121652
 source_name: iPRES
 title: 'NDSA LEVELS OF DIGITAL PRESERVATION: A REVIEW IN TERMS OF TRUSTWORTHINESS
   OF DIGITAL RECORDS'

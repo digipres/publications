@@ -23,9 +23,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
-presentation_url: null
 publication_type: poster
 size: 44108
+slides_url: null
 source_name: iPRES
 title: To Act or Not to Act – Handling File Format Identification Issues in Practice
 year: 2016

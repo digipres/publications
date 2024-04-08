@@ -26,9 +26,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
-presentation_url: null
 publication_type: panel
 size: null
+slides_url: null
 source_name: iPRES
 title: 'Panel: Right Click to Preserve: Preservation, NFTs, and Distributed Ledgers'
 year: 2022

@@ -42,9 +42,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
-presentation_url: null
 publication_type: poster
 size: 452440
+slides_url: null
 source_name: iPRES
 title: 'In the Thicket of It with the NDSA Standards and Practices Working Group:
   Cultivating Grass Roots Approaches to Real-World Digital Preservation Issues'

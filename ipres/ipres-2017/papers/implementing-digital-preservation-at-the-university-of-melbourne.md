@@ -21,9 +21,9 @@ layout: publication
 license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
-presentation_url: null
 publication_type: paper
 size: 126450
+slides_url: null
 source_name: iPRES
 title: Implementing Digital Preservation at the University of Melbourne
 year: 2017

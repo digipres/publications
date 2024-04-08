@@ -33,9 +33,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: poster
 size: 52907
+slides_url: null
 source_name: iPRES
 title: 'Digital Lifecycle Management in Maryland: Establishing the foundations for
   consortial approaches to digital preservation at Maryland universities and affiliated

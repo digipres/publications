@@ -23,9 +23,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
-presentation_url: null
 publication_type: poster
 size: null
+slides_url: null
 source_name: iPRES
 title: 'Poster: Creating Workflows to Scale Out Large Open Access E-book Acquisitions
   at the Library of Congress'

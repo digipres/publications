@@ -35,9 +35,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2011
-presentation_url: null
 publication_type: paper
 size: 532779
+slides_url: null
 source_name: iPRES
 title: 'The Enduring Value of Social Science Research: The Use and Reuse of Primary
   Research Data'

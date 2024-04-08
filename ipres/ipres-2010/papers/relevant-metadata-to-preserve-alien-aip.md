@@ -62,9 +62,9 @@ layout: publication
 license: GPLv3
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: paper
 size: 121749
+slides_url: null
 source_name: iPRES
 title: RELEVANT METADATA TO PRESERVE “ALIEN” AIP
 year: 2010

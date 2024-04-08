@@ -26,9 +26,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
-presentation_url: null
 publication_type: paper
 size: 244859
+slides_url: null
 source_name: iPRES
 title: 'Preserving Qualitative Data: A Data Model to Prepare Computer Assisted Qualitative
   Data Analysis Software Data for Long-term Preservation'

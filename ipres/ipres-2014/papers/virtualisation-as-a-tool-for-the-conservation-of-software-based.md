@@ -41,9 +41,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
-presentation_url: null
 publication_type: paper
 size: 515944
+slides_url: null
 source_name: iPRES
 title: Virtualisation as a Tool for the Conservation of Software-Based Artworks
 year: 2014

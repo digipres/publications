@@ -21,9 +21,9 @@ layout: publication
 license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
-presentation_url: null
 publication_type: poster
 size: 113633
+slides_url: null
 source_name: iPRES
 title: Presentation and Contextualisation in the Online Archive of Internet Art
 year: 2017

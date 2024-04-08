@@ -40,9 +40,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
-presentation_url: null
 publication_type: presentation
 size: 2044070
+slides_url: null
 source_name: iPRES
 title: 'Digital Data Preservation and Curation: A Collaboration Among Libraries, Publishers,
   and the Virtual Observatory - A pilot project aimed at preserving, curating, and

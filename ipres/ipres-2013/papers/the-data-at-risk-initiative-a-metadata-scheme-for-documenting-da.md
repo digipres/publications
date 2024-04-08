@@ -33,9 +33,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: paper
 size: 446007
+slides_url: null
 source_name: iPRES
 title: 'The Data-at-Risk Initiative: A Metadata Scheme for Documenting Data Rescue
   Activities'

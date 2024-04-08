@@ -29,9 +29,9 @@ layout: publication
 license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
-presentation_url: null
 publication_type: paper
 size: 150255
+slides_url: null
 source_name: iPRES
 title: 'Challenges in Preserving Augmented Reality Games: A Case Study of Ingress
   and Pokémon GO'

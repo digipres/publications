@@ -24,9 +24,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: poster
 size: 351021
+slides_url: null
 source_name: iPRES
 title: NATIONAL FILM BOARD OF CANADA DIGITIZATION PLAN – A CASE STUDY
 year: 2010

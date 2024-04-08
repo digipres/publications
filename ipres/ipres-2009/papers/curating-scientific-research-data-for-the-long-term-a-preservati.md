@@ -26,9 +26,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
-presentation_url: null
 publication_type: paper
 size: 929395
+slides_url: null
 source_name: iPRES
 title: 'Curating Scientific Research Data for the Long Term: A Preservation Analysis
   Method in Context'

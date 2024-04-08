@@ -36,9 +36,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
-presentation_url: null
 publication_type: poster
 size: 572987
+slides_url: null
 source_name: iPRES
 title: Retrocomputing as Preservation
 year: 2012

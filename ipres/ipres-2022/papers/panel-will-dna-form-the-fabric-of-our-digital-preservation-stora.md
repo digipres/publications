@@ -23,9 +23,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
-presentation_url: null
 publication_type: panel
 size: null
+slides_url: null
 source_name: iPRES
 title: "Panel: WILL DNA FORM THE FABRIC OF OUR DIGITAL PRESERVATION STORAGE?\r\nDNA
   Data Storage: A Panel Discussion"

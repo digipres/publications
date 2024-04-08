@@ -33,9 +33,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: poster
 size: 157278
+slides_url: null
 source_name: iPRES
 title: A Collaboration to Clarify the Costs of Curation – The 4C Project
 year: 2013

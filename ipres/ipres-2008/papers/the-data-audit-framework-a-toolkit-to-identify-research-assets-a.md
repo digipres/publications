@@ -26,9 +26,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2008
-presentation_url: null
 publication_type: paper
 size: 304330
+slides_url: null
 source_name: iPRES
 title: 'The Data Audit Framework: a toolkit to identify research assets and improve
   data management in research led institutions'

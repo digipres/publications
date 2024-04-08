@@ -33,9 +33,9 @@ layout: publication
 license: All rights reserved
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: lightning talk
 size: 81592
+slides_url: null
 source_name: iPRES
 title: Consistent evaluation of trustworthiness across guiding principles and standards
   is crucial to ensure a robust digital repository ecosystem

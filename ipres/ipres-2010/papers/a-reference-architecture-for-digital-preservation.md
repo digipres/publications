@@ -57,9 +57,9 @@ layout: publication
 license: GPLv3
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: paper
 size: 422757
+slides_url: null
 source_name: iPRES
 title: A REFERENCE ARCHITECTURE FOR DIGITAL PRESERVATION
 year: 2010

@@ -20,9 +20,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
-presentation_url: null
 publication_type: paper
 size: 233245
+slides_url: null
 source_name: iPRES
 title: 'Data Stewards and Digital Preservation in Everyday Research Practice '
 year: 2019

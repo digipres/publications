@@ -37,9 +37,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2015
-presentation_url: null
 publication_type: paper
 size: 1381392
+slides_url: null
 source_name: iPRES
 title: Archiving Deferred Representations Using a Two-Tiered Crawling Approach
 year: 2015

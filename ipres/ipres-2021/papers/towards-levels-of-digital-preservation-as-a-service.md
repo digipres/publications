@@ -35,9 +35,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: paper
 size: 148076
+slides_url: null
 source_name: iPRES
 title: TOWARDS LEVELS OF DIGITAL PRESERVATION AS A SERVICE
 year: 2021

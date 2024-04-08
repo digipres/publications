@@ -26,9 +26,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121685
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121685
 source_name: iPRES
 title: TOWARDS PRESERVING WEB-BASED STUDENT PUBLICATIONS AT CONCORDIA UNIVERSITY
 year: 2023

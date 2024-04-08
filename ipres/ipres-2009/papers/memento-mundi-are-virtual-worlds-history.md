@@ -23,9 +23,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
-presentation_url: null
 publication_type: paper
 size: 724952
+slides_url: null
 source_name: iPRES
 title: 'Memento Mundi: Are Virtual Worlds History?'
 year: 2009

@@ -31,9 +31,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
-presentation_url: null
 publication_type: presentation
 size: 119451
+slides_url: null
 source_name: iPRES
 title: 'Audit & Certification of Digital Repositories: Exposing Risk & Fostering Collaboration'
 year: 2006

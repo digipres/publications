@@ -18,9 +18,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
-presentation_url: null
 publication_type: presentation
 size: 1586568
+slides_url: null
 source_name: iPRES
 title: Developing a CAS E-Journal Archiving System
 year: 2007

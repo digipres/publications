@@ -33,9 +33,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
-presentation_url: null
 publication_type: paper
 size: 666122
+slides_url: null
 source_name: iPRES
 title: Towards a Decision Support Architecture for Digital Preservation of Business
   Processes

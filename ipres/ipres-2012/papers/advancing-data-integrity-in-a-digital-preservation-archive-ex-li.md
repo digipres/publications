@@ -23,9 +23,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
-presentation_url: null
 publication_type: paper
 size: 1035454
+slides_url: null
 source_name: iPRES
 title: Advancing Data Integrity in a Digital Preservation Archive Ex Libris and the
   Church of Jesus Christ of Latter-day Saints

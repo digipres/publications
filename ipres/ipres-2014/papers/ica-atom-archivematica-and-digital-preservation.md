@@ -35,9 +35,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
-presentation_url: null
 publication_type: workshops and tutorials
 size: 179325
+slides_url: null
 source_name: iPRES
 title: ICA-AtoM, Archivematica and Digital Preservation
 year: 2014

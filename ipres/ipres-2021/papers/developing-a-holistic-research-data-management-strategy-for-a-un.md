@@ -48,9 +48,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: paper
 size: 365690
+slides_url: null
 source_name: iPRES
 title: Developing a holistic research data management strategy for a university -
   Making preservation planning and long term access first grade citizens in RDM

@@ -36,9 +36,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121597
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121597
 source_name: iPRES
 title: 'LESSONS FROM THE FUTURE: Looking Back on Policy Development'
 year: 2023

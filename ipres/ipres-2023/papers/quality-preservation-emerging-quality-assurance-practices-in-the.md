@@ -28,9 +28,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121662
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121662
 source_name: iPRES
 title: 'QUALITY PRESERVATION: Emerging Quality Assurance Practices in the Library
   of Congress Web Archives'

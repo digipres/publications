@@ -15,9 +15,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
-presentation_url: null
 publication_type: presentation
 size: 308599
+slides_url: null
 source_name: iPRES
 title: 'A practical approach to digital preservation: updates from PLANETS'
 year: 2007

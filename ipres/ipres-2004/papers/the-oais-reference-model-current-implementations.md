@@ -24,9 +24,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2004
-presentation_url: null
 publication_type: presentation
 size: 106741
+slides_url: null
 source_name: iPRES
 title: 'The OAIS Reference Model: current implementations'
 year: 2004

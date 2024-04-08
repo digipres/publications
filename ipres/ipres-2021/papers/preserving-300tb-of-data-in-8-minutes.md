@@ -16,9 +16,9 @@ layout: publication
 license: All rights reserved
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: lightning talk
 size: 52386
+slides_url: null
 source_name: iPRES
 title: PRESERVING 300TB OF DATA IN 8 MINUTES
 year: 2021

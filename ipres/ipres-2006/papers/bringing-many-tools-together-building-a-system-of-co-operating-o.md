@@ -26,9 +26,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2006
-presentation_url: null
 publication_type: presentation
 size: 5692610
+slides_url: null
 source_name: iPRES
 title: 'Bringing Many Tools Together: Building a system of co-operating OAIS''s in
   the MathArc project'

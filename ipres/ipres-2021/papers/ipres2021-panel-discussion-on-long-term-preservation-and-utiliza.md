@@ -28,9 +28,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: paper
 size: 199678
+slides_url: null
 source_name: iPRES
 title: iPres2021 Panel Discussion on Long-term Preservation and Utilization of Digital
   Dunhuang Resources

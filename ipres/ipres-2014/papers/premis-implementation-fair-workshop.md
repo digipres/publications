@@ -22,9 +22,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
-presentation_url: null
 publication_type: workshops and tutorials
 size: 196328
+slides_url: null
 source_name: iPRES
 title: PREMIS Implementation Fair Workshop
 year: 2014

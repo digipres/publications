@@ -31,9 +31,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: paper
 size: 1983302
+slides_url: null
 source_name: iPRES
 title: Digital Preservation of a Process and its Application to e-Science Experiments
 year: 2013

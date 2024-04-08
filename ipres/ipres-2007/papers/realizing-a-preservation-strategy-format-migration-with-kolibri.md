@@ -14,9 +14,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
-presentation_url: null
 publication_type: presentation
 size: 75356
+slides_url: null
 source_name: iPRES
 title: 'Realizing a Preservation Strategy: Format Migration with koLibRI'
 year: 2007

@@ -67,9 +67,9 @@ layout: publication
 license: GPLv3
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: paper
 size: 170982
+slides_url: null
 source_name: iPRES
 title: ADDING NEW CONTENT TYPES TO A LARGE-SCALE  SHARED DIGITAL REPOSITORY
 year: 2010

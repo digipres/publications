@@ -33,9 +33,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
-presentation_url: null
 publication_type: paper
 size: 115664
+slides_url: null
 source_name: iPRES
 title: 'Level up on preservation: Updating and Mapping the next generation of the
   Levels of Preservation '

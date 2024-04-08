@@ -31,9 +31,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
-presentation_url: null
 publication_type: workshops and tutorials
 size: 184665
+slides_url: null
 source_name: iPRES
 title: 'Surveying ISO Standards for PDF: archive, accessibility, engineering, metadata,
   3D data and PDF itself. History, pain points, solutions and the dream.'

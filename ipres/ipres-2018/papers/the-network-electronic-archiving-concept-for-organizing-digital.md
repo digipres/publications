@@ -23,9 +23,9 @@ layout: publication
 license: All rights reserved
 notes_url: null
 parent: iPRES 2018
-presentation_url: null
 publication_type: paper
 size: 168571
+slides_url: null
 source_name: iPRES
 title: The Network Electronic Archiving Concept for Organizing Digital Preservation
   for Small Archives

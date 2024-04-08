@@ -24,9 +24,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2018
-presentation_url: null
 publication_type: paper
 size: 840130
+slides_url: null
 source_name: iPRES
 title: 'Open the museum’s gates to pirates: Hacking for the sake of digital art preservation'
 year: 2018

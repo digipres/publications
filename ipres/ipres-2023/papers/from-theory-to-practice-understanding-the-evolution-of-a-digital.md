@@ -27,9 +27,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121682
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121682
 source_name: iPRES
 title: 'FROM THEORY TO PRACTICE: UNDERSTANDING THE EVOLUTION OF A DIGITAL PRESERVATION
   PROJECT FROM CONCEPTION TO FINAL REPOSITORY Some real cases'

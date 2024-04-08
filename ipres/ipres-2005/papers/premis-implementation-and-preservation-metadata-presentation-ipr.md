@@ -46,9 +46,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2005
-presentation_url: null
 publication_type: paper
 size: 89696
+slides_url: null
 source_name: iPRES
 title: 'PREMIS: Implementation and Preservation Metadata: Presentation - iPRES 2005
   - Göttingen'

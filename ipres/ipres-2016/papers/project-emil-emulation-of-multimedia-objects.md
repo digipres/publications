@@ -19,9 +19,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
-presentation_url: null
 publication_type: poster
 size: 180801
+slides_url: null
 source_name: iPRES
 title: Project EMiL – Emulation of Multimedia Objects
 year: 2016

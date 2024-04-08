@@ -14,9 +14,9 @@ layout: publication
 license: All rights reserved
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: lightning talk
 size: 73238
+slides_url: null
 source_name: iPRES
 title: 'The DPC in Australasia: Implementing a global strategy'
 year: 2021

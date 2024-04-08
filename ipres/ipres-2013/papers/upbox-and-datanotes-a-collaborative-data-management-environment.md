@@ -36,9 +36,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: paper
 size: 441625
+slides_url: null
 source_name: iPRES
 title: 'UPBox and DataNotes: a collaborative data management environment for the long
   tail of research data'

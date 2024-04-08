@@ -27,9 +27,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
-presentation_url: null
 publication_type: paper
 size: 568897
+slides_url: null
 source_name: iPRES
 title: 'Digital preservation and enterprise architecture collaboration at the University
   of Melbourne '

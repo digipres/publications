@@ -24,9 +24,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
-presentation_url: null
 publication_type: workshops and tutorials
 size: 217021
+slides_url: null
 source_name: iPRES
 title: Defining a Roadmap for Economically Efficient Digital Curation – a 4C Project
   Workshop

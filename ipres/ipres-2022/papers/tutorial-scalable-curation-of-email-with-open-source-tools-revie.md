@@ -71,9 +71,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
-presentation_url: null
 publication_type: tutorial
 size: null
+slides_url: null
 source_name: iPRES
 title: 'Tutorial: Scalable Curation of Email with Open-Source Tools: Review, Appraisal,
   and Triage of Mail (RATOM)'

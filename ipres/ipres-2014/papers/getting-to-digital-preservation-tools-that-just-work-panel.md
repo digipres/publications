@@ -28,9 +28,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
-presentation_url: null
 publication_type: paper
 size: 86703
+slides_url: null
 source_name: iPRES
 title: 'Getting to Digital Preservation Tools that “Just Work”: Panel '
 year: 2014

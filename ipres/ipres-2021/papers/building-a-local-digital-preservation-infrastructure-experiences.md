@@ -33,9 +33,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2021
-presentation_url: null
 publication_type: paper
 size: 166834
+slides_url: null
 source_name: iPRES
 title: 'BUILDING A LOCAL DIGITAL PRESERVATION INFRASTRUCTURE:  Experiences in Selecting
   and Implementing Digital Preservation Systems'

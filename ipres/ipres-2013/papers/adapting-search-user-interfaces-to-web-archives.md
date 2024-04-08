@@ -16,9 +16,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2013
-presentation_url: null
 publication_type: paper
 size: 477785
+slides_url: null
 source_name: iPRES
 title: Adapting search user interfaces to web archives
 year: 2013

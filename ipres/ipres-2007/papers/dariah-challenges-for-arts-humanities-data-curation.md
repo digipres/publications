@@ -14,9 +14,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
-presentation_url: null
 publication_type: presentation
 size: 412989
+slides_url: null
 source_name: iPRES
 title: DARIAH - Challenges for arts & humanities data curation
 year: 2007

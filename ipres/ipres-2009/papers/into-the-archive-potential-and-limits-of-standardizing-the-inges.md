@@ -21,9 +21,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2009
-presentation_url: null
 publication_type: paper
 size: 695165
+slides_url: null
 source_name: iPRES
 title: 'Into the Archive: Potential and Limits of Standardizing the Ingest'
 year: 2009

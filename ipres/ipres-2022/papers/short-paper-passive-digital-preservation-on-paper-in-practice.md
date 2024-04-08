@@ -31,9 +31,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
-presentation_url: null
 publication_type: short paper
 size: null
+slides_url: null
 source_name: iPRES
 title: 'Short Paper: Passive Digital Preservation on Paper in Practice'
 year: 2022

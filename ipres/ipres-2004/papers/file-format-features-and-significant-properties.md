@@ -21,9 +21,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2004
-presentation_url: null
 publication_type: presentation
 size: 468757
+slides_url: null
 source_name: iPRES
 title: File Format Features and Significant Properties
 year: 2004

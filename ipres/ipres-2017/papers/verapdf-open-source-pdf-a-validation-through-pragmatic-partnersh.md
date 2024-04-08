@@ -22,9 +22,9 @@ layout: publication
 license: CC BY-SA 4.0 International
 notes_url: null
 parent: iPRES 2017
-presentation_url: null
 publication_type: paper
 size: 381867
+slides_url: null
 source_name: iPRES
 title: 'veraPDF: open source PDF/A validation through pragmatic partnership'
 year: 2017

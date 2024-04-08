@@ -17,9 +17,9 @@ layout: publication
 license: CC BY-SA 2.0 AT
 notes_url: null
 parent: iPRES 2010
-presentation_url: null
 publication_type: proceedings
 size: 8768074
+slides_url: null
 source_name: iPRES
 title: Proceedings of the 7th International Conference on Preservation of Digital
   Objects

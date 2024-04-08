@@ -22,9 +22,9 @@ layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-presentation_url: https://hdl.handle.net/2142/121659
 publication_type: paper
 size: null
+slides_url: https://hdl.handle.net/2142/121659
 source_name: iPRES
 title: 'TACIT PROCESSES: Qualitative Analysis Toward Bottom-Up Emulation Workflows'
 year: 2023

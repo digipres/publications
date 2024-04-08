@@ -26,9 +26,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
-presentation_url: null
 publication_type: paper
 size: 329160
+slides_url: null
 source_name: iPRES
 title: Project "The Digital City Revives" A Case Study of Web Archaeology
 year: 2016

@@ -28,9 +28,9 @@ layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2016
-presentation_url: null
 publication_type: tutorial
 size: 91135
+slides_url: null
 source_name: iPRES
 title: Introduction to Fedora 4
 year: 2016

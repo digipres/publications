@@ -25,9 +25,9 @@ layout: publication
 license: CC BY 4.0 International
 notes_url: null
 parent: iPRES 2019
-presentation_url: null
 publication_type: paper
 size: 176437
+slides_url: null
 source_name: iPRES
 title: 'Reformat Required '
 year: 2019

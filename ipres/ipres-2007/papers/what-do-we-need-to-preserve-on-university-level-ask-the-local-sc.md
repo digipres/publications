@@ -15,9 +15,9 @@ layout: publication
 license: CC BY-SA 3.0 AT
 notes_url: null
 parent: iPRES 2007
-presentation_url: null
 publication_type: presentation
 size: 542313
+slides_url: null
 source_name: iPRES
 title: What do We Need to Preserve on University Level? Ask the Local Scientist
 year: 2007
