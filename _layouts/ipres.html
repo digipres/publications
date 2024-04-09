@@ -9,7 +9,7 @@ layout: default
 
 {% if page.logo %}<img src="{{ page.logo }}" style="max-height: 120px; max-width: 50%; float: right; padding: 2px;">{% endif %}
 
-<a target="_blank" href="https://github.com/digipres/publications/blob/main/{{ page.path }}" class="btn">View/Edit on GitHub</a>
-<a target="_blank" href="https://digipres-org-publications.netlify.app/admin/#/collections/ipres-conferences/entries/{{ page.dir | remove_first: '/ipres/' }}index" class="btn">Edit via CMS (also requires GitHub login)</a>
+<a target="_blank" href="https://digipres-org-publications.netlify.app/admin/#/collections/ipres-conferences/entries/{{ page.dir | remove_first: '/ipres/' }}index" class="btn">Edit via CMS (requires GitHub login)</a>
+<a target="_blank" href="https://github.com/digipres/publications/blob/main/{{ page.path }}" class="btn">View/Edit directly on GitHub</a>
 
 {{ content }}
