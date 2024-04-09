@@ -4,7 +4,7 @@ parent: iPRES
 title: iPRES 2015
 location: Chapel Hill, North Carolina, USA
 date: November 2 - 6, 2015
-images: images/ipres-2015-logo.jpeg
+logo: images/ipres-2015-logo.jpeg
 website: http://ipres2015.org/
 website_status: gone
 proceedings_full: https://phaidra.univie.ac.at/detail/o:429524

@@ -4,7 +4,7 @@ parent: iPRES
 title: iPRES 2017
 location: Kyoto, Japan
 date: September 25 - 29, 2017
-images: images/ipres-2017-logo.jpg
+logo: images/ipres-2017-logo.jpg
 website: https://ipres2017.jp/
 website_status: gone
 programme_url: https://www.ipres-conference.org/ipres17/ipres2017.jp/papers/index.html

@@ -4,7 +4,7 @@ parent: iPRES
 title: iPRES 2022
 location: Glasgow, Scotland
 date: September 12 - 16, 2022
-images: https://ipres2022.scot/wp-content/uploads/2021/09/ipres2022-logo-1.svg
+logo: https://ipres2022.scot/wp-content/uploads/2021/09/ipres2022-logo-1.svg
 website: https://ipres2022.scot/
 website_status: active
 programme_url: https://inconference.eventsair.com/ipres-2022/
