@@ -10,6 +10,6 @@ layout: default
 <a target="_blank" href="https://github.com/digipres/publications/blob/main/{{ page.path }}" class="btn">View/Edit on GitHub</a>
 <a target="_blank" href="https://digipres-org-publications.netlify.app/admin/#/collections/ipres-conferences/entries/{{ page.dir | remove_first: '/ipres/' }}index" class="btn">Edit via CMS (also requires GitHub login)</a>
 
-{% if page.images %}<img src="{{ page.images }}" style="max-height: 120px; max-width: 60%; float: right;">{% endif %}
+{% if page.logo %}<img src="{{ page.logo }}" style="max-height: 120px; max-width: 60%; float: right;">{% endif %}
 
 {{ content }}
