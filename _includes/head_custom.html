@@ -26,3 +26,18 @@
 <!-- OpenGraph -->
 {% if page.logo %}<meta property="og:image" content="{{ page.dir | append: page.logo | absolute_url }}" />{% endif %}
 {% endif %}
+
+<script defer>
+    const urlParams = new URLSearchParams(window.location.search);
+    const search_input = urlParams.get('search-input');
+    console.log(`Setting search parameter to: ${search_input}`);
+    if ( search_input ) {
+        setTimeout( function() {
+            const search_box = document.getElementById("search-input");
+            search_box.value = search_input;
+            /* What the search does internally to show itself: */
+            document.documentElement.classList.add('search-active');
+            search_box.focus();
+        }, 500 ); 
+    }
+</script>

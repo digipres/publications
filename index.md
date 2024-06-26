@@ -22,3 +22,4 @@ Use the links in the menu to browse the contents of this site, or use the search
 The underlying data that is used to create this site is [also available as an SQLite database](https://github.com/digipres/digipres-practice-index/tree/main/releases), which can be viewed in off-the-shelf tools like [Datasette](https://datasette.io/).
 
 [View the publications database using Datasette Lite in your browser](https://lite.datasette.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdigipres%2Fdigipres-practice-index%2Fmain%2Freleases%2Fpractice.db#/practice/publications?_search=&_filter_column=&_filter_op=exact&_filter_value=&_sort=year&_sort_by_desc=on&_facet=year&_facet=license&_facet=language&_facet=type&_facet_array=keywords&_facet_array=creators&_facet_array=institutions&_facet_size=8&_searchmode=raw){: .btn .btn-blue }
+
