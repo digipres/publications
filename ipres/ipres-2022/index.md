@@ -19,4 +19,5 @@ proceedings_ideals: ""
 ---
 See also
 
+- [Photos on the DPC Flickr account](https://www.flickr.com/photos/dpconflickr/albums/)
 - [Collaborative Notes](https://docs.google.com/document/d/1PW6NAI1UL9Ir_ye-AZCOu7y2v1ve4clteH2SyqBdsKA/view)
