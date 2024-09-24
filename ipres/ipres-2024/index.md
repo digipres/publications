@@ -21,3 +21,5 @@ proceedings_ideals: ""
 - [Collaborative Notes Index/Directory](https://drive.google.com/drive/folders/1pN0Be3mwURtEpRQyCcwxnVqmv3c2-qNu)
 - Blogs:
     - [iPRES 2024 from afar - some takeaways (Jenny Mitcham, DPC)](https://www.dpconline.org/blog/ipres-2024-from-afar-some-takeaways)
+- Photos:
+    - [Flickr gallery - (Andy Jackson, DPC)](https://www.flickr.com/photos/anjacks0n/albums/72177720320554306/)
