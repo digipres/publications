@@ -1,17 +1,22 @@
 ---
-date: September 16 - 20, 2024
 layout: ipres
-location: Ghent, Belgium
 parent: iPRES
-proceedings_full: ''
-proceedings_ideals: ''
-proceedings_osf: ''
-proceedings_phaidra: ''
-session_recordings: ''
 title: iPRES 2024
+location: Ghent, Belgium
+date: September 16 - 20, 2024
+logo: images/ipres_logo_rgb_vijfhoek_def-31687851019117.png
 website: https://ipres2024.pubpub.org/
-website_mirror_ipres: ''
-website_status: ''
-year: 2024
+website_status: active
+programme_url: https://conpass.floq.live/kiosk/ipres-2024/dailyprogramme
+proceedings_full: ""
+proceedings_phaidra: ""
+proceedings_osf: ""
+session_recordings: ""
 has_children: false
+year: 2024
+website_mirror_ipres: ""
+proceedings_ideals: ""
 ---
+- [iPRES 2024 Presentations & Materials (on Zenodo)](https://zenodo.org/communities/ipres2024materials)
+- Blogs:
+    - [iPRES 2024 from afar - some takeaways (Jenny Mitcham, DPC)](https://www.dpconline.org/blog/ipres-2024-from-afar-some-takeaways)
