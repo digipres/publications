@@ -18,5 +18,6 @@ website_mirror_ipres: ""
 proceedings_ideals: ""
 ---
 - [iPRES 2024 Presentations & Materials (on Zenodo)](https://zenodo.org/communities/ipres2024materials)
+- [Collaborative Notes Index/Directory](https://drive.google.com/drive/folders/1pN0Be3mwURtEpRQyCcwxnVqmv3c2-qNu)
 - Blogs:
     - [iPRES 2024 from afar - some takeaways (Jenny Mitcham, DPC)](https://www.dpconline.org/blog/ipres-2024-from-afar-some-takeaways)
