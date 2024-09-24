@@ -21,5 +21,6 @@ proceedings_ideals: ""
 - [Collaborative Notes Index/Directory](https://drive.google.com/drive/folders/1pN0Be3mwURtEpRQyCcwxnVqmv3c2-qNu)
 - Blogs:
     - [iPRES 2024 from afar - some takeaways (Jenny Mitcham, DPC)](https://www.dpconline.org/blog/ipres-2024-from-afar-some-takeaways)
+    - [Into the future: my poster at iPRES2024 (Barbara Sierman)](https://digitalpreservation.nl/seeds/ipres2024-bsierman-into-the-future-poster/) (see [here for the documentary referenced by the poster, "Into The Future"](http://www.americanfilmfoundation.com/order/into_the_future.shtml)).
 - Photos:
     - [Flickr gallery - (Andy Jackson, DPC)](https://www.flickr.com/photos/anjacks0n/albums/72177720320554306/)
