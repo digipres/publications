@@ -4,7 +4,7 @@ parent: iPRES
 title: iPRES 2024
 location: Ghent, Belgium
 date: September 16 - 20, 2024
-logo: images/ipres_logo_rgb_vijfhoek_def-31687851019117.png
+logo: images/ipres_logo_rgb_vijfhoek_def-31687851019117_256.png
 website: https://ipres2024.pubpub.org/
 website_status: active
 programme_url: https://conpass.floq.live/kiosk/ipres-2024/dailyprogramme
@@ -23,5 +23,6 @@ proceedings_ideals: ""
 - Blogs:
     - [iPRES 2024 from afar - some takeaways (Jenny Mitcham, DPC)](https://www.dpconline.org/blog/ipres-2024-from-afar-some-takeaways)
     - [Into the future: my poster at iPRES2024 (Barbara Sierman)](https://digitalpreservation.nl/seeds/ipres2024-bsierman-into-the-future-poster/) (see [here for the documentary referenced by the poster, "Into The Future"](http://www.americanfilmfoundation.com/order/into_the_future.shtml)).
+    - [iPres 2024 (An Old Hand Digital)](https://anoldhanddigital.wordpress.com/2024/09/26/ipres-2024/)
 - Photos:
     - [Flickr gallery - (Andy Jackson, DPC)](https://www.flickr.com/photos/anjacks0n/albums/72177720320554306/)
