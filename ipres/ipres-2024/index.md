@@ -24,5 +24,7 @@ proceedings_ideals: ""
     - [iPRES 2024 from afar - some takeaways (Jenny Mitcham, DPC)](https://www.dpconline.org/blog/ipres-2024-from-afar-some-takeaways)
     - [Into the future: my poster at iPRES2024 (Barbara Sierman)](https://digitalpreservation.nl/seeds/ipres2024-bsierman-into-the-future-poster/) (see [here for the documentary referenced by the poster, "Into The Future"](http://www.americanfilmfoundation.com/order/into_the_future.shtml)).
     - [iPres 2024 (An Old Hand Digital)](https://anoldhanddigital.wordpress.com/2024/09/26/ipres-2024/)
+    - [Exploring Digital Preservation Through Games at iPRES 2024](https://digitalpreservation-blog.lib.cam.ac.uk/exploring-digital-preservation-through-games-at-ipres-2024-45e96b13faa8)
 - Photos:
-    - [Flickr gallery - (Andy Jackson, DPC)](https://www.flickr.com/photos/anjacks0n/albums/72177720320554306/)
+    - [Offical DPC Awards Flickr Gallery](https://www.flickr.com/photos/dpconflickr/albums/72177720320436016)
+    - [Flickr Gallery (Andy Jackson, DPC)](https://www.flickr.com/photos/anjacks0n/albums/72177720320554306/)
