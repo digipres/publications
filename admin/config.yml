@@ -6,11 +6,11 @@ backend:
   repo: digipres/publications
   branch: main
   # Allow PRs as per https://decapcms.org/docs/open-authoring/
-  open_authoring: true
+  open_authoring: false
 media_folder: "assets/uploads"
 
 # Use the editorial workflow (along with open_authoring as above):
-publish_mode: editorial_workflow
+#publish_mode: editorial_workflow
 
 #site_url: https://www.digipres.org/publications/
 
