@@ -29,6 +29,8 @@ proceedings_ideals: ""
     - [Recap of IPRES 24: Embracing Digital Preservation with a Twist of Fun](https://www.dpconline.org/blog/blog-sean-macmillan-ipres24)
     - [OPF Reflections on iPRES 2024](https://openpreservation.org/blogs/opf-reflections-on-ipres-2024/)
     - [iPRES 2024 - Meeting the Digital Preservation Community - Impressions of a first-time attendee](https://www.dpconline.org/blog/wdpd/blog-lukas-hechenblaickner-wdpd2024)
+    - [Flickr Foundation at iPres 2024](https://www.flickr.org/flickr-foundation-at-ipres-2024/)
+    - [ADS Goes to iPres 2024 in Ghent](https://archaeologydataservice.ac.uk/blog/ipres-2024/)
 - Photos:
     - [Official iPRES 2024 Flickr Photostream](https://www.flickr.com/photos/201510637@N04/)
     - [Offical DPC Awards Flickr Gallery](https://www.flickr.com/photos/dpconflickr/albums/72177720320436016)
