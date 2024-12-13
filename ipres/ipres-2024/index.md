@@ -7,16 +7,18 @@ date: September 16 - 20, 2024
 logo: images/ipres_logo_rgb_vijfhoek_def-31687851019117_256.png
 website: https://ipres2024.pubpub.org/
 website_status: active
-programme_url: https://conpass.floq.live/kiosk/ipres-2024/dailyprogramme
+programme_url: https://ipres2024.pubpub.org/programme
 proceedings_full: ""
 proceedings_phaidra: ""
 proceedings_osf: ""
-session_recordings: "https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/details"
+session_recordings: "https://ipres2024.pubpub.org/session-video"
 has_children: true
 year: 2024
 website_mirror_ipres: ""
 proceedings_ideals: ""
 ---
+- [iPRES 2024 Floq Conference Programme](https://conpass.floq.live/kiosk/ipres-2024/dailyprogramme)
+- [iPRES 2024 Complete Program of the 2024 iPRES Conference (XLSX)](https://zenodo.org/records/14387936)
 - [iPRES 2024 Presentations & Materials (on Zenodo)](https://zenodo.org/communities/ipres2024materials)
 - [iPRES 2024 Posters (on Zenodo)](https://zenodo.org/communities/ipres2024posters)
 - [Collaborative Notes Index/Directory](https://drive.google.com/drive/folders/1pN0Be3mwURtEpRQyCcwxnVqmv3c2-qNu)
