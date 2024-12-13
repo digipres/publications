@@ -23,19 +23,19 @@ layout: default
     <dd>{{ page.publication_type }}</dd>
     <dt>License</dt>
     <dd>{{ page.license }}</dd>
-    {% if page.document_url %}
+    {% if page.document_url != "" %}
     <dt>Direct Download</dt>
     <dd><a href="{{ page.document_url }}">{{ page.size}} bytes</a></dd>
     {% endif %}
-    {% if page.slides_url %}
+    {% if page.slides_url != "" %}
     <dt>Slides</dt>
     <dd><a href="{{ page.slides_url }}">here</a></dd>
     {% endif %}
-    {% if page.stream_url %}
+    {% if page.stream_url != "" %}
     <dt>Video Stream</dt>
     <dd><a href="{{ page.stream_url }}">here</a></dd>
     {% endif %}
-    {% if page.notes_url %}
+    {% if page.notes_url != "" %}
     <dt>Collaborative Notes</dt>
     <dd><a href="{{ page.notes_url }}">here</a></dd>
     {% endif %}

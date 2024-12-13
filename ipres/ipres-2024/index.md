@@ -11,7 +11,7 @@ programme_url: https://conpass.floq.live/kiosk/ipres-2024/dailyprogramme
 proceedings_full: ""
 proceedings_phaidra: ""
 proceedings_osf: ""
-session_recordings: ""
+session_recordings: "https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/details"
 has_children: true
 year: 2024
 website_mirror_ipres: ""
