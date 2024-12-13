@@ -14,7 +14,7 @@ abstract: Working with Macintosh files from the 1980 to early 2000’s can be ch
 creators:
 - Tyler Thorsted
 date: 2024-09-17 14:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.76aad2e6
+document_url: https://ipres2024.pubpub.org/pub/frnya0ft/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

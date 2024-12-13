@@ -17,7 +17,7 @@ abstract: "This game is based on the framework of the popular murder mystery gam
 creators:
 - Jeanne Kramer-Smyth
 date: 2024-09-18 13:55:00+01:00
-document_url: ''
+document_url: null
 grand_parent: iPRES
 institutions: []
 keywords:

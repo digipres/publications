@@ -4,7 +4,7 @@ abstract: We will present how Ex-Libris' next-gen DP solution will cope with the
 creators:
 - Daniel Greenberg
 date: 2024-09-18 13:45:00+01:00
-document_url: ''
+document_url: null
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -32,7 +32,7 @@ creators:
 - Jean-Yves Le Meur
 - ' Panna Liptak'
 date: 2024-09-19 11:15:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13646193
+document_url: https://zenodo.org/records/13646193/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

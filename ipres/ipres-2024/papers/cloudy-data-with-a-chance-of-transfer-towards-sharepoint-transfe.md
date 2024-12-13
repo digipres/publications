@@ -23,7 +23,7 @@ abstract: 'Since 2020 the day-to-day business of UK Parliament has moved to pred
 creators:
 - Emily Chen
 date: 2024-09-18 12:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.d7c827b0
+document_url: https://ipres2024.pubpub.org/pub/d18g1vbe/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

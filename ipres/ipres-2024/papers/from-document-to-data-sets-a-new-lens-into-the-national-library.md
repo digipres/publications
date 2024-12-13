@@ -35,7 +35,7 @@ abstract: "In 2022, the National Library Singapore released the metadata of our 
 creators:
 - Belinda Chan
 date: 2024-09-19 09:00:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13341041
+document_url: https://zenodo.org/records/13341041/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

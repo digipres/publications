@@ -20,7 +20,7 @@ abstract: 'To tackle the challenges faced by the expanding digitization of the g
 creators:
 - Koen Dobbelaere
 date: 2024-09-18 16:40:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.7628a311
+document_url: https://ipres2024.pubpub.org/pub/cedue2ss/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

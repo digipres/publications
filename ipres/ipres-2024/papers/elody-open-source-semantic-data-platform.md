@@ -28,7 +28,7 @@ abstract: "Elody is an open-source data platform known for its flexibility and a
 creators:
 - Jeroen Wouters
 date: 2024-09-18 11:55:00+01:00
-document_url: ''
+document_url: null
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -16,7 +16,7 @@ abstract: 'The National Library of France (BnF) has been running a multi-purpose
 creators:
 - Thomas Ledoux
 date: 2024-09-17 15:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.94dfac2c
+document_url: https://ipres2024.pubpub.org/pub/7vz1p6qr/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -40,7 +40,7 @@ creators:
 - ' Sybren Slegers'
 - ' Thomas Van de Velde'
 date: 2024-09-19 11:00:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13641958
+document_url: https://zenodo.org/records/13641958/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

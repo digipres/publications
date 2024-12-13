@@ -22,7 +22,7 @@ abstract: Energy is the currency of life and the foundation for all digital pres
 creators:
 - Sibyl Schaefer
 date: 2024-09-19 14:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.0e7a6a0e
+document_url: https://ipres2024.pubpub.org/pub/1sm257xx/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

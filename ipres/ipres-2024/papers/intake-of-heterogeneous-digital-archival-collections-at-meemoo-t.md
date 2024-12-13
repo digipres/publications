@@ -31,7 +31,7 @@ abstract: 'Let’s talk about the **challenges** we encounter at meemoo, the Fle
 creators:
 - Lobke Vanden Eynden
 date: 2024-09-19 13:45:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13683403
+document_url: https://zenodo.org/records/13683403/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

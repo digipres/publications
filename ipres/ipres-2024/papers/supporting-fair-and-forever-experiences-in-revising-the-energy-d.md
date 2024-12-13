@@ -31,7 +31,7 @@ abstract: "The Energy Data Centre (EDC) is part of the UK Energy Research Centre
 creators:
 - Catherine Jones
 date: 2024-09-18 15:30:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13362273
+document_url: https://zenodo.org/records/13362273/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -23,7 +23,7 @@ abstract: Distributed research data ecosystems such as the NIH HEAL Data Ecosyst
 creators:
 - Heather Barnes
 date: 2024-09-17 13:25:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13754346
+document_url: https://zenodo.org/records/13754346/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

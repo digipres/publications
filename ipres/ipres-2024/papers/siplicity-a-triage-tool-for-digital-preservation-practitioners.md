@@ -5,7 +5,7 @@ abstract: Siplicity is a new tool (still in its development phase) to help digit
 creators:
 - Richard Lehane
 date: 2024-09-18 15:55:00+01:00
-document_url: ''
+document_url: null
 grand_parent: iPRES
 institutions: []
 keywords:

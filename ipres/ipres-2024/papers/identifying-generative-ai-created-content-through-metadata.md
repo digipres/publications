@@ -11,7 +11,7 @@ abstract: Generative AI tools such as ChatGPT, Adobe Firefly, and Sora are used 
 creators:
 - Linda Tadic
 date: 2024-09-18 16:05:00+01:00
-document_url: ''
+document_url: null
 grand_parent: iPRES
 institutions: []
 keywords:

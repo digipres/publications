@@ -27,7 +27,7 @@ abstract: "The present article discusses the efforts initiated by Software Herit
 creators:
 - Mathilde Fichen
 date: 2024-09-17 14:10:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.4f8daf86
+document_url: https://ipres2024.pubpub.org/pub/hdap1420/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

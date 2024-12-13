@@ -17,7 +17,7 @@ abstract: "This lightening talk will update the audience on our progress in crea
 creators:
 - Jeanne Kramer-Smyth
 date: 2024-09-18 11:15:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13750612
+document_url: https://zenodo.org/records/13750612/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

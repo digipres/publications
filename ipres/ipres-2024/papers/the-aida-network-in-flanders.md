@@ -18,7 +18,7 @@ creators:
 - ' Rony Vissers'
 - ' Wim Lowet'
 date: 2024-09-17 11:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.5b5ca68f
+document_url: https://ipres2024.pubpub.org/pub/k09pq9ul/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

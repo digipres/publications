@@ -47,7 +47,7 @@ creators:
 - Jared Lyle
 - ' Mike Shallcross'
 date: 2024-09-18 15:30:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13704260
+document_url: https://zenodo.org/records/13704260/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

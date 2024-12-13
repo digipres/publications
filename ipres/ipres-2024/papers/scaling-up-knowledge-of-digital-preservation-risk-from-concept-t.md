@@ -16,7 +16,7 @@ abstract: Risk is a frequently used term in digital preservation, though the lit
 creators:
 - Maureen Pennock
 date: 2024-09-18 11:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.7f25ec43
+document_url: https://ipres2024.pubpub.org/pub/m5opwsm3/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

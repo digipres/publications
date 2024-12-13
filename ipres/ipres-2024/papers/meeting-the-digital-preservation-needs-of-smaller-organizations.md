@@ -32,7 +32,7 @@ abstract: The practice of digital preservation tends to be well-established at l
 creators:
 - Jefferson Bailey
 date: 2024-09-18 15:15:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13863851
+document_url: https://zenodo.org/records/13863851/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

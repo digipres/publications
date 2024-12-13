@@ -23,7 +23,7 @@ abstract: 'This paper investigates the management and preservation of audiovisua
 creators:
 - Abderrazak Mkadmi
 date: 2024-09-17 16:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.174f76e4
+document_url: https://ipres2024.pubpub.org/pub/bwm3ot6k/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

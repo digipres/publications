@@ -22,7 +22,7 @@ abstract: "The [Program Vitam][1] is a French cross-ministerial project, whose m
 creators:
 - Marion Ville
 date: 2024-09-17 11:00:00+01:00
-document_url: ''
+document_url: https://zenodo.org/records/13753928
 grand_parent: iPRES
 institutions: []
 keywords:

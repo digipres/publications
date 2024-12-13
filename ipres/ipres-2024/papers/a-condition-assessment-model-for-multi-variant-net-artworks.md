@@ -21,7 +21,7 @@ abstract: 'This paper proposes a methodology for evaluating the condition of mul
 creators:
 - Nicole Christiane Savoy
 date: 2024-09-18 14:10:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.de20be41
+document_url: https://ipres2024.pubpub.org/pub/ruud1i2r/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

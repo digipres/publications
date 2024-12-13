@@ -27,7 +27,7 @@ layout: default
     <dt>Direct Download</dt>
     <dd><a href="{{ page.document_url }}">{{ page.size}} bytes</a></dd>
     {% endif %}
-    {% if page.slides_url != "" %}
+    {% if page.slides_url  != ""%}
     <dt>Slides</dt>
     <dd><a href="{{ page.slides_url }}">here</a></dd>
     {% endif %}
@@ -41,8 +41,10 @@ layout: default
     {% endif %}
 </dl>
 
+{% if page.landing_page_url != "" or page.document_url != "" %}
 <p class="d-flex flex-justify-end">
   <a href="{% if page.landing_page_url %}{{ page.landing_page_url }}{% else %}{{ page.document_url }}{% endif %}" class="btn btn-blue m-2">View This Publication</a>
 </p>
+{% endif %}
 
 {{ content }}

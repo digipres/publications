@@ -30,7 +30,7 @@ abstract: "**Intangible cultural heritage (ICH)** is very much alive: practices 
 creators:
 - Sofie Veramme
 date: 2024-09-17 15:30:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13692985
+document_url: https://zenodo.org/records/13692985/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

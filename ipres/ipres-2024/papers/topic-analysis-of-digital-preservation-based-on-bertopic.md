@@ -19,7 +19,7 @@ creators:
 - Naishuai Zhang
 - ' Jimin Wang'
 date: 2024-09-19 12:10:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.6f3ce886
+document_url: https://ipres2024.pubpub.org/pub/cuc1cblo/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

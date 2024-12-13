@@ -22,7 +22,7 @@ abstract: 'Platformisation, the centralisation of production, distribution and c
 creators:
 - Patricia Falcao
 date: 2024-09-19 13:30:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13827879
+document_url: https://zenodo.org/records/13827879/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

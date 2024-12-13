@@ -31,7 +31,7 @@ abstract: "To effectively manage their distributed digital preservation network,
 creators:
 - Anthony Leroy
 date: 2024-09-17 11:05:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13653729
+document_url: https://zenodo.org/records/13653729/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

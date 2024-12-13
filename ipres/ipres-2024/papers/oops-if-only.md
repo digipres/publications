@@ -28,7 +28,7 @@ abstract: "We’ve all been there once. A newbie. A beginner. Thrown in at the d
 creators:
 - Paul Stokes
 date: 2024-09-17 11:00:00+01:00
-document_url: ''
+document_url: null
 grand_parent: iPRES
 institutions: []
 keywords:

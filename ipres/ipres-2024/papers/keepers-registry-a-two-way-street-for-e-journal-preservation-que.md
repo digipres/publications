@@ -13,7 +13,7 @@ creators:
 - ' Micky Lindlar'
 - ' Peter Eisner'
 date: 2024-09-19 12:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.3f5523cd
+document_url: https://ipres2024.pubpub.org/pub/lrjk5dzx/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

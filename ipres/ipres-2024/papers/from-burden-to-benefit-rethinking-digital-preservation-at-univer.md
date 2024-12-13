@@ -11,7 +11,7 @@ abstract: In this paper, we aim to use the approach to the digital preservation 
 creators:
 - Anna Dubov
 date: 2024-09-17 15:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.32042b9c
+document_url: https://ipres2024.pubpub.org/pub/s1b2dny0/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

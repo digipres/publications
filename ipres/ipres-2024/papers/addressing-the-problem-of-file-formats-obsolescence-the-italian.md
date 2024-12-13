@@ -29,7 +29,7 @@ abstract: 'The issue of file formats conversion is crucial in the field of digit
 creators:
 - Stefano Allegrezza
 date: 2024-09-17 13:50:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.cf6ac18d
+document_url: https://ipres2024.pubpub.org/pub/oswmkgvc/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

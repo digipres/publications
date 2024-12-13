@@ -6,7 +6,7 @@ abstract: This paper examines the significant properties of Upper Austrian digit
 creators:
 - Veronika Fuehrer
 date: 2024-09-18 16:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.48d1e5f8
+document_url: https://ipres2024.pubpub.org/pub/k96iruqm/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

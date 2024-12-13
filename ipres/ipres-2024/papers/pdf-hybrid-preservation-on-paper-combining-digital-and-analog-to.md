@@ -22,7 +22,7 @@ creators:
 - Florence Poidevin
 - ' Vincent Joguin'
 date: 2024-09-17 13:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.943b1e9d
+document_url: https://ipres2024.pubpub.org/pub/e8vexg58/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

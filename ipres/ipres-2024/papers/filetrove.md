@@ -27,7 +27,7 @@ abstract: 'FileTrove is a fast file indexer. It is using siegfried for format id
 creators:
 - Steffen Fritz
 date: 2024-09-18 16:25:00+01:00
-document_url: ''
+document_url: null
 grand_parent: iPRES
 institutions: []
 keywords:

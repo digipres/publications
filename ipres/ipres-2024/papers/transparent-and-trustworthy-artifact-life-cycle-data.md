@@ -23,7 +23,7 @@ creators:
 - ' Patrick Hochstenbach'
 - ' Ruben Verborgh'
 date: 2024-09-19 11:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.a76a90cf
+document_url: https://ipres2024.pubpub.org/pub/479f9vcn/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

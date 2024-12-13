@@ -11,7 +11,7 @@ abstract: This paper uses as a lens the work of Wenger, McDermott, and Snyder in
 creators:
 - Jaye Weatherburn
 date: 2024-09-19 10:10:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.f2f133cc
+document_url: https://ipres2024.pubpub.org/pub/mzfjcv26/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

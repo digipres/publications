@@ -11,7 +11,7 @@ abstract: The Digital Preservation Coalition (DPC) is undertaking an analysis of
 creators:
 - Amy Currie
 date: 2024-09-18 15:05:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13679853
+document_url: https://zenodo.org/records/13679853/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

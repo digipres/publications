@@ -37,7 +37,7 @@ abstract: '"How long does a web page last?" is often answered with "44 to 100 da
 creators:
 - KRITIKA GARG
 date: 2024-09-17 13:30:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13687116
+document_url: https://zenodo.org/records/13687116/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

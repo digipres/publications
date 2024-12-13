@@ -22,7 +22,7 @@ abstract: 'The SIP-creator is an application to simplify the entry of dossiers a
 creators:
 - Julie Jordens
 date: 2024-09-18 11:35:00+01:00
-document_url: ''
+document_url: null
 grand_parent: iPRES
 institutions: []
 keywords:

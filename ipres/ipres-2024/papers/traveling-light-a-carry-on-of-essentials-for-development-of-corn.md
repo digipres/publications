@@ -9,7 +9,7 @@ abstract: The team behind Cornell University Library Archival Repository (CULAR)
 creators:
 - Dianne Dietrich
 date: 2024-09-18 13:50:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.50dda2ae
+document_url: https://ipres2024.pubpub.org/pub/vvay1530/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

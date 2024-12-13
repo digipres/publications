@@ -18,7 +18,7 @@ creators:
 - Katherine Thornton
 - ' Kenneth Seals-Nutt'
 date: 2024-09-18 11:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.47108e04
+document_url: https://ipres2024.pubpub.org/pub/93xgtzp9/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

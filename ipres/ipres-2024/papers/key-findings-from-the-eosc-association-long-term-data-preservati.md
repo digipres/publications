@@ -30,7 +30,7 @@ creators:
 - Roxanne Wyns
 - ' Hervé L''Hours'
 date: 2024-09-19 11:10:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13741260
+document_url: https://zenodo.org/records/13741260/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

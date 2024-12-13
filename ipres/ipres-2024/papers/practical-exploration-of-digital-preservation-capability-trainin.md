@@ -36,7 +36,7 @@ creators:
 - Honghu Fu
 - ' Zhenxin Wu'
 date: 2024-09-18 14:20:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.67a642b3
+document_url: https://ipres2024.pubpub.org/pub/58wecn1d/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

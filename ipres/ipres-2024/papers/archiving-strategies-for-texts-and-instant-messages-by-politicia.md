@@ -17,7 +17,7 @@ abstract: In recent years, Europe has witnessed several incidents involving high
 creators:
 - Bieke Nouws
 date: 2024-09-19 11:50:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.469988c4
+document_url: https://ipres2024.pubpub.org/pub/sx4wh6o5/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

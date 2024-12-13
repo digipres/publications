@@ -18,7 +18,7 @@ abstract: Digital preservation policies can be interpreted as a link between the
 creators:
 - Miguel Angel Mardero Arellano
 date: 2024-09-17 12:10:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.f5259972
+document_url: https://ipres2024.pubpub.org/pub/2u7go804/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

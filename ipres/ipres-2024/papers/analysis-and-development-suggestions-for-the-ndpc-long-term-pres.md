@@ -17,7 +17,7 @@ abstract: '[Purpose/Significance] Since 2013, the National Digital Preservation 
 creators:
 - ZiYe WANG
 date: 2024-09-18 14:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.c3f9f6f8
+document_url: https://ipres2024.pubpub.org/pub/a5r0y1di/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -29,7 +29,7 @@ abstract: "Trustworthy repositories of archival data need to be reliable and ens
 creators:
 - Corinne FRAPPART
 date: 2024-09-19 13:50:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13743379
+document_url: https://zenodo.org/records/13743379/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

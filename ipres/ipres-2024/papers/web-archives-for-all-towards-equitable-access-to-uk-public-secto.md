@@ -22,7 +22,7 @@ abstract: 'This paper examines equitable access to UK Public Sector Web Archives
 creators:
 - Nicole Hartland
 date: 2024-09-19 11:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.07f4dedf
+document_url: https://ipres2024.pubpub.org/pub/zyfmucfd/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

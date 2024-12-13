@@ -7,7 +7,7 @@ abstract: This paper will present a case study reporting challenges and strategi
 creators:
 - Pascale Montmartin
 date: 2024-09-19 11:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.6ca53f20
+document_url: https://ipres2024.pubpub.org/pub/mhrmk885/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -11,7 +11,7 @@ abstract: In today's fast-paced digital age, effective archiving and documentati
 creators:
 - Tom Deneire
 date: 2024-09-17 11:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.e206e1f2
+document_url: https://ipres2024.pubpub.org/pub/pmcxcbss/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

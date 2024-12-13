@@ -39,7 +39,7 @@ abstract: 'The National Digital Preservation Services (DPS) in Finland preserve 
 creators:
 - Johan Kylander
 date: 2024-09-18 15:55:00+01:00
-document_url: ''
+document_url: null
 grand_parent: iPRES
 institutions: []
 keywords:

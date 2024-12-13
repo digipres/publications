@@ -42,7 +42,7 @@ abstract: 'Arkive is the project for the creation of an infrastructure for long-
 creators:
 - federica zanardini
 date: 2024-09-18 13:30:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13684176
+document_url: https://zenodo.org/records/13684176/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

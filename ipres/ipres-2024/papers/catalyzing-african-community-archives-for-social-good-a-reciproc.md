@@ -15,7 +15,7 @@ abstract: The Catalyzing African Community Archives for Social Good project is d
 creators:
 - Chris Prom
 date: 2024-09-18 14:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.058388ed
+document_url: https://ipres2024.pubpub.org/pub/otynx0ju/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

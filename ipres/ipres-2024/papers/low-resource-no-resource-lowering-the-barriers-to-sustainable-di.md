@@ -22,7 +22,7 @@ abstract: "Digital preservation knowledge and practice is necessary in all domai
 creators:
 - Laura Molloy
 date: 2024-09-19 14:40:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.56647bc3
+document_url: https://ipres2024.pubpub.org/pub/yrvrepm9/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

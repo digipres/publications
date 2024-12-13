@@ -21,7 +21,7 @@ abstract: 'The digital city (DDS) started in 1994 as the first community platfor
 creators:
 - Daniel Steinmeier
 date: 2024-09-17 16:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.a402b310
+document_url: https://ipres2024.pubpub.org/pub/84dbwdby/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

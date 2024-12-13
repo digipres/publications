@@ -23,7 +23,7 @@ creators:
 - Laura Drechsler
 - ' Bieke Nouws'
 date: 2024-09-19 09:00:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13388046
+document_url: https://zenodo.org/records/13388046/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

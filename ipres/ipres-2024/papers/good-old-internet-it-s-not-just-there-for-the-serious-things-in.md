@@ -33,7 +33,7 @@ abstract: 'How has technology transformed higher education? How has higher educa
 creators:
 - Sara Day Thomson
 date: 2024-09-18 16:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.5496f1b9
+document_url: https://ipres2024.pubpub.org/pub/8bppcbds/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

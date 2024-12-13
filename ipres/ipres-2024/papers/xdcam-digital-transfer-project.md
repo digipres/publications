@@ -37,7 +37,7 @@ abstract: 'Meemoo, the Flemish Institute for Archives, is a non-profit organisat
 creators:
 - Laura Ulens
 date: 2024-09-17 11:00:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13683066
+document_url: https://zenodo.org/records/13683066/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

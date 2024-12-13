@@ -17,7 +17,7 @@ abstract: The DRS Futures project is a multi-year effort to re-envision and revi
 creators:
 - Stephen Abrams
 date: 2024-09-19 14:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.165dfe06
+document_url: https://ipres2024.pubpub.org/pub/qcch6erj/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

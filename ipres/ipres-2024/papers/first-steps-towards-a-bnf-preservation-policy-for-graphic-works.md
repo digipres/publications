@@ -10,7 +10,7 @@ abstract: With an exemplary donation, the Bibliothèque nationale de France is r
 creators:
 - Alix Bruys
 date: 2024-09-19 14:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.df194028
+document_url: https://ipres2024.pubpub.org/pub/lcc9guaw/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

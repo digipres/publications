@@ -12,7 +12,7 @@ abstract: In December 2019, the Bibliothèque nationale de France (BnF) launched
 creators:
 - Bertrand Caron
 date: 2024-09-18 16:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.9f7613e9
+document_url: https://ipres2024.pubpub.org/pub/6m5xlcii/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -21,7 +21,7 @@ abstract: "This lightning talk will highlight the results and lessons learned fr
 creators:
 - Matthias Priem
 date: 2024-09-18 11:20:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13734493
+document_url: https://zenodo.org/records/13734493/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

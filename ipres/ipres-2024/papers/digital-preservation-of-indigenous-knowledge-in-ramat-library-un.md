@@ -21,7 +21,7 @@ abstract: It is discerned from literature that digitally preserving indigenous k
 creators:
 - Usman Ibrahim
 date: 2024-09-18 14:30:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.783b0f9e
+document_url: https://ipres2024.pubpub.org/pub/o5shuj0u/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

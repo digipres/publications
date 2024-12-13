@@ -24,7 +24,7 @@ abstract: "In this paper we want to share our experience and learning curve rega
 creators:
 - Tomas Vandecasteele
 date: 2024-09-19 14:20:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.4df9fcfc
+document_url: https://ipres2024.pubpub.org/pub/7sakv02t/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

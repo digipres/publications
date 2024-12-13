@@ -15,7 +15,7 @@ creators:
 - ' Michele C. Weigle'
 - ' Travis Reid'
 date: 2024-09-19 11:00:00+01:00
-document_url: https://doi.org/10.21428/5676bf2d.b7f36c7f
+document_url: https://ipres2024.pubpub.org/pub/x38rbwuu/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -30,7 +30,7 @@ creators:
 - Thomas Edvardsen
 - ' Trond Teigen'
 date: 2024-09-19 13:35:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13681583
+document_url: https://zenodo.org/records/13681583/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:

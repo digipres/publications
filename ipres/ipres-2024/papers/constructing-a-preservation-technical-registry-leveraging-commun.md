@@ -23,7 +23,7 @@ abstract: "Constructing a Preservation Technical Registry: Leveraging Community 
 creators:
 - Lu Wang
 date: 2024-09-18 11:10:00+01:00
-document_url: https://doi.org/10.5281/zenodo.13738633
+document_url: https://zenodo.org/records/13738633/download/pdf
 grand_parent: iPRES
 institutions: []
 keywords:
