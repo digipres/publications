@@ -34,11 +34,11 @@ abstract: 'Why bring Doctor Who and the TARDIS into a discussion about data in a
   data machine-readable.'
 creators:
 - Bethany Anderson
-- ' Mikala Narlock'
-- ' Poppy Townsend'
-- ' Sandi Caldrone'
-- ' Sarah Fox'
-- ' Shannon Farrell'
+- Mikala Narlock
+- Poppy Townsend
+- Sandi Caldrone
+- Sarah Fox
+- Shannon Farrell
 date: 2024-09-19 14:00:00+01:00
 document_url: https://zenodo.org/records/13770146
 grand_parent: iPRES

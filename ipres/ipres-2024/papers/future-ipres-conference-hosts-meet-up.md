@@ -9,11 +9,11 @@ abstract: "This ‘Birds of a Feather’ session is designed to build momentum f
   iPRES is in safe hands long into its third decade. All are welcome!"
 creators:
 - William Kilbride
-- ' Dries Moreels'
-- ' Tracy Seneca'
-- ' Zhenxin Wu'
-- ' Max Prud''homme'
-- ' Ima Oduok'
+- Dries Moreels
+- Tracy Seneca
+- Zhenxin Wu
+- Max Prud'homme
+- Ima Oduok
 date: 2024-09-18 11:00:00+01:00
 document_url: null
 grand_parent: iPRES

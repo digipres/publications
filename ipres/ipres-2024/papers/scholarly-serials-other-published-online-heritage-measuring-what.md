@@ -18,7 +18,7 @@ abstract: "Five years on from iPres2019, our focus then on rescue, six additiona
   that they declare what content is actually being kept safe."
 creators:
 - Gaëlle Béquet
-- ' Peter Burnhill'
+- Peter Burnhill
 date: 2024-09-18 13:45:00+01:00
 document_url: https://zenodo.org/records/13684800/download/pdf
 grand_parent: iPRES

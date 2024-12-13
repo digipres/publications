@@ -27,7 +27,7 @@ abstract: 'Digital Preservation for 5 Year Olds is a set of dfinition cards with
   make up their own rules.'
 creators:
 - Francesca Mackenzie
-- ' Jonathan Isip'
+- Jonathan Isip
 date: 2024-09-18 14:15:00+01:00
 document_url: null
 grand_parent: iPRES

@@ -25,12 +25,12 @@ abstract: "FIAT/IFTA is a global network for those engaged in the preservation a
   document provenance; etc…"
 creators:
 - Charles Fairall
-- ' Etienne Marchand'
-- ' Laurent Boch'
-- ' Marijn Daniels'
-- ' Miroslav Culjat'
-- ' Peter Schallauer'
-- ' Sunny Tan'
+- Etienne Marchand
+- Laurent Boch
+- Marijn Daniels
+- Miroslav Culjat
+- Peter Schallauer
+- Sunny Tan
 date: 2024-09-16 12:00:00+01:00
 document_url: null
 grand_parent: iPRES

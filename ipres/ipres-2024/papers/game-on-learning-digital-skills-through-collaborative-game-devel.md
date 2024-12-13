@@ -29,10 +29,10 @@ abstract: "This tutorial is aimed at those who are new to digital preservation (
   new connections with fellow practitioners"
 creators:
 - Ellie O’Leary
-- ' Francesca Mackenzie'
-- ' Lotte Wijsman'
-- ' Sharon McMeekin'
-- ' Susanne van den Eijkel'
+- Francesca Mackenzie
+- Lotte Wijsman
+- Sharon McMeekin
+- Susanne van den Eijkel
 date: 2024-09-16 11:00:00+01:00
 document_url: null
 grand_parent: iPRES

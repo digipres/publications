@@ -28,7 +28,7 @@ abstract: "Do you already use the command line for digital preservation tasks? I
   issues before the workshop."
 creators:
 - Lode Scheers
-- ' Nastasia Vanderperren'
+- Nastasia Vanderperren
 date: 2024-09-16 11:00:00+01:00
 document_url: null
 grand_parent: iPRES

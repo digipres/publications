@@ -28,7 +28,7 @@ abstract: "Social media has become an integral part of our daily lives. Moreover
   independently."
 creators:
 - Lode Scheers
-- ' Nastasia Vanderperren'
+- Nastasia Vanderperren
 date: 2024-09-17 13:30:00+01:00
 document_url: null
 grand_parent: iPRES

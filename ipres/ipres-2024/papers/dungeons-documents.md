@@ -26,8 +26,8 @@ abstract: "Dungeons & Documents is a two to four player competitive board game t
   the fact that the more metadata an object has, the more valuable it is."
 creators:
 - Ellen Fanning
-- ' Feargal Keenan'
-- ' Lena Boese'
+- Feargal Keenan
+- Lena Boese
 date: 2024-09-18 13:35:00+01:00
 document_url: null
 grand_parent: iPRES

@@ -15,8 +15,8 @@ abstract: The text discusses the formation and activities of AIDA, a Flemish net
   efforts in preserving digital archives.
 creators:
 - Maarten Savels
-- ' Rony Vissers'
-- ' Wim Lowet'
+- Rony Vissers
+- Wim Lowet
 date: 2024-09-17 11:30:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/k09pq9ul/download/pdf
 grand_parent: iPRES

@@ -19,9 +19,9 @@ abstract: In scholarly communication, alternative publication platforms are risi
   and trustworthy alternative to traditional scholarly communication systems.
 creators:
 - Herbert Van de Sompel
-- ' Martin Klein'
-- ' Patrick Hochstenbach'
-- ' Ruben Verborgh'
+- Martin Klein
+- Patrick Hochstenbach
+- Ruben Verborgh
 date: 2024-09-19 11:30:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/479f9vcn/download/pdf
 grand_parent: iPRES

@@ -10,10 +10,10 @@ abstract: 'The Digital Preservation Storage Criteria Working Group would like to
   standards, and feedback from the Working Group''s workshop at iPres 2023.'
 creators:
 - Cynthia Wu
-- ' Eld Zierau'
-- ' Jane Mandelbaum'
-- ' Nancy McGovern'
-- ' Sibyl Schaefer'
+- Eld Zierau
+- Jane Mandelbaum
+- Nancy McGovern
+- Sibyl Schaefer
 date: 2024-09-18 11:05:00+01:00
 document_url: null
 grand_parent: iPRES

@@ -21,7 +21,7 @@ abstract: "There’s always something new on the horizon. A new “next big thin
   is a wonderful thing) and to see what’s changed."
 creators:
 - Karen Colbron
-- ' Paul Stokes'
+- Paul Stokes
 date: 2024-09-18 16:00:00+01:00
 document_url: null
 grand_parent: iPRES

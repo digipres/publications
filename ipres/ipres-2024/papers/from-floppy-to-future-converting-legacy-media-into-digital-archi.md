@@ -64,8 +64,8 @@ abstract: 'This is a tutorial by AIDA, a consortium of heritage institutions foc
   us.'
 creators:
 - Jelle Kleevens
-- ' Lode Scheers'
-- ' Nastasia Vanderperren'
+- Lode Scheers
+- Nastasia Vanderperren
 date: 2024-09-19 13:30:00+01:00
 document_url: null
 grand_parent: iPRES

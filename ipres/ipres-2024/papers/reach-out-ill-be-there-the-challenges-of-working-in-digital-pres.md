@@ -9,7 +9,7 @@ abstract: The Digital Preservation Coalition’s community survey on mental heal
   experiencing as a profession and how we might take steps to address them.
 creators:
 - Elizabeth England
-- ' Sharon McMeekin'
+- Sharon McMeekin
 date: 2024-09-17 16:00:00+01:00
 document_url: null
 grand_parent: iPRES

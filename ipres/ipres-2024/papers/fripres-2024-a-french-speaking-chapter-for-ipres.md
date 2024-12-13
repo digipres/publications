@@ -33,7 +33,7 @@ abstract: "**Abstract**\nIn response to the growing need for inclusivity within 
   in the field."
 creators:
 - Etienne Valade
-- ' Morgän Attias'
+- Morgän Attias
 date: 2024-09-16 12:00:00+01:00
 document_url: null
 grand_parent: iPRES

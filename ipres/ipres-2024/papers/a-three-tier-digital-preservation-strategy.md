@@ -30,8 +30,8 @@ abstract: "As university libraries, one of our key missions is to preserve schol
   solutions, we become active players in preservation, embracing our essential mission."
 creators:
 - Snowden Becker
-- ' Alicia Wise'
-- ' Anthony Leroy'
+- Alicia Wise
+- Anthony Leroy
 date: 2024-09-19 09:00:00+01:00
 document_url: https://zenodo.org/records/13652938/download/pdf
 grand_parent: iPRES

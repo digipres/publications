@@ -26,12 +26,12 @@ abstract: "Community-supported, values-driven digital preservation services oper
   service providers and grow our coalition of support."
 creators:
 - Alicia Wise
-- ' Courtney Mumma'
-- ' Jessica Meyerson'
-- ' Lydia Tang'
-- ' Nathan Tallman'
-- ' Ryan Menefee'
-- ' Sibyl Schaefer'
+- Courtney Mumma
+- Jessica Meyerson
+- Lydia Tang
+- Nathan Tallman
+- Ryan Menefee
+- Sibyl Schaefer
 date: 2024-09-18 14:00:00+01:00
 document_url: null
 grand_parent: iPRES

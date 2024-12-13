@@ -36,7 +36,7 @@ abstract: 'How do we cope with growing collections and complexity when our budge
   January 2013). https://journal.code4lib.org/articles/8029.'
 creators:
 - Andrew Jackson
-- ' Paul Wheatley'
+- Paul Wheatley
 date: 2024-09-16 12:00:00+01:00
 document_url: null
 grand_parent: iPRES

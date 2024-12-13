@@ -11,7 +11,7 @@ abstract: 'Despite the potential for mutually beneficial partnerships, collabora
   sizes and empowers communities to safeguard their digital heritage.'
 creators:
 - Nathan Tallman
-- ' Ruby Martinez'
+- Ruby Martinez
 date: 2024-09-17 16:20:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/a2jrq8ho/download/pdf
 grand_parent: iPRES

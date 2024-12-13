@@ -33,8 +33,8 @@ abstract: 'The Oswaldo Cruz Foundation (Fiocruz) is the largest collective healt
   cultural heritage of Brazilian science and public health.'
 creators:
 - Cleomar Huche Lopes
-- ' Eliane Pontes'
-- ' João Guilherme   Machado '
+- Eliane Pontes
+- João Guilherme   Machado
 date: 2024-09-18 11:00:00+01:00
 document_url: https://zenodo.org/records/13737270/download/pdf
 grand_parent: iPRES

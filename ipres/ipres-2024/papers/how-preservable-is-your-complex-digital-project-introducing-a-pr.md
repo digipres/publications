@@ -31,10 +31,10 @@ abstract: "This workshop invites attendees to experiment with a new Self Assessm
   \ [2]: https://archive.nyu.edu/handle/2451/63332\n  [3]: https://preservingnewforms.dlib.nyu.edu/"
 creators:
 - Angela Spinazzè
-- ' Scott Witmer'
-- ' Karen Hanson'
-- ' Jonathan Greenberg'
-- ' Thib Guicherd-Callin'
+- Scott Witmer
+- Karen Hanson
+- Jonathan Greenberg
+- Thib Guicherd-Callin
 date: 2024-09-16 14:00:00+01:00
 document_url: null
 grand_parent: iPRES

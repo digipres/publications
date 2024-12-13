@@ -8,11 +8,11 @@ abstract: The Digital Preservation Storage Criteria Committee has worked on crea
   the DP Storage Criteria's future!
 creators:
 - Andrea Goethals
-- ' Cynthia Wu'
-- ' Eld Zierau'
-- ' Jane Mandelbaum'
-- ' Nancy McGovern'
-- ' Sibyl Schaefer'
+- Cynthia Wu
+- Eld Zierau
+- Jane Mandelbaum
+- Nancy McGovern
+- Sibyl Schaefer
 date: 2024-09-18 15:00:00+01:00
 document_url: null
 grand_parent: iPRES

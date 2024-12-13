@@ -15,9 +15,9 @@ abstract: 'Preserving and ensuring access to operational knowledge is essential 
   Keywords: Documentation, Emulation, Usability, Knowledge Management.'
 creators:
 - klaus rechert
-- ' Dragan Espenschied'
-- ' Rafael Gieschke'
-- ' Wendy Hagenmaier'
+- Dragan Espenschied
+- Rafael Gieschke
+- Wendy Hagenmaier
 date: 2024-09-17 14:30:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/tc52q3z1/download/pdf
 grand_parent: iPRES

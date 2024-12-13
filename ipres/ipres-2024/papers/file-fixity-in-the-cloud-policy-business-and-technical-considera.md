@@ -14,7 +14,7 @@ abstract: The shift from storage managed on-premises into the cloud has caused m
   adapted to the affordances of a cloud-adapted architecture.
 creators:
 - Gen Schmitt
-- ' Kyle Rimkus'
+- Kyle Rimkus
 date: 2024-09-17 11:00:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/d3akwsah/download/pdf
 grand_parent: iPRES

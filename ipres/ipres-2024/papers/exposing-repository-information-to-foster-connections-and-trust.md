@@ -32,18 +32,18 @@ abstract: "The FAIR-IMPACT project (https://fair-impact.eu/) supports the implem
   reuse, and validating the evidence."
 creators:
 - Maaike Verburg
-- ' Mike Priddy'
-- ' Hervé L''Hours'
-- ' Robert Huber'
-- ' Robert Ulrich'
-- ' Ingrid Dillo'
-- ' Joy Davidson'
-- ' Charlotte Neidiger'
-- ' Linda Reijnhoudt'
-- ' Gabriela Mejias'
-- ' Parham Ramezani'
-- ' Marita Everhardt'
-- ' Oliver Parkes'
+- Mike Priddy
+- Hervé L'Hours
+- Robert Huber
+- Robert Ulrich
+- Ingrid Dillo
+- Joy Davidson
+- Charlotte Neidiger
+- Linda Reijnhoudt
+- Gabriela Mejias
+- Parham Ramezani
+- Marita Everhardt
+- Oliver Parkes
 date: 2024-09-18 15:30:00+01:00
 document_url: https://zenodo.org/records/13495834/download/pdf
 grand_parent: iPRES

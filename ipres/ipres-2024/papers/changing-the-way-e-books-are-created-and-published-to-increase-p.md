@@ -21,25 +21,25 @@ abstract: "In this panel discussion, we will share the experiences and outputs f
   and engaging respectfully from a wide variety of perspectives."
 creators:
 - Alicia Wise
-- ' Claire Holloway'
-- ' Clare Hodder'
-- ' David Cirella'
-- ' Dennis Shannon'
-- ' Euan Cochrane'
-- ' Gareth Cole'
-- ' Graham Bell'
-- ' James Philpotts'
-- ' Lynette Owen'
-- ' Matt Garrish'
-- ' Neil Jefferies'
-- ' Rebecca Cook'
-- ' Roxanne Missingham'
-- ' Ruth Jones'
-- ' Sarah Fricker'
-- ' Sylvia Pegg'
-- ' Thib Guicherd-Callin'
-- ' Tzivya Siegman'
-- ' Wendy Reid'
+- Claire Holloway
+- Clare Hodder
+- David Cirella
+- Dennis Shannon
+- Euan Cochrane
+- Gareth Cole
+- Graham Bell
+- James Philpotts
+- Lynette Owen
+- Matt Garrish
+- Neil Jefferies
+- Rebecca Cook
+- Roxanne Missingham
+- Ruth Jones
+- Sarah Fricker
+- Sylvia Pegg
+- Thib Guicherd-Callin
+- Tzivya Siegman
+- Wendy Reid
 date: 2024-09-17 16:00:00+01:00
 document_url: null
 grand_parent: iPRES

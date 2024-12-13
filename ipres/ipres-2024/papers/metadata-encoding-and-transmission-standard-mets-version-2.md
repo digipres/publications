@@ -25,12 +25,12 @@ abstract: 'The poster of the METS Editorial Board will give an overview of the M
   resources and guides for implementation.'
 creators:
 - Aaron Elkiss
-- ' Andreas Nef'
-- ' Inge Hofsink'
-- ' Juha Lehtonen'
-- ' Karin Bredenberg'
-- ' Robin Wendler'
-- ' Tobias Steinke'
+- Andreas Nef
+- Inge Hofsink
+- Juha Lehtonen
+- Karin Bredenberg
+- Robin Wendler
+- Tobias Steinke
 date: 2024-09-18 13:30:00+01:00
 document_url: https://zenodo.org/records/13646107/download/pdf
 grand_parent: iPRES

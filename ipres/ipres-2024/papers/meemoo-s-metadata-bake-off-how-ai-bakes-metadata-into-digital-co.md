@@ -43,8 +43,8 @@ abstract: '## Abstract
   and quality assessment'
 creators:
 - Alec Hantson
-- ' Matthias Priem'
-- ' Peter Vanden Berghe'
+- Matthias Priem
+- Peter Vanden Berghe
 date: 2024-09-18 15:45:00+01:00
 document_url: null
 grand_parent: iPRES

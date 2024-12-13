@@ -32,10 +32,10 @@ abstract: "In a dramatic intervention in 2022, [Tamar Evangelista Dougherty chal
   \ [3]: https://www.dpconline.org/digipres/champion-digital-preservation/bit-list/critically-endangered/bitlist-community-generated-content"
 creators:
 - John Sheridan
-- ' Karyn Williamson'
-- ' Lorna Hughes'
-- ' Valerie Love'
-- ' William Kilbride'
+- Karyn Williamson
+- Lorna Hughes
+- Valerie Love
+- William Kilbride
 date: 2024-09-17 14:00:00+01:00
 document_url: https://zenodo.org/records/13742764
 grand_parent: iPRES

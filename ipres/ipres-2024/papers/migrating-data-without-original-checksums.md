@@ -28,7 +28,7 @@ abstract: "The National Library (NLN) has been using SAM-FS (Oracle HSM) as a bi
   been lost."
 creators:
 - Thomas Edvardsen
-- ' Trond Teigen'
+- Trond Teigen
 date: 2024-09-19 13:35:00+01:00
 document_url: https://zenodo.org/records/13681583/download/pdf
 grand_parent: iPRES

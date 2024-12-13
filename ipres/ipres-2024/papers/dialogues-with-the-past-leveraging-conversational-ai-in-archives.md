@@ -22,7 +22,7 @@ abstract: "Archives are treasure troves of historical and cultural information, 
   and will have developed some ideas and skills to apply it in their own contexts."
 creators:
 - Chaja Libot
-- ' Karim Dahdah'
+- Karim Dahdah
 date: 2024-09-19 13:00:00+01:00
 document_url: null
 grand_parent: iPRES

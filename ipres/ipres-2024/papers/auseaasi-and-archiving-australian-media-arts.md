@@ -21,9 +21,9 @@ abstract: "AusEaaSI is an Australian consortium of research institutions and org
   and public exhibition."
 creators:
 - Cynde Moya
-- ' Denise de Vries'
-- ' Helen Stuckey'
-- ' Melanie Swalwell'
+- Denise de Vries
+- Helen Stuckey
+- Melanie Swalwell
 date: 2024-09-19 09:00:00+01:00
 document_url: https://zenodo.org/records/13361955/download/pdf
 grand_parent: iPRES

@@ -30,8 +30,8 @@ abstract: "Many iPRES papers often receive relatively few citations, indicating 
   future events."
 creators:
 - Andrew Jackson
-- ' Maureen Pennock'
-- ' Nancy McGovern'
+- Maureen Pennock
+- Nancy McGovern
 date: 2024-09-17 11:00:00+01:00
 document_url: https://zenodo.org/records/13713511/download/pdf
 grand_parent: iPRES

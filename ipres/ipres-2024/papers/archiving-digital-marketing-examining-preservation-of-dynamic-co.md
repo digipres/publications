@@ -9,11 +9,11 @@ abstract: The transition to digital marketing has revolutionized advertising, re
   this project contributes to the documentation of digital history.
 creators:
 - Alex Poole
-- ' Christopher Rauch'
-- ' Mat Kelly'
-- ' Michael L. Nelson'
-- ' Michele C. Weigle'
-- ' Travis Reid'
+- Christopher Rauch
+- Mat Kelly
+- Michael L. Nelson
+- Michele C. Weigle
+- Travis Reid
 date: 2024-09-19 11:00:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/x38rbwuu/download/pdf
 grand_parent: iPRES

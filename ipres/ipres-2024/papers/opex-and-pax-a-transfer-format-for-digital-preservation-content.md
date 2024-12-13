@@ -17,7 +17,7 @@ abstract: 'There are several existing standards for transferring content into an
   Keywords – Content, Transfer, Data model, Complex objects'
 creators:
 - Jonathan Tilbury
-- ' Richard Smith'
+- Richard Smith
 date: 2024-09-19 09:30:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/ejkcz1hj/download/pdf
 grand_parent: iPRES

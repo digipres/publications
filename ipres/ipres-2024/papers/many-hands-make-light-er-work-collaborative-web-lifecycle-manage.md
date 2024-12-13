@@ -31,7 +31,7 @@ abstract: "This poster will present the development of a collaborative Web Lifec
   – its web estate."
 creators:
 - Alice Austin
-- ' Sara Day Thomson'
+- Sara Day Thomson
 date: 2024-09-17 13:30:00+01:00
 document_url: https://zenodo.org/records/13682709/download/pdf
 grand_parent: iPRES

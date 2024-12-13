@@ -20,7 +20,7 @@ abstract: Many organizations preserve content in PDF form.  Andra, the French na
   in page count for a document with roughly one image every two pages on average.
 creators:
 - Florence Poidevin
-- ' Vincent Joguin'
+- Vincent Joguin
 date: 2024-09-17 13:30:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/e8vexg58/download/pdf
 grand_parent: iPRES

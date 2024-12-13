@@ -16,7 +16,7 @@ abstract: We introduce a chat bot tailored to the domain of digital preservation
   to source documents.
 creators:
 - Katherine Thornton
-- ' Kenneth Seals-Nutt'
+- Kenneth Seals-Nutt
 date: 2024-09-18 11:30:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/93xgtzp9/download/pdf
 grand_parent: iPRES

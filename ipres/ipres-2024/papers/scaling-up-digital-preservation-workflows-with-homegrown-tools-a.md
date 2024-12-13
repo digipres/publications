@@ -17,8 +17,8 @@ abstract: At NC State University Libraries, the Special Collections Research Cen
   Preservation Trust for offsite preservation.
 creators:
 - Shelly Black
-- ' Brian Dietz'
-- ' Trevor Thornton'
+- Brian Dietz
+- Trevor Thornton
 date: 2024-09-18 16:20:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/icwasqi0/download/pdf
 grand_parent: iPRES

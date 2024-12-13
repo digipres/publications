@@ -33,12 +33,12 @@ abstract: "This interactive session will bring conference participants together 
   Network Zenodo community to inspire future action."
 creators:
 - Brenna Edwards
-- ' Claire Fox'
-- ' Ethan Gates'
-- ' Jessica Meyerson'
-- ' Oleg Stobbe'
-- ' Wendy Chu'
-- ' Wendy Hagenmaier'
+- Claire Fox
+- Ethan Gates
+- Jessica Meyerson
+- Oleg Stobbe
+- Wendy Chu
+- Wendy Hagenmaier
 date: 2024-09-18 15:30:00+01:00
 document_url: null
 grand_parent: iPRES

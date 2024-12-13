@@ -20,11 +20,11 @@ abstract: 'The PREMIS (Preservation Metadata: Implementation Strategies) Data Di
   of engaging with us in more tutorials and Implementation Fairs.'
 creators:
 - Eld Zierau
-- ' Jack O''Sullivan'
-- ' Karin Bredenberg'
-- ' Leslie Johnston'
-- ' Micky Lindlar'
-- ' Tracy Meehleib'
+- Jack O'Sullivan
+- Karin Bredenberg
+- Leslie Johnston
+- Micky Lindlar
+- Tracy Meehleib
 date: 2024-09-17 15:00:00+01:00
 document_url: null
 grand_parent: iPRES

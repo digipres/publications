@@ -29,8 +29,8 @@ abstract: "Engagement with Open Science and digital preservation can present a c
   \ [2]: https://nlesc.github.io/open-loves-science/"
 creators:
 - Lena Karvovskaya
-- ' Elisa Rodenburg'
-- ' Stephanie van de Sandt'
+- Elisa Rodenburg
+- Stephanie van de Sandt
 date: 2024-09-18 12:05:00+01:00
 document_url: null
 grand_parent: iPRES

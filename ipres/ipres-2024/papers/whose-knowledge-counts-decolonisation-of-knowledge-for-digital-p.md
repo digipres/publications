@@ -39,7 +39,7 @@ abstract: 'The decolonization of knowledge, particularly concerning the preserva
   for Indigenous knowledge in Africa.'
 creators:
 - Gladys Kemboi
-- ' Lazarus Rutto'
+- Lazarus Rutto
 date: 2024-09-19 13:35:00+01:00
 document_url: https://zenodo.org/records/13740956/download/pdf
 grand_parent: iPRES

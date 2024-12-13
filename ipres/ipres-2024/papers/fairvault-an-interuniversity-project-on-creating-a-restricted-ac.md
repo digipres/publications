@@ -30,15 +30,15 @@ abstract: "The FAIRVault project is an interuniversity collaboration between fou
   given the aim to provide an operational service beyond the initial consortium."
 creators:
 - Ine Moerman
-- ' Jacob Laureyns'
-- ' Jef Peeters'
-- ' Jone Paesmans'
-- ' Kevin Michael Leonard'
-- ' Myriam Mertens'
-- ' Nicky Daniels'
-- ' Philippe Moens'
-- ' Sybren Slegers'
-- ' Thomas Van de Velde'
+- Jacob Laureyns
+- Jef Peeters
+- Jone Paesmans
+- Kevin Michael Leonard
+- Myriam Mertens
+- Nicky Daniels
+- Philippe Moens
+- Sybren Slegers
+- Thomas Van de Velde
 date: 2024-09-19 11:00:00+01:00
 document_url: https://zenodo.org/records/13641958/download/pdf
 grand_parent: iPRES

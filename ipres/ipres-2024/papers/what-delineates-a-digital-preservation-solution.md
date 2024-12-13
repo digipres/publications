@@ -21,7 +21,7 @@ abstract: "We at Jisc have recently had the need to specify a base set of requir
   to adopt your point of view."
 creators:
 - Karen Colbron
-- ' Paul Stokes'
+- Paul Stokes
 date: 2024-09-19 09:00:00+01:00
 document_url: null
 grand_parent: iPRES

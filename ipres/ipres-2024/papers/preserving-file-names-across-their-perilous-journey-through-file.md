@@ -30,7 +30,7 @@ abstract: 'File names are more than mere identifiers; they are artifacts of the 
   seemingly mundane digital artifacts.'
 creators:
 - Nick Krabbenhoeft
-- ' Hilary Shiue'
+- Hilary Shiue
 date: 2024-09-19 13:25:00+01:00
 document_url: null
 grand_parent: iPRES

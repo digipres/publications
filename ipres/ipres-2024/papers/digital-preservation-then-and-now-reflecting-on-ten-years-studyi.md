@@ -23,9 +23,9 @@ abstract: 'The study and practice of digital preservation has changed dramatical
   to explore potential implications.'
 creators:
 - Edward Corrado
-- ' Heather Moulaison-Sandy'
-- ' Kayn Curry'
-- ' Teresa Soleau'
+- Heather Moulaison-Sandy
+- Kayn Curry
+- Teresa Soleau
 date: 2024-09-17 11:00:00+01:00
 document_url: https://zenodo.org/records/13662118/download/pdf
 grand_parent: iPRES

@@ -29,8 +29,8 @@ abstract: "Meemoo, the Flemish institute for archives, preserves over 6 million 
   on [our developer documentation website][1].\n\n\n  [1]: https://developer.meemoo.be/docs/metadata/knowledge-graph/"
 creators:
 - Lennert Van de Velde
-- ' Miel Vander Sande'
-- ' Milan Valadou'
+- Miel Vander Sande
+- Milan Valadou
 date: 2024-09-19 13:30:00+01:00
 document_url: https://zenodo.org/records/13683132/download/pdf
 grand_parent: iPRES

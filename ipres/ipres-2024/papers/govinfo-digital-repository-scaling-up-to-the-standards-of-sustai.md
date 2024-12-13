@@ -38,8 +38,8 @@ abstract: 'GovInfo to Scale
   APIs, and Bulk Data download functionality.'
 creators:
 - Alec Bradley
-- ' Heidi Ramos'
-- ' Jessica Tieman'
+- Heidi Ramos
+- Jessica Tieman
 date: 2024-09-18 11:00:00+01:00
 document_url: https://zenodo.org/records/13643139/download/pdf
 grand_parent: iPRES

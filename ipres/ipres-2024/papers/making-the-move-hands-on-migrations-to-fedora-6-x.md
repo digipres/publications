@@ -30,7 +30,7 @@ abstract: "Fedora is the open-source, digital repository system underpinning a w
   use cases, barriers etc.\n4. Facilitation of hands-on Fedora migrations."
 creators:
 - Arran Griffith
-- ' Dan Field'
+- Dan Field
 date: 2024-09-16 11:00:00+01:00
 document_url: null
 grand_parent: iPRES

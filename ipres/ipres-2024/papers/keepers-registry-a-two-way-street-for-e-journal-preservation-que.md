@@ -10,8 +10,8 @@ abstract: 'This paper gives a short overview of Keepers registry and describes t
   work for TIB’s workflows as well as for an e-journal preservation registry in general.'
 creators:
 - Merle Friedrich
-- ' Micky Lindlar'
-- ' Peter Eisner'
+- Micky Lindlar
+- Peter Eisner
 date: 2024-09-19 12:00:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/lrjk5dzx/download/pdf
 grand_parent: iPRES

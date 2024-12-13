@@ -22,7 +22,7 @@ abstract: As we advance further into the digital age, forecasts suggest an astro
   but invigorated in the face of burgeoning data landscapes.
 creators:
 - Jon Shaw
-- ' Brigitte Weinsteiger'
+- Brigitte Weinsteiger
 date: 2024-09-19 13:30:00+01:00
 document_url: https://zenodo.org/records/13698003/download/pdf
 grand_parent: iPRES

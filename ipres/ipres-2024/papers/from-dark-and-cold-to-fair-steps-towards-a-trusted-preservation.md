@@ -32,7 +32,7 @@ abstract: "In 2020, EPFL introduced [ACOUA][1], a dedicated service designed to 
   \ [2]: https://www.go-fair.org/fair-principles/fairification-process/\n  [3]: https://zenodo.org/records/5797776"
 creators:
 - Alessandra Bianchi
-- ' Micha d''Ans'
+- Micha d'Ans
 date: 2024-09-18 15:30:00+01:00
 document_url: https://zenodo.org/records/13626565/download/pdf
 grand_parent: iPRES

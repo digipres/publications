@@ -5,8 +5,8 @@ abstract: Explore how Libsafe Advance enhances the management of Personally Iden
   Advance.
 creators:
 - Lia Radovic
-- ' Miguel Blanco'
-- ' Sofia Pedroza'
+- Miguel Blanco
+- Sofia Pedroza
 date: 2024-09-18 13:55:00+01:00
 document_url: null
 grand_parent: iPRES

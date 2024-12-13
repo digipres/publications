@@ -18,9 +18,9 @@ abstract: 'During this half day workshop you can bring your own data and process
   don’t succeed, we will help you get started.'
 creators:
 - Lotte Wijsman
-- ' Rein van ‘t Veer'
-- ' Sam Alloing'
-- ' Valentijn Gilissen'
+- Rein van ‘t Veer
+- Sam Alloing
+- Valentijn Gilissen
 date: 2024-09-16 11:00:00+01:00
 document_url: https://zenodo.org/records/13890921
 grand_parent: iPRES

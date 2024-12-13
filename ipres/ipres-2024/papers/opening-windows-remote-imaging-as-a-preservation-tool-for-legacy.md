@@ -16,9 +16,9 @@ abstract: The aim of this collaboration was to create a backup or safety copy of
   difficult or obsolete interfaces are present.
 creators:
 - Eléonore Bernard
-- ' Robin François'
-- ' Tom Ensom'
-- ' Tony Kranz'
+- Robin François
+- Tom Ensom
+- Tony Kranz
 date: 2024-09-19 13:30:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/cylsieok/download/pdf
 grand_parent: iPRES

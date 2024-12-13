@@ -16,8 +16,8 @@ abstract: "As research data grows in volume and complexity, concerns about maint
   of effort while also preparing better for changes in ongoing research needs."
 creators:
 - Beth Knazook
-- ' Erin Clary'
-- ' Mikala Narlock'
+- Erin Clary
+- Mikala Narlock
 date: 2024-09-19 13:40:00+01:00
 document_url: https://zenodo.org/records/13645948/download/pdf
 grand_parent: iPRES

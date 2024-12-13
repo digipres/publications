@@ -10,7 +10,7 @@ abstract: 'What would we cover in our demo:
   - Automated Extraction of Metadata'
 creators:
 - Frederik Rosseel
-- ' Michiel Van Driessche'
+- Michiel Van Driessche
 date: 2024-09-18 14:35:00+01:00
 document_url: null
 grand_parent: iPRES

@@ -14,7 +14,7 @@ abstract: This paper will examine the potential for retrieving and indexing save
   emulation, citation, computational state, software studies, software preservation
 creators:
 - Eric Kaltman
-- ' Joseph C. Osborn'
+- Joseph C. Osborn
 date: 2024-09-19 14:00:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/kj532qy1/download/pdf
 grand_parent: iPRES

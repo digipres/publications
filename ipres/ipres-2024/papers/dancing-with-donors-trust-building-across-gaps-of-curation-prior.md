@@ -27,7 +27,7 @@ abstract: 'Virginia Tech University Libraries (VTUL) serves a range of cultural 
   and understanding, coupled with robust planning and technical capability.'
 creators:
 - Alan Munshower
-- ' Alex Kinnaman'
+- Alex Kinnaman
 date: 2024-09-17 13:30:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/ra23jq2d/download/pdf
 grand_parent: iPRES

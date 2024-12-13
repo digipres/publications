@@ -28,7 +28,7 @@ abstract: "Web archives continue to grow in cultural heritage organizations arou
   for practical and common use-cases, and visualization of generated reports."
 creators:
 - Mark Phillips
-- ' Sawood Alam'
+- Sawood Alam
 date: 2024-09-19 11:00:00+01:00
 document_url: null
 grand_parent: iPRES

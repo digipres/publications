@@ -21,8 +21,8 @@ abstract: 'The History, Culture and Heritage of a Community once it is cast in s
   culture and heritage.'
 creators:
 - Chris Kiptoo
-- ' Christopher Chepken'
-- ' Joseph Kiplagat'
+- Christopher Chepken
+- Joseph Kiplagat
 date: 2024-09-17 16:40:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/mp5h8q05/download/pdf
 grand_parent: iPRES

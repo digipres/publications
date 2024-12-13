@@ -34,7 +34,7 @@ abstract: 'As one of the first teams to conduct digital preservation work in Chi
   cooperation in digital preservation in China.'
 creators:
 - Honghu Fu
-- ' Zhenxin Wu'
+- Zhenxin Wu
 date: 2024-09-18 14:20:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/58wecn1d/download/pdf
 grand_parent: iPRES

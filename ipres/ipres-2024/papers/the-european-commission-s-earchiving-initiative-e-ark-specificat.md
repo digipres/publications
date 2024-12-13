@@ -26,10 +26,10 @@ abstract: "The workshop aims to familiarize participants with the E-ARK specific
   participants' perspectives and enhance their knowledge base."
 creators:
 - Carl Wilson
-- ' Mattias Poppe'
-- ' Miel Vander Sande'
-- ' Milan Valadou'
-- ' Sven Schlarb'
+- Mattias Poppe
+- Miel Vander Sande
+- Milan Valadou
+- Sven Schlarb
 date: 2024-09-16 14:30:00+01:00
 document_url: null
 grand_parent: iPRES

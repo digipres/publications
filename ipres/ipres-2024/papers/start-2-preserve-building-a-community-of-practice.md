@@ -9,7 +9,7 @@ abstract: "Digital preservation can best be approached and worked on within a co
   knowledge sharing, and community-building are key. No expert knowledge required."
 creators:
 - Rony Vissers
-- ' Tamara van Zwol'
+- Tamara van Zwol
 date: 2024-09-16 11:00:00+01:00
 document_url: null
 grand_parent: iPRES

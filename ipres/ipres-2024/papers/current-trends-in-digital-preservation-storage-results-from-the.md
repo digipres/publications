@@ -30,11 +30,11 @@ abstract: "Providing storage as part of the digital preservation program is a ke
   objectives, aiding in advocacy efforts."
 creators:
 - Alan Munshower
-- ' Amy Allen'
-- ' Danielle Taylor'
-- ' Este Pope'
-- ' Krista Oldham'
-- ' Max Prud''homme'
+- Amy Allen
+- Danielle Taylor
+- Este Pope
+- Krista Oldham
+- Max Prud'homme
 date: 2024-09-18 13:30:00+01:00
 document_url: https://zenodo.org/records/13648690/download/pdf
 grand_parent: iPRES

@@ -30,7 +30,7 @@ abstract: "In this lightning talk, we present the most challenging aspects of pr
   width=\"700\" alt=\"CERN Preserve workflow\">"
 creators:
 - Jean-Yves Le Meur
-- ' Panna Liptak'
+- Panna Liptak
 date: 2024-09-19 11:15:00+01:00
 document_url: https://zenodo.org/records/13646193/download/pdf
 grand_parent: iPRES

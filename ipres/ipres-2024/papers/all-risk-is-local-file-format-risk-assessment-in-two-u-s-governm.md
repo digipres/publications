@@ -22,10 +22,10 @@ abstract: Evaluating file formats is an integral component of risk assessment fo
   goals and needs.
 creators:
 - Elizabeth England
-- ' Hannah Wang'
-- ' Kate Murray'
-- ' Leslie Johnston'
-- ' Theron Westervelt'
+- Hannah Wang
+- Kate Murray
+- Leslie Johnston
+- Theron Westervelt
 date: 2024-09-17 12:00:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/xtwb1guc/download/pdf
 grand_parent: iPRES

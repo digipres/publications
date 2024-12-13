@@ -60,7 +60,7 @@ abstract: 'In the evolving landscape of heritage and preservation, the transitio
   RTL Bruxelles Archives (TBC)'
 creators:
 - Koen Renders
-- ' Miel Vandersande'
+- Miel Vandersande
 date: 2024-09-19 10:00:00+01:00
 document_url: null
 grand_parent: iPRES

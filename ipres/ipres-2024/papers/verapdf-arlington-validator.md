@@ -3,7 +3,7 @@ abstract: A demonstration of veraPDF's Arlington based PDF validation products. 
   Wilson will attend in person and give a live demonstration.
 creators:
 - Boris Doubrov
-- ' Carl Wilson'
+- Carl Wilson
 date: 2024-09-18 16:15:00+01:00
 document_url: null
 grand_parent: iPRES

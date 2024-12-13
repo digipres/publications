@@ -45,7 +45,7 @@ abstract: 'The Inter-university Consortium for Political and Social Research (IC
   etc.) to promote discovery, catalog integration, and (eventually) content transfer.'
 creators:
 - Jared Lyle
-- ' Mike Shallcross'
+- Mike Shallcross
 date: 2024-09-18 15:30:00+01:00
 document_url: https://zenodo.org/records/13704260/download/pdf
 grand_parent: iPRES

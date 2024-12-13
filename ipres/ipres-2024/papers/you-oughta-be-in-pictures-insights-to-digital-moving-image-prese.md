@@ -25,8 +25,8 @@ abstract: "In this panel session, current and future approaches for digital movi
   with the panel members."
 creators:
 - Anne Gant
-- ' Laura Drake Davis'
-- ' Lucy Wales'
+- Laura Drake Davis
+- Lucy Wales
 date: 2024-09-19 11:30:00+01:00
 document_url: https://zenodo.org/records/13759888
 grand_parent: iPRES

@@ -28,14 +28,14 @@ abstract: "In this workshop we will enable participants to plan a project to est
   Preservation Coalition, so that we can continue the journey together!"
 creators:
 - Alicia Wise
-- ' Danielle Taylor'
-- ' Guanwen "Henry" Zhang'
-- ' Ianthe Sutherland'
-- ' John McMillan'
-- ' Paul Shabajee'
-- ' Thib Guicherd-Callin'
-- ' William Kilbride'
-- ' William Pickett'
+- Danielle Taylor
+- Guanwen "Henry" Zhang
+- Ianthe Sutherland
+- John McMillan
+- Paul Shabajee
+- Thib Guicherd-Callin
+- William Kilbride
+- William Pickett
 date: 2024-09-16 14:00:00+01:00
 document_url: null
 grand_parent: iPRES

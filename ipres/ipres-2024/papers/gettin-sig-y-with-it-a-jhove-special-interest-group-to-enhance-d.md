@@ -21,11 +21,11 @@ abstract: "The use of DP tools is an essential part of DP practice for most of u
   to meet the community's evolving needs."
 creators:
 - Georgia Moppett
-- ' Julie Allen'
-- ' Lotte Wijsman'
-- ' Marin Rappard'
-- ' Micky Lindlar'
-- ' Remco van Veenendaal'
+- Julie Allen
+- Lotte Wijsman
+- Marin Rappard
+- Micky Lindlar
+- Remco van Veenendaal
 date: 2024-09-19 11:00:00+01:00
 document_url: null
 grand_parent: iPRES

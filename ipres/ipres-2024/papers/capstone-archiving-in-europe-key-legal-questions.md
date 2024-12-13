@@ -21,7 +21,7 @@ abstract: 'Emails have become an essential component of the work toolbox of publ
   not limited to yes or no but depend on the details of each situation.'
 creators:
 - Laura Drechsler
-- ' Bieke Nouws'
+- Bieke Nouws
 date: 2024-09-19 09:00:00+01:00
 document_url: https://zenodo.org/records/13388046/download/pdf
 grand_parent: iPRES

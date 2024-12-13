@@ -28,7 +28,7 @@ abstract: "From 2022 to 2024 the Long Term Data Preservation Task Force (LTDP-TF
   to follow up initiatives."
 creators:
 - Roxanne Wyns
-- ' Hervé L''Hours'
+- Hervé L'Hours
 date: 2024-09-19 11:10:00+01:00
 document_url: https://zenodo.org/records/13741260/download/pdf
 grand_parent: iPRES

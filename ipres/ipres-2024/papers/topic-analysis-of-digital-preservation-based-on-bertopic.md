@@ -17,7 +17,7 @@ abstract: Digital Preservation refers to the series of managed activities necess
   a new peak of research.
 creators:
 - Naishuai Zhang
-- ' Jimin Wang'
+- Jimin Wang
 date: 2024-09-19 12:10:00+01:00
 document_url: https://ipres2024.pubpub.org/pub/cuc1cblo/download/pdf
 grand_parent: iPRES

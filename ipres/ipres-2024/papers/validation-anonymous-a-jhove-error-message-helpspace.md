@@ -28,7 +28,7 @@ abstract: "JHOVE is one of the most widely used tools in digital preservation. T
   be twelve to fifteen people, but we can accommodate up to forty for this session."
 creators:
 - Carl Wilson
-- ' Micky Lindlar'
+- Micky Lindlar
 date: 2024-09-16 11:00:00+01:00
 document_url: null
 grand_parent: iPRES

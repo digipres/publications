@@ -28,14 +28,14 @@ abstract: "As more scholars code in the open, digital stewards need accessible m
   \ [3]: https://memento-damage.cs.odu.edu/faq/\n  [4]: https://drive.usercontent.google.com/download?id=1TXns1hOP78mxq83zzHGwMjmsS_Q6Q7c5&export=view&authuser=0"
 creators:
 - Vicky Rampin
-- ' Talya Cooper'
-- ' Martin Klein'
-- ' David Wilkinson'
-- ' Lyudmila Balakireva'
-- ' Emily Escamilla'
-- ' David Calano'
-- ' Michael L. Nelson'
-- ' Michele C. Weigle'
+- Talya Cooper
+- Martin Klein
+- David Wilkinson
+- Lyudmila Balakireva
+- Emily Escamilla
+- David Calano
+- Michael L. Nelson
+- Michele C. Weigle
 date: 2024-09-18 14:15:00+01:00
 document_url: null
 grand_parent: iPRES
