@@ -12,7 +12,7 @@ abstract: Preservation of "Primary Data" is of very high relevance in science. W
   data in natural science, of its preservation requirements, and how it is preserved
   today.
 creators:
-- Severiens, Thomas
+- Thomas Severiens
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295002/download
 grand_parent: iPRES

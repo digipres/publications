@@ -15,7 +15,7 @@ abstract: 'This paper provides insights into the Biblioteca Nacional de Mexico (
   establishing sustainable approaches to guarantee the digital preservation of Mexico''s
   documentary heritage.'
 creators:
-- Morfín, Jo Ana
+- Jo Ana Morfín
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923613/download
 grand_parent: iPRES

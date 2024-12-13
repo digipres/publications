@@ -8,7 +8,7 @@ abstract: The Digital Preservation Coalition’s Rapid Assessment (DPC RAM) was 
   of DPC RAM, discussing progress that has been made and lessons that have been learned
   since it was first launched. Future directions for the maturity model are also articulated.
 creators:
-- Mitcham, Jenny
+- Jenny Mitcham
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/56961607c6a74cb697a2b0bba7a47837
 grand_parent: iPRES

@@ -17,10 +17,10 @@ abstract: "The Digital Preservation Storage Criteria (or “Criteria”) resulte
   one of the next steps in the project, along with developing version 4 of the Criteria
   and taking steps to further build the community around the Criteria."
 creators:
-- Goethals, Andrea
-- Schaefer, Sibyl
-- McGovern, Nancy Y
-- Zierau, Eld
+- Andrea Goethals
+- Sibyl Schaefer
+- Nancy Y McGovern
+- Eld Zierau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079720/download
 grand_parent: iPRES

@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- van Horik, René
+- René van Horik
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295026/download
 grand_parent: iPRES

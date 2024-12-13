@@ -16,8 +16,8 @@ abstract: This paper presents an approach for the automatic estimation of preser
   are presented in the evaluation part of the paper. A Web service is created to support
   programmatic access to format and risk analysis reports.
 creators:
-- Graf, Roman
-- Gordea, Sergiu
+- Roman Graf
+- Sergiu Gordea
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377374/download
 grand_parent: iPRES

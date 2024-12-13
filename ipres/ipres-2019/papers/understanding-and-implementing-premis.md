@@ -3,9 +3,9 @@ abstract: This half day tutorial will provide participants with an short introdu
   to the PREMIS Data Dictionary [1]. There after the focus is implementation. It will
   give a basic overview of the standard and explore different models of implementation.
 creators:
-- Di Iorio, Angela
-- Zierau, Eld
-- Bredenberg, Karin
+- Angela Di Iorio
+- Eld Zierau
+- Karin Bredenberg
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079748/download
 grand_parent: iPRES

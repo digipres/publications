@@ -16,11 +16,11 @@ abstract: 'This poster provides the latest updates on the Digital Preservation S
 
   '
 creators:
-- Zierau, Eld
-- Wu, Cynthia
-- Goethals, Andrea
-- McGovern, Nancy
-- Schaefer, Sibyl
+- Eld Zierau
+- Cynthia Wu
+- Andrea Goethals
+- Nancy McGovern
+- Sibyl Schaefer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424849/download
 grand_parent: iPRES

@@ -5,8 +5,8 @@ abstract: – A poster describing the functionality of the Curations Costs Excha
   used to consult the community and (assuming the consultation and considerations
   are complete) their ultimate fate.
 creators:
-- Stokes, Paul
-- Middleton, Sarah
+- Paul Stokes
+- Sarah Middleton
 date: null
 document_url: https://www.ideals.illinois.edu/items/128271/bitstreams/428907/data.pdf
 grand_parent: iPRES

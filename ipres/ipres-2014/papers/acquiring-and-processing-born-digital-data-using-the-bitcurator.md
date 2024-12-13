@@ -11,7 +11,7 @@ abstract: "This tutorial will prepare participants to use the open-source BitCur
   PREMIS records), and identify various forms of sensitive data within collections.
   \n "
 creators:
-- Lee, Christopher
+- Christopher Lee
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378143/download
 grand_parent: iPRES

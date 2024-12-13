@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- van Zwol, Tamara  (Coordinator Preservation Watch for The Dutch Digital Heritage
-  Network
+- Tamara  (Coordinator Preservation Watch for The Dutch Digital Heritage Network van
+  Zwol
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424693/download
 grand_parent: iPRES

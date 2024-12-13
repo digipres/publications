@@ -14,13 +14,13 @@ abstract: 'Cultural Heritage plays an important role in a modern city like Shenz
   multimedia, AI, and digital preservation. This collaboration enables the re-imaging
   of Shenzhen 5000 years ago innovatively with modern and technical elements.'
 creators:
-- Du, Juan
-- Zhang, Xiaoqing
-- Jiang, Kailun
-- Hu, Yufan
-- Tang, Jigen
-- Liu, Jiang
-- E, Henian
+- Juan Du
+- Xiaoqing Zhang
+- Kailun Jiang
+- Yufan Hu
+- Jigen Tang
+- Jiang Liu
+- Henian E
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424848/download
 grand_parent: iPRES

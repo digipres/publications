@@ -28,7 +28,7 @@ abstract: 'Digital curation is a complex of actors, policies, practices, and tec
   rather than ad hoc or idiosyncratic manner. The UC3 Sept model can be used to make
   precise yet concise statements regarding curation intentions, activities, and results.'
 creators:
-- Abrams, Stephen
+- Stephen Abrams
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429533/download
 grand_parent: iPRES

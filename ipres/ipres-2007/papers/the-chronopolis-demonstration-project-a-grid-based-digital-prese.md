@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- McDonald, Robert H.
+- Robert H. McDonald
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294480/download
 grand_parent: iPRES

@@ -11,8 +11,8 @@ abstract: 'As part of the two-year Polonsky digital preservation research projec
   current systems, the collaboration relating to au- diting and reporting software
   used, the work which has already completed, and what is planned for rest of 2017-2018.'
 creators:
-- Mooney, James
-- Gerrard, David
+- James Mooney
+- David Gerrard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931141/download
 grand_parent: iPRES

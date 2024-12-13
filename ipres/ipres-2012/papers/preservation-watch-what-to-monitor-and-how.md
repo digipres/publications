@@ -17,12 +17,12 @@ abstract: 'For successful preservation operations, a preservation system needs t
   currently being developed. We demonstrate the value of such a monitoring approach
   on a number of scenarios and cases.'
 creators:
-- Becker, Christoph
-- Ramalho, Jose Carlos
-- Ferreira, Miguel
-- Duretec, Kresimir
-- Petrov, Petar
-- Faria, Luis
+- Christoph Becker
+- Jose Carlos Ramalho
+- Miguel Ferreira
+- Kresimir Duretec
+- Petar Petrov
+- Luis Faria
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293864/download
 grand_parent: iPRES

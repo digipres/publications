@@ -38,9 +38,9 @@ abstract: 'China is facing urgent needs for collaborative digital preservation s
   and very importantly, channel NSTI funding into development and maintenance of the
   national STM preservation network.'
 creators:
-- Zhixiong, Zhang
-- Ling, Wan
-- Xiaolin, Zhang
+- Zhang Zhixiong
+- Wan Ling
+- Zhang Xiaolin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295032/download
 grand_parent: iPRES

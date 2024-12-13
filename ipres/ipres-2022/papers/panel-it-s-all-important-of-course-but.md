@@ -3,7 +3,7 @@ abstract: a panel to shine a light on how different aspects of digital preservat
   are important to different practitioners and to provide an insight as to why those
   aspects are important to them.
 creators:
-- Stokes, Paul
+- Paul Stokes
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/885b3812c7f04e5ab88b1f9da0aae9e2
 grand_parent: iPRES

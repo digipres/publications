@@ -13,12 +13,12 @@ abstract: 'The growing adoption of AI and data analytics in various sectors has 
 
   '
 creators:
-- Marinelli, Eugenio
-- Ghabach, Eddy
-- Bolbroe, Thomas
-- Sella, Omer
-- Heinis, Thomas
-- Appuswamy, Raja
+- Eugenio Marinelli
+- Eddy Ghabach
+- Thomas Bolbroe
+- Omer Sella
+- Thomas Heinis
+- Raja Appuswamy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424930/download
 grand_parent: iPRES

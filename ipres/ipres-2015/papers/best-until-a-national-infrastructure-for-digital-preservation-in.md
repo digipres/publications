@@ -11,8 +11,8 @@ abstract: 'This paper describes the developments in the Netherlands to establish
   of existing facilities. In this paper the focus is on the activities related to
   the sustainable preservation of the Dutch national digital heritage.'
 creators:
-- Sierman, Barbara
-- Ras, Marcel
+- Barbara Sierman
+- Marcel Ras
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429559/download
 grand_parent: iPRES

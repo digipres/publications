@@ -22,7 +22,7 @@ abstract: Records created in organizations that have archival value should be pr
   that this study will raise awareness in the organizations to do a better job of
   preserving the records that have archival value.
 creators:
-- Sağlık, Özhan
+- Özhan Sağlık
 date: null
 document_url: https://www.ideals.illinois.edu/items/128293/bitstreams/428951/data.pdf
 grand_parent: iPRES

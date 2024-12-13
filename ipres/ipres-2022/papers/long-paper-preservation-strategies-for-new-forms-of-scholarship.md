@@ -10,7 +10,7 @@ abstract: The advance in technologies for publishing digital scholarship has out
   do this at scale.  This paper will provide a summary of this project and key themes
   that could impact preservation of enhanced scholarly works.
 creators:
-- Hanson, Karen
+- Karen Hanson
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/7f975c04cec244adaa700a5626514225
 grand_parent: iPRES

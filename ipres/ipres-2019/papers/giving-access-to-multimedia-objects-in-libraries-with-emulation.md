@@ -6,7 +6,7 @@ abstract: The German National Library makes collected multimedia objects availab
   environment of the library. It also gives an overview of legal aspects related to
   the emulation framework.
 creators:
-- Steinke, Tobias
+- Tobias Steinke
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079913/download
 grand_parent: iPRES

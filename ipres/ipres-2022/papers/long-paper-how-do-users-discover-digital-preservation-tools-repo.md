@@ -8,7 +8,7 @@ abstract: While information is available that charts the development of digital 
   digital preservation education to inform the ways in which tools are taught in formal
   digital preservation education programs.
 creators:
-- Cushing, Amber
+- Amber Cushing
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/0f9f35e72ba74e4aafd2f42e3dc0b7f0
 grand_parent: iPRES

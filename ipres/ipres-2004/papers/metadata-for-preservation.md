@@ -9,7 +9,7 @@ abstract: In recent years there have been a range of metadata specifications and
   the most important schemas and standards being developed, and outline some of the
   problems that result from the differing perspectives that inform their development.
 creators:
-- Day, Michael
+- Michael Day
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294997/download
 grand_parent: iPRES

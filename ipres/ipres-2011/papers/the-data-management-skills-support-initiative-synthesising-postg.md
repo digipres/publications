@@ -9,8 +9,8 @@ abstract: In this paper, we describe the context, methods and findings of the Da
   guidance documents to raise awareness of the importance of data management in career
   development.
 creators:
-- Molloy, Laura
-- Snow, Kellie
+- Laura Molloy
+- Kellie Snow
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294275/download
 grand_parent: iPRES

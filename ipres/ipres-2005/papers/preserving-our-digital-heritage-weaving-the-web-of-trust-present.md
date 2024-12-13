@@ -23,7 +23,7 @@ abstract: 'Many digital objects have a lasting value and significance. As an imp
   of trusted digital repositories with preservation policies that guarantee long term
   archiving as much as long term usability.'
 creators:
-- Niggemann, Elisabeth
+- Elisabeth Niggemann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295031/download
 grand_parent: iPRES

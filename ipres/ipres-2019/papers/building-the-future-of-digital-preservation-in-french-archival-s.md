@@ -9,9 +9,9 @@ abstract: Studied since the 1980s in French Archival services from a technical p
   skills and profiles needed to implement these processes, not only for the three
   ministries but for any archival service wishing to diagnose its maturity.
 creators:
-- Roussel, Stéphanie
-- Vasseur, Édouard
-- Humbert, Marion
+- Stéphanie Roussel
+- Édouard Vasseur
+- Marion Humbert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079746/download
 grand_parent: iPRES

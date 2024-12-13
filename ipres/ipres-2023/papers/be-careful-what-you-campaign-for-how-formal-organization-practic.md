@@ -15,7 +15,7 @@ abstract: Digital preservationists often struggle using their expert knowledge t
   within the organization might also benefit the field of preservation itself through
   enhanced knowledge of what works and what doesn't.
 creators:
-- Steinmeier, Daniel
+- Daniel Steinmeier
 date: null
 document_url: https://www.ideals.illinois.edu/items/128292/bitstreams/428949/data.pdf
 grand_parent: iPRES

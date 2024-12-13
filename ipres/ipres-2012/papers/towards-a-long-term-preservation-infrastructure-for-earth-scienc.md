@@ -10,19 +10,19 @@ abstract: The effective preservation of both current and historical scientific d
   which implement core preservation concepts, thus guaranteeing the long-term access
   and exploitation of data assets across and beyond their designated communities.
 creators:
-- Shaon, Arif
-- Engel, Felix
-- Giaretta, David
-- Conway, Esther
-- Matthews, Brian
-- Tzitzikas, Yannis
-- Marketakis, Yannis
-- Brocks, Holger
-- di Giammatteo, Ugo
-- Yu, Jinsongdi
-- Guarino, Raffaele
-- Marelli, Fulvio
-- Crompton, Shirley
+- Arif Shaon
+- Felix Engel
+- David Giaretta
+- Esther Conway
+- Brian Matthews
+- Yannis Tzitzikas
+- Yannis Marketakis
+- Holger Brocks
+- Ugo di Giammatteo
+- Jinsongdi Yu
+- Raffaele Guarino
+- Fulvio Marelli
+- Shirley Crompton
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293768/download
 grand_parent: iPRES

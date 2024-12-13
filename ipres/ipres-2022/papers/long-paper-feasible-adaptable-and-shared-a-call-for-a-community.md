@@ -8,7 +8,7 @@ abstract: 'Through open research, experimentation and convenings with LAM sector
   LC Labs is proposing a step toward collaboratively generating a LAM-specific framework
   for understanding and implementing ML and AI technologies.  '
 creators:
-- Potter, Abigail
+- Abigail Potter
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/2d51dd5f0fcf4af0939ee9a7b8cbb309
 grand_parent: iPRES

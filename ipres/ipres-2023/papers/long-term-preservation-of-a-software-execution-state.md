@@ -6,9 +6,9 @@ abstract: Software is a very complex product, offering an endless number of diff
   In this article, we discuss the possibilities to “freeze” software while being executed
   and describe constraints for the long-term preservation of these snapshots.
 creators:
-- Gieschke, Rafael
-- Rechert, Klaus
-- Cochrane, Euan
+- Rafael Gieschke
+- Klaus Rechert
+- Euan Cochrane
 date: null
 document_url: https://www.ideals.illinois.edu/items/128297/bitstreams/428959/data.pdf
 grand_parent: iPRES

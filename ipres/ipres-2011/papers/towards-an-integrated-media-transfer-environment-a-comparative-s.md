@@ -12,14 +12,14 @@ abstract: Efficient media transfer is a difficult challenge facing digital prese
   toolsets based on the specifications of these tools, therefore providing a valuable
   source of information for media transfer activities.
 creators:
-- Ciuffreda, Antonio
-- Joguin, Vincent
-- Lange, Andreas
-- Bergmeyer, Winfried
-- Pinchbeck, Dan
-- Konstantelos, Leo
-- Delve, Janet
-- Anderson, David
+- Antonio Ciuffreda
+- Vincent Joguin
+- Andreas Lange
+- Winfried Bergmeyer
+- Dan Pinchbeck
+- Leo Konstantelos
+- Janet Delve
+- David Anderson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294207/download
 grand_parent: iPRES

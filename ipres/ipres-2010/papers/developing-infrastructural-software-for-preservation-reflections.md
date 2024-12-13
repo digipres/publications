@@ -33,10 +33,10 @@ abstract: 'The Planets Testbed, a key outcome of the EC co-funded
 
   learned from these challenges.'
 creators:
-- Aitken, Matthew Barr, Brian
-- Ross, Seamus
-- Lindley, Andrew
-- Barr, Matthew
+- Matthew Barr, Brian Aitken
+- Seamus Ross
+- Andrew Lindley
+- Matthew Barr
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185192/download
 grand_parent: iPRES

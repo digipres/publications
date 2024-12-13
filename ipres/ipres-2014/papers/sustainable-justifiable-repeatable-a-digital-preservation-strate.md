@@ -11,9 +11,9 @@ abstract: 'Appraisal has long been a source of intense debate in the archival co
   applying repeatable processes, and ultimately establishing measurable institutional
   value. '
 creators:
-- West, Brent
-- Kaczmarek, Joanne
-- Phoenix, Jordan
+- Brent West
+- Joanne Kaczmarek
+- Jordan Phoenix
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378704/download
 grand_parent: iPRES

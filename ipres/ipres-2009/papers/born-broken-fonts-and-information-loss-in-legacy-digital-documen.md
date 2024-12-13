@@ -10,8 +10,8 @@ abstract: 'For millions of legacy documents, correct rendering depends upon reso
   not available, and the ways in which support software might be used to control font
   substitution in a preservation environment. '
 creators:
-- Brown, Geoffrey
-- Woods, Kam
+- Geoffrey Brown
+- Kam Woods
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294029/download
 grand_parent: iPRES

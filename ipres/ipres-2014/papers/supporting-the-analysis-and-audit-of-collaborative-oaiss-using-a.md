@@ -12,8 +12,8 @@ abstract: " This paper addresses the question: What would distributed digital pr
   extension to the literature of the digital preservation community to address the
   analysis and audit necessary for distributed digital preservation. \n"
 creators:
-- Zierau, Eld
-- McGovern, Nancy
+- Eld Zierau
+- Nancy McGovern
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378118/download
 grand_parent: iPRES

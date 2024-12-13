@@ -14,7 +14,7 @@ abstract: 'Biodiversity essentially describes all living organisms and their env
   analysis project of the National Digital Stewardship Resident (NDSR) project led
   by the resident hosted at the Chicago Botanic Garden’s Lenhardt Library.'
 creators:
-- Esquivel, Alicia
+- Alicia Esquivel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931134/download
 grand_parent: iPRES

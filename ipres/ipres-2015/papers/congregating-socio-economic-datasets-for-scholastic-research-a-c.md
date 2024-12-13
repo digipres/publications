@@ -12,7 +12,7 @@ abstract: Digital curation initiatives with an intention to preserve the intelle
   technological obsolescence, dissemination expanded to the public, copyright issues
   have to be overcome.
 creators:
-- Patnaik, K. Rama
+- K. Rama Patnaik
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429596/download
 grand_parent: iPRES

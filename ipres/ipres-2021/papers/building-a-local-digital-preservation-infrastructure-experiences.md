@@ -10,10 +10,10 @@ abstract: 'As cultural heritage organizations seek solutions, open source, commu
 
   '
 creators:
-- Rieger, Oya Y.
-- Boock, Michael
-- McCormack, Lindsay
-- Ruest, Nick
+- Oya Y. Rieger
+- Michael Boock
+- Lindsay McCormack
+- Nick Ruest
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424893/download
 grand_parent: iPRES

@@ -55,11 +55,11 @@ abstract: 'Digital preservation is difficult. The technical difficulties
 
   can be tackled.'
 creators:
-- Beruti, Vincenzo
-- Giaretta, David
-- Conway, Esther
-- Forcada, M.Eugenia
-- Albani, Mirko
+- Vincenzo Beruti
+- David Giaretta
+- Esther Conway
+- M.Eugenia Forcada
+- Mirko Albani
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185334/download
 grand_parent: iPRES

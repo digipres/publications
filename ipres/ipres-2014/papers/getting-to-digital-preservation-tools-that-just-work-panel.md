@@ -5,13 +5,13 @@ abstract: 'In this paper, we describe a panel that discussed experiences, strate
   with the audience, explored the challenges and discussed potential solutions to
   developing more robust and sustainable support structures for these tools. '
 creators:
-- Goethals, Andrea
-- Wheatley, Paul
-- Abrams, Stephen
-- Delve, Janet
-- Fay, Ed
-- Lee, Christopher
-- von Suchodoletz, Dirk
+- Andrea Goethals
+- Paul Wheatley
+- Stephen Abrams
+- Janet Delve
+- Ed Fay
+- Christopher Lee
+- Dirk von Suchodoletz
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378131/download
 grand_parent: iPRES

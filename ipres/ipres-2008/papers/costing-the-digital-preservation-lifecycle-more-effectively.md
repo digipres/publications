@@ -15,7 +15,7 @@ abstract: Having confidence in the permanence of a digital resource requires a d
   and analogue lifecycles. The Case Studies were able to elicit useful results, although
   digital preservation lifecycle costing remains a complex and involved process.
 creators:
-- Wheatley, Paul
+- Paul Wheatley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294138/download
 grand_parent: iPRES

@@ -8,9 +8,9 @@ abstract: 'Developed in the context of the 2017- 2020 Swiss national programme â
   data straightforward, yet allows the qualification of the submitted formats so as
   to inform users of the risks incurred on the long term.'
 creators:
-- Echernier, Lydie
-- Cazeaux, Hugues
-- Burgi, Pierre-Yves
+- Lydie Echernier
+- Hugues Cazeaux
+- Pierre-Yves Burgi
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079749/download
 grand_parent: iPRES

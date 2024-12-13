@@ -31,7 +31,7 @@ abstract: 'The aim of the paper is to illustrate how the distributed aspects of 
   OO-IO model provides terminology and contribute to break down analysis and audit
   questions.'
 creators:
-- Zierau, Eld
+- Eld Zierau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931073/download
 grand_parent: iPRES

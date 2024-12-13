@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Fenton, Eileen
+- Eileen Fenton
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294477/download
 grand_parent: iPRES

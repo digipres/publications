@@ -4,7 +4,7 @@ abstract: This is a follow-up to the virtual DBs for 2080 workshop at Landesarch
   institutions of all kind to store the very diverse and voluminous database content
   the world creates in a trustworthy, secure, safe, and efficient way [1].
 creators:
-- Naumann, Kai
+- Kai Naumann
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/918bb4e92aa5416aa214af66a4f10d8d
 grand_parent: iPRES

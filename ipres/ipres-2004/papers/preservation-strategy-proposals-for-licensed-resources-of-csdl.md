@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Xiaolin, Zhang
-- Ling, Wan
+- Zhang Xiaolin
+- Wan Ling
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295010/download
 grand_parent: iPRES

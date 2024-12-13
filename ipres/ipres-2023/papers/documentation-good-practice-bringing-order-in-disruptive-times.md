@@ -14,7 +14,7 @@ abstract: In times of disruption we need to do the less interesting parts of our
   together community experiences to create a new good practice guide on digital preservation
   documentation.
 creators:
-- Mitcham, Jenny
+- Jenny Mitcham
 date: null
 document_url: https://www.ideals.illinois.edu/items/128323/bitstreams/429011/data.pdf
 grand_parent: iPRES

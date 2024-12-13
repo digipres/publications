@@ -13,8 +13,8 @@ abstract: 'The process of setting up a digital preservation repository in compli
   provide insights on how a national library is going digital, and what is needed
   to reach this longstanding goal.'
 creators:
-- Bermès, Emmanuelle
-- Faudet, Louise
+- Emmanuelle Bermès
+- Louise Faudet
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294008/download
 grand_parent: iPRES

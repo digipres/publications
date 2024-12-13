@@ -18,9 +18,9 @@ abstract: 'The Oxford Common File Layout (OCFL) initiative is an effort to defin
   layout. The OCFL initiative aims to produce draft specifications for trial use by
   Fall 2018.'
 creators:
-- Hankinson, Andrew
-- Wilcox , David
-- Warner, Simeon
+- Andrew Hankinson
+- David Wilcox
+- Simeon Warner
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923644/download
 grand_parent: iPRES

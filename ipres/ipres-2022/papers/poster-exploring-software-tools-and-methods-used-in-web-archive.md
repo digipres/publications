@@ -4,7 +4,7 @@ abstract: 'This paper is one part of a larger research project, titled, Web Arch
   the WARST study which examines the software, tools and methods used in the web archive
   research lifecycle. '
 creators:
-- Byrne, Helena
+- Helena Byrne
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/ab61c1f89daf45928d9518ed2a756df8
 grand_parent: iPRES

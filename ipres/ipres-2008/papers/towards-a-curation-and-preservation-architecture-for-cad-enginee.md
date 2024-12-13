@@ -26,9 +26,9 @@ abstract: 'For many decades, computer-aided design (CAD) packages have played an
   archival representations of model data, but also to facilitate better information
   flows between a design team and the rest of the extended enterprise.'
 creators:
-- Ball, Alexander
-- Ding, Lian
-- Patel, Manjula
+- Alexander Ball
+- Lian Ding
+- Manjula Patel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294109/download
 grand_parent: iPRES

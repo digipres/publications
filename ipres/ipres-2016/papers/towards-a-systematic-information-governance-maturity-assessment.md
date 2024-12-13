@@ -18,9 +18,9 @@ abstract: Information Governance as defined by Gartner is the “specification o
   model making it even more valuable for all types of organization that deal with
   information governance.
 creators:
-- Proença, Diogo
-- Borbinha, José
-- Vieira, Ricardo
+- Diogo Proença
+- José Borbinha
+- Ricardo Vieira
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503178/download
 grand_parent: iPRES

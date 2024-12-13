@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Beagrie, Neil
+- Neil Beagrie
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295000/download
 grand_parent: iPRES

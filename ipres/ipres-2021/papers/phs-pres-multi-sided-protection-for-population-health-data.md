@@ -5,10 +5,10 @@ abstract: 'This poster presents the challenges of population health data long-te
 
   '
 creators:
-- Yang, Chenliu
-- Hu, Jiahui
-- Fan, Yunman
-- Fang, An
+- Chenliu Yang
+- Jiahui Hu
+- Yunman Fan
+- An Fang
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424923/download
 grand_parent: iPRES

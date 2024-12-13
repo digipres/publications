@@ -8,13 +8,13 @@ abstract: This panel asks the question “how can collective action build global
   next steps that can move the field globally towards a shared articulation of digital
   preservation work in practice.
 creators:
-- Chassanoff, Alexandra
-- Erdman, Stacey
-- Farrell, Jess
-- Goethals, Andrea
-- McMeekin, Sharon
-- Narlock, Mikala
-- Wang, Hannah
+- Alexandra Chassanoff
+- Stacey Erdman
+- Jess Farrell
+- Andrea Goethals
+- Sharon McMeekin
+- Mikala Narlock
+- Hannah Wang
 date: null
 document_url: https://www.ideals.illinois.edu/items/128285/bitstreams/428935/data.pdf
 grand_parent: iPRES

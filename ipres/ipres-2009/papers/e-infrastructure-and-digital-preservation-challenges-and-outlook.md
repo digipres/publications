@@ -17,7 +17,7 @@ abstract: 'Undoubtedly, long-term preservation has raised a great deal of attent
   existing and ongoing practical experiences, the paper discusses reasons and strategic
   aspects which maybe can illuminate the prohibitive factors for the unassertive progress.'
 creators:
-- Altenhöner, Reinhard
+- Reinhard Altenhöner
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294005/download
 grand_parent: iPRES

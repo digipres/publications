@@ -9,10 +9,10 @@ abstract: This paper provides a practical example of digital archeology and fore
   was a full success, issues remain in filetype detection and interpretation of non-ASCII
   data files of unknown or unsupported types.
 creators:
-- von Suchodoletz, Dirk
-- Schneider, Richard
-- Cochrance, Euan
-- Schmidt, David
+- Dirk von Suchodoletz
+- Richard Schneider
+- Euan Cochrance
+- David Schmidt
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293839/download
 grand_parent: iPRES

@@ -9,7 +9,7 @@ abstract: The University of Minnesota Libraries journey with preserving digital 
   research requests.  This poster highlights the development process of Tabula, our
   digital preservation system.
 creators:
-- Kussmann, Carol
+- Carol Kussmann
 date: null
 document_url: https://www.ideals.illinois.edu/items/128272/bitstreams/428909/data.pdf
 grand_parent: iPRES

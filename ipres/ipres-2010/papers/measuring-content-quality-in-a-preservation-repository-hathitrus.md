@@ -51,7 +51,7 @@ abstract: 'As mechanisms emerge to certify the trustworthiness of
 
   repositories.'
 creators:
-- Conway, Paul
+- Paul Conway
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185379/download
 grand_parent: iPRES

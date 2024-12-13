@@ -33,7 +33,7 @@ abstract: 'PREservation Metadata: Implementation Strategies working group, or PR
   will discuss the work of PREMIS, the resulting reports and preservation metadata
   tools, as well as the ongoing PREMIS maintenance activities.'
 creators:
-- Dale, Robin L.
+- Robin L. Dale
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295043/download
 grand_parent: iPRES

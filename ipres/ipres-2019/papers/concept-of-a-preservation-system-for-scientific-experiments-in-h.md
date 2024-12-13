@@ -14,9 +14,9 @@ abstract: this poster presents a concept of a preservation system for computatio
   of the experiment without any legal issues. The prototype of such a system was developed,
   the poster provides a scheme of the system and the first experimental results.
 creators:
-- Wesner, Stefan
-- Kushnarenko, Volodymyr
-- Udod, Kyryll
+- Stefan Wesner
+- Volodymyr Kushnarenko
+- Kyryll Udod
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081755/download
 grand_parent: iPRES

@@ -6,7 +6,7 @@ abstract: Government’s use of the Web has required new approaches to Web resou
   on preserving the content of websites as well as utilizing the value of the Web
   as a network.
 creators:
-- Spencer, Amanda
+- Amanda Spencer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294105/download
 grand_parent: iPRES

@@ -12,12 +12,12 @@ abstract: The Planets project is developing a service-oriented environment for t
   programming model and show how it can be utilized in order to create complex preservation
   workflows.
 creators:
-- Schmidt, Rainer
-- Wilson, Carl
-- Jackson, Andrew
-- Melms, Peter
-- Steeg, Fabian
-- King, Ross
+- Rainer Schmidt
+- Carl Wilson
+- Andrew Jackson
+- Peter Melms
+- Fabian Steeg
+- Ross King
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294009/download
 grand_parent: iPRES

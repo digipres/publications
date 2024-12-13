@@ -16,8 +16,8 @@ abstract: 'Long-term preservation solutions become critical as an increasing amo
   specific migration tool. The evaluation metric is explained theoretically and demonstrated
   via case-studies performed for different application domains.'
 creators:
-- Rauber, Andreas
-- Rauch, Carl
+- Andreas Rauber
+- Carl Rauch
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295007/download
 grand_parent: iPRES

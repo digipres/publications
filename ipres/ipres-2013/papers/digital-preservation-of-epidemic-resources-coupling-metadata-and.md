@@ -12,10 +12,10 @@ abstract: The preservation of epidemiological information is challenging in seve
   such as its authors, is preserved and can be searched even in the absence of the
   data itself.
 creators:
-- D. Ferreira, João
-- Pesquita, Cátia
-- M. Couto, Francisco
-- J. Silva, Mário
+- João D. Ferreira
+- Cátia Pesquita
+- Francisco M. Couto
+- Mário J. Silva
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378034/download
 grand_parent: iPRES

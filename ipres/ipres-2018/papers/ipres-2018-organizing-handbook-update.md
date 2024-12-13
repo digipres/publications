@@ -2,7 +2,7 @@
 abstract: This is the iPres 2018 Organizing team's installment of the iPres Conference
   Organizing Handbook
 creators:
-- McGovern, Nance
+- Nance McGovern
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923680/download
 grand_parent: iPRES

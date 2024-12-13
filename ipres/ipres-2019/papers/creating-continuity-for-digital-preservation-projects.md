@@ -3,8 +3,8 @@ abstract: This poster abstract summarises how theDigitalPreservationatOxfordandC
   archived its research outputs, with the aim of extending the impact of digital preservation
   activities at the end of theproject.
 creators:
-- Mason, Sarah
-- Halvarsson, Edith
+- Sarah Mason
+- Edith Halvarsson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081741/download
 grand_parent: iPRES

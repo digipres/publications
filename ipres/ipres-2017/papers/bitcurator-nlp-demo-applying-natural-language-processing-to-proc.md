@@ -7,8 +7,8 @@ abstract: 'We will demonstrate products of the BitCurator NLP project, which is 
 
   '
 creators:
-- Lee, Christopher
-- Woods, Kam
+- Christopher Lee
+- Kam Woods
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931140/download
 grand_parent: iPRES

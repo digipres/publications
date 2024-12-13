@@ -7,11 +7,11 @@ abstract: Through four decades of digital initiatives and collecting programs th
   reports the results of this analysis and how these findings will inform the development
   of digital content management policy and practice at the institution.
 creators:
-- Owens, Trevor
-- Salas, Camille
-- Johnston, Jesse
-- DesRochers, Aly
-- Cooper, Mark
+- Trevor Owens
+- Camille Salas
+- Jesse Johnston
+- Aly DesRochers
+- Mark Cooper
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079779/download
 grand_parent: iPRES

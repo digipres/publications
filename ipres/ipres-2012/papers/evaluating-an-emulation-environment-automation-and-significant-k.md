@@ -19,8 +19,8 @@ abstract: 'Evaluating digital preservation actions performed on digital objects 
   provide possible corrections as well as generalized recommendations for developing
   emulators for digital preservation.'
 creators:
-- Guttenbrunner, Mark
-- Rauber, Andreas
+- Mark Guttenbrunner
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293842/download
 grand_parent: iPRES

@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Addis, Matthew
+- Matthew Addis
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1422934/download
 grand_parent: iPRES

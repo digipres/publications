@@ -5,9 +5,9 @@ abstract: This paper gives an overview of the design and purpose of a survey on 
   findings are summarized. At iPRES2011 findings of this survey will be presented
   to an international audience for the first time.
 creators:
-- Osswald, Achim
-- Strathmann, Stefan
-- Neuroth, Heike
+- Achim Osswald
+- Stefan Strathmann
+- Heike Neuroth
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294273/download
 grand_parent: iPRES

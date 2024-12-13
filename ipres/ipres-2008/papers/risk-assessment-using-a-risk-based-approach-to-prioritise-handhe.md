@@ -31,7 +31,7 @@ abstract: "The British Library (BL) Digital Library Programme (DLP) has a broad 
   procedures and other policy issues \nIn order to achieve this a number of organisational
   changes have had to be undertaken that will eventually become measurable benefits."
 creators:
-- McLeod, Rory
+- Rory McLeod
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294139/download
 grand_parent: iPRES

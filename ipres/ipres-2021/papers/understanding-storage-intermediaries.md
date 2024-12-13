@@ -8,8 +8,8 @@ abstract: 'Storage intermediaries are software, and sometimes hardware appliance
 
   '
 creators:
-- Hockx-Yu, Helen
-- Brower, Don
+- Helen Hockx-Yu
+- Don Brower
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424895/download
 grand_parent: iPRES

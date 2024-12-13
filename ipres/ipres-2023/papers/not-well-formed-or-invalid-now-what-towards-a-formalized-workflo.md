@@ -10,7 +10,7 @@ abstract: File format validation – we all use it and we all run into problems 
   largely neglected field of method formalization for file format validation error
   treatment.
 creators:
-- Lindlar, Micky
+- Micky Lindlar
 date: null
 document_url: https://www.ideals.illinois.edu/items/128296/bitstreams/428957/data.pdf
 grand_parent: iPRES

@@ -7,7 +7,7 @@ abstract: This paper provides a case study of a shared workflow to preserve the 
   is about people and to succeed requires the input of a range of perspectives and
   skillsets.
 creators:
-- Thomson, Sara Day
+- Sara Day Thomson
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/4675944b03cf46d69f1ef0e5d189719a
 grand_parent: iPRES

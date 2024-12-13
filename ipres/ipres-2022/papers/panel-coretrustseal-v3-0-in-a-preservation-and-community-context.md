@@ -6,7 +6,7 @@ abstract: The authors will present the CoreTrustSeal Requirements including chan
   and fed back into these active areas of assessment, community building and policy
   development.
 creators:
-- L'Hours, Hervé
+- Hervé L'Hours
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/8d01ce7faacc409584e96d079395595b
 grand_parent: iPRES

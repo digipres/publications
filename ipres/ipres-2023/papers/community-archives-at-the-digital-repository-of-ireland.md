@@ -18,8 +18,8 @@ abstract: The Community Archive Scheme is a bottom-up method of community engage
   we have developed, where our successes have come from and some of the future developments
   we are exploring so that we can continue to work with these groups.
 creators:
-- Griffith, Lisa
-- Long, Kevin
+- Lisa Griffith
+- Kevin Long
 date: null
 document_url: https://www.ideals.illinois.edu/items/128321/bitstreams/429007/data.pdf
 grand_parent: iPRES

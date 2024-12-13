@@ -7,7 +7,7 @@ abstract: 'Long term digital preservation can benefit from long term storage sol
   paper we discuss DNA data storage, outline the pilot project we have undertaken
   and discuss the technology and its potential future applications. '
 creators:
-- Cochrane, Euan
+- Euan Cochrane
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/8d419f8381504a94a6a607d475d4a57f
 grand_parent: iPRES

@@ -3,7 +3,7 @@ abstract: The Concept Model enables your archive to develop preservation plans f
   content types and file formats in a methodical and documented approach. A content
   type is a group of file formats used for the same purposes.
 creators:
-- Skødt, Asbjørn
+- Asbjørn Skødt
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/09fdb337b45e423b89863163f62f8378
 grand_parent: iPRES

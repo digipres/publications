@@ -41,7 +41,7 @@ abstract: 'This paper examines preservation planning as it is
 
   system in conjunction with Ex Libris Group.1'
 creators:
-- McKinney, Peter
+- Peter McKinney
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185503/download
 grand_parent: iPRES

@@ -18,7 +18,7 @@ abstract: 'While  the  rapid  improvement  in  computing  power  and digital  to
   forwardif these services can improve their user friendliness and  resolve the  version  compatibilityissues  that  create
   obstacles today.'
 creators:
-- Strong, Dena
+- Dena Strong
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931076/download
 grand_parent: iPRES

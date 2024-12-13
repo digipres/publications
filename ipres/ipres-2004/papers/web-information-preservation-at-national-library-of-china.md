@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Zhigeng, Wang
+- Wang Zhigeng
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295009/download
 grand_parent: iPRES

@@ -91,11 +91,11 @@ abstract: 'Technical Registries are used in digital preservation to enable
 
   maintenance of all of the information.'
 creators:
-- Braud, Maïté
-- Carr, James
-- Leroux, Kevin
-- Rogers, Joseph
-- Sharpe, Robert
+- Maïté Braud
+- James Carr
+- Kevin Leroux
+- Joseph Rogers
+- Robert Sharpe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378068/download
 grand_parent: iPRES

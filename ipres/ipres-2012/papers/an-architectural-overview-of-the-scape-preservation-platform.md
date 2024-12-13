@@ -8,7 +8,7 @@ abstract: Cloud and data-intensive computing technologies have introduced novel 
   the system and provide initial insights on employing an open-source cloud platform
   for its realization.
 creators:
-- Schmidt, Rainer
+- Rainer Schmidt
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293767/download
 grand_parent: iPRES

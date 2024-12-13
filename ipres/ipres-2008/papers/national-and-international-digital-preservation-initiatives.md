@@ -7,7 +7,7 @@ abstract: In accordance with the theme of iPres2008, this panel session will con
   general discussion involving panel and audience to address issues arising and to
   identify opportunities and challenges.
 creators:
-- Grindley, Neil
+- Neil Grindley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294185/download
 grand_parent: iPRES

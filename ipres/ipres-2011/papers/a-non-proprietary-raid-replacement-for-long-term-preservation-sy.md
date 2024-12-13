@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Goebert, Samuel
-- Sarti, Alain
+- Samuel Goebert
+- Alain Sarti
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294263/download
 grand_parent: iPRES

@@ -45,12 +45,12 @@ abstract: 'Given the growing need for cross-repository integration
 
   support them.'
 creators:
-- Pcolar, David
-- Marciano, Richard
-- Hou, Chien-Yi
-- Chassanoff, Alexandra
-- Davis, Daniel W.
-- Zhu, Bing
+- David Pcolar
+- Richard Marciano
+- Chien-Yi Hou
+- Alexandra Chassanoff
+- Daniel W. Davis
+- Bing Zhu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185507/download
 grand_parent: iPRES

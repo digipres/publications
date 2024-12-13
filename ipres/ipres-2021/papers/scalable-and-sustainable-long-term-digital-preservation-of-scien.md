@@ -17,7 +17,7 @@ abstract: 'Abstract: The European Commission supported ARCHIVER project (Archivi
 
   '
 creators:
-- Addis, Matthew
+- Matthew Addis
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424914/download
 grand_parent: iPRES

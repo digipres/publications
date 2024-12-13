@@ -13,9 +13,9 @@ abstract: 'Emulation evolves into a mature digital preservation strategy providi
   both a complete emulation environment and preservation of desired properties for
   later access are ensured.'
 creators:
-- Rechert, Klaus
-- von Suchodoletz, Dirk
-- Valizada, Isgandar
+- Klaus Rechert
+- Dirk von Suchodoletz
+- Isgandar Valizada
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293838/download
 grand_parent: iPRES

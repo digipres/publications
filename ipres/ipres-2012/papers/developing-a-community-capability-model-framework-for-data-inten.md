@@ -27,10 +27,10 @@ abstract: 'Researchers across a range of fields have been inspired by the
 
   current version of the CCMF.'
 creators:
-- Lyon, Liz
-- Ball, Alexander
-- Duke, Monica
-- Day, Michael
+- Liz Lyon
+- Alexander Ball
+- Monica Duke
+- Michael Day
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293003/download
 grand_parent: iPRES

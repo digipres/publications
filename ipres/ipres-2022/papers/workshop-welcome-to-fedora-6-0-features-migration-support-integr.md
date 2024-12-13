@@ -11,7 +11,7 @@ abstract: In July, 2021, the long-awaited Fedora 6.0 was released. This workshop
   hands-on sections will need to access an online sandbox via a URL which will be
   provided ahead of the workshop.
 creators:
-- Griffith, Arran
+- Arran Griffith
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/73446220d6af43439a52abcd48897f39
 grand_parent: iPRES

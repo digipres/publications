@@ -6,9 +6,9 @@ abstract: 'This paper describes the poster presented at iPres2014 by the EC fund
 
   '
 creators:
-- Billenness, Clive
-- Johansen, Kathrine
-- Anderson, David
+- Clive Billenness
+- Kathrine Johansen
+- David Anderson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378694/download
 grand_parent: iPRES

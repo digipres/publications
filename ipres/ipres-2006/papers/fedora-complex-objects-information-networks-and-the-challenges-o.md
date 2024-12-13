@@ -18,7 +18,7 @@ abstract: We are at a point where the scope, definition, and uses of digital lib
   middleware to facilitate alerting of preservation-noteworthy events and the development
   of services to respond to such events.
 creators:
-- Payette , Sandy
+- Sandy Payette
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294552/download
 grand_parent: iPRES

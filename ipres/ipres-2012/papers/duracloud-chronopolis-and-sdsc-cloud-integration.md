@@ -4,11 +4,11 @@ abstract: 'In this paper we describe the interaction of three different systems:
   the San Diego Computer Center’s cloud service. This interaction is targeted to developing
   a new storage and preservation service available to a wide range of users'
 creators:
-- Woods, Andrew
-- Burek, Michael
-- Branan, Bill
-- Minor, David
-- Sutton, Don
+- Andrew Woods
+- Michael Burek
+- Bill Branan
+- David Minor
+- Don Sutton
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294081/download
 grand_parent: iPRES

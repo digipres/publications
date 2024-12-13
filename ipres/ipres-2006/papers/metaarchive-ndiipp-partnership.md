@@ -26,8 +26,8 @@ abstract: 'The MetaArchive of Southern Digital Culture will discuss the first tw
   preservation software tools capable of integrating with our current LOCKSS-based
   network.'
 creators:
-- McDonald, Robert H.
-- Walters, Tyler
+- Robert H. McDonald
+- Tyler Walters
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294556/download
 grand_parent: iPRES

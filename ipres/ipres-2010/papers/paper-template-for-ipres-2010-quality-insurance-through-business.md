@@ -53,8 +53,8 @@ abstract: 'This paper outlines the recent initiative run at CINES,
 
   future ISO 16363 certification.'
 creators:
-- MASSOL, Marion
-- ROUCHON, Olivier
+- Marion MASSOL
+- Olivier ROUCHON
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185502/download
 grand_parent: iPRES

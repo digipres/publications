@@ -61,7 +61,7 @@ abstract: 'While the Open Archive Information System (OAIS) model has become the
   the most viable long term option with open access and community based development
   and support.'
 creators:
-- Rajecki, Keith
+- Keith Rajecki
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294149/download
 grand_parent: iPRES

@@ -24,7 +24,7 @@ abstract: '    The Florida Digital Archive (FDA) is a digital preservation repos
   the underlying DAITSS application, which is targeted for release as Open Source
   Software in 2006.'
 creators:
-- Caplan, Priscilla
+- Priscilla Caplan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294553/download
 grand_parent: iPRES

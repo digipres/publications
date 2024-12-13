@@ -7,11 +7,11 @@ abstract: This paper describes an approach and a prototype system to make use of
   in the blockchain serves as a proof of evidence regarding the existence and integrity
   of digital information objects.
 creators:
-- Schlarb, Sven
-- Karl, Roman
-- Vos, Victor-Jan
-- Keijzer, Carlijn
-- Sanchez Royo, Begoña
+- Sven Schlarb
+- Roman Karl
+- Victor-Jan Vos
+- Carlijn Keijzer
+- Begoña Sanchez Royo
 date: null
 document_url: https://www.ideals.illinois.edu/items/128318/bitstreams/429001/data.pdf
 grand_parent: iPRES

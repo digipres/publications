@@ -24,9 +24,9 @@ abstract: 'Many memory institutions hold large collections of hand-held
   migration workflow and have stabilized over 16 terabytes of data in a scalable and
   economical manner.'
 creators:
-- Dappert, Angela
-- Kimura, Akiko
-- Jackson, Andrew
+- Angela Dappert
+- Akiko Kimura
+- Andrew Jackson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294206/download
 grand_parent: iPRES

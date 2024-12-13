@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Neuroth, Heike
+- Heike Neuroth
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295022/download
 grand_parent: iPRES

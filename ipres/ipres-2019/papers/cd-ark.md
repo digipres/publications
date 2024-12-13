@@ -7,7 +7,7 @@ abstract: A valuable and unique part of library collections, certain types of op
   alongside with a checksums, as well as technical and bibliographic metadata; the
   whole package is uploaded onto a joint server, ensuring bit-level preservation.
 creators:
-- Hruška, Zdeněk
+- Zdeněk Hruška
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081729/download
 grand_parent: iPRES

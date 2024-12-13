@@ -12,8 +12,8 @@ abstract: 'Abstract – this paper briefly describes the establishment of a digi
 
   '
 creators:
-- Schilling, Almut
-- Butze-Rios, Franziska Butze-Rios
+- Almut Schilling
+- Franziska Butze-Rios Butze-Rios
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424948/download
 grand_parent: iPRES

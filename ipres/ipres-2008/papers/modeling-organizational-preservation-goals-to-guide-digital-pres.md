@@ -17,8 +17,8 @@ abstract: Digital preservation activities can only succeed if they go beyond the
   a conceptual framework, the model and vocabulary support automated preservation
   planning tools through an XML representation.
 creators:
-- Dappert, Angela
-- Farquhar, Adam
+- Angela Dappert
+- Adam Farquhar
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294097/download
 grand_parent: iPRES

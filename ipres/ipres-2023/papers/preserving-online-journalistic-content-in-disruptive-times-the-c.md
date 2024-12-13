@@ -11,7 +11,7 @@ abstract: Journalistic content is a crucial part of history, yet its longevity a
   suggestions to the digital preservation field for supporting these community initiatives
   in authoritarian regimes will be given.
 creators:
-- Lui, Lok Hei
+- Lok Hei Lui
 date: null
 document_url: https://www.ideals.illinois.edu/items/128306/bitstreams/428977/data.pdf
 grand_parent: iPRES

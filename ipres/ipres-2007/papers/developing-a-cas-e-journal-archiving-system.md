@@ -1,11 +1,11 @@
 ---
 abstract: null
 creators:
-- Zhixiong, Zhang
-- Jianhua, Liu
-- Qi, Zhao
-- Wenli, Guo
-- Zhenxin, Wu
+- Zhang Zhixiong
+- Liu Jianhua
+- Zhao Qi
+- Guo Wenli
+- Wu Zhenxin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294479/download
 grand_parent: iPRES

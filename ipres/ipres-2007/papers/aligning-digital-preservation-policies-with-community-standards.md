@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- McGovern, Nancy Yvonne
+- Nancy Yvonne McGovern
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294526/download
 grand_parent: iPRES

@@ -10,9 +10,9 @@ abstract: The electronic collections of today's libraries, museums and archives 
   In this case study, options for future reading room systems like stateless Linux
   workstations are evaluated and prototypical implementations are demonstrated.
 creators:
-- Schmelzer, Sebastian
-- Rechert, Klaus
-- von Suchodoletz, Dirk
+- Sebastian Schmelzer
+- Klaus Rechert
+- Dirk von Suchodoletz
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294259/download
 grand_parent: iPRES

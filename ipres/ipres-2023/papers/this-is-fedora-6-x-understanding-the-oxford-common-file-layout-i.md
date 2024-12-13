@@ -16,8 +16,8 @@ abstract: 'Fedora 6.x is the newest, most modern version of the software, repres
   with the software, understand it’s preservation features and become familiar with
   the recently developed tools for migrating from Fedora 3.x to 6.x.'
 creators:
-- Griffith, Arran
-- Field, Dan
+- Arran Griffith
+- Dan Field
 date: null
 document_url: https://www.ideals.illinois.edu/items/128263/bitstreams/428891/data.pdf
 grand_parent: iPRES

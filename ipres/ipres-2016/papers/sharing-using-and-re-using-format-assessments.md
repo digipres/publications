@@ -13,12 +13,12 @@ abstract: Many cultural heritage institutions with digital collections have perf
   possibilities for more effectively sharing these resources across institutions for
   the benefit of the digital preservation community.
 creators:
-- Goethals, Andrea
-- Wheatley, Paul
-- Gattuso, Jay
-- De Vorsey, Kevin L.
-- Day, Michael
-- Murray, Kate
+- Andrea Goethals
+- Paul Wheatley
+- Jay Gattuso
+- Kevin L. De Vorsey
+- Michael Day
+- Kate Murray
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502820/download
 grand_parent: iPRES

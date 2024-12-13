@@ -10,7 +10,7 @@ abstract: 'As a deposit library, the National Library of the Netherlands (KB) wa
   without depending on current platforms or formats. Together with IBM, we developed
   a first working UVC, which will be demonstrated.'
 creators:
-- van Wijngaarden, Hilde
+- Hilde van Wijngaarden
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294996/download
 grand_parent: iPRES

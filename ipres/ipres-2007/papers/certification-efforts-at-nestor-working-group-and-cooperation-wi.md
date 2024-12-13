@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Keitel, Christian
+- Christian Keitel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294503/download
 grand_parent: iPRES

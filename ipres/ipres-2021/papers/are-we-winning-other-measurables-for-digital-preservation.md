@@ -11,7 +11,7 @@ abstract: 'This short paper reflects on the past 25 years of the Archaeology Dat
 
   '
 creators:
-- Evans, Tim
+- Tim Evans
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424951/download
 grand_parent: iPRES

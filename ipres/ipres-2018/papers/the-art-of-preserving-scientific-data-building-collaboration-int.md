@@ -9,10 +9,10 @@ abstract: Scientists collect, generate, and analyze data in a variety of forms. 
   medicine domain that leverages archival, digital preservation, and data curation
   expertise and resources.
 creators:
-- Anderson,  Bethany
-- Braxton, Susan
-- Imker, Heidi
-- Popp, Tracy
+- Bethany Anderson
+- Susan Braxton
+- Heidi Imker
+- Tracy Popp
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923641/download
 grand_parent: iPRES

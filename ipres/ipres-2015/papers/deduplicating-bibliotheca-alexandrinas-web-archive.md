@@ -12,8 +12,8 @@ abstract: 'Archiving web content is bound to produce datasets with duplication, 
 
   web content.'
 creators:
-- Eldakar, Youssef
-- Nagi, Magdy
+- Youssef Eldakar
+- Magdy Nagi
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429548/download
 grand_parent: iPRES

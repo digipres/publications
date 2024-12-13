@@ -21,8 +21,8 @@ abstract: 'Digital business records are more at risk now than ever
 
   firms.'
 creators:
-- Kirsch, David A.
-- Meister, Sam
+- David A. Kirsch
+- Sam Meister
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245908/download
 grand_parent: iPRES

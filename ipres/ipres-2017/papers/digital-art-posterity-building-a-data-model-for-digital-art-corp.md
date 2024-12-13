@@ -16,12 +16,12 @@ abstract: 'The research project “Digital art and posterity”, February 2015- 
   so that all institutions involved in the collection, preservation and diffusion
   of digital art can provide input regarding its pertinence and interoperability.'
 creators:
-- Aziosmanoff, Florent
-- Chen, Chu-Yin
-- Fauduet, Louise
-- N'Diaye, Nola
-- Sicre, Adèle
-- Thomas, Céline
+- Florent Aziosmanoff
+- Chu-Yin Chen
+- Louise Fauduet
+- Nola N'Diaye
+- Adèle Sicre
+- Céline Thomas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931069/download
 grand_parent: iPRES

@@ -18,7 +18,7 @@ abstract: "\"One of the greatest challenge for any archive is the multiplicity o
   holdings format profile and the identification of risk assumptions that lead to
   the development of a format risk analysis and preservation prioritization instrument.\""
 creators:
-- Johnston, Leslie
+- Leslie Johnston
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923623/download
 grand_parent: iPRES

@@ -14,9 +14,9 @@ abstract: Video games, as an evolving medium, present specific challenges to pre
   of the game by collecting relevant artifacts and documentation, and explain why
   implementing these approaches could be challenging for ARGs.
 creators:
-- Lee, Jin Ha
-- Keating, Stephen
-- Windleharth, Travis
+- Jin Ha Lee
+- Stephen Keating
+- Travis Windleharth
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931107/download
 grand_parent: iPRES

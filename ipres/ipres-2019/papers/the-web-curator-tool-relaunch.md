@@ -9,8 +9,8 @@ abstract: This poster will highlight new features of the Web Curator Tool (WCT),
   well as highlighting the latest developments the poster outlines the roadmap and
   community building planned for the WCT in the coming years.
 creators:
-- O’Brien, Ben
-- van der Hoeven, Jeffrey
+- Ben O’Brien
+- Jeffrey van der Hoeven
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079788/download
 grand_parent: iPRES

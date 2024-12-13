@@ -12,7 +12,7 @@ abstract: In 2017 Het Nieuwe Instituut (HNI) – Dutch agency for architecture, 
   starting process of its translation into the implementation of a digital archive
   at HNI.
 creators:
-- Molenda, Ania
+- Ania Molenda
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923646/download
 grand_parent: iPRES

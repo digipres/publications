@@ -11,8 +11,8 @@ abstract: Building sustainable quality assurance practices is a challenge for to
   staff and subject matter experts. The processes described are part of a novel workflow
   in the Library of Congress Web Archiving Program.
 creators:
-- Lyon, Meghan
-- Bicho, Grace
+- Meghan Lyon
+- Grace Bicho
 date: null
 document_url: https://www.ideals.illinois.edu/items/128325/bitstreams/429015/data.pdf
 grand_parent: iPRES

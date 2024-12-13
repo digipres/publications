@@ -5,7 +5,7 @@ abstract: Building capacity through collaboration is essential to drive successf
   an initiative aiming to increase collaborative opportunities for varied institutions
   and individuals.
 creators:
-- Weatherburn, Jaye
+- Jaye Weatherburn
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079910/download
 grand_parent: iPRES

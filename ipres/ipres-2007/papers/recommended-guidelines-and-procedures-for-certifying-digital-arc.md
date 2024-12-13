@@ -1,9 +1,9 @@
 ---
 abstract: null
 creators:
-- Zhenxin, Wu
-- Xiaolin, Zhang
-- Mei, Zhang
+- Wu Zhenxin
+- Zhang Xiaolin
+- Zhang Mei
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294501/download
 grand_parent: iPRES

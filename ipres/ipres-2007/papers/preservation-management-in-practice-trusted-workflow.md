@@ -1,9 +1,9 @@
 ---
 abstract: null
 creators:
-- Chunwang, Li
-- Zhenxin, Wu
-- Xiaolin, Zhang
+- Li Chunwang
+- Wu Zhenxin
+- Zhang Xiaolin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294525/download
 grand_parent: iPRES

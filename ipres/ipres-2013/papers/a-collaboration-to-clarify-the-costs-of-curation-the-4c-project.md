@@ -12,7 +12,7 @@ abstract: This poster will describe actions being taken in the context of the 4C
   call, and to summarily describe some of the outputs and objectives in a graphical
   and accessible format.
 creators:
-- Grindley, Neil
+- Neil Grindley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377370/download
 grand_parent: iPRES

@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- van Wijngaarden, Hilde
+- Hilde van Wijngaarden
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295020/download
 grand_parent: iPRES

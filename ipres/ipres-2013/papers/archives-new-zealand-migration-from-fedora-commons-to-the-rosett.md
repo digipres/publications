@@ -8,7 +8,7 @@ abstract: This paper discusses the New Zealand Government Digital Archive Progra
   conclude with an audit of the results and a description of the lessons learned during
   this process.
 creators:
-- Hutar, Jan
+- Jan Hutar
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377389/download
 grand_parent: iPRES

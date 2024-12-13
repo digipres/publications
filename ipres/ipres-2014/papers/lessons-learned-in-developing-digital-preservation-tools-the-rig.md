@@ -15,7 +15,7 @@ abstract: The digital preservation community has had a chequered history in deve
   JISC and EU ﬁmded digital preservation projects, such as PLANETS and SCAPE and more
   recently from agile hackathon and mashup events run by SPRUCE.
 creators:
-- Wheatley, Paul
+- Paul Wheatley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378698/download
 grand_parent: iPRES

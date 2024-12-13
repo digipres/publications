@@ -59,7 +59,7 @@ abstract: 'Never have so many people documented so much about
 
   Web 2.0 environment.'
 creators:
-- LeFurgy, William G.
+- William G. LeFurgy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245902/download
 grand_parent: iPRES

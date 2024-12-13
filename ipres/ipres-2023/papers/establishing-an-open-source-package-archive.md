@@ -73,8 +73,8 @@ abstract: "Many Linux-based operating systems use a package management system th
   it to raise awareness of the “archive” in order to ensure extensive use of it once
   it is available."
 creators:
-- Cochrane, Euan
-- Gieschke, Rafael
+- Euan Cochrane
+- Rafael Gieschke
 date: null
 document_url: https://www.ideals.illinois.edu/items/128268/bitstreams/428901/data.pdf
 grand_parent: iPRES

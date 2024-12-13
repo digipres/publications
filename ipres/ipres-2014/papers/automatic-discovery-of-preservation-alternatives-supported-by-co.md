@@ -20,10 +20,10 @@ abstract: Preservation Planning, which deals with selecting the most appropriate
   look beyond single files, but regard complete chains of executions as the objects
   to be preserved.
 creators:
-- Mayer, Rudolf
-- Binder, Johannes
-- Strodl, Stephan
-- Rauber, Andreas
+- Rudolf Mayer
+- Johannes Binder
+- Stephan Strodl
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378078/download
 grand_parent: iPRES

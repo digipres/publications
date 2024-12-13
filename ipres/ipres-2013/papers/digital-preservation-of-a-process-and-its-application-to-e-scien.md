@@ -12,11 +12,11 @@ abstract: 'The increase in computationally intensive science (called e-science) 
   and evaluating the performance thereof. The paper describes and applies the process
   steps of the three phases of the TIMBUS approach: plan, preserve and redeploy.'
 creators:
-- Strodl, Stephan
-- Mayer, Rudolf
-- Antunes, Gonçalo
-- Draws, Daniel
-- Rauber, Andreas
+- Stephan Strodl
+- Rudolf Mayer
+- Gonçalo Antunes
+- Daniel Draws
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378017/download
 grand_parent: iPRES

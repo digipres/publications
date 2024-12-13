@@ -17,8 +17,8 @@ abstract: This paper explores the purpose and development of best practice guide
   of an exchange format and creation/validation tools based on the PREMIS in METS
   guidelines.
 creators:
-- Guenther, Rebecca
-- Wolfe, Robert
+- Rebecca Guenther
+- Robert Wolfe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293897/download
 grand_parent: iPRES

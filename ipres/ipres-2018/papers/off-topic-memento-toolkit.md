@@ -23,9 +23,9 @@ abstract: 'Web archive collections are created with a particular purpose in mind
   to the best F1 score for each measure. We also provide an overview of potential
   future directions that the toolkit may take.'
 creators:
-- Jones, Shawn
-- Nelson, Michael
-- Weigle, Michele
+- Shawn Jones
+- Michael Nelson
+- Michele Weigle
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923618/download
 grand_parent: iPRES

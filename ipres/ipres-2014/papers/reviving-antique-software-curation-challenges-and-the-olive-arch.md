@@ -18,8 +18,8 @@ abstract: 'A growing percentage of the world''s intellectual output is in the fo
 
   '
 creators:
-- Ryan, Daniel
-- St. Clair, Gloriana
+- Daniel Ryan
+- Gloriana St. Clair
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378721/download
 grand_parent: iPRES

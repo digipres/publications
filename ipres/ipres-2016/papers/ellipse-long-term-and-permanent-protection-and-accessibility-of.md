@@ -12,9 +12,9 @@ abstract: 'Archiving of geodata historically focused on methods of keeping digit
   will report our findings and solutions as well as the obstacles we encountered during
   the course of Project Ellipse.'
 creators:
-- Ohnesorge, Krystyna W.
-- Mast, Alain
-- Marciani, Chiara
+- Krystyna W. Ohnesorge
+- Alain Mast
+- Chiara Marciani
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503167/download
 grand_parent: iPRES

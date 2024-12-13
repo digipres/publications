@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Neuroth, Heike
-- Strathmann, Stefan
+- Heike Neuroth
+- Stefan Strathmann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294496/download
 grand_parent: iPRES

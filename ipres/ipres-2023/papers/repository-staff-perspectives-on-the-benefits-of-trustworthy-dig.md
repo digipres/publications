@@ -8,7 +8,7 @@ abstract: This paper reports on the results from a qualitative study that asks w
   standards, but there were concerns about high costs, implementation problems, and
   lack of objective evaluation criteria.
 creators:
-- Frank, Rebecca D.
+- Rebecca D. Frank
 date: null
 document_url: https://www.ideals.illinois.edu/items/128290/bitstreams/428945/data.pdf
 grand_parent: iPRES

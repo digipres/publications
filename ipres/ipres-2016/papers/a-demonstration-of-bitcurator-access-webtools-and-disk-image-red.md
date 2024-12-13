@@ -7,8 +7,8 @@ abstract: 'BitCurator Access is developing open-source software that supports th
   which supports browser-based search and navigation over data from disk images, and
   a set of scripts to redact sensitive data from disk images.'
 creators:
-- Lee, Christopher A.
-- Woods, Kam
+- Christopher A. Lee
+- Kam Woods
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503186/download
 grand_parent: iPRES

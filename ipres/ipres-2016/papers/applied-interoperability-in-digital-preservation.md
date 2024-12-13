@@ -10,9 +10,9 @@ abstract: "This paper describes the interoperability solutions which have been d
   of the necessary specifications and tools, and it calls for preservation organizations
   to continue collaboration beyond the lifetime of the E-ARK project.\n"
 creators:
-- Aas, Kuldar
-- Delve, Janet
-- Wilson, Andrew
+- Kuldar Aas
+- Janet Delve
+- Andrew Wilson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503177/download
 grand_parent: iPRES

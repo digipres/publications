@@ -11,7 +11,7 @@ abstract: The Metadata Quality Benchmarks group of the Digital Library Federatio
   the creation of metadata benchmarks, enhancing the quality and overall impact of
   metadata in resource access and discovery.
 creators:
-- Tarver, Hannah
+- Hannah Tarver
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/17fa0d2e5b3e46899e5d0fe96cdf3880
 grand_parent: iPRES

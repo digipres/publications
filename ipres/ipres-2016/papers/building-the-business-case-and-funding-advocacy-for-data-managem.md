@@ -5,9 +5,9 @@ abstract: In this hands on workshop we will address the tools, models and proces
   and test the use of existing tools with real world institutional problems and potential
   future tools/services.
 creators:
-- Stokes, Paul
-- Beagrie, Neil
-- Kilbride, William
+- Paul Stokes
+- Neil Beagrie
+- William Kilbride
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502825/download
 grand_parent: iPRES

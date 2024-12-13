@@ -19,7 +19,7 @@ abstract: 'This paper describes the work of the Opportunities for Data Exchange 
   and what new skills they need to develop and how. The results clearly emphasised
   the importance of the development of the role of the library in digital curation.'
 creators:
-- Reilly, Susan K.
+- Susan K. Reilly
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293835/download
 grand_parent: iPRES

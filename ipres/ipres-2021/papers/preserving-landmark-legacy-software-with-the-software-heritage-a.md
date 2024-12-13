@@ -20,10 +20,10 @@ abstract: 'The source code of landmark software developed since the beginning of
 
   '
 creators:
-- Di Cosmo, Roberto
-- Montangero, Carlo
-- Scatena, Guido
-- Bussi, Laura
+- Roberto Di Cosmo
+- Carlo Montangero
+- Guido Scatena
+- Laura Bussi
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424833/download
 grand_parent: iPRES

@@ -18,9 +18,9 @@ abstract: In human memory, forgetting plays a crucial role for focusing on impor
   for managed forgetting, discuss the challenges as well as our first ideas for its
   introduction, and present a case study for its motivation.
 creators:
-- Kanhabua, Nattiya
-- Niederée, Claudia
-- Siberski, Wolf
+- Nattiya Kanhabua
+- Claudia Niederée
+- Wolf Siberski
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378092/download
 grand_parent: iPRES

@@ -10,11 +10,11 @@ abstract: The advance in technologies for publishing digital scholarship has out
   to help authors and publishers prioritize and plan their enhanced digital products
   for maximum preservability.
 creators:
-- Doerr, Susan
-- Van Dyck, Craig
-- Hanson, Karen
-- Millman, David
-- Wittenberg, Kate
+- Susan Doerr
+- Craig Van Dyck
+- Karen Hanson
+- David Millman
+- Kate Wittenberg
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079778/download
 grand_parent: iPRES

@@ -22,8 +22,8 @@ abstract: Establishing a comprehensive understanding of the effectiveness and tr
   the Digital Curation Centre within a selection of UK data centres and archives,
   including the Beazley Archive and the British Atmospheric Data Centre.
 creators:
-- Ross, Seamus
-- McHugh, Andrew
+- Seamus Ross
+- Andrew McHugh
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294550/download
 grand_parent: iPRES

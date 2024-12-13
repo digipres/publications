@@ -8,7 +8,7 @@ abstract: This poster will discuss the technical and conceptual challenges assoc
   and comment from others with relevant experience to share, so as to refine and improve
   our methodology going forward.
 creators:
-- Durno, John
+- John Durno
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080461/download
 grand_parent: iPRES

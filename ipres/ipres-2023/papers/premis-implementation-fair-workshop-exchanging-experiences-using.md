@@ -6,10 +6,10 @@ abstract: This workshop functions as a meeting ground for PREMIS practitioners, 
   projects and open questions that the digital preservation community has around preservation
   metadata.
 creators:
-- Lindlar, Micky
-- Bredenberg, Karin
-- Romkey, Sarah
-- Steeman, Marjolein
+- Micky Lindlar
+- Karin Bredenberg
+- Sarah Romkey
+- Marjolein Steeman
 date: null
 document_url: https://www.ideals.illinois.edu/items/128255/bitstreams/428875/data.pdf
 grand_parent: iPRES

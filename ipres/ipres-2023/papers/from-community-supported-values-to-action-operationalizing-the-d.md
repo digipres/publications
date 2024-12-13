@@ -14,10 +14,10 @@ abstract: Operating from a foundation of shared values, the community-supported 
   how they have enacted these values within their organizations, and other project
   findings.
 creators:
-- Wang, Hannah
-- Farrell, Jess
-- Mumma, Courtney
-- Schaefer, Sibyl
+- Hannah Wang
+- Jess Farrell
+- Courtney Mumma
+- Sibyl Schaefer
 date: null
 document_url: https://www.ideals.illinois.edu/items/128280/bitstreams/428925/data.pdf
 grand_parent: iPRES

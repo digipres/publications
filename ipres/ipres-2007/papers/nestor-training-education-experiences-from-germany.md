@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Oßwald, Achim
+- Achim Oßwald
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294523/download
 grand_parent: iPRES

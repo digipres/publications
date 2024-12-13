@@ -5,7 +5,7 @@ abstract: The development of a framework for preservation planning at the Britis
   that would be the focus of preservation plans. Work has recently commenced on developing
   a model of the Library’s collections to support this.
 creators:
-- Day, Michael
+- Michael Day
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/96df27e66ea1447e9abbb384eaf764cf
 grand_parent: iPRES

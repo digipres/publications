@@ -16,10 +16,10 @@ abstract: 'In partnership with Tessella, FamilySearch is developing an automated
   application. In short the scalability problem is really a system engineering problem
   and not necessarily an issue for digital preservation per se.'
 creators:
-- Pierson, Jason
-- Sharpe, Robert
-- Carr, James
-- Evans, Mark
+- Jason Pierson
+- Robert Sharpe
+- James Carr
+- Mark Evans
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294269/download
 grand_parent: iPRES

@@ -47,7 +47,7 @@ abstract: 'This paper summarizes work done in a PhD study on
 
   visual appearance'
 creators:
-- Nilsson, Jörgen
+- Jörgen Nilsson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185506/download
 grand_parent: iPRES

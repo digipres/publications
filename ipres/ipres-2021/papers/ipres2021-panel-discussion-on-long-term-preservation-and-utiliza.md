@@ -12,7 +12,7 @@ abstract: 'Dunhuang Mogao Grottoes, a world cultural heritage originally built i
 
   '
 creators:
-- Yu, Tianxiu
+- Tianxiu Yu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424894/download
 grand_parent: iPRES

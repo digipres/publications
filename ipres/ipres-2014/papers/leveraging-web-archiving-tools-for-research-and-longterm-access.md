@@ -3,7 +3,7 @@ abstract: "This workshop will introduce participants to web archiving concepts a
   challenges, including creating web archives and providing for access and research
   use. \n"
 creators:
-- Donovan, Lori
+- Lori Donovan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378689/download
 grand_parent: iPRES

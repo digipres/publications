@@ -4,7 +4,7 @@ abstract: In this tutorial participants will learn how to approach (i.e., read) 
   hand. This is useful when learning about, researching and experimenting with file
   formats as well as to create test or example files.
 creators:
-- Hoppenheit, Martin
+- Martin Hoppenheit
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/c9dcd5ceb524442093a221171f1401b2
 grand_parent: iPRES

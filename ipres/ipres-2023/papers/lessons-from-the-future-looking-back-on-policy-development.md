@@ -16,11 +16,11 @@ abstract: 'Policy is an important component of a successful digital preservation
   within broader policy education resources, including the DPC’s revised Digital Preservation
   Policy Toolkit [4].'
 creators:
-- England, Elizabeth
-- Gengenbach, Martin
-- McMeekin, Sharon
-- Mitcham, Jenny
-- O’Leary, Kieran
+- Elizabeth England
+- Martin Gengenbach
+- Sharon McMeekin
+- Jenny Mitcham
+- Kieran O’Leary
 date: null
 document_url: https://www.ideals.illinois.edu/items/128281/bitstreams/428927/data.pdf
 grand_parent: iPRES

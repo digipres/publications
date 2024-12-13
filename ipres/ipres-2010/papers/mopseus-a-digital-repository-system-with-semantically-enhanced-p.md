@@ -13,9 +13,9 @@ abstract: Repository platforms offer significant tools aiding institutions to pr
   ensures the validity of the transformation of the information stored in a Mopseus
   repository to semantically equivalent PREMIS metadata.
 creators:
-- Gavrilis, Dimitris
-- Angelis, Stavros
-- Papatheodorou, Christos
+- Dimitris Gavrilis
+- Stavros Angelis
+- Christos Papatheodorou
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185421/download
 grand_parent: iPRES

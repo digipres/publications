@@ -14,7 +14,7 @@ abstract: 'We present a case study of artist-led reconstruction of Internet art 
   art that can be achieved adopting Executable Archive framework for the management
   of software technologies.  '
 creators:
-- Milic-Frayling, Natasa
+- Natasa Milic-Frayling
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/d015805b7d0b4905915ce7369d17b51b
 grand_parent: iPRES

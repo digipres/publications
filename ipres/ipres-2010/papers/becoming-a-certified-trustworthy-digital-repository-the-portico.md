@@ -47,10 +47,10 @@ abstract: 'The scholarly community’s dependence on electronic
 
   audited and certified.'
 creators:
-- Kirchhoff, Amy
-- Morrissey, Sheila
-- Fenton, Eileen
-- Orphan, Stephanie
+- Amy Kirchhoff
+- Sheila Morrissey
+- Eileen Fenton
+- Stephanie Orphan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185497/download
 grand_parent: iPRES

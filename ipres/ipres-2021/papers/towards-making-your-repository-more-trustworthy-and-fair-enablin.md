@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Cepinskas, Linas  (Data Archiving and Networked Services
+- Linas  (Data Archiving and Networked Services Cepinskas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424721/download
 grand_parent: iPRES

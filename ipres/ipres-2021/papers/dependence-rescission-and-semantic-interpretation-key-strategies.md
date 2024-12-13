@@ -8,8 +8,8 @@ abstract: 'There are three states of archival objects and their corresponding ma
 
   '
 creators:
-- Yi, Qian
-- Linqing, Ma
+- Qian Yi
+- Ma Linqing
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424832/download
 grand_parent: iPRES

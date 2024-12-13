@@ -8,8 +8,8 @@ abstract: The open, independent, and international standards organization Intern
   paper reviews the status of this on-going development and thereby provides an overview
   of the challenges and intricacies of audiovisual specification development.
 creators:
-- Blewer, Ashley
-- Rice, Dave
+- Ashley Blewer
+- Dave Rice
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503184/download
 grand_parent: iPRES

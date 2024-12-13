@@ -7,7 +7,7 @@ abstract: Referencing resources on the web has become an integral part of our di
   that can easily be copied into manuscripts. Our goal with this extension is to provide
   a tool that helps authors contribute to the integrity of the scholarly record.
 creators:
-- Klein, Martin
+- Martin Klein
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/963af40d1b5e4f6db19bf72798e8be18
 grand_parent: iPRES

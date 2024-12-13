@@ -15,16 +15,16 @@ abstract: 'In this paper we introduce the work of the National and State
   of certainty that they do indeed have control of the content they are charged with
   preserving. '
 creators:
-- McKinney, Peter
-- Knight, Steve
-- Gattuso, Jay
-- Pearson, David
-- Coufal, Libor
-- DeVorsey, Kevin
-- Anderson, David
-- Delve, Janet
-- Spencer, Ross
-- Hutař, Jan
+- Peter McKinney
+- Steve Knight
+- Jay Gattuso
+- David Pearson
+- Libor Coufal
+- Kevin DeVorsey
+- David Anderson
+- Janet Delve
+- Ross Spencer
+- Jan Hutař
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378074/download
 grand_parent: iPRES

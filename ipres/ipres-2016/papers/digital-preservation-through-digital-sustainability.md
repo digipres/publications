@@ -10,8 +10,8 @@ abstract: The concept of digital sustainability introduces a holistic approach o
   the impact of both. We conclude by presenting the political agenda of the Swiss
   parliamentary group for digital sustainability.
 creators:
-- Stuermer, Matthias
-- Abu-Tayeh, Gabriel
+- Matthias Stuermer
+- Gabriel Abu-Tayeh
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503175/download
 grand_parent: iPRES

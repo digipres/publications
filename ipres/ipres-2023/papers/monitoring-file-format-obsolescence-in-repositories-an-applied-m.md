@@ -12,7 +12,7 @@ abstract: The Dutch Digital Heritage Network (DDHN) wants to improve the monitor
   paper will investigate the possibilities and shortcomings of this method and further
   research that is required.
 creators:
-- Alloing, Sam
+- Sam Alloing
 date: null
 document_url: https://www.ideals.illinois.edu/items/128320/bitstreams/429005/data.pdf
 grand_parent: iPRES

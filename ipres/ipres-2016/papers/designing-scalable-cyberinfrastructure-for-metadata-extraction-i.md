@@ -15,9 +15,9 @@ abstract: We present a model and testbed for a curation and preservation infrast
   a _le characterization utility called Siegfried, from development as an extractor,
   through to its use on archival data.
 creators:
-- Jansen, Gregory
-- Padhy, Smruti
-- Marciano, Richard
+- Gregory Jansen
+- Smruti Padhy
+- Richard Marciano
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502901/download
 grand_parent: iPRES

@@ -3,8 +3,8 @@ abstract: In this poster, we describe a proposed workflow that can be used by co
   institutions acquiring disk images to support the provisioning of access to the
   born-digital content therein.
 creators:
-- Sampson, Walker
-- Chassanoff, Alexandra
+- Walker Sampson
+- Alexandra Chassanoff
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429600/download
 grand_parent: iPRES

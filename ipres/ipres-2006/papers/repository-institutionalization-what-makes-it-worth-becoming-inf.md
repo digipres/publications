@@ -23,7 +23,7 @@ abstract: 'Since the advent of inexpensive or open-source institutional reposito
   securely enough in the balance to warrant commitment of funding for the provision
   of infrastructure to the tasks of administering and delivering educational services.'
 creators:
-- Galloway, Patricia
+- Patricia Galloway
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294551/download
 grand_parent: iPRES

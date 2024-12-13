@@ -12,7 +12,7 @@ abstract: Fedora is an open source repository platform for managing and preservi
   introduces the OCFL and describes the proposed design for Fedora 6. 0, including
   the next steps for development and implementation.
 creators:
-- Wilcox, David
+- David Wilcox
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080496/download
 grand_parent: iPRES

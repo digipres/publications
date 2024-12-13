@@ -16,11 +16,11 @@ abstract: Today's scholarly works can be dynamic, distributed, and complex. They
   the maps of relationships found amongst these distributed works. The outcomes of
   the RMap project and its possible applications for preservation are described.
 creators:
-- Hanson, Karen L.
-- Donoghue, Mark
-- DiLauro, Tim
-- Birkland, Aaron
-- Morrissey, Sheila
+- Karen L. Hanson
+- Mark Donoghue
+- Tim DiLauro
+- Aaron Birkland
+- Sheila Morrissey
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503179/download
 grand_parent: iPRES

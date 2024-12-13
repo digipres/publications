@@ -15,7 +15,7 @@ abstract: Preserving information systems is one of the greatest challenges in di
   hand presents the results of a case study which was undertaken 2012 at AIT - Austrian
   Institute of Technology GmbH.
 creators:
-- Lindley, Andrew
+- Andrew Lindley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377400/download
 grand_parent: iPRES

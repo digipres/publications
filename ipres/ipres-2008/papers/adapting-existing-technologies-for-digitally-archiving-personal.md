@@ -8,7 +8,7 @@ abstract: The adoption of existing technologies for digital curation, most espec
   of the future to experience the original look and feel of personal digital objects.
   The importance of not relying on any single technology is also emphasised.
 creators:
-- John, Jeremy Leighton
+- Jeremy Leighton John
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294101/download
 grand_parent: iPRES

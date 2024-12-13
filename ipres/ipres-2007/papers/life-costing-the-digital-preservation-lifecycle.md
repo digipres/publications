@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Wheatley, Paul
+- Paul Wheatley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294494/download
 grand_parent: iPRES

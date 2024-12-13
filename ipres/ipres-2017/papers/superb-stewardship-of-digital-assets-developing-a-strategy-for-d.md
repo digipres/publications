@@ -7,7 +7,7 @@ abstract: This paper describes the effort to develop an institutional strategy f
   for archiving and preservation in policies, workflows and technologies across the
   entire organisation.
 creators:
-- Hockx-Yu, Helen
+- Helen Hockx-Yu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931071/download
 grand_parent: iPRES

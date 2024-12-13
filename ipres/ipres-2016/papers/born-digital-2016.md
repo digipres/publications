@@ -9,7 +9,7 @@ abstract: 'This poster describes the development and delivery of a weeklong nati
   material, rather than on the concept of loss which so often underpins arguments
   about why digital preservation is important.'
 creators:
-- Slade, Sarah
+- Sarah Slade
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503161/download
 grand_parent: iPRES

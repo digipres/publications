@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- van der Werf, Bram
+- Bram van der Werf
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294277/download
 grand_parent: iPRES

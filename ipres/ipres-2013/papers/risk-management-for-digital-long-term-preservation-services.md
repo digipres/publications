@@ -7,8 +7,8 @@ abstract: This article presents an ingest level system which has been developed 
   Initial practical experience is reported upon, demonstrating that a significant
   step has been taken towards ensuring the long-term usability of digital materials.
 creators:
-- Hein, Stefan
-- Schmitt, Karlheinz
+- Stefan Hein
+- Karlheinz Schmitt
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378059/download
 grand_parent: iPRES

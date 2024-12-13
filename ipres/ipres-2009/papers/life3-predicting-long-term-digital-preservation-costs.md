@@ -11,8 +11,8 @@ abstract: This paper will provide an overview of developments from the two phase
   preservation activity as well as to enhance their collection management decision
   making.
 creators:
-- Wheatley, Paul
-- Hole, Brian
+- Paul Wheatley
+- Brian Hole
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294022/download
 grand_parent: iPRES

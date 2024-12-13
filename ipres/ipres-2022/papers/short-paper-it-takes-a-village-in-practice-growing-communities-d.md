@@ -12,7 +12,7 @@ abstract: What does it take to ensure open-source software (OSS) programs servin
   as the project team worked to grow and build the ITAV community and resource during
   the pandemic.
 creators:
-- Arp, Laurie
+- Laurie Arp
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/f1656ff12e6f4146a4e4a94a72459056
 grand_parent: iPRES

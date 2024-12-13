@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Day, Michael
+- Michael Day
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295019/download
 grand_parent: iPRES

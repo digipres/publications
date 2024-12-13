@@ -19,7 +19,7 @@ abstract: 'Effective digital preservation requires the proper characterization o
   registries, and will conclude with two cases studies of preservation-driven format
   migrations.'
 creators:
-- Abrams, Stephen L.
+- Stephen L. Abrams
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295042/download
 grand_parent: iPRES

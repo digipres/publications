@@ -16,8 +16,8 @@ abstract: 'Digital objects are often more complex than their common perception a
   the potential for automating steps in the workflow and conclude by addressing some
   of the possible issues with this approach.'
 creators:
-- von Suchodoletz, Dirk
-- Cochrane, Euan
+- Dirk von Suchodoletz
+- Euan Cochrane
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294228/download
 grand_parent: iPRES

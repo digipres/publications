@@ -2,14 +2,14 @@
 abstract: This paper provides a high-level view of the changes proposed in the OAIS
   Reference Model.
 creators:
-- Engel, Felix
-- Hemmje, Matthias
-- Hughes, J Steven
-- Longstreth, Terry
-- Zierau, Eld
-- Conrad, Mark
-- Garrett, John
-- Giaretta, David
+- Felix Engel
+- Matthias Hemmje
+- J Steven Hughes
+- Terry Longstreth
+- Eld Zierau
+- Mark Conrad
+- John Garrett
+- David Giaretta
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079787/download
 grand_parent: iPRES

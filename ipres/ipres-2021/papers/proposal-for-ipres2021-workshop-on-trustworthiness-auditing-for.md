@@ -16,8 +16,8 @@ abstract: 'Digital preservation (DP) service can be provided at various levels a
 
   '
 creators:
-- Zhang, Xl
-- Tong, Yh
+- Xl Zhang
+- Yh Tong
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424935/download
 grand_parent: iPRES

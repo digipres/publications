@@ -4,8 +4,8 @@ abstract: In this article, we revisit concepts introduced within the digital pre
   Preservation Metadata Implementation Strategy (PREMIS), to examine their continued
   applicability to the preservation of dynamic web content such as weblogs.
 creators:
-- Kim, Yunhyong
-- Ross, Seamus
+- Yunhyong Kim
+- Seamus Ross
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294267/download
 grand_parent: iPRES

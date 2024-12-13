@@ -11,8 +11,8 @@ abstract: Research has been studied to evaluate the reliability of storage media
   models can be calculated so that preservation institutions can have quantitative
   data to decide their preservation strategies.
 creators:
-- Han, Yan
-- Chan, Chi Pak
+- Yan Han
+- Chi Pak Chan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294180/download
 grand_parent: iPRES

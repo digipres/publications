@@ -9,9 +9,9 @@ abstract: Software underpins the academic research process, regardless of discip
   software, makes some recommendations for good practice, and discusses the relationship
   between identifying source code and a playable version of this software.
 creators:
-- Jones, Catherine
-- Matthews, Brian
-- Gent, Ian
+- Catherine Jones
+- Brian Matthews
+- Ian Gent
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429590/download
 grand_parent: iPRES

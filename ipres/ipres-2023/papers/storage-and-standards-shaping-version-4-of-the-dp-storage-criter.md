@@ -14,11 +14,11 @@ abstract: "The Digital Preservation Storage Criteria (“Criteria”) are design
   and feedback to the Criteria working group on draft version 4 before it is published
   after the conference."
 creators:
-- Goethals, Andrea
-- Wu, Cynthia
-- Zierau, Eld
-- Schaefer, Sibyl
-- McGovern, Nancy
+- Andrea Goethals
+- Cynthia Wu
+- Eld Zierau
+- Sibyl Schaefer
+- Nancy McGovern
 date: null
 document_url: https://www.ideals.illinois.edu/items/128258/bitstreams/428881/data.pdf
 grand_parent: iPRES

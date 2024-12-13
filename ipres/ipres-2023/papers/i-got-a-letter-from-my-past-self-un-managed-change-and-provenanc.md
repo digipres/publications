@@ -6,9 +6,9 @@ abstract: 'Significant properties (sigProps) research often focuses on the prese
   are about what ideally should not change over time. This paper centers temporality
   in relation to sigProps to explore challenging case studies.'
 creators:
-- Bettivia, Rhiannon
-- Cheng, Yi-Yun
-- Gryk, Michael R.
+- Rhiannon Bettivia
+- Yi-Yun Cheng
+- Michael R. Gryk
 date: null
 document_url: https://www.ideals.illinois.edu/items/128329/bitstreams/429023/data.pdf
 grand_parent: iPRES

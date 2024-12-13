@@ -10,9 +10,9 @@ abstract: The TIPR Project (Towards Interoperable Preservation Repositories) run
   inter-repository transfer. Finally it outlines information required in an inter-repository
   service agreement.
 creators:
-- Caplan, Priscilla
-- Pawletko, Joseph
-- Kehoe, William
+- Priscilla Caplan
+- Joseph Pawletko
+- William Kehoe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245903/download
 grand_parent: iPRES

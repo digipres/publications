@@ -11,9 +11,9 @@ abstract: Digital preservation is about memory and giving easy access to it. If 
   integrity and authenticity. The rules were implemented in a case study which involved
   a human resources information system.
 creators:
-- Rahman, Arif Ur
-- Ribeiro, Cristina
-- David, Gabriel
+- Arif Ur Rahman
+- Cristina Ribeiro
+- Gabriel David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294268/download
 grand_parent: iPRES

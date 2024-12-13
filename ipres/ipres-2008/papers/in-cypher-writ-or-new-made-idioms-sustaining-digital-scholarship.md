@@ -15,7 +15,7 @@ abstract: Digital Scholarship is a method of scholarly communication, research, 
   taking place at the University of Virginia and provides some outlines and strategies
   for approaching such a complex problem set.
 creators:
-- Daigle, Bradley J.
+- Bradley J. Daigle
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294100/download
 grand_parent: iPRES

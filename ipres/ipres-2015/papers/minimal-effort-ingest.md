@@ -2,9 +2,9 @@
 abstract: In this poster we present the concept of Minimal Effort Ingest into a digital
   repository and discuss benefits and disadvantages of this approach.
 creators:
-- Jurik, Bolette Ammitzbøll
-- Blekinge, Asger Askov
-- Christiansen, Kåre Fiedler
+- Bolette Ammitzbøll Jurik
+- Asger Askov Blekinge
+- Kåre Fiedler Christiansen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429591/download
 grand_parent: iPRES

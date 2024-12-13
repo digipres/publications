@@ -20,8 +20,8 @@ abstract: 'Preserving software is widely recognized as a far more complex task t
   the emulated environment and the host environment enforces implicit migration of
   the data to become usable.'
 creators:
-- Guttenbrunner, Mark
-- Rauber, Andreas
+- Mark Guttenbrunner
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294242/download
 grand_parent: iPRES

@@ -8,7 +8,7 @@ abstract: DNA data storage is on the cusp of becoming an economical technology w
   into a storage strategy, and debate what needs to happen to transform the potential
   into a viable product for this community.
 creators:
-- Wheatley, Paul
+- Paul Wheatley
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/2b93915ee6d44fdaaea241549c12f113
 grand_parent: iPRES

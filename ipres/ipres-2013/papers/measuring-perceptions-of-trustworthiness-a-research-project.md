@@ -12,7 +12,7 @@ abstract: 'The digital curation and preservation community has long acknowledged
   on trustworthiness using focus groups, and explore building, testing, and assessing
   an index to measure trustworthiness.'
 creators:
-- Ray Donaldson, Devan
+- Devan Ray Donaldson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378045/download
 grand_parent: iPRES

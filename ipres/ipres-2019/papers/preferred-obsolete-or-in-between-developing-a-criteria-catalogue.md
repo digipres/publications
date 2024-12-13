@@ -6,7 +6,7 @@ abstract: The born-digital audio-visual (AV) holdings of the German National Lib
   using view paths. The examined file formats are not preferred as preservation formats,
   but they are not obsolete either.
 creators:
-- Friedrich, Merle
+- Merle Friedrich
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079691/download
 grand_parent: iPRES

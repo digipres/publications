@@ -8,11 +8,11 @@ abstract: "Usually, the resulting digital preservation project is very different
   a digital preservation project from its theoretical conception to its real practical
   implementation."
 creators:
-- Caballos, Almudena
-- Knowles, Chris
-- Cawthorn, Kate
-- Guillermo Martinez, Antonio
-- Fuertes, Maria
+- Almudena Caballos
+- Chris Knowles
+- Kate Cawthorn
+- Antonio Guillermo Martinez
+- Maria Fuertes
 date: null
 document_url: https://www.ideals.illinois.edu/items/128278/bitstreams/428921/data.pdf
 grand_parent: iPRES

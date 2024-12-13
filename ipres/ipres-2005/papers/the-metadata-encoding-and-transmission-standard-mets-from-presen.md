@@ -36,7 +36,7 @@ abstract: 'As a result of different solutions to describe documents, which had b
   is discussed to allow pointing into file-archives as tar and zip to e.g. attach
   metadata (and other associated objects) to embedded files. '
 creators:
-- Enders, Markus
+- Markus Enders
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295046/download
 grand_parent: iPRES

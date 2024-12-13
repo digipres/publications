@@ -9,7 +9,7 @@ abstract: In this paper I am discussing the repositioning of traditional conserv
   should be variable and digital object responsive, with a level of variability tolerance
   to match digital art intrinsic variability and dynamic authenticity.
 creators:
-- Innocenti, Perla
+- Perla Innocenti
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293683/download
 grand_parent: iPRES

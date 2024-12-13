@@ -14,8 +14,8 @@ abstract: Use of primary sources often focuses on identifying and tracking entit
   from such materials. The resulting services and methods can be used by LAM professionals
   and the users they serve.
 creators:
-- Lee, Christopher
-- Woods, Kam
+- Christopher Lee
+- Kam Woods
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931103/download
 grand_parent: iPRES

@@ -18,7 +18,7 @@ abstract: 'The role of the National Archives of Australia is to promote the crea
   the project should enable the Archives to sustainably harvest, preserve and provide
   access to digital records in the information age.'
 creators:
-- D'Arcy, Zoe
+- Zoe D'Arcy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429539/download
 grand_parent: iPRES

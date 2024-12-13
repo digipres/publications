@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Altenhöner, Reinhard
+- Reinhard Altenhöner
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294845/download
 grand_parent: iPRES

@@ -41,7 +41,7 @@ abstract: 'The British Library’s web archive comprises several
 
   and principles become applicable to web content as well.'
 creators:
-- Enders, Markus
+- Markus Enders
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185410/download
 grand_parent: iPRES

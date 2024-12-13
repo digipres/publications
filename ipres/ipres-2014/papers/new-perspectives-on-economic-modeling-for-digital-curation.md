@@ -62,9 +62,9 @@ abstract: 'Society is increasingly dependent on the availability of digital
 
   of curation.'
 creators:
-- Grindley, Neil
-- Kejser, Ulla
-- L’Hours, Hervé
+- Neil Grindley
+- Ulla Kejser
+- Hervé L’Hours
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378069/download
 grand_parent: iPRES

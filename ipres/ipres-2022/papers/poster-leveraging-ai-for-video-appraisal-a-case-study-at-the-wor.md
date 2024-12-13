@@ -8,7 +8,7 @@ abstract: 'The World Bank Group (WBG) Archives, in partnership with the WBG IT D
   are 85% accurate and the use of AVA has resulted in 1.5-person-day savings per month
   and in the reduction of manual mistakes. '
 creators:
-- Kramer-Smyth, Jeanne
+- Jeanne Kramer-Smyth
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/12ef957d03c5440399d13a364fa738a0
 grand_parent: iPRES

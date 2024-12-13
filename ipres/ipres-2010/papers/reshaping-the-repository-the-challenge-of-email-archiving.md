@@ -37,8 +37,8 @@ abstract: 'Because of the historical value of email in the late 20th
 
   Repository Service (DRS).'
 creators:
-- Goethals, Andrea
-- Gogel, Wendy
+- Andrea Goethals
+- Wendy Gogel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185428/download
 grand_parent: iPRES

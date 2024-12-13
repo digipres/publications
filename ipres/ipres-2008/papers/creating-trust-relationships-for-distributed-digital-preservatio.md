@@ -7,8 +7,8 @@ abstract: The authors outline a model for digital preservation federation based 
   provide key frameworks for understanding how trust can be enabled among federated
   but independent institutions.
 creators:
-- Walters, Tyler O.
-- McDonald, Robert H.
+- Tyler O. Walters
+- Robert H. McDonald
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294154/download
 grand_parent: iPRES

@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Steinke, Tobias
+- Tobias Steinke
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294513/download
 grand_parent: iPRES

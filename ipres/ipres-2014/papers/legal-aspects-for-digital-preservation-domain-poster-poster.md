@@ -23,10 +23,10 @@ abstract: Long term digital preservation serves the preservation of data substan
   legal perspectives and perform reasoning and inference over legal knowledge and
   information.
 creators:
-- Kolany-Raiser, Barbara
-- Bakhshandeh, Marzieh
-- Borbinha, José
-- Yankova, Silviya
+- Barbara Kolany-Raiser
+- Marzieh Bakhshandeh
+- José Borbinha
+- Silviya Yankova
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378716/download
 grand_parent: iPRES

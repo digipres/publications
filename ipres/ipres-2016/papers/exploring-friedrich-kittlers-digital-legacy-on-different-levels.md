@@ -18,8 +18,8 @@ abstract: 'Based on the example of Friedrich Kittler’s digital papers at the D
   knowledge of the collection context still play an important role and must work hand
   in hand with the new automation efforts.'
 creators:
-- Enge, Jürgen
-- Kramski, Heinz Werner
+- Jürgen Enge
+- Heinz Werner Kramski
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502853/download
 grand_parent: iPRES

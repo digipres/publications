@@ -12,9 +12,9 @@ abstract: The JHOVE characterization framework is widely used by international d
   is not a simple digital file, but a (potentially) complex digital object that may
   be instantiated in multiple files.
 creators:
-- Abrams, Stephen
-- Cramer, Tom
-- Morrissey, Sheila
+- Stephen Abrams
+- Tom Cramer
+- Sheila Morrissey
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294106/download
 grand_parent: iPRES

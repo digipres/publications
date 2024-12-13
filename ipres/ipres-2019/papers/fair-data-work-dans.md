@@ -13,9 +13,9 @@ abstract: 'Ever since the origin of the FAIR data guiding principles, various me
   guidelines for FAIR data management, and we lead the prominent Horizon 2020 FAIRsFAIR
   project in the context of the European Open Science Cloud.'
 creators:
-- Morselli, Francesca
-- Grootveld, Marjan
-- Doorn, Peter
+- Francesca Morselli
+- Marjan Grootveld
+- Peter Doorn
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081726/download
 grand_parent: iPRES

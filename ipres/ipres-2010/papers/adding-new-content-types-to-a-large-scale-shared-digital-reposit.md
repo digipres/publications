@@ -53,9 +53,9 @@ abstract: 'HathiTrust is a collaboration of universities working
 
   issues can be addressed.'
 creators:
-- Beers, Shane
-- York, Jeremy
-- Mardesich, Andrew
+- Shane Beers
+- Jeremy York
+- Andrew Mardesich
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185242/download
 grand_parent: iPRES

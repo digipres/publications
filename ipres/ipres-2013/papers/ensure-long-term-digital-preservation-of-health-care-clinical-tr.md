@@ -13,15 +13,15 @@ abstract: 'This paper presents the initial results of the ENSURE (Enabling kNowl
   presents one of the use cases: the health care as a way to illustrate some of the
   challenges addressed by the ENSURE system.'
 creators:
-- Braud, Maïte
-- Edelstein, Orit
-- Rauch, Jochen
-- Rabinovici-Cohen, Simona
-- Voets, David
-- Sanya, Isaac
-- Randers, Frode
-- Droppert, Aad
-- Klecha, Marcin
+- Maïte Braud
+- Orit Edelstein
+- Jochen Rauch
+- Simona Rabinovici-Cohen
+- David Voets
+- Isaac Sanya
+- Frode Randers
+- Aad Droppert
+- Marcin Klecha
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378037/download
 grand_parent: iPRES

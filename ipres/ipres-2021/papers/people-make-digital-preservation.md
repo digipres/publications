@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Middleton, Sarah
-- Kilbride, William
+- Sarah Middleton
+- William Kilbride
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424726/download
 grand_parent: iPRES

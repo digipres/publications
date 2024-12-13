@@ -18,7 +18,7 @@ abstract: "This paper focuses on strategies for preservation of metadata; one of
   created a digital preservation strategy to cope with these challenges, and discusses
   the background for choices made in this process."
 creators:
-- Zierau, Eld
+- Eld Zierau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079747/download
 grand_parent: iPRES

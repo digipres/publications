@@ -19,7 +19,7 @@ abstract: Rather than preservation and archiving being an afterthought for digit
   be preserved at scale. And Project JASPER works with small, independent OA journals
   to facilitate preservation.
 creators:
-- Barnes, Miranda
+- Miranda Barnes
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/c526c37b9e1e4a71a378c94612356914
 grand_parent: iPRES

@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Hockx-Yu, Helen
-- Farquhar, Adam
+- Helen Hockx-Yu
+- Adam Farquhar
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294463/download
 grand_parent: iPRES

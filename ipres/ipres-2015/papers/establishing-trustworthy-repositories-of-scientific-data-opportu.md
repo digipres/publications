@@ -21,10 +21,10 @@ abstract: Scientific progress often depends on the ability of the scientific com
   to the development of the scientific community and to the emergence of new areas
   of study.
 creators:
-- Downs, Robert
-- Duerr, Ruth
-- Donaldson, Devan Ray
-- Ramdeen, Sarah
+- Robert Downs
+- Ruth Duerr
+- Devan Ray Donaldson
+- Sarah Ramdeen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429584/download
 grand_parent: iPRES

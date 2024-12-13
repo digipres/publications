@@ -22,9 +22,9 @@ abstract: 'File format identification is a necessary step for the effective digi
 
   '
 creators:
-- Kuppili Venkata, Santhilata
-- Young, Paul
-- Green, Alex (The National Archives
+- Santhilata Kuppili Venkata
+- Paul Young
+- Alex (The National Archives Green
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424885/download
 grand_parent: iPRES

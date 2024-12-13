@@ -11,8 +11,8 @@ abstract: 'Databases preserved in archives contain highly valuable information t
 
   '
 creators:
-- Weise, Martin
-- Rauber, Andreas
+- Martin Weise
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424920/download
 grand_parent: iPRES

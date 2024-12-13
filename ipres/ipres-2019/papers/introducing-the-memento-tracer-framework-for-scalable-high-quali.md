@@ -10,8 +10,8 @@ abstract: Web archiving at scale and with high-quality is not a trivial endeavor
   with the satisfaction of having actively contributed to saving parts of the (scholarly)
   web.
 creators:
-- Van de Sompel, Herbert
-- Klein, Martin
+- Herbert Van de Sompel
+- Martin Klein
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081745/download
 grand_parent: iPRES

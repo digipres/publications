@@ -11,7 +11,7 @@ abstract: "This workshop provides high-level information on the features, develo
   identify common themes and build consensus on specific, actionable requests for
   PDF producer and processor developers in the short and medium term. \n"
 creators:
-- Johnson, Duff
+- Duff Johnson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378688/download
 grand_parent: iPRES

@@ -13,9 +13,9 @@ abstract: Since 2008, the End of Term Web Archive has been gathering snapshots o
   used, and introduces the WARC Metadata Sidecar, which presents a useful approach
   for creating and storing auxiliary metadata for web archives.
 creators:
-- Phillips, Mark E.
-- Phillips, Kristy K.
-- Alam, Sawood
+- Mark E. Phillips
+- Kristy K. Phillips
+- Sawood Alam
 date: null
 document_url: https://www.ideals.illinois.edu/items/128295/bitstreams/428955/data.pdf
 grand_parent: iPRES

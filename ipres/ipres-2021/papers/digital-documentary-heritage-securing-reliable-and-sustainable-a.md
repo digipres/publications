@@ -15,10 +15,10 @@ abstract: 'UNESCO Memory of the World Programme (MoW) and its Preservation Sub-C
 
   '
 creators:
-- Phang, Lai Tee
-- Milic-Frayling, Natasa
-- Buckley, Robert
-- Bradley, Kevin
+- Lai Tee Phang
+- Natasa Milic-Frayling
+- Robert Buckley
+- Kevin Bradley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424946/download
 grand_parent: iPRES

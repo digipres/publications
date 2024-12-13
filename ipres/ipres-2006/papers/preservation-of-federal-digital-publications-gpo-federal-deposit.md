@@ -11,8 +11,8 @@ abstract: The U.S. Government Printing Office (GPO) is committed to ensuring per
   future. This presentation will focus on GPO's collaboration with other communities
   of practice and the development of FDsys, GPO's digital content management system.
 creators:
-- Haun-Mohamed, Robin
-- Baldwin, Gil
+- Robin Haun-Mohamed
+- Gil Baldwin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294558/download
 grand_parent: iPRES

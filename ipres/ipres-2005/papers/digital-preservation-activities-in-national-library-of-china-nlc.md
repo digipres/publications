@@ -12,7 +12,7 @@ abstract: 'The Internet, as the fourth information medium, has gradually been ac
   through cooperation with the large Chinese digital information providers such as
   Tsinghua Tongfang, Wanfang Data, and Founder Electronics Co.Ltd.'
 creators:
-- Chunming, Li
+- Li Chunming
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295040/download
 grand_parent: iPRES

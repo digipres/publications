@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Harmsen, Henk
+- Henk Harmsen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294160/download
 grand_parent: iPRES

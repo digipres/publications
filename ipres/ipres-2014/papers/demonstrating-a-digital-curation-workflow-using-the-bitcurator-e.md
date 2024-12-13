@@ -9,7 +9,7 @@ abstract: ' This demonstration will highlight several key steps in a digital cur
   disk images, identification of duplicate files, generation of PREMIS metadata and
   initial steps toward redaction of potentially sensitive information.'
 creators:
-- Lee, Christopher
+- Christopher Lee
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378717/download
 grand_parent: iPRES

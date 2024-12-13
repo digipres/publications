@@ -29,7 +29,7 @@ abstract: 'Digital curation micro-services offer a light-weight
 
   that is compliant with standards and best practices.'
 creators:
-- Van Garderen, Peter
+- Peter Van Garderen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185511/download
 grand_parent: iPRES

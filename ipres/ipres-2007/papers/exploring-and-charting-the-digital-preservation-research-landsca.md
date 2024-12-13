@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Ross, Seamus
+- Seamus Ross
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294459/download
 grand_parent: iPRES

@@ -5,7 +5,7 @@ abstract: This half day tutorial will provide participants with a short introduc
   preservation metadata can be used in processes and how the data dictionary can be
   implemented in workflows and systems.
 creators:
-- Bredenberg, Karin
+- Karin Bredenberg
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/27494aa747f848beb4332ddcfdedf115
 grand_parent: iPRES

@@ -14,9 +14,9 @@ abstract: When using emulation to render digital objects, a dedicated system env
   for digital preservation tasks like automation, documentation and replication of
   interactive tasks.
 creators:
-- Stobbe, Oleg
-- Rechert, Klaus
-- von Suchodoletz, Dirk
+- Oleg Stobbe
+- Klaus Rechert
+- Dirk von Suchodoletz
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378720/download
 grand_parent: iPRES

@@ -6,7 +6,7 @@ abstract: This poster presentation describes the results of a research project c
   to investigate the practicality of long-term preservation and use of digital library
   materials stored by the NDL on physical media.
 creators:
-- Yamamoto, Shunsuke
+- Shunsuke Yamamoto
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429611/download
 grand_parent: iPRES

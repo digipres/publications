@@ -7,9 +7,9 @@ abstract: The ability to apply a carefully considered and well implemented appro
   Digital Preservation Coalition. This will include assessing maturity with the Rapid
   Assessment Model and auditing skills with the Competency Framework and Audit Toolkit.
 creators:
-- McMeekin, Sharon
-- Mitcham, Jenny
-- Currie, Amy
+- Sharon McMeekin
+- Jenny Mitcham
+- Amy Currie
 date: null
 document_url: https://www.ideals.illinois.edu/items/128259/bitstreams/428883/data.pdf
 grand_parent: iPRES

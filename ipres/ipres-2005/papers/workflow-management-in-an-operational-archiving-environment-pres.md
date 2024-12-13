@@ -7,7 +7,7 @@ abstract: In 2003 the digital archiving system of the National Library of the Ne
   digital objects. This presentation will explicate how the way we have organized
   the workflow processes in this operational digital archiving environment.
 creators:
-- Stapel, Johan
+- Johan Stapel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295037/download
 grand_parent: iPRES

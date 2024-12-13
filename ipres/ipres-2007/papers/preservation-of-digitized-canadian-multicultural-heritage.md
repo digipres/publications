@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Song, Ian Yiliang
+- Ian Yiliang Song
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294475/download
 grand_parent: iPRES

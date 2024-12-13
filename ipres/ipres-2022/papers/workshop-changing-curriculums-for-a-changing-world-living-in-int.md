@@ -11,7 +11,7 @@ abstract: 'As we live through the significant challenges of pandemic, informatio
   those learning, employers, and practitioners, to interrogate and reflect on the
   suitability of existing curricula in Higher Education (HE) for a changing world.  '
 creators:
-- Gooding, Paul
+- Paul Gooding
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/de7374060ba049659bdaf1430d01c94d
 grand_parent: iPRES

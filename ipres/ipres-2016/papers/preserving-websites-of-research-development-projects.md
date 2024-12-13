@@ -17,8 +17,8 @@ abstract: Research and Development (R&D) websites often provide valuable and uni
   related to R&D activities. All the outputs from this study are publicly available
   [16], including the CORDIS dataset updated with our newly found project URLs.
 creators:
-- Bicho, Daniel
-- Gomes, Daniel
+- Daniel Bicho
+- Daniel Gomes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503164/download
 grand_parent: iPRES

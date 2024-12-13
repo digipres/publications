@@ -2,8 +2,8 @@
 abstract: In this poster we will describe how Ex Libris Rosetta serves as a digital
   repository catering institutions’ different needs.
 creators:
-- Alter, Adi
-- Peled, Ido
+- Adi Alter
+- Ido Peled
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429574/download
 grand_parent: iPRES

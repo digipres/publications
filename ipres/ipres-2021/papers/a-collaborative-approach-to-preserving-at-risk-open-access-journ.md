@@ -9,7 +9,7 @@ abstract: 'Scholars rely upon ongoing access to the published research in their 
 
   '
 creators:
-- Wise, Alicia
+- Alicia Wise
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424896/download
 grand_parent: iPRES

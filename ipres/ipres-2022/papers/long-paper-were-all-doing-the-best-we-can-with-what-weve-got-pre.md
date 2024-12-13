@@ -8,7 +8,7 @@ abstract: 'Over the course of six weeks, members of the Data Curation Network we
   conclude by identifying areas of potential future research as well as practical
   collaboration opportunities.'
 creators:
-- Narlock, Mikala
+- Mikala Narlock
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/53bbd675484a4238bf4f157de851dfed
 grand_parent: iPRES

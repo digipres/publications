@@ -8,7 +8,7 @@ abstract: 'The long term preservation is a responsibility to share with other or
   language in a network of cooperating organizations that need to exchange digital
   resources with the mutual objective of preserving them in the long term. '
 creators:
-- Di Iorio, Angela
+- Angela Di Iorio
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294038/download
 grand_parent: iPRES

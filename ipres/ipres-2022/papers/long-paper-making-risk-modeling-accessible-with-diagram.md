@@ -23,7 +23,7 @@ abstract: This paper will examine the work undertaken on DiAGRAM (Digital Archiv
   with TetraLogical throughout development means no major issues are anticipated.<br
   />
 creators:
-- Underdown, David
+- David Underdown
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/4b0f508ff4de4fd59343aa25483ac96a
 grand_parent: iPRES

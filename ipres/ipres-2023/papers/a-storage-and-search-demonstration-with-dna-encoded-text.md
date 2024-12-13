@@ -12,9 +12,9 @@ abstract: DNA-based data storage (DDS) holds promise to deliver a paradigm shift
   a specific word in a DNA dataset encoding the complete text of multiple literary
   works.
 creators:
-- Provencher, Laurel
-- Bhatia, Swapnil
-- Mihm, Sean
+- Laurel Provencher
+- Swapnil Bhatia
+- Sean Mihm
 date: null
 document_url: https://www.ideals.illinois.edu/items/128326/bitstreams/429017/data.pdf
 grand_parent: iPRES

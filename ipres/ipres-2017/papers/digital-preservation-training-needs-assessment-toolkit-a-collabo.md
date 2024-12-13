@@ -11,8 +11,8 @@ abstract: This poster is about one of the deliverables of the Polonsky Foundatio
   in-house curricula. For the wider community, the toolkit is intended as a resource
   for developing digital curation and preservation training programmes.
 creators:
-- Mason, Sarah
-- Pretlove, Lee
+- Sarah Mason
+- Lee Pretlove
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931130/download
 grand_parent: iPRES

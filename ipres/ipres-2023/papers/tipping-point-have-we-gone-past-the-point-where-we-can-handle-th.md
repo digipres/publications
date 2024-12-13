@@ -8,8 +8,8 @@ abstract: The world today is faced with an insurmountable problem. There is too 
   in the field of Digital Preservation and related disciplines with a view to deciding
   if it is true and what can be done about it.
 creators:
-- Stokes, Paul
-- Colbron, Karen
+- Paul Stokes
+- Karen Colbron
 date: null
 document_url: https://www.ideals.illinois.edu/items/128282/bitstreams/428929/data.pdf
 grand_parent: iPRES

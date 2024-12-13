@@ -15,8 +15,8 @@ abstract: The preservation of research data to enable replication and reuse is c
   be carried out at collectionor repository-level, and to what extent CoreTrustSeal
   certification can be considered positioning TDRs as enabling FAIR data.
 creators:
-- Recker, Jonas
-- Mokrane, Mustapha
+- Jonas Recker
+- Mustapha Mokrane
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079920/download
 grand_parent: iPRES

@@ -25,9 +25,9 @@ abstract: "File format assessments have been the subject of much debate in and o
   argue that transparency of this format assessment process is fundamental if the
   resulting recommendations are to be fully understood in the future.\n "
 creators:
-- Pennock, Maureen
-- May, Peter
-- Wheatley, Paul
+- Maureen Pennock
+- Peter May
+- Paul Wheatley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378110/download
 grand_parent: iPRES

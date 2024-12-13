@@ -9,13 +9,13 @@ abstract: The term "Significant Properties" has been given a variety of definiti
   consistent view of the concept. It also links together Authenticity and Provenance
   which are also key concepts in digital preservation.
 creators:
-- Giaretta, David
-- Sawyer, Donald
-- Michetti, Giovanni
-- Guercio, Mariella
-- Lambert, Simon
-- Bicarregui, Juan
-- Matthews, Brian
+- David Giaretta
+- Donald Sawyer
+- Giovanni Michetti
+- Mariella Guercio
+- Simon Lambert
+- Juan Bicarregui
+- Brian Matthews
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294001/download
 grand_parent: iPRES

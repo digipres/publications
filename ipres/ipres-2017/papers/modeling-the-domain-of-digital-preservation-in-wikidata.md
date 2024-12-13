@@ -20,11 +20,11 @@ abstract: Members of the digital preservation community collate and cap-ture met
   advantages to the cultural heritage do-main that proprietary knowledge bases do
   not provide.
 creators:
-- Thornton, Katherine
-- Cochrane, Euan
-- Ledoux, Thomas
-- Caron, Bertrand
-- Wilson, Carl
+- Katherine Thornton
+- Euan Cochrane
+- Thomas Ledoux
+- Bertrand Caron
+- Carl Wilson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931058/download
 grand_parent: iPRES

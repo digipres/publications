@@ -7,9 +7,9 @@ abstract: "The 4C Project is tasked with delivering a Roadmap report and it is t
   of digital curation and to critically assess the efficiency and sustainability of
   their own services and solutions. \n\n "
 creators:
-- Grindley, Neil
-- Haage, Katarina
-- Stokes, Paul
+- Neil Grindley
+- Katarina Haage
+- Paul Stokes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378135/download
 grand_parent: iPRES

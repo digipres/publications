@@ -10,9 +10,9 @@ abstract: Science and its data management are in transition. And while the resea
   uncertain. This poster gives the impression of an interdisciplinary infrastructure
   facilitating research data archival and publication.
 creators:
-- Kraft, Angelina
-- Potthoff, Jan
-- Razum, Matthias
+- Angelina Kraft
+- Jan Potthoff
+- Matthias Razum
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503162/download
 grand_parent: iPRES

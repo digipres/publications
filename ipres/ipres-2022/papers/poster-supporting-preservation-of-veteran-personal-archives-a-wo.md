@@ -5,7 +5,7 @@ abstract: 'This poster will introduce participants to the Virtual Footlocker Pro
   for working with veterans, and use of the VFP curriculum in community and participatory
   outreach projects. '
 creators:
-- Benoit, Iii, Edward
+- Edward Benoit, Iii
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/e43e78e227964389b4b7995ca27b00f6
 grand_parent: iPRES

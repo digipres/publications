@@ -16,8 +16,8 @@ abstract: Digital preservation significance is widely recognized and imperative 
   including technological obsolescence, security risks, big data management, and human
   resource challenges.
 creators:
-- Shehata, Ahmed Maher Khafaga
-- Mkadmi, Abderrazak
+- Ahmed Maher Khafaga Shehata
+- Abderrazak Mkadmi
 date: null
 document_url: https://www.ideals.illinois.edu/items/128868/bitstreams/430330/data.pdf
 grand_parent: iPRES

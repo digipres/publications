@@ -12,8 +12,8 @@ abstract: The Wikidata knowledge base provides a public infrastructure for creat
   The data in Wikidata is FAIR data, and it is linked open data. Our portal provides
   an interface designed for the needs of the digital preservation community.
 creators:
-- Seals-Nutt, Kenneth
-- Thornton, Katherine
+- Kenneth Seals-Nutt
+- Katherine Thornton
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081747/download
 grand_parent: iPRES

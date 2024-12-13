@@ -16,7 +16,7 @@ abstract: 'In the last few years libraries from all around the world have build 
   harvests in the same way as other digital publications in dedicated preservation
   systems. Containers based on METS are set side by side with WARC and its possibilities.'
 creators:
-- Steinke, Tobias
+- Tobias Steinke
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294146/download
 grand_parent: iPRES

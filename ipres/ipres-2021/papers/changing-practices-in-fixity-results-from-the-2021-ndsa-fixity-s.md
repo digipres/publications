@@ -7,9 +7,9 @@ abstract: 'Beyond the encouragement to check fixity, the field of digital preser
 
   '
 creators:
-- Krabbenhoeft, Nick
-- Kussmann, Carol
-- Schaefer, Sibyl
+- Nick Krabbenhoeft
+- Carol Kussmann
+- Sibyl Schaefer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424949/download
 grand_parent: iPRES

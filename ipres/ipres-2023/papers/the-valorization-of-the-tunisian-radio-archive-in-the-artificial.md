@@ -11,8 +11,8 @@ abstract: 'Radio Elyssa''s sound archives face challenges in the post-revolution
   digitization. The combination of human expertise and AI will enable Radio Elyssa
   to use AI responsibly to fulfill its mission.'
 creators:
-- Meddeb, Sami
-- Cecchine, Randi
+- Sami Meddeb
+- Randi Cecchine
 date: null
 document_url: https://www.ideals.illinois.edu/items/128308/bitstreams/428981/data.pdf
 grand_parent: iPRES

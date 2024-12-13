@@ -1,9 +1,9 @@
 ---
 abstract: null
 creators:
-- Kinnaman, Alex
-- Howard, Rachel
-- Ulvestad, Deanna
+- Alex Kinnaman
+- Rachel Howard
+- Deanna Ulvestad
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1422933/download
 grand_parent: iPRES

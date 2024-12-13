@@ -7,9 +7,9 @@ abstract: This poster presents one of the final outputs produced from a collabor
   an EDRMS, DAMS, or GIS) that may ultimately contain at least some records or digital
   content that needs to be retained beyond the life of the system.
 creators:
-- Popham, Michael
-- Mitcham, Jenny
-- Wheatley, Paul
+- Michael Popham
+- Jenny Mitcham
+- Paul Wheatley
 date: null
 document_url: https://www.ideals.illinois.edu/items/128269/bitstreams/428903/data.pdf
 grand_parent: iPRES

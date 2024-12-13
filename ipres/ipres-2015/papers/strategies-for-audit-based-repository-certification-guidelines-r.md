@@ -6,7 +6,7 @@ abstract: In this poster, we present the current status, lessons learned, and be
   and set of resources and case studies for use within repositories seeking an audit-based
   approach of evaluation.
 creators:
-- Tieman, Jessica
+- Jessica Tieman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429608/download
 grand_parent: iPRES

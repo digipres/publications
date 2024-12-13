@@ -12,11 +12,11 @@ abstract: "The Saxon State and University Library Dresden (SLUB) has built up it
   \n(3) checking the integrity of the archived data as a whole in a comprehensive
   but affordable fashion.\n"
 creators:
-- Berthold, Henrike
-- Krug, Sabine
-- Fritzsche, Stefan
-- Sachse, Jörg
-- Romeyke, Andreas
+- Henrike Berthold
+- Sabine Krug
+- Stefan Fritzsche
+- Jörg Sachse
+- Andreas Romeyke
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503168/download
 grand_parent: iPRES

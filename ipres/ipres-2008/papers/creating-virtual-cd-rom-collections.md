@@ -11,8 +11,8 @@ abstract: Over the past 20 years, more than 100,000 CD-ROM titles have been publ
   made available through AFS, a standard distributed file system, to encourage sharing
   among libraries.
 creators:
-- Woods, Kam
-- Brown, Geoffrey
+- Kam Woods
+- Geoffrey Brown
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294103/download
 grand_parent: iPRES

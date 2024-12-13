@@ -11,11 +11,11 @@ abstract: Many preservation actions that we undertake on digital content are dri
   those challenges, the approach we have taken to implement the feature, and the testing
   we have performed to verify the viability of this approach.
 creators:
-- O’Sullivan, Jack
-- Clipsham, David
-- Soni, Divyesh
-- Smith, Richard
-- Tilbury, Jonathan
+- Jack O’Sullivan
+- David Clipsham
+- Divyesh Soni
+- Richard Smith
+- Jonathan Tilbury
 date: null
 document_url: https://www.ideals.illinois.edu/items/128291/bitstreams/428947/data.pdf
 grand_parent: iPRES

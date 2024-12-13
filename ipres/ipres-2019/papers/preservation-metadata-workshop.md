@@ -10,10 +10,10 @@ abstract: 'Metadata is a fundamental component of all digital preservation activ
   the digital preservation community and offer implementers of preservation metadata
   an opportunity to discuss issues, successes and future directions.'
 creators:
-- Nef, Andreas
-- Romkey, Sarah
-- Jefferies, Neil
-- Bredenberg, Karin
+- Andreas Nef
+- Sarah Romkey
+- Neil Jefferies
+- Karin Bredenberg
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079752/download
 grand_parent: iPRES

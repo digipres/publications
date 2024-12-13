@@ -6,7 +6,7 @@ abstract: 'The Emulation as a Service Infrastructure (EaaSI) program of work is 
   some of the future developments we are working on to expand the impact of the EaaSI
   program of work.   '
 creators:
-- Cochrane, Euan
+- Euan Cochrane
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/efe683e5f0ae43ba855fdeef297a1007
 grand_parent: iPRES

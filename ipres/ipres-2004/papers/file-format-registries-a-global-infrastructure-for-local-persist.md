@@ -11,7 +11,7 @@ abstract: 'Cooperation has always been essential in the digital preservation com
   registry are emerging, as already some preservation initiatives rely on such a future
   service in their current approaches.'
 creators:
-- Aschenbrenner, Andreas
+- Andreas Aschenbrenner
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295015/download
 grand_parent: iPRES

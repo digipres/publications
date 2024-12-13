@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- McMeekin, Sharon
-- Currie, Amy
+- Sharon McMeekin
+- Amy Currie
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424692/download
 grand_parent: iPRES

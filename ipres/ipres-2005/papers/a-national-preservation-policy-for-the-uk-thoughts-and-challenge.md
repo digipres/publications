@@ -4,7 +4,7 @@ abstract: This talk will describe the state of the art of digital curation in th
   formed Digital Curation Centre will be discussed in some detail. In addition some
   of the national legislative and funding drivers will be outlined.
 creators:
-- Patel, Manjula
+- Manjula Patel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295035/download
 grand_parent: iPRES

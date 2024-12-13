@@ -7,9 +7,9 @@ abstract: Qatar National Library has launched a research repository named Manara
   a sustainable ecosystem for research outputs in Qatar. The poster presents the work
   done to establish Manara, including the underlying technical and operational model.
 creators:
-- Shaon, Arif
-- Werla, Marcin
-- Alkhaja, Alwaleed
+- Arif Shaon
+- Marcin Werla
+- Alwaleed Alkhaja
 date: null
 document_url: https://www.ideals.illinois.edu/items/128274/bitstreams/428913/data.pdf
 grand_parent: iPRES

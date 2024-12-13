@@ -2,9 +2,9 @@
 abstract: From October 3-6, 2016, the Swiss National Library was pleased to host the
   13th annual iPRES Conference.
 creators:
-- Signori, Barbara
-- Knight, Steve
-- Milic-Frayling, Natasa
+- Barbara Signori
+- Steve Knight
+- Natasa Milic-Frayling
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502767/download
 grand_parent: iPRES

@@ -14,7 +14,7 @@ abstract: 'Twenty-two years ago a city emerged from computers, modems and teleph
   excavate, reconstruct, present, preserve and sustainably store born-digital heritage
   and make it accessible to the future generations?'
 creators:
-- de Haan, Tjarda
+- Tjarda de Haan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503160/download
 grand_parent: iPRES

@@ -6,7 +6,7 @@ abstract: In 2021, the Carmichael Watson project website — a highly valued res
   undertaken to transform it into a more sustainable format through web archiving
   and to revive its public accessibility.
 creators:
-- Thomson, Sara Day
+- Sara Day Thomson
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/3e7e578141f449fcbb5d0be78391e131
 grand_parent: iPRES

@@ -5,25 +5,25 @@ abstract: This poster paper describes the objectives, approach and use cases of 
   in continually evolving environments including changes in context, semantics and
   practices. The project addresses use cases focusing on digital art, media and science.
 creators:
-- Waddington, Simon
-- Hedges, Mark
-- Corubolo, Fabio
-- Laurenson, Pip
-- Kompatsiaris, Yiannis
-- Dasiopoulou, Stamatia
-- Pinchuk, Rani
-- Muller, Christian
-- Spyroglou, Odysseas
-- Chanod, Jean-Pierre
-- Vion-Dury, Jean-Yves
-- Ludwig, Jens
-- Wieder, Philipp
-- Baxter, Rob
-- Darányi, Sándor
-- Maceviciute, Elena
-- Wilson, Tom
-- Watry, Paul
-- Hasan, Adil
+- Simon Waddington
+- Mark Hedges
+- Fabio Corubolo
+- Pip Laurenson
+- Yiannis Kompatsiaris
+- Stamatia Dasiopoulou
+- Rani Pinchuk
+- Christian Muller
+- Odysseas Spyroglou
+- Jean-Pierre Chanod
+- Jean-Yves Vion-Dury
+- Jens Ludwig
+- Philipp Wieder
+- Rob Baxter
+- Sándor Darányi
+- Elena Maceviciute
+- Tom Wilson
+- Paul Watry
+- Adil Hasan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378052/download
 grand_parent: iPRES

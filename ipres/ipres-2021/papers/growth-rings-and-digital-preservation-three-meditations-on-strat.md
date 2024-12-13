@@ -12,7 +12,7 @@ abstract: 'This short paper consists of three meditations on potentially fruitfu
 
   '
 creators:
-- Curham, Louise
+- Louise Curham
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424932/download
 grand_parent: iPRES

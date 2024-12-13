@@ -9,7 +9,7 @@ abstract: The Wikidata for Digital Preservation (WikiDP) Wikibase is a project o
   set related to software into a knowledge base using technologies of the Semantic
   Web.<br />
 creators:
-- Seals-Nutt, Kenneth
+- Kenneth Seals-Nutt
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/528185a326684754a3c2cfd1fefbf793
 grand_parent: iPRES

@@ -20,9 +20,9 @@ abstract: 'The Hesburgh Libraries and Snite Museum of Art at the University of N
 
   '
 creators:
-- Bertoldi, Hanna
-- Griesinger, Peggy
-- Narlock, Mikala
+- Hanna Bertoldi
+- Peggy Griesinger
+- Mikala Narlock
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424891/download
 grand_parent: iPRES

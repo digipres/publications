@@ -32,9 +32,9 @@ abstract: '"Five years ago, at the Getty Research Institute, we implemented the 
   of waiting for some magical day when we have all the time, staffing, and expertise
   to give our full attention and care to each filestream."'
 creators:
-- Schroffel, Laura
-- Wang, Lorain
-- Soleau , Teresa
+- Laura Schroffel
+- Lorain Wang
+- Teresa Soleau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923614/download
 grand_parent: iPRES

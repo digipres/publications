@@ -8,7 +8,7 @@ abstract: '"Digital preservation is people" and "Digital preservation cannot be 
   the survey results to answer questions about the landscape of digital preservation
   communities and gives a brief outlook on further work.'
 creators:
-- Lindlar, Micky
+- Micky Lindlar
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/09f033a84210485e905fd3348f8edda9
 grand_parent: iPRES

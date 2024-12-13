@@ -6,8 +6,8 @@ abstract: In this paper, we study the usability of a range of emulators using vi
   a number of usability challenges. Finally, we discuss possible solutions to the
   usability challenges founded.
 creators:
-- Moesgaard, Jakob
-- Jensen, Claus
+- Jakob Moesgaard
+- Claus Jensen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424887/download
 grand_parent: iPRES

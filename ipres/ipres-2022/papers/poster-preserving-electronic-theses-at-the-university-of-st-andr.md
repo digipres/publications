@@ -16,7 +16,7 @@ abstract: The University of St Andrews Libraries and Museums have been preservin
   vital scholarly outputs have integrity, are accessible, and can be used by future
   generations.
 creators:
-- Rippington, Sean
+- Sean Rippington
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/4e0901d305b349e3a7ec2c8bdc1cca29
 grand_parent: iPRES

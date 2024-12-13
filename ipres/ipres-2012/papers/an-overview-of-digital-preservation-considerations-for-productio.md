@@ -13,7 +13,7 @@ abstract: In the Indian context, when the e-government records are received for 
   final e-records are produced in “preservable” form with full compliance as per the
   requirements of OAIS.
 creators:
-- Katre, Dinesh
+- Dinesh Katre
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293774/download
 grand_parent: iPRES

@@ -3,10 +3,10 @@ abstract: This tutorial will provide participants with an introduction to the PR
   Data Dictionary. It will give a basic overview of the standard and explore different
   models of implementation.
 creators:
-- McKinney, Peter
-- Dappert, Angela
-- McLellan, Evelyn
-- Zierau, Eld
+- Peter McKinney
+- Angela Dappert
+- Evelyn McLellan
+- Eld Zierau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502828/download
 grand_parent: iPRES

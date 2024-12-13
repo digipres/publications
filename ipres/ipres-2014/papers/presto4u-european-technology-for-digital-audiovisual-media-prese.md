@@ -11,7 +11,7 @@ abstract: 'This poster describes the actions, progress and research results of t
   fundamental knowledge; and technology providers who can commercialise research results
   as sustainable tools and services.'
 creators:
-- Gupta, Jacqui
+- Jacqui Gupta
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378705/download
 grand_parent: iPRES

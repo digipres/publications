@@ -8,7 +8,7 @@ abstract: We describe how the design of a digital preservation system suitable f
   is now being migrated from test to production as a “business as usual” component
   of the archivist role.
 creators:
-- Cothey, Viv
+- Viv Cothey
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/13fb065a649345c893e5e7336798ee5b
 grand_parent: iPRES

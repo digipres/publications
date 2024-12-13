@@ -7,7 +7,7 @@ abstract: Much effort is expended on assuring sustainability of e-infrastructure
   some aspects of the OAIS Reference Model and their applicability to sustainability
   planning for e-infrastructures.
 creators:
-- Lambert, Simon
+- Simon Lambert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079919/download
 grand_parent: iPRES

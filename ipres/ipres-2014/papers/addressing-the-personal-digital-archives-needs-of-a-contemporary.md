@@ -14,7 +14,7 @@ abstract: 'The study of personal digital archives is an emerging research area t
   the design, development and implementation of personal digital recordkeeping system
   for a specific type of individual: a contemporary artist.'
 creators:
-- Meister, Sam
+- Sam Meister
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378080/download
 grand_parent: iPRES

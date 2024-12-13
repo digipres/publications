@@ -8,8 +8,8 @@ abstract: 'Blog archiving and preservation is not a new challenge. Current solut
   for organisations of varying size and which can be implemented with relatively little
   resource and technical know-how: the ArchivePress project.'
 creators:
-- Pennock, Maureen
-- Davis, Richard
+- Maureen Pennock
+- Richard Davis
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294013/download
 grand_parent: iPRES

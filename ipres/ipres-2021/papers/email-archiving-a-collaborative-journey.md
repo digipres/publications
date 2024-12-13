@@ -10,11 +10,11 @@ abstract: 'This panel examines the current and future developments in email arch
 
   '
 creators:
-- Martinez, Ruby
-- Prom, Chris
-- Abrams, Stephen
-- Wiedeman, Gregory
-- Teichman, Matt
+- Ruby Martinez
+- Chris Prom
+- Stephen Abrams
+- Gregory Wiedeman
+- Matt Teichman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424945/download
 grand_parent: iPRES

@@ -8,13 +8,13 @@ abstract: 'This 3-hour tutorial focuses on the practical problems in ingesting, 
   which provides hands-on experience on the SIARD database preservation format and
   appropriate software tools.'
 creators:
-- Ohnesorge, Krystyna W.
-- Aas, Kuldar
-- Delve, Janet
-- Lux, Zoltan
-- Tømmerholt, Phillip Mike
-- Nielsen, Anders Bo
-- Büchler, Marcel
+- Krystyna W. Ohnesorge
+- Kuldar Aas
+- Janet Delve
+- Zoltan Lux
+- Phillip Mike Tømmerholt
+- Anders Bo Nielsen
+- Marcel Büchler
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502822/download
 grand_parent: iPRES

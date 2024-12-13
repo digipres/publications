@@ -9,7 +9,7 @@ abstract: Before starting a digital preservation project, many things are taken 
   will speak from their own experience about the lessons learned during the implementation
   of their digital preservation project.
 creators:
-- Redondo, Teo
+- Teo Redondo
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/fb5dc319bc66448488f0531e905a73d3
 grand_parent: iPRES

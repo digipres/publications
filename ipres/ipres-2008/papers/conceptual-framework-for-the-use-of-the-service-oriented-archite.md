@@ -14,8 +14,8 @@ abstract: This paper presents a conceptual framework for the use of the SOA1-app
   software system. The knowledge gained from the conceptual framework will serve as
   a basis for future digital preservation developments.
 creators:
-- Saul, Christian
-- Klett, Fanny
+- Christian Saul
+- Fanny Klett
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294163/download
 grand_parent: iPRES

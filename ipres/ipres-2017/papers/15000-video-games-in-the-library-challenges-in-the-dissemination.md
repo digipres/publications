@@ -3,9 +3,9 @@ abstract: This poster describes current processes and challenges for the preserv
   and dissemination of video games from the heritage collections of the National Library
   of France (BnF).
 creators:
-- Bertrand, Élodie
-- Fauduet, Louise
-- Humblot, Jean-Philippe
+- Élodie Bertrand
+- Louise Fauduet
+- Jean-Philippe Humblot
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931137/download
 grand_parent: iPRES

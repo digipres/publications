@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Johnson, Molly
+- Molly Johnson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294474/download
 grand_parent: iPRES

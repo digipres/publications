@@ -9,7 +9,7 @@ abstract: 'The E-ARK Consortium has been working steadily over the last ten year
   Block results, benefits, and Consortium member use cases as presented at the DLM
   Forum meeting in October 2021.'
 creators:
-- Wilson, Carl
+- Carl Wilson
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/c9a6dcb6fd3643bdacb786b42b2b400c
 grand_parent: iPRES

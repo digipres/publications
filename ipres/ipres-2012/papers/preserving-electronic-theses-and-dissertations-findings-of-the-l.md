@@ -5,9 +5,9 @@ abstract: This paper conveys findings from four years of research conducted by t
   institutions may best ensure that the electronic theses and dissertations they acquire
   from students today will be available to future researchers.
 creators:
-- Halbert, Martin
-- Skinner, Katherine
-- Schultz, Matt
+- Martin Halbert
+- Katherine Skinner
+- Matt Schultz
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294074/download
 grand_parent: iPRES

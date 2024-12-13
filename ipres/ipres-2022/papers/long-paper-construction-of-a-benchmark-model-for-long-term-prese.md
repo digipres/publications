@@ -9,7 +9,7 @@ abstract: There is a wealth of academic information accumulated on social media,
   The next step is to invite experts to make judgments and propose amendments to this
   evaluation index system.
 creators:
-- Zhang, Dongrong
+- Dongrong Zhang
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/da657ce9fba94391a387bc1e71388c30
 grand_parent: iPRES

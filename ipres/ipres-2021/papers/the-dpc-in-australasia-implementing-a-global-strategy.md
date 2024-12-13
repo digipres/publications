@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Weatherburn, Jaye
+- Jaye Weatherburn
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424814/download
 grand_parent: iPRES

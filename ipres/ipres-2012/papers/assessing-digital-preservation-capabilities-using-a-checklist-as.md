@@ -17,12 +17,12 @@ abstract: 'Digital preservation is increasingly recognized as a need by organiza
   assessment method proved to be a valuable tool for raising awareness of the digital
   preservation issues in those organizations.'
 creators:
-- Antunes, Goncalo
-- Becker, Christoph
-- Borbinha, Jose
-- Proenca, Diogo
-- Barateiro, Jose
-- Vieira, Ricardo
+- Goncalo Antunes
+- Christoph Becker
+- Jose Borbinha
+- Diogo Proenca
+- Jose Barateiro
+- Ricardo Vieira
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293865/download
 grand_parent: iPRES

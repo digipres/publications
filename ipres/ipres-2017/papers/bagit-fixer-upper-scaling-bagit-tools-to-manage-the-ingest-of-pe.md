@@ -14,7 +14,7 @@ abstract: 'The New York Public Library has created over 1.5 PB of files from dig
   library, NYPL has created tools to selectively clean system files from bag directories
   and manifests, update or add checksums, and create event logs of repairs.'
 creators:
-- Krabbenhoeft, Nick
+- Nick Krabbenhoeft
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931102/download
 grand_parent: iPRES

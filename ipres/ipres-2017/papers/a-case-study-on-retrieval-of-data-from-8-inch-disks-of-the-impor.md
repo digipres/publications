@@ -27,9 +27,9 @@ abstract: 'There are still a significant number of born-digital artefacts which 
   information, leading to a successful preliminary outcome. This is a cautionary tale
   which aims to provide some lessons for use in related contexts.'
 creators:
-- de Vries, Denise
-- von Suchodoletz, Dirk
-- Meyer, Willibald
+- Denise de Vries
+- Dirk von Suchodoletz
+- Willibald Meyer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931070/download
 grand_parent: iPRES

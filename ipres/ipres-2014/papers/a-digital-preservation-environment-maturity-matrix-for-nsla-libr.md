@@ -15,9 +15,9 @@ abstract: 'In this paper, the authors describe the work done within the NSLA Dig
   purpose. Collaboration on policies, products and infrastructure will continue to
   address these needs.  '
 creators:
-- Slade, Sarah
-- Pearson, David
-- Coufal, Libor
+- Sarah Slade
+- David Pearson
+- Libor Coufal
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378130/download
 grand_parent: iPRES

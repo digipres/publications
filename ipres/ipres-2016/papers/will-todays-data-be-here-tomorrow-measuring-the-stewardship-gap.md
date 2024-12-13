@@ -15,9 +15,9 @@ abstract: 'Stakeholders in scholarly research are paying increased attention to 
   United States, and 2) recommending actions stakeholders can take to address the
   stewardship gap if one is found to exist.'
 creators:
-- York, Jeremy
-- Berman, Francine
-- Gutmann, Myron
+- Jeremy York
+- Francine Berman
+- Myron Gutmann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503172/download
 grand_parent: iPRES

@@ -11,9 +11,9 @@ abstract: Effectively preserving access to digital content over time is dependen
   of statistically generated similarity profiles and machine-generated recommendations
   based on human expert input.
 creators:
-- Ryan, Heather
-- Graf, Roman
-- Gordea, Sergiu
+- Heather Ryan
+- Roman Graf
+- Sergiu Gordea
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429557/download
 grand_parent: iPRES

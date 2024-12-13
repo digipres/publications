@@ -10,7 +10,7 @@ abstract: 'This workshop revisits the iPres 2019 workshop on complex digital obj
   an opportunity for digital preservation professionals to share insights and experiences
   and forge new paths forward together. '
 creators:
-- Falcao, Patricia
+- Patricia Falcao
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/aa87be8c7daf43b58c9cb151dce59e66
 grand_parent: iPRES

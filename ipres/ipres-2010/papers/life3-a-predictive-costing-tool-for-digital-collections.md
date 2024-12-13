@@ -41,10 +41,10 @@ abstract: 'Predicting the costs of long-term digital preservation is a
 
   Research Information Network (RIN).'
 creators:
-- Hole, Brian
-- Wheatley, Paul
-- Lin, Li
-- McCann, Patrick
+- Brian Hole
+- Paul Wheatley
+- Li Lin
+- Patrick McCann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185477/download
 grand_parent: iPRES

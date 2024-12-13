@@ -9,13 +9,13 @@ abstract: 'The Digital Lifecycle Management Interest Group (DLMIG) of the Univer
 
   '
 creators:
-- Koivisto, Joseph
-- Bell, Laura
-- Conlin, Kristin
-- Esh, John
-- Fischbach, Allison
-- Rezaei, Fatemeh
-- Todd-Diaz, Ashley
+- Joseph Koivisto
+- Laura Bell
+- Kristin Conlin
+- John Esh
+- Allison Fischbach
+- Fatemeh Rezaei
+- Ashley Todd-Diaz
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424909/download
 grand_parent: iPRES

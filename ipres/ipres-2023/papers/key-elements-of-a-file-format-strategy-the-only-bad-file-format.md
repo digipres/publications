@@ -10,7 +10,7 @@ abstract: Within the Digital Preservation Community there are many references to
   systems. What works for one institution may not work for another, and the work created
   by a larger institution may benefit those with smaller resources.
 creators:
-- Thorsted, Tyler
+- Tyler Thorsted
 date: null
 document_url: https://www.ideals.illinois.edu/items/128330/bitstreams/429025/data.pdf
 grand_parent: iPRES

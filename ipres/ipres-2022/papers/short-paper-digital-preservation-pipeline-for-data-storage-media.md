@@ -6,7 +6,7 @@ abstract: Bit rot and technical obsolescence are threatening the ability to read
   our pipeline relies on promising open-source software, such as Aaru or HxCFloppyEmulator,
   and hardware such as Pauline. Challenges and limitations of our approach are discussed.
 creators:
-- François, Robin
+- Robin François
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/1e3af3135b7f4f698228ee9fee083641
 grand_parent: iPRES

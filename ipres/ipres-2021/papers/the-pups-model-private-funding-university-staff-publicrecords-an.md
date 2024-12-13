@@ -1,10 +1,10 @@
 ---
 abstract: null
 creators:
-- S. Hunter, Gregory
-- Karbowiak, Jaime
-- Antoville, Emily
-- Yuen, Judi
+- Gregory S. Hunter
+- Jaime Karbowiak
+- Emily Antoville
+- Judi Yuen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1422935/download
 grand_parent: iPRES

@@ -18,11 +18,11 @@ abstract: 'Digital stewardship is the active and long-term management of digital
   to be an effective digital steward, and therefore can guide both graduate and professional
   development curricula alike.'
 creators:
-- Blumenthal, Karl-Rainer
-- Steeves, Vicky
-- Peltzman, Shira
-- Kim, Julia
-- Griesinger, Peggy
+- Karl-Rainer Blumenthal
+- Vicky Steeves
+- Shira Peltzman
+- Julia Kim
+- Peggy Griesinger
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503088/download
 grand_parent: iPRES

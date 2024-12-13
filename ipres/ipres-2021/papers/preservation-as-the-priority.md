@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Stokes, Paul
-- Burland, Tamsin
+- Paul Stokes
+- Tamsin Burland
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424813/download
 grand_parent: iPRES

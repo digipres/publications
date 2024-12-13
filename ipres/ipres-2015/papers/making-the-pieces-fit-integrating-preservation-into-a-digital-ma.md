@@ -18,7 +18,7 @@ abstract: 'In 2014, the University of Nebraska-Lincoln (UNL) Libraries implement
   In addition, the poster will reflect on the challenges encountered attempting to
   fit all of the pieces together.'
 creators:
-- Thoegersen, Jennifer
+- Jennifer Thoegersen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429604/download
 grand_parent: iPRES

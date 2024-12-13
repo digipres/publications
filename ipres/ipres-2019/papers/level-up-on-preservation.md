@@ -7,9 +7,9 @@ abstract: This workshop will update the community on the work of the Levels of P
   In addition, the workshop will discuss a methodology for keeping the LoP updated
   on an ongoing basis.
 creators:
-- Tallman, Nathan
-- Work, Lauren
-- Daigle, Bradley J.
+- Nathan Tallman
+- Lauren Work
+- Bradley J. Daigle
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081738/download
 grand_parent: iPRES

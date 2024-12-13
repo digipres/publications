@@ -5,9 +5,9 @@ abstract: 'This half day tutorial will provide participants with a short introdu
 
   '
 creators:
-- Bredenberg, Karin
-- Zierau, Eld
-- Lindlar, Michelle
+- Karin Bredenberg
+- Eld Zierau
+- Michelle Lindlar
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424836/download
 grand_parent: iPRES

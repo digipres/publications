@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Willemse, Ellen
+- Ellen Willemse
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294515/download
 grand_parent: iPRES

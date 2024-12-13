@@ -10,7 +10,7 @@ abstract: The Royal Danish Library has used the open source Bitrepository.org fr
   the BitRepository.org as well as how the Royal Danish Library uses it for different
   levels of bit safety, confidentiality, access and costs.
 creators:
-- Zierau, Eld
+- Eld Zierau
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/51e0a43462f24b85af50a327547d0f0e
 grand_parent: iPRES

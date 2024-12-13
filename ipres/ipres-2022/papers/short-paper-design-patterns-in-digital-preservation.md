@@ -7,7 +7,7 @@ abstract: 'This paper proposes a framework to help understand the different ways
   we can ensure implementation choices are informed by practice, rather than by default,
   or without even realizing a choice has been made.'
 creators:
-- Jackson, Andrew
+- Andrew Jackson
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/d5a7d702d51c4375b24bc8a83b6f9be4
 grand_parent: iPRES

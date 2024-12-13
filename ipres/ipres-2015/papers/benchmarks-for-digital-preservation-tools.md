@@ -23,10 +23,10 @@ abstract: 'Creation and improvement of tools for digital preservation is a diffi
 
   sharing, but also several major challenges ahead.'
 creators:
-- Duretec, Kresimir
-- Kulmukhametov, Artur
-- Rauber, Andreas
-- Becker, Christoph
+- Kresimir Duretec
+- Artur Kulmukhametov
+- Andreas Rauber
+- Christoph Becker
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429547/download
 grand_parent: iPRES

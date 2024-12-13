@@ -17,9 +17,9 @@ abstract: Digital preservation is too big a challenge for any institution or sol
   to manage and coordinate their activities, as well complimenting current repository
   audit and certification activities.
 creators:
-- van Diessen, Raymond J.
-- Lee, Christopher A.
-- Sierman, Barbara
+- Raymond J. van Diessen
+- Christopher A. Lee
+- Barbara Sierman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294098/download
 grand_parent: iPRES

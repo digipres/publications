@@ -12,10 +12,10 @@ abstract: The Chronicles in Preservation project, being led by the Educopia Inst
   the DAITSS Description Service, UNT's PREMIS Event Service, and the NDSA Levels
   of Preservation.
 creators:
-- Schultz, Matt
-- Phillips, Mark
-- Krabbenhoeft, Nick
-- Eisenhauer, Stephen
+- Matt Schultz
+- Mark Phillips
+- Nick Krabbenhoeft
+- Stephen Eisenhauer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377395/download
 grand_parent: iPRES

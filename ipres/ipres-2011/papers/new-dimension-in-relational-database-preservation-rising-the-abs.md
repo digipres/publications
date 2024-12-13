@@ -14,8 +14,8 @@ abstract: 'The work addressed in this paper focuses on the preservation of the c
   to formalize the knowledge associated to the conceptual model of the database and
   also a methodology to create an abstract representation of it.'
 creators:
-- Freitas, Ricardo André Pereira
-- Ramalho, José Carlos
+- Ricardo André Pereira Freitas
+- José Carlos Ramalho
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294230/download
 grand_parent: iPRES

@@ -10,11 +10,11 @@ abstract: Digital content and data require software for interpretation, processi
   discuss relevant work that they have been involved in to address the goal of software
   sustainability and preservation.
 creators:
-- Meyerson, Jessica
-- Milic-Frayling, Natasa
-- Vowell, Zach
-- Cochrane, Euan
-- Rosenthal, David
+- Jessica Meyerson
+- Natasa Milic-Frayling
+- Zach Vowell
+- Euan Cochrane
+- David Rosenthal
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502836/download
 grand_parent: iPRES

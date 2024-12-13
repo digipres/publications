@@ -9,7 +9,7 @@ abstract: "A digital preservation policy is an essential document in which an or
   The paper concludes with suggestions to further develop the practical use of preservation
   policies by aligning them to the maturity level of the organization. \n "
 creators:
-- Sierman, Barbara
+- Barbara Sierman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378126/download
 grand_parent: iPRES

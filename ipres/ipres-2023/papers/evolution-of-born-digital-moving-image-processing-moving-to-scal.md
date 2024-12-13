@@ -9,8 +9,8 @@ abstract: Long-term preservation of born-digital moving image content is similar
   file characteristics and requirements, and the adoption of automated workflows using
   a combination of open source software and hardware resources.
 creators:
-- Curtis, Rachel
-- Drake Davis, Laura
+- Rachel Curtis
+- Laura Drake Davis
 date: null
 document_url: https://www.ideals.illinois.edu/items/128332/bitstreams/429029/data.pdf
 grand_parent: iPRES

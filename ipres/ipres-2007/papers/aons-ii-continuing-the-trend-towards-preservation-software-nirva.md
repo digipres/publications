@@ -14,7 +14,7 @@ abstract: "File format obsolescence is a major risk factor threatening the susta
   which includes registries, software tool creators and end users to effectively curate
   digital content in order to maintain long-term access."
 creators:
-- Pearson, David
+- David Pearson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294518/download
 grand_parent: iPRES

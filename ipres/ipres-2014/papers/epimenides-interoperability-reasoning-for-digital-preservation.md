@@ -8,9 +8,9 @@ abstract: ' This paper presents Epimenides, a system that implements a novel int
   concrete preservation activities of a research data archive (DANS) and elaborates
   on how Epimenides could be used and the benefits that would bring.'
 creators:
-- Kargakis, Yannis
-- van Horik, René
-- Tzitzikas, Yannis
+- Yannis Kargakis
+- René van Horik
+- Yannis Tzitzikas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378106/download
 grand_parent: iPRES

@@ -16,7 +16,7 @@ abstract: Dr. Zhang will present the China Archives of Digital Scientific Litera
   future efforts to promote and collaborate with scientific data preservation and
   cultural heritage preservation are discussed in the end.
 creators:
-- Zhang, Xiaolin
+- Xiaolin Zhang
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294873/download
 grand_parent: iPRES

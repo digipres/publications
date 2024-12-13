@@ -3,7 +3,7 @@ abstract: 'This poster presents the early days of a French-speaking digital pres
   community of practice in Quebec, Canada. It showcases various considerations for
   defining its scope, organization, and development. '
 creators:
-- Fortin, Emilie
+- Emilie Fortin
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/1ab6176720a2406d8118445008c8877e
 grand_parent: iPRES

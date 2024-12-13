@@ -51,8 +51,8 @@ abstract: 'Distributed digital preservation is a maturing and
 
   model for distributed digital preservation.'
 creators:
-- Schultz, Matt
-- Gore, Emily B.
+- Matt Schultz
+- Emily B. Gore
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185509/download
 grand_parent: iPRES

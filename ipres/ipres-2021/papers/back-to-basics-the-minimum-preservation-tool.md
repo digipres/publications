@@ -12,10 +12,10 @@ abstract: 'This paper presents the Minimum Preservation Tool (MPT), designed and
 
   '
 creators:
-- Pennock, Maureen
-- Beaman, John
-- May, Peter
-- Davies, Kevin
+- Maureen Pennock
+- John Beaman
+- Peter May
+- Kevin Davies
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424906/download
 grand_parent: iPRES

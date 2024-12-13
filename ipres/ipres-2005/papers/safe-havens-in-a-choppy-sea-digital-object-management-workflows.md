@@ -14,7 +14,7 @@ abstract: 'The National Library of Australia collects, archives and provides acc
   An overview of PANDAS, the Library''s Web archiving and management system for PANDORA,
   Australia''s Web Archive, is also provided.'
 creators:
-- Clifton, Gerard
+- Gerard Clifton
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295038/download
 grand_parent: iPRES

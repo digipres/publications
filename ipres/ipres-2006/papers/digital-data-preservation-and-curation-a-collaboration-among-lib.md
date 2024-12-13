@@ -19,15 +19,15 @@ abstract: 'Astronomers are producing and analyzing data at ever more prodigious 
   Observatory, or any number of topically-oriented data services utilizing VO-standard
   access mechanisms.'
 creators:
-- Ehling, Teresa
-- Plante, Ray
-- Milkey, Robert
-- Vishniac, Ethan
-- Szalay, Alex
-- DiLauro, Tim
-- Choudhury, Sayeed
-- Steffen, Julie
-- Hanisch, Robert
+- Teresa Ehling
+- Ray Plante
+- Robert Milkey
+- Ethan Vishniac
+- Alex Szalay
+- Tim DiLauro
+- Sayeed Choudhury
+- Julie Steffen
+- Robert Hanisch
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294565/download
 grand_parent: iPRES

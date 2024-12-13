@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Wijsman, Lotte
+- Lotte Wijsman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424723/download
 grand_parent: iPRES

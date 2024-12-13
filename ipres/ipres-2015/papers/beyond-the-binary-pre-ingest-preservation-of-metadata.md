@@ -9,8 +9,8 @@ abstract: This paper describes some of the challenges the National Library of Ne
   from the two perspectives of the digital archivist and the digital preservation
   analyst, and how these two perspectives inform our current thinking.
 creators:
-- Moran, Jessica
-- Gattuso, Jay
+- Jessica Moran
+- Jay Gattuso
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429555/download
 grand_parent: iPRES

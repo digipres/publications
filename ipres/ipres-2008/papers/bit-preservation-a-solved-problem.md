@@ -20,7 +20,7 @@ abstract: 'For years, discussions of digital preservation have routinely feature
 
   • Policy, suggesting ways of dealing with this unfortunate situation.'
 creators:
-- Rosenthal, David S. H.
+- David S. H. Rosenthal
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294179/download
 grand_parent: iPRES

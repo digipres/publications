@@ -17,12 +17,12 @@ abstract: The dawn of Trustworthy Digital Repository Certification under the ISO
   panelists will present arguments, concerns, and criticisms regarding the ISO 16363
   standard and existing methods of repository assessment.
 creators:
-- Pennock, Maureen
-- Zuberi, Irfan
-- Tieman, Jessica
-- Shiers, Jamie
-- LaPlant, Lisa
-- Giaretta, David
+- Maureen Pennock
+- Irfan Zuberi
+- Jessica Tieman
+- Jamie Shiers
+- Lisa LaPlant
+- David Giaretta
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079684/download
 grand_parent: iPRES

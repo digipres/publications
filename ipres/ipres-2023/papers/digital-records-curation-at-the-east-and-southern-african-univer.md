@@ -16,8 +16,8 @@ abstract: Most of the knowledge generated in academic institutions today is in d
   the OAIS model to preserve, manage and make access to digital records at East and
   Southern African public Universities Institutional Repositories.
 creators:
-- Erima, Juliet
-- Mosweu , Tshepho L.
+- Juliet Erima
+- Tshepho L. Mosweu
 date: null
 document_url: https://www.ideals.illinois.edu/items/128289/bitstreams/428943/data.pdf
 grand_parent: iPRES

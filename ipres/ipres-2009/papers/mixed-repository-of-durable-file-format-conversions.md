@@ -19,8 +19,8 @@ abstract: DANS (Data Archiving and Networked Services), the Dutch scientific dat
   The MIXED project is at its ending phase and this paper contains an overview of
   the results.
 creators:
-- van Horik, René
-- Roorda, Dirk
+- René van Horik
+- Dirk Roorda
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294015/download
 grand_parent: iPRES

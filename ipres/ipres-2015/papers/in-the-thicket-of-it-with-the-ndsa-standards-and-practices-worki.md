@@ -17,14 +17,14 @@ abstract: The engaged membership of the National Digital Stewardship Alliance’
   nature of the S&P’s varied projects as well as to increase community awareness of
   the collaboratively developed resources and products.
 creators:
-- Atkins, Winston
-- Engle, Erin
-- Goethals, Andrea
-- Jackson, Karl
-- Kussmann, Carol
-- Murray, Kate
-- Paolillo, Michelle
-- Soprano, Mariella
+- Winston Atkins
+- Erin Engle
+- Andrea Goethals
+- Karl Jackson
+- Carol Kussmann
+- Kate Murray
+- Michelle Paolillo
+- Mariella Soprano
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429577/download
 grand_parent: iPRES

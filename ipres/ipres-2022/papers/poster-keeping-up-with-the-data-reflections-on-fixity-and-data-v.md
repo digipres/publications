@@ -10,7 +10,7 @@ abstract: 'Seeking to use data to drive decision-making in real-time, organizati
   invest in collaboration with a broader community: specifically, data and information
   management professionals. '
 creators:
-- Beking, Angela
+- Angela Beking
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/f794a9acabc34b108272a245caf05a26
 grand_parent: iPRES

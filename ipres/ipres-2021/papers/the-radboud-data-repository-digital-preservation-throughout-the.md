@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Slouwerhof, Inge
-- Lamers, Didi
+- Inge Slouwerhof
+- Didi Lamers
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424724/download
 grand_parent: iPRES

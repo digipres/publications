@@ -42,9 +42,9 @@ abstract: "Web archiving can take many forms, but usually involves fully capturi
   other practitioners working with digital materials, and developers. No prior experience
   with web archiving will be required of attendees.\n"
 creators:
-- Ramirez-Lopez, Lorena
-- Kreymer, Ilya
-- Dickson, Emma
+- Lorena Ramirez-Lopez
+- Ilya Kreymer
+- Emma Dickson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424942/download
 grand_parent: iPRES

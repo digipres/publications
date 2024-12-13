@@ -14,7 +14,7 @@ abstract: 'The objective of the Pêle-mél program is to propose a prototype too
   and to the hybrid character of the information supports. The palliative strategies
   put in place are costly but possible. '
 creators:
-- Vasseur, Edouard
+- Edouard Vasseur
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/5dc6b59835b14a4288b0c83c60676b27
 grand_parent: iPRES

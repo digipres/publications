@@ -47,8 +47,8 @@ abstract: 'The “paperless office” concept has been around for
 
   labs, and student coursework.'
 creators:
-- Briston, Heather
-- Estlund, Karen
+- Heather Briston
+- Karen Estlund
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245898/download
 grand_parent: iPRES

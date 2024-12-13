@@ -15,8 +15,8 @@ abstract: 'In this paper, we describe an OAIS aligned data model and architectur
 
   and iRODS.'
 creators:
-- Klindt, Marco
-- Amrhein, Kilian
+- Marco Klindt
+- Kilian Amrhein
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429551/download
 grand_parent: iPRES

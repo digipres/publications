@@ -10,10 +10,10 @@ abstract: Environmental sustainability is becoming an important factor in digita
   the service life has a smaller role. As a whole, the annual carbon footprint of
   the services is smaller than the annual carbon footprint of three average Finns.
 creators:
-- Tiainen, Mikko
-- Lehtonen, Juha
-- Helin, Heikki
-- Kylander, Johan
+- Mikko Tiainen
+- Juha Lehtonen
+- Heikki Helin
+- Johan Kylander
 date: null
 document_url: https://www.ideals.illinois.edu/items/128307/bitstreams/428979/data.pdf
 grand_parent: iPRES

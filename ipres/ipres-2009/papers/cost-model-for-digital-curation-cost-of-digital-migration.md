@@ -14,9 +14,9 @@ abstract: The Danish Ministry of Culture is currently funding a project to set u
   functions, especially when it comes to performing and evaluating the actual migration,
   need additional detailing in order to cost activities accurately.
 creators:
-- Kejser, Ulla Bøgvad
-- Thirifays, Alex
-- Nielsen, Anders Bo
+- Ulla Bøgvad Kejser
+- Alex Thirifays
+- Anders Bo Nielsen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294004/download
 grand_parent: iPRES

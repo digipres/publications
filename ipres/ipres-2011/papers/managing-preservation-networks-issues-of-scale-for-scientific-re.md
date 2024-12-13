@@ -8,10 +8,10 @@ abstract: The preservation of science data requires consideration of a wide rang
   This paper presents issues of scale for scientific research assets which will be
   explored further on the SCAPE project.
 creators:
-- Conway, Esther
-- Shaon, Arif
-- Matthews, Brian
-- Lambert, Simon
+- Esther Conway
+- Arif Shaon
+- Brian Matthews
+- Simon Lambert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294274/download
 grand_parent: iPRES

@@ -10,9 +10,9 @@ abstract: For emulation and other preservation actions, metadata is needed to de
   evaluation are also discussed. The model is extensible over the long term and is
   compatible with OAIS and PREMIS version 2.
 creators:
-- Delve, Janet
-- Ciuffreda, Antonio
-- Konstantelos, Leo
+- Janet Delve
+- Antonio Ciuffreda
+- Leo Konstantelos
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294265/download
 grand_parent: iPRES

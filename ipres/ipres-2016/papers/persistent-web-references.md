@@ -18,9 +18,9 @@ abstract: In this paper, we suggest adjustments to best practices for persistent
   web references. This description is based on the perspectives from computer science,
   web collection and Digital Humanities.
 creators:
-- Zierau, Eld
-- Kromann, Thomas Hvid
-- Nyvang, Caroline
+- Eld Zierau
+- Thomas Hvid Kromann
+- Caroline Nyvang
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502833/download
 grand_parent: iPRES

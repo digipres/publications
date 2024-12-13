@@ -24,8 +24,8 @@ abstract: 'Cross-domain collaboration lies at the heart of approach of the Dutch
 
   '
 creators:
-- van der Nat, Joost
-- Ras, Marcel
+- Joost van der Nat
+- Marcel Ras
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931105/download
 grand_parent: iPRES

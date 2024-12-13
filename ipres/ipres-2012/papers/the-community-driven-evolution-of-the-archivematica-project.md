@@ -13,8 +13,8 @@ abstract: In this paper, we discuss innovations by the Archivematica project as 
   email, and receiving updates about new normalization paths via a format policy registry
   (FPR).
 creators:
-- van Garderen, Peter
-- Mumma, Courtney C.
+- Peter van Garderen
+- Courtney C. Mumma
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293836/download
 grand_parent: iPRES

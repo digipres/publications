@@ -5,11 +5,11 @@ abstract: Representatives from a variety of distributed digital preservation ini
   networks to preserve the vast array of at-risk digital content produced by our societies
   and their institutions.
 creators:
-- Walters, Tyler
-- Wilson, Thomas C.
-- Jordan, Mark
-- Gore, Emily B.
-- Bishoff, Liz
+- Tyler Walters
+- Thomas C. Wilson
+- Mark Jordan
+- Emily B. Gore
+- Liz Bishoff
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294025/download
 grand_parent: iPRES

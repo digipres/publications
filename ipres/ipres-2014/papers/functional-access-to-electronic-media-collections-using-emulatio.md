@@ -5,10 +5,10 @@ abstract: Over the last 30 years the German National Library of Science and Tech
   infrastructure to provide authentic and interactive access to the TIB’s large electronic
   media collection.
 creators:
-- Bähr, Thomas
-- Lindlar, Michelle
-- Rechert, Klaus
-- Liebetraut, Thomas
+- Thomas Bähr
+- Michelle Lindlar
+- Klaus Rechert
+- Thomas Liebetraut
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378691/download
 grand_parent: iPRES

@@ -44,11 +44,11 @@ abstract: 'The archival community has recently been offered a series of cloud so
 
   '
 creators:
-- O’Farrelly, Kevin
-- Sharpe, Robert
-- Braud, Maïté
-- Carr, James
-- Gairey, Alan
+- Kevin O’Farrelly
+- Robert Sharpe
+- Maïté Braud
+- James Carr
+- Alan Gairey
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378109/download
 grand_parent: iPRES

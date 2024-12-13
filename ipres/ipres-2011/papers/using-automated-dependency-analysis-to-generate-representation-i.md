@@ -12,7 +12,7 @@ abstract: To preserve access to digital content, we must preserve the representa
   the generation of representation information for any digital media format, even
   when no suitable characterisation tool exists.
 creators:
-- Jackson, Andrew N.
+- Andrew N. Jackson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294238/download
 grand_parent: iPRES

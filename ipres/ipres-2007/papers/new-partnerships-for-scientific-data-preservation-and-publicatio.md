@@ -1,11 +1,11 @@
 ---
 abstract: null
 creators:
-- Zhongming, Zhu
-- Xing, Xiaoshi
-- Lenhardt, Christopher
-- Downs, Robert R.
-- Chen, Robert S.
+- Zhu Zhongming
+- Xiaoshi Xing
+- Christopher Lenhardt
+- Robert R. Downs
+- Robert S. Chen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294492/download
 grand_parent: iPRES

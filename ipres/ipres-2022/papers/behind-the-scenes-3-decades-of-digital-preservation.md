@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Sierman, Barbara
+- Barbara Sierman
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/e77734874a5843bbb114a8479c8214a0
 grand_parent: iPRES

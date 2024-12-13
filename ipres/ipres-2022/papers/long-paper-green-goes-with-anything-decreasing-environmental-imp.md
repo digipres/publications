@@ -3,7 +3,7 @@ abstract: This paper examines existing digital library practices at Virginia Tec
   University Libraries, and explores changes in documentation and practice that will
   foster a more environmentally sustainable collections platform.
 creators:
-- Kinnaman, Alex
+- Alex Kinnaman
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/041b9d71a3e245a3b824a82f8f6752c1
 grand_parent: iPRES

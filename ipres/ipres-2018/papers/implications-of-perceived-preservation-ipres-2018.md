@@ -14,7 +14,7 @@ abstract: This paper describes and explores the concept of perceived preservatio
   for the trust relationship between producer and archive but provides the opportunity
   to constantly reassess the archive’s decisions and priorities from the outside.
 creators:
-- Klindt, Marco
+- Marco Klindt
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:922202/download
 grand_parent: iPRES

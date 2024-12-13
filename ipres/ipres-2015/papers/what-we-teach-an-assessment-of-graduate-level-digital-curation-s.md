@@ -4,11 +4,11 @@ abstract: This poster reports preliminary results from an intensive review of En
   larger study looking at the convergence and divergence of reading assignments between
   digital library and digital curation curriculum.
 creators:
-- Hank, Carolyn
-- Lasley, Noah
-- Zhu, Xiaohua
-- Shireman, Kylan
-- Kirkpatrick, Charlene
+- Carolyn Hank
+- Noah Lasley
+- Xiaohua Zhu
+- Kylan Shireman
+- Charlene Kirkpatrick
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429589/download
 grand_parent: iPRES

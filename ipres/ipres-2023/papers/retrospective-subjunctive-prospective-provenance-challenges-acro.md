@@ -11,9 +11,9 @@ abstract: 'This panel will explore provenance: as theory and practice; as a tool
   experiences with provenance and to facilitate discussion and a community of practice
   around the relationship between digital preservation and provenance.'
 creators:
-- Bettivia, Rhiannon
-- Cheng, Yi-Yun
-- Gryk, Michael R.
+- Rhiannon Bettivia
+- Yi-Yun Cheng
+- Michael R. Gryk
 date: null
 document_url: https://www.ideals.illinois.edu/items/128283/bitstreams/428931/data.pdf
 grand_parent: iPRES

@@ -9,8 +9,8 @@ abstract: 'As  part  of  the  national  strategy  for  Cultural  Heritage  in  t
   into Dutch, (4) lessons learnt based  on  a  survey  amongst  DSA  certificate  holders,  (5)  training
   materials in Dutch.'
 creators:
-- Sierman, Barbara
-- Waterman, Kees
+- Barbara Sierman
+- Kees Waterman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931056/download
 grand_parent: iPRES

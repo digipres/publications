@@ -13,7 +13,7 @@ abstract: 'Abstract – with a collection of more than a million works and an ea
 
   '
 creators:
-- Kang, Xiaolu
+- Xiaolu Kang
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424915/download
 grand_parent: iPRES

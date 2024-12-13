@@ -31,9 +31,9 @@ abstract: '"Computing checksums to prevent bit rot is accepted wisdom in the dig
   best practices in digital preservation and in high-performance computing. Sample
   code paths for working with and validating block checksums are also demonstrated."'
 creators:
-- Garnett, Alex
-- Simpson, Justin
-- Winter, Mike
+- Alex Garnett
+- Justin Simpson
+- Mike Winter
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923643/download
 grand_parent: iPRES

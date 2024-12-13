@@ -13,8 +13,8 @@ abstract: A large number of bibliographic data and images of Japanese historical
   preface and so on. Finally, a script creates connections from named entities to
   URIs which describe headings or glossaries provided online by public organizations.
 creators:
-- Yoshiga, Natsuko
-- Tadaki, Shin-Ichi
+- Natsuko Yoshiga
+- Shin-Ichi Tadaki
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931094/download
 grand_parent: iPRES

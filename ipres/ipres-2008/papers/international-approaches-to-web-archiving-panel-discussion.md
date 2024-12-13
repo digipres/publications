@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Hallgrimsson, Thorsteinn
+- Thorsteinn Hallgrimsson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294188/download
 grand_parent: iPRES

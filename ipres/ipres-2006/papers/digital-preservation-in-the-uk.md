@@ -10,7 +10,7 @@ abstract: The UK scene -- David Thomas will focus on the Seamless Flow programme
   this challenging programme have a wider application and he will be sharing these
   with you.
 creators:
-- Thomas, David
+- David Thomas
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294870/download
 grand_parent: iPRES

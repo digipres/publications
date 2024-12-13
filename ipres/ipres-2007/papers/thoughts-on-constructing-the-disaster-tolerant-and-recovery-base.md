@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Jiazhen, Liu
+- Liu Jiazhen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294527/download
 grand_parent: iPRES

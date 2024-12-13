@@ -9,7 +9,7 @@ abstract: 'Rhizome’s ArtBase is a public archive holding cop-ies of more than 
   help visitors choose which artworks, versions, and modes of access will best meet
   their needs.'
 creators:
-- Espenschied, Dragan
+- Dragan Espenschied
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/9efa686c89c244549bcfd1a3af32a178
 grand_parent: iPRES

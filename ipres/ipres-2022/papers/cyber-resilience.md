@@ -13,7 +13,7 @@ abstract: Data that is at the heart of ransomware attack. Thanks to the rapid di
   />What is Cyber Resilience and what’s best practice.  Here we’ll take a deeper dive
   at the bigger picture.
 creators:
-- Hewitson, Greg
+- Greg Hewitson
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/d95106f4fa3c4918aaf2ca6a39371a3e
 grand_parent: iPRES

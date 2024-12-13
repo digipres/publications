@@ -10,7 +10,7 @@ abstract: Scholars who study trust in digital archives have largely focused thei
   specific user interaction. Implications of this proposed research stress the importance
   of assessing the ‘real-world’ impact of trust signals on users.
 creators:
-- Donaldson, Devan Ray
+- Devan Ray Donaldson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294204/download
 grand_parent: iPRES

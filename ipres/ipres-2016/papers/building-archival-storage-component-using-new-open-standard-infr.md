@@ -3,7 +3,7 @@ abstract: The National Library of Poland (NLP) makes use of emerging open standa
   of digital magnetic tape structure - LTFS to build simple, efficient, economic,
   scalable and safe archival storage component for institutional repository.
 creators:
-- Paradowski, Dariusz
+- Dariusz Paradowski
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503188/download
 grand_parent: iPRES

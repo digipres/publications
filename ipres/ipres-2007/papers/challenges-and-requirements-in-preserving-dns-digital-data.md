@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Wang, Wei
+- Wei Wang
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294517/download
 grand_parent: iPRES

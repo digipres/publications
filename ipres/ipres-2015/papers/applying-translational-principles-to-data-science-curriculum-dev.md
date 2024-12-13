@@ -8,10 +8,10 @@ abstract: 'This paper reports on a curriculum mapping study that examined job de
   data science principles to frame and extend their curriculum to prepare their students
   for data-driven career opportunities.'
 creators:
-- Lyon, Liz
-- Mattern, Eleanor
-- Acker, Amelia
-- Langmead, Alison
+- Liz Lyon
+- Eleanor Mattern
+- Amelia Acker
+- Alison Langmead
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429552/download
 grand_parent: iPRES

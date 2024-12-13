@@ -4,8 +4,8 @@ abstract: HydraDAM2, a digital preservation repository project being developed t
   in the Hydra/Fedora stack in order to provide better long-term management solutions
   for large audiovisual files.
 creators:
-- Dowding, Heidi
-- Muraszko, Michael
+- Heidi Dowding
+- Michael Muraszko
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502818/download
 grand_parent: iPRES

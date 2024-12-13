@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Giles, Laura
+- Laura Giles
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424725/download
 grand_parent: iPRES

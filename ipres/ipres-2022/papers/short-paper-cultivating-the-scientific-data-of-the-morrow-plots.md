@@ -8,7 +8,7 @@ abstract: The Morrow Plots at the University of Illinois at Urbana-Champaign are
   the importance of interdisciplinary collaborations to curate longitudinal scientific
   data sets.
 creators:
-- Anderson, Bethany
+- Bethany Anderson
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/6adb7ea99f664574bda29e0ce23a1489
 grand_parent: iPRES

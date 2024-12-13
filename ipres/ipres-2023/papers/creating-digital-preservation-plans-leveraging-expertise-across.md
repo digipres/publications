@@ -8,9 +8,9 @@ abstract: The creation of Digital Preservation Plans requires leveraging a wide 
   Plans. Session will include recommendations of how to apply our approach at your
   institution.
 creators:
-- Kramer-Smyth, Jeanne
-- Gkremo, Thomas
-- Thompson, Sherrine
+- Jeanne Kramer-Smyth
+- Thomas Gkremo
+- Sherrine Thompson
 date: null
 document_url: https://www.ideals.illinois.edu/items/128277/bitstreams/428919/data.pdf
 grand_parent: iPRES

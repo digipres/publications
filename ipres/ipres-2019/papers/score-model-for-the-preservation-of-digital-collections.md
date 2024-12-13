@@ -13,8 +13,8 @@ abstract: The Score Model for the Preservation of Digital Collections is an onli
   has advanced in becoming a Trusted Digital Repository in the form of qualifying
   for a Core Trust Seal.
 creators:
-- Gillesse, Robert
-- Lemmens, Bert
+- Robert Gillesse
+- Bert Lemmens
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079911/download
 grand_parent: iPRES

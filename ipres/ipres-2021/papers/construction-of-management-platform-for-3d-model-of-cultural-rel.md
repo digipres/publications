@@ -5,9 +5,9 @@ abstract: With the continuous enrichment of Museum digital resources, more and m
   three-dimensional images of cultural relics in terms of data acquisition, quality
   control, storage and security protection mechanisms.
 creators:
-- Liu, Fang
-- Li, Huabiao
-- Yang, Chao
+- Fang Liu
+- Huabiao Li
+- Chao Yang
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424919/download
 grand_parent: iPRES

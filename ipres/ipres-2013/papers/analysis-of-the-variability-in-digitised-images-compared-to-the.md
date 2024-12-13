@@ -12,8 +12,8 @@ abstract: The paper evaluates the noise which is present in digitised images of 
   lossless master digitised images could be replaced by the use of more compact compressed
   images, arguably with no loss of quality.
 creators:
-- Martin, Sean
-- Macleod, Malcom
+- Sean Martin
+- Malcom Macleod
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377379/download
 grand_parent: iPRES

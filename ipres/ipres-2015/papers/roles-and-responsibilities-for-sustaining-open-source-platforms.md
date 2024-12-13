@@ -13,8 +13,8 @@ abstract: Developing, deploying and maintaining open source software is increasi
   the role of open source community building activities throughout projects and an
   initial model for key institutional roles for projects at different levels of maturity.
 creators:
-- Owens, Trevor
-- Wilson, Carl
+- Trevor Owens
+- Carl Wilson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429624/download
 grand_parent: iPRES

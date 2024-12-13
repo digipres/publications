@@ -7,9 +7,9 @@ abstract: Fedora is a flexible, extensible, open source repository platform for 
   (OCFL). This tutorial will provide an introduction to the latest version of Fedora
   with a focus on digital preservation functionality and workflows.
 creators:
-- Bernstein, Daniel
-- Woods, Andrew
-- Wilcox, David
+- Daniel Bernstein
+- Andrew Woods
+- David Wilcox
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080497/download
 grand_parent: iPRES

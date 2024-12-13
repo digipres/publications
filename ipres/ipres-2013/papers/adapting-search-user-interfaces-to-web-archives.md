@@ -2,8 +2,8 @@
 abstract: We believe that our work can be applied to improve the quality of the services
   provided by other web archives.
 creators:
-- Cruz, David
-- Gomes, Daniel
+- David Cruz
+- Daniel Gomes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377376/download
 grand_parent: iPRES

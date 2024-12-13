@@ -12,9 +12,9 @@ abstract: In order better to meet the needs of its diverse University of Califor
   with regard to local policies and practices and sustainable despite the inevitability
   of disruptive change in technology and user expectation.
 creators:
-- Abrams, Stephen
-- Loy, David
-- Kunze, John
+- Stephen Abrams
+- David Loy
+- John Kunze
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294039/download
 grand_parent: iPRES

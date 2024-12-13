@@ -12,7 +12,7 @@ abstract: 'This paper outlines some of the most relevant copyright obstacles lib
   at least some relevant questions in relation to copyright will be posed in order
   to maybe launch further discussions.'
 creators:
-- Schreiber, Andrea Ruth
+- Andrea Ruth Schreiber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502848/download
 grand_parent: iPRES

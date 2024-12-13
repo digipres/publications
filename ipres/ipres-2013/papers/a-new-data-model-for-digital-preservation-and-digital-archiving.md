@@ -8,13 +8,13 @@ abstract: The three ministries in charge of public digital archiving in France (
   we describe our IT approach of this archivistic problem, our new data model and
   the results of this inter-ministerial study.
 creators:
-- Bregier, Frédéric
-- Deguilhen, Frédéric
-- Morin, Nathalie
-- Laperdrix, Marie
-- Fuentes-Hashimoto, Lourdes
-- Vasseur, Edouard
-- Van De Walle, Thomas
+- Frédéric Bregier
+- Frédéric Deguilhen
+- Nathalie Morin
+- Marie Laperdrix
+- Lourdes Fuentes-Hashimoto
+- Edouard Vasseur
+- Thomas Van De Walle
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377373/download
 grand_parent: iPRES

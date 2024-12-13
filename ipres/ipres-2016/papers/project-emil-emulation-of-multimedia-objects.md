@@ -4,10 +4,10 @@ abstract: In this poster we will present the results of the German research proj
   flexible and automatable access framework for multimedia objects in libraries and
   museums was developed.
 creators:
-- Steinke, Tobias
-- Rechert, Klaus
-- Schoger, Astrid
-- Padberg, Frank
+- Tobias Steinke
+- Klaus Rechert
+- Astrid Schoger
+- Frank Padberg
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503170/download
 grand_parent: iPRES

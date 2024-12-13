@@ -15,7 +15,7 @@ abstract: 'The digital content lifecycle is generally understood as a set of act
   documentation of best practices, open source software releases, and support for
   a file-level preservation audit.'
 creators:
-- Johnston, Leslie
+- Leslie Johnston
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185485/download
 grand_parent: iPRES

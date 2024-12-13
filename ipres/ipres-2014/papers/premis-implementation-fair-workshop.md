@@ -5,9 +5,9 @@ abstract: 'This workshop provides an overview of the PREMIS Data Dictionary for 
   the preservation community on implementation of the standard in various systems
   or contexts. '
 creators:
-- McKinney, Peter
-- Guenther, Rebecca
-- Zierau, Eld
+- Peter McKinney
+- Rebecca Guenther
+- Eld Zierau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378137/download
 grand_parent: iPRES

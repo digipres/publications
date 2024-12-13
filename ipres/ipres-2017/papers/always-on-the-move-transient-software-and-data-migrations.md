@@ -26,7 +26,7 @@ abstract: 'Software is transient: it’s the data that matter. Anyone who works 
   and ease data migrations through the work of the RDA Research Data Repository Interoperability
   working group.'
 creators:
-- Wilcox, David
+- David Wilcox
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931092/download
 grand_parent: iPRES

@@ -9,8 +9,8 @@ abstract: Digital curation may be thought of as a set of strategies, technologic
   for participants to challenge and engage in the dialogue that defines and describes
   digital curation.
 creators:
-- Nordland, Lori Podolsky
-- Hank, Carolyn
+- Lori Podolsky Nordland
+- Carolyn Hank
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294076/download
 grand_parent: iPRES

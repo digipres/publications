@@ -14,7 +14,7 @@ abstract: The NFT (Non-fungible token) market is experiencing explosive growth. 
   of the new business model and workflow, with potential future challenges and opportunities
   to the revised NFT market.
 creators:
-- Shan, Pengyin
+- Pengyin Shan
 date: null
 document_url: https://www.ideals.illinois.edu/items/128310/bitstreams/428985/data.pdf
 grand_parent: iPRES

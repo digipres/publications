@@ -20,7 +20,7 @@ abstract: 'The electronic publishing process implies in generell certain attribu
   worldwide and on productive implementations. Based on the EPICUR project in Die
   Deutsche Bibliothek, a prospect on continuative activities will be given.'
 creators:
-- Altenhöner, Reinhard
+- Reinhard Altenhöner
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295016/download
 grand_parent: iPRES

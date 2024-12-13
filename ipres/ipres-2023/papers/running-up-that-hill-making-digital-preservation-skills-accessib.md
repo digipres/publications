@@ -7,8 +7,8 @@ abstract: Over the last three years, The National Archives (UK) and the Digital 
   with the topic. This paper will examine the projects motivations, outputs, impact,
   and future plans.
 creators:
-- McMeekin, Sharon
-- Haunton, Melinda
+- Sharon McMeekin
+- Melinda Haunton
 date: null
 document_url: https://www.ideals.illinois.edu/items/128303/bitstreams/428971/data.pdf
 grand_parent: iPRES

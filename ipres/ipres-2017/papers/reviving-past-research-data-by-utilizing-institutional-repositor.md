@@ -9,8 +9,8 @@ abstract: A  considerable  number  of  databases  created  through Japanese publ
   (JPCOAR)  is  currently  testing  a  workflow  for  the transfer   of   contents   from   unstable   databases   to
   institutional repositories.
 creators:
-- Amano, Eriko
-- Minamiyama, Yasuyuki
+- Eriko Amano
+- Yasuyuki Minamiyama
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931136/download
 grand_parent: iPRES

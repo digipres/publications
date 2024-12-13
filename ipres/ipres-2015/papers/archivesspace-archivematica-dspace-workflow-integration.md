@@ -10,8 +10,8 @@ abstract: In recent years, ArchivesSpace and Archivematica have emerged as two o
   of content into a DSpace repository. This poster will introduce the “ArchivesSpace-Archivematica-DSpace
   Workflow Integration” project and its goals, strategies, and development roadmap.
 creators:
-- Shallcross, Michael
-- Eckard, Max
+- Michael Shallcross
+- Max Eckard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429601/download
 grand_parent: iPRES

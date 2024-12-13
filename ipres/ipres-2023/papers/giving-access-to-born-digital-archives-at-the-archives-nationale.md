@@ -12,10 +12,10 @@ abstract: 'Born-digital archives, managed in a repository, are accessible thanks
   practice, leading to the creation of an in-house proof-of-concept (POC) and tool:
   OE-DIP (Objets et Empreintes de DIP, Objects and Checksums of DIP).'
 creators:
-- Levasseur, Emeline
-- Falut, André
-- Fenech, Julien
-- Ferrera, Matias
+- Emeline Levasseur
+- André Falut
+- Julien Fenech
+- Matias Ferrera
 date: null
 document_url: https://www.ideals.illinois.edu/items/128267/bitstreams/428899/data.pdf
 grand_parent: iPRES

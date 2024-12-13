@@ -20,7 +20,7 @@ abstract: 'As modern commercial developments in storage infrastructure mature an
   with the hopes that it will encourage other digital preservation technological developments
   with a similar sustainability mindset.'
 creators:
-- Tallman, Nathan
+- Nathan Tallman
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/3e7e2efdc18343ca98290534aea69910
 grand_parent: iPRES

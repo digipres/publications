@@ -13,7 +13,7 @@ abstract: Radioactive waste management encompasses timescales ranging from centu
   at the first repository operated by Andra, producing a 464-page document instead
   of a million pages that plain text printing would have required.<br />
 creators:
-- Joguin, Vincent
+- Vincent Joguin
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/5081138fec024d5baf499e6f63dfd70e
 grand_parent: iPRES

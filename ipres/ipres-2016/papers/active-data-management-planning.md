@@ -8,12 +8,12 @@ abstract: This workshop will consider the outcomes of the next RDA ADMP IG works
   addressed. The outcome of this workshop will be the preparation of a roadmap towards
   a reference framework of ADMP management and automation.
 creators:
-- Engel, Felix
-- Hemmje, Matthias
-- Waddington, Simon
-- Glaves, Helen
-- Baxter, Rob
-- Görzig, Heike
+- Felix Engel
+- Matthias Hemmje
+- Simon Waddington
+- Helen Glaves
+- Rob Baxter
+- Heike Görzig
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502817/download
 grand_parent: iPRES

@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Rosemann, Uwe
+- Uwe Rosemann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294516/download
 grand_parent: iPRES

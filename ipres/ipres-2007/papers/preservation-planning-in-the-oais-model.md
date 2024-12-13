@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Strodl, Stephan
-- Rauber, Andreas
+- Stephan Strodl
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294493/download
 grand_parent: iPRES

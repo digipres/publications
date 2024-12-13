@@ -2,9 +2,9 @@
 abstract: In this paper, we describe a poster on the State Records New South Wales
   approach to digital archives.
 creators:
-- Lehane, Richard
-- Archer, Danny
-- Findlay, Cassie
+- Richard Lehane
+- Danny Archer
+- Cassie Findlay
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378697/download
 grand_parent: iPRES

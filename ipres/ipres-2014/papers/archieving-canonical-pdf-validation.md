@@ -8,7 +8,7 @@ abstract: 'While PDF is the best currently available option for archiving fixed-
   on a canonical (i.e. accepted industry-wide as definitive) approach rather than
   focusing on preservation per se.  '
 creators:
-- Johnson, Duff
+- Duff Johnson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378070/download
 grand_parent: iPRES

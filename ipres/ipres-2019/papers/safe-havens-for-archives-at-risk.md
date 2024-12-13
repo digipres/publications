@@ -8,8 +8,8 @@ abstract: The main aim of our poster is to raise awareness among the Digital Pre
   format neutral, we highlight specific digital considerations that are emerging in
   development of the commentaries.
 creators:
-- Gollins, Tim
-- Doek, Afelonne
+- Tim Gollins
+- Afelonne Doek
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081748/download
 grand_parent: iPRES

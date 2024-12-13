@@ -10,9 +10,9 @@ abstract: The emphasis during the last three EC Framework Programs on Digital Pr
   to gauge the fitness-for-purpose of software outputs. The paper concludes by demonstrating
   the applicability of the validation approach to preservation projects in general.
 creators:
-- Konstantelos, Leo
-- Ross, Seamus
-- Innocenti, Perla
+- Leo Konstantelos
+- Seamus Ross
+- Perla Innocenti
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294270/download
 grand_parent: iPRES

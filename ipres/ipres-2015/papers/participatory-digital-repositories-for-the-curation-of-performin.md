@@ -9,7 +9,7 @@ abstract: The complexity of socio-technical systems in artistic production invol
   with live electronics to propose future directions for the integration of curation
   practices, artistic practices and digital curation models.
 creators:
-- Boutard, Guillaume
+- Guillaume Boutard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429535/download
 grand_parent: iPRES

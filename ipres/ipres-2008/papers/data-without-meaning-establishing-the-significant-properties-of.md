@@ -10,8 +10,8 @@ abstract: It is well recognised that the time period in which digital research m
   process and highlights the work of four recent JISC-funded studies to specify the
   significant properties of vector images, moving images, software and learning objects.
 creators:
-- Knight, Gareth
-- Pennock, Maureen
+- Gareth Knight
+- Maureen Pennock
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294108/download
 grand_parent: iPRES

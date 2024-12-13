@@ -9,8 +9,8 @@ abstract: Oracle Public Cloud offers data backup and archive services with a hig
   scenarios will be given. The Oracle Archival Cloud offers new infrastructure opportunities
   to institutions.
 creators:
-- Cho, Pyounguk
-- Pasquinelli, Art
+- Pyounguk Cho
+- Art Pasquinelli
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429579/download
 grand_parent: iPRES

@@ -15,8 +15,8 @@ abstract: 'Companies face challenges towards designing and implementing a preser
   identified for the financial sector are presented and discussed. The agenda for
   future research work is also presented.'
 creators:
-- Chituc, Claudia-Melania
-- Ristau, Petra
+- Claudia-Melania Chituc
+- Petra Ristau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293847/download
 grand_parent: iPRES

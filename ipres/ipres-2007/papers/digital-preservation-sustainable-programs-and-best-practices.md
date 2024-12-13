@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Xie, Sherry L.
+- Sherry L. Xie
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294495/download
 grand_parent: iPRES

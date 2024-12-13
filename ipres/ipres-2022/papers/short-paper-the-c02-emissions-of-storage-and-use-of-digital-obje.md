@@ -8,7 +8,7 @@ abstract: The storage and use of digital heritage objects produce carbon dioxide
   not end there. We look ahead, beyond the case study and beyond boundaries, introducing
   a research agenda within the Dutch Digital Heritage Network (DDHN).
 creators:
-- van Zwol, Tamara
+- Tamara van Zwol
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/42719d2ec53c4bc9b4a66e2b48963544
 grand_parent: iPRES

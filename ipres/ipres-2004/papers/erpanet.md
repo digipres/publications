@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Aschenbrenner, Andreas
+- Andreas Aschenbrenner
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295023/download
 grand_parent: iPRES

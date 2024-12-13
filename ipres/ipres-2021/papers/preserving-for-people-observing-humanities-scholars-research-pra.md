@@ -14,12 +14,12 @@ abstract: 'In order to assess the potential suitability of digital preservation 
 
   '
 creators:
-- Leigh, Alexandra
-- Makri, Stephann
-- Taylor, Alex
-- Mulinder, Alec
-- Hamdi, Sarra
-- Ranade, Sonia
+- Alexandra Leigh
+- Stephann Makri
+- Alex Taylor
+- Alec Mulinder
+- Sarra Hamdi
+- Sonia Ranade
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424927/download
 grand_parent: iPRES

@@ -7,8 +7,8 @@ abstract: nestor is the German network of expertise in Digital Preservation. Lik
   developments and current work in nestor and close with the prospects of the challenges
   ahead.
 creators:
-- Schrimpf, Sabine
-- Tunnat, Yvonne
+- Sabine Schrimpf
+- Yvonne Tunnat
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923632/download
 grand_parent: iPRES

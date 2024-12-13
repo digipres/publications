@@ -14,7 +14,7 @@ abstract: 'Cooperatively operated digital preservation systems offer institution
   underlying processes shall be beneficial to other cooperatively operated digital
   preservation systems.'
 creators:
-- Lindlar, Michelle
+- Michelle Lindlar
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503187/download
 grand_parent: iPRES

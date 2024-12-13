@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Martin, Frédéric
+- Frédéric Martin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294524/download
 grand_parent: iPRES

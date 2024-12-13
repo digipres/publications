@@ -7,10 +7,10 @@ abstract: A data model is an expression of how a system is intended to be used, 
   of the key decisions made in the application of the PREMIS concepts to an extant
   digital preservation system.
 creators:
-- O’Farrelly, Kevin
-- Gairey, Alan
-- Smith, Richard
-- O’Sullivan, Jack
+- Kevin O’Farrelly
+- Alan Gairey
+- Richard Smith
+- Jack O’Sullivan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079786/download
 grand_parent: iPRES

@@ -13,7 +13,7 @@ abstract: This paper concerns a current pilot study relating to contemporary pop
   challenges it presents. We will then cover the approaches taken by the Library and
   our progress to date.<br />
 creators:
-- Love, Valerie
+- Valerie Love
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/92af357d94024f98ae9b7eef66b44853
 grand_parent: iPRES

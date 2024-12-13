@@ -15,7 +15,7 @@ abstract: 'Preservation of our cultural heritage on the Internet is increasingly
   form of a worldwide crawl. Another suggested approach is more silo oriented, based
   on harvests of web pages referred to by webpages within a National Top Level Domain.'
 creators:
-- Zierau, Eld
+- Eld Zierau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429612/download
 grand_parent: iPRES

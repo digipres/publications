@@ -15,12 +15,12 @@ abstract: The news industry has quickly adopted networked digital technologies t
   as will tools that have been developed to capture social media and other content
   from the web that contributes to the present day news ecosystem.
 creators:
-- McCain, Edward
-- Sommers, Hannah
-- Klein, Martin
-- Moffatt, Christie
-- Potter, Abigail
-- Reecht, Stéphane
+- Edward McCain
+- Hannah Sommers
+- Martin Klein
+- Christie Moffatt
+- Abigail Potter
+- Stéphane Reecht
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429528/download
 grand_parent: iPRES

@@ -11,7 +11,7 @@ abstract: 'Collaborative tagging is a way of information collection after the po
 
   '
 creators:
-- Jing, Sun
+- Sun Jing
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424916/download
 grand_parent: iPRES

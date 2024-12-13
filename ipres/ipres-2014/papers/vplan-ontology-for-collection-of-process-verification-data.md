@@ -15,9 +15,9 @@ abstract: 'The reproducibility of modern research depends on the possibility to 
   on a use case from the civil engineering domain, which is an example of a typical
   sensor data analysis process. '
 creators:
-- Miksa, Tomasz
-- Rauber, Andreas
-- Vieira, Ricardo
+- Tomasz Miksa
+- Andreas Rauber
+- Ricardo Vieira
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378113/download
 grand_parent: iPRES

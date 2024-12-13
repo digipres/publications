@@ -18,9 +18,9 @@ abstract: 'With the development of digital technology, museums are facing a grea
 
   '
 creators:
-- Zhang, Peipei
-- Liu, Huan
-- Hou, Chenchen
+- Peipei Zhang
+- Huan Liu
+- Chenchen Hou
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424917/download
 grand_parent: iPRES

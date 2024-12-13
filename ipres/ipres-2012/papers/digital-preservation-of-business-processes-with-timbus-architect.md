@@ -9,12 +9,12 @@ abstract: The majority of existing digital preservation solutions are focusing o
   solutions and provides a complete framework for preserving business processes implemented
   upon a service oriented architecture.
 creators:
-- Galushka, Mykola
-- Neumann, Martin Alexander
-- Strodl, Stephan
-- Taylor, Philip
-- Gilani, Wasif
-- Thomson, John
+- Mykola Galushka
+- Martin Alexander Neumann
+- Stephan Strodl
+- Philip Taylor
+- Wasif Gilani
+- John Thomson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293772/download
 grand_parent: iPRES

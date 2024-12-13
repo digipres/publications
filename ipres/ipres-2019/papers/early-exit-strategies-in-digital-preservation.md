@@ -8,9 +8,9 @@ abstract: Digital preservation is a continuous activity requiring long-term effo
   enacted in response to the closure of a distributed data preservation initiative
   and stress the importance of a prior “plan B” to digital preservation plans.
 creators:
-- Chang, Benn
-- Esteva, Maria
-- Adair, Ashley
+- Benn Chang
+- Maria Esteva
+- Ashley Adair
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081724/download
 grand_parent: iPRES

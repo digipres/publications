@@ -27,7 +27,7 @@ abstract: DANS is the new Dutch organization, which has been tasked with the pre
   their data with other researchers. DANS aims to make access to research data as
   open as possible.
 creators:
-- van Horik , René
+- René van Horik
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294555/download
 grand_parent: iPRES

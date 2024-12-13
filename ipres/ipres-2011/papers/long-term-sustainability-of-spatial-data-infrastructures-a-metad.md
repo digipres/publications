@@ -17,15 +17,15 @@ abstract: With growing concerns about environmental problems, and an exponential
   exposing important preservation related information about geographical data through
   large-scale SDIs like INSPIRE.
 creators:
-- Shaon, Arif
-- Samuelsson, Göran
-- Bos, Marguérite
-- Kirstein, Michael
-- Woolf, Andrew
-- Mason, Paul
-- Naumann, Kai
-- Gerber, Urs
-- Rönsdorf, Carsten
+- Arif Shaon
+- Göran Samuelsson
+- Marguérite Bos
+- Michael Kirstein
+- Andrew Woolf
+- Paul Mason
+- Kai Naumann
+- Urs Gerber
+- Carsten Rönsdorf
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294224/download
 grand_parent: iPRES

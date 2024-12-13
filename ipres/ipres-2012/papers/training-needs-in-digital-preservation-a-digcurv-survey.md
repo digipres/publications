@@ -2,8 +2,8 @@
 abstract: In this poster, we introduce the results of a survey of the training needs
   in digital preservation conducted by the DigCurV project.
 creators:
-- Strathmann, Stefen
-- Engelhardt, Claudia
+- Stefen Strathmann
+- Claudia Engelhardt
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294079/download
 grand_parent: iPRES

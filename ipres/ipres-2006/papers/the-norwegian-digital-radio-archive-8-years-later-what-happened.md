@@ -12,7 +12,7 @@ abstract: The Norwegian Broadcast Corporation (NRK, www.nrk.no) and the National
   the use of FEIDE, the National Library of Norway has established a role-based access
   control for the archive.
 creators:
-- Brygfjeld, Svein Arne
+- Svein Arne Brygfjeld
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294546/download
 grand_parent: iPRES

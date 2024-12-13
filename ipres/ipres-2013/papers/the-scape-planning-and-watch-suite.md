@@ -10,11 +10,11 @@ abstract: Increasingly, content owners are operating repositories with large, he
   planning, and monitoring, and show how they can be combined to support scalable
   management of preservation over time.
 creators:
-- Kraxner, Michael
-- Plangg, Markus
-- Duretec, Kresimir
-- Becker, Christoph
-- Faria, Luís
+- Michael Kraxner
+- Markus Plangg
+- Kresimir Duretec
+- Christoph Becker
+- Luís Faria
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378091/download
 grand_parent: iPRES

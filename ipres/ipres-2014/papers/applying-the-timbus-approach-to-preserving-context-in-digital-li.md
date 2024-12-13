@@ -24,8 +24,8 @@ abstract: "To date, digital preservation has generally focused on the preservati
   relevant to the digital library domain. They will also gain an understanding of
   digital preservation as a risk mitigation strategy. \n "
 creators:
-- Coutinho, Carlos
-- Gooding, Paul
+- Carlos Coutinho
+- Paul Gooding
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378687/download
 grand_parent: iPRES

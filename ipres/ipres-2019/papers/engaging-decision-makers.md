@@ -5,8 +5,8 @@ abstract: The Executive Guide on Digital Preservation provides practitioners wit
   policy makers with a view to embedding the value of digital preservation at the
   core of every organization.
 creators:
-- McMeekin, Sharon
-- Middleton, Sarah
+- Sharon McMeekin
+- Sarah Middleton
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079692/download
 grand_parent: iPRES

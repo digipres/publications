@@ -13,9 +13,9 @@ abstract: In 2018 and 2019, as part of the UK Legal Deposit Libraries’ sponsor
   surmountable with sufficient resource and investment, the lack of growth in this
   content area in recent years makes large scale investment questionable.
 creators:
-- Day, Michael
-- May, Peter
-- Pennock, Maureen
+- Michael Day
+- Peter May
+- Maureen Pennock
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081751/download
 grand_parent: iPRES

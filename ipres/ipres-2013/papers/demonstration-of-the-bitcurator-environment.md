@@ -4,7 +4,7 @@ abstract: This demonstration will illustrate the design and functionality of the
   to apply digital forensics methods to digital materials. These methods help to advance
   a variety of digital preservation goals.
 creators:
-- Lee, Christopher A.
+- Christopher A. Lee
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378013/download
 grand_parent: iPRES

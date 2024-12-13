@@ -11,10 +11,10 @@ abstract: Cloud services have become the increasingly dominant paradigm for many
   mission-supporting ways, and how some are working to build alternative, community-based
   infrastructures.
 creators:
-- Taylor, Nicholas
-- Ross, Roslynn
-- Bailey, Jefferson
-- Goethals, Andrea
+- Nicholas Taylor
+- Roslynn Ross
+- Jefferson Bailey
+- Andrea Goethals
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1082726/download
 grand_parent: iPRES

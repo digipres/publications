@@ -9,7 +9,7 @@ abstract: In this article we describe the way MoReq 2010 has been used to guide 
   the notion that these can used as vessels to revitalize information and support
   operational systems in the day-to-day business operations.
 creators:
-- Faria, Luis
+- Luis Faria
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/a6b95cb6e27845e38e019eb07764d294
 grand_parent: iPRES

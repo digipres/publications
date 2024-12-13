@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Luo, Yunchuan
+- Yunchuan Luo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294497/download
 grand_parent: iPRES

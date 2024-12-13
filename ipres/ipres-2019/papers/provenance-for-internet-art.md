@@ -13,9 +13,9 @@ abstract: When a scholar, curator or archivist is researching an artwork, they n
   works of Internet art. This paper is aimed at digital art conservators, digital
   curators, Web archivists and art historians.
 creators:
-- Espenschied, Dragan
-- Wild, Dr Karin
-- Rossenova, Lozana
+- Dragan Espenschied
+- Dr Karin Wild
+- Lozana Rossenova
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081728/download
 grand_parent: iPRES

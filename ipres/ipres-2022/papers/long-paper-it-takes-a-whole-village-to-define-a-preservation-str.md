@@ -11,7 +11,7 @@ abstract: After publishing its policy on data formats for digital preservation, 
   cases helped define empirically a method, still a work in progress, that is briefly
   presented in the last part of the paper.<br />
 creators:
-- Caron, Bertrand
+- Bertrand Caron
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/c537cfbf3c3543c4b8ac094dddb2ce51
 grand_parent: iPRES

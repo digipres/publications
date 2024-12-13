@@ -10,9 +10,9 @@ abstract: Advancements in information science technology are generating anticipa
   their methods, and then propose strategies on the long-term preservation of digital
   information in the super smart society in 2018.
 creators:
-- Nojima, Hideo
-- Kasahara, Shoji
-- Minato, Kotaro
+- Hideo Nojima
+- Shoji Kasahara
+- Kotaro Minato
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931133/download
 grand_parent: iPRES

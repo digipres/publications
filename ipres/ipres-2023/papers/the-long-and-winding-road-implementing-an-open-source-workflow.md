@@ -10,7 +10,7 @@ abstract: This paper will discuss the recent work of the abrdn archive to create
   fuel, but the outcome has been positive and archive colleagues are keen to find
   out where the road will lead them next.
 creators:
-- Williamson, Karyn
+- Karyn Williamson
 date: null
 document_url: https://www.ideals.illinois.edu/items/128312/bitstreams/428989/data.pdf
 grand_parent: iPRES

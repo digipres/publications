@@ -9,7 +9,7 @@ abstract: This paper will describe the tools and infrastructure components which
   a rich selection of digital objects which encode information from a variety of disciplines
   including science, cultural heritage and also contemporary  performing arts.
 creators:
-- Giaretta, David
+- David Giaretta
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294036/download
 grand_parent: iPRES

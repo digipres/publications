@@ -6,8 +6,8 @@ abstract: This short paper describes problems arising in optical character recog
   shown on the example of the current project focused on improving the access to digitized
   Czech prints from the 19th century and the first half of the 20th century.
 creators:
-- Kucera, Karel
-- Stluka, Martin
+- Karel Kucera
+- Martin Stluka
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293845/download
 grand_parent: iPRES

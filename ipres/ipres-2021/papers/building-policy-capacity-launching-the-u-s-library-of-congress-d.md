@@ -12,12 +12,12 @@ abstract: 'In 2019 the Library of Congress launched the Digital Collections Mana
 
   '
 creators:
-- Owens, Trevor
-- Salas, Camille
-- Johnston, Jesse
-- Cassidy-Amstutz, Andrew
-- Gonzalez-Fernandez, Pedro
-- Darby, Kristy
+- Trevor Owens
+- Camille Salas
+- Jesse Johnston
+- Andrew Cassidy-Amstutz
+- Pedro Gonzalez-Fernandez
+- Kristy Darby
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424886/download
 grand_parent: iPRES

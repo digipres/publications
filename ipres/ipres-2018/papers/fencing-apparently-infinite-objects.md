@@ -9,8 +9,8 @@ abstract: 'Todays digital preservation practice focuses mostly on fixed or compl
   To cope with apparently infinite objects and their increasing complexity, this paper
   explores an expanded definition of object boundaries for performative objects.'
 creators:
-- Espenschied, Dragan
-- Rechert, Klaus
+- Dragan Espenschied
+- Klaus Rechert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923620/download
 grand_parent: iPRES

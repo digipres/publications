@@ -13,10 +13,10 @@ abstract: In 2020, Adobe announced that they would end support for Adobe Flash P
   This led to the development of conclusions and several pieces of advice accompanying
   those.
 creators:
-- van Veenendaal, Remco
-- Wijsman, Lotte
-- Takema, Jacob
-- Rappard, Marin
+- Remco van Veenendaal
+- Lotte Wijsman
+- Jacob Takema
+- Marin Rappard
 date: null
 document_url: https://www.ideals.illinois.edu/items/128299/bitstreams/428963/data.pdf
 grand_parent: iPRES

@@ -7,10 +7,10 @@ abstract: In this paper, we describe research led by Educopia Institute regardin
   research phase, including substantive survey results regarding digital newspaper
   curation practices.
 creators:
-- Skinner, Katherine
-- Schultz, Matt
-- Halbert, Martin
-- Phillips, Mark
+- Katherine Skinner
+- Matt Schultz
+- Martin Halbert
+- Mark Phillips
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293843/download
 grand_parent: iPRES

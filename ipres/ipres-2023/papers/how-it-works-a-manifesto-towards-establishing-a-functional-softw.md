@@ -9,8 +9,8 @@ abstract: "This paper presents the decision making process involved in establish
   discussing applied terminology and have developed a manifesto to build on a solid
   theoretical foundation."
 creators:
-- Maltar, Nika
-- Schilling, Almut
+- Nika Maltar
+- Almut Schilling
 date: null
 document_url: https://www.ideals.illinois.edu/items/128317/bitstreams/428999/data.pdf
 grand_parent: iPRES

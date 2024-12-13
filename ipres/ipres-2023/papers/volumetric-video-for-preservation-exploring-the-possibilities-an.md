@@ -7,10 +7,10 @@ abstract: This panel explores the possibilities and challenges of volumetric vid
   for the Humanities-funded project. Panelists will offer perspectives on the benefits
   of volumetric video and its preservation challenges.
 creators:
-- Lischer-Katz, Zack
-- Braggs, Rashida K.
-- Carter, Bryan
-- Bliedung von der Heide, Sven
+- Zack Lischer-Katz
+- Rashida K. Braggs
+- Bryan Carter
+- Sven Bliedung von der Heide
 date: null
 document_url: https://www.ideals.illinois.edu/items/128284/bitstreams/428933/data.pdf
 grand_parent: iPRES

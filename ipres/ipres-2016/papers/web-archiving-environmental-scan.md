@@ -4,8 +4,8 @@ abstract: This poster session summarizes the output of a comprehensive Web archi
   preservation-related findings. The scan was commissioned by Harvard Library and
   made possible by the generous support of the Arcadia Fund.
 creators:
-- Truman, Gail
-- Goethals, Andrea
+- Gail Truman
+- Andrea Goethals
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502842/download
 grand_parent: iPRES

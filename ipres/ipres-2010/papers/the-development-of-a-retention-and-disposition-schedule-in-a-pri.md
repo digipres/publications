@@ -16,8 +16,8 @@ abstract: 'Being a private international enterprise, the ongoing transition from
 
   This paper describes the tasks involved in the process towards a new schedule.'
 creators:
-- Margrethe, Ellen
-- Konstad, Pihl
+- Ellen Margrethe
+- Pihl Konstad
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245899/download
 grand_parent: iPRES

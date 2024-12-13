@@ -25,9 +25,9 @@ abstract: 'Despite the importance of web archives for the access to historical i
   create the JPEG2000; based on these results, the encoding library is therefore recommended
   technical preservation metadata to retain.'
 creators:
-- Palmer, William
-- May, Peter
-- Cliff, Peter
+- William Palmer
+- Peter May
+- Peter Cliff
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377377/download
 grand_parent: iPRES

@@ -8,9 +8,9 @@ abstract: Digital Preservation places a strong emphasis on building communities 
   how these User Groups function and compares this to studies of User Groups in other
   domains.
 creators:
-- Cochrane, Euan
-- Verdegem, Remke
-- Tilbury, Jonathan
+- Euan Cochrane
+- Remke Verdegem
+- Jonathan Tilbury
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079912/download
 grand_parent: iPRES

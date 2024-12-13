@@ -15,7 +15,7 @@ abstract: 'In the decade since publication of the report of the Task Force on "A
   focusing on the work of the digital preservation cluster of the DELOS Network of
   Excellence on Digital Libraries, the UK Digital Curation Centre, and other initiatives. '
 creators:
-- Day, Michael
+- Michael Day
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295044/download
 grand_parent: iPRES

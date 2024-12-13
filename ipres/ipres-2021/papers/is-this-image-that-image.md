@@ -5,7 +5,7 @@ abstract: 'This poster describes the image comparison technique developed at the
 
   '
 creators:
-- Gattuso, Jay
+- Jay Gattuso
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424898/download
 grand_parent: iPRES

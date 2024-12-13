@@ -8,7 +8,7 @@ abstract: The BBC Archive now contains around 15 Petabytes (single copy) of unco
   isolated collection may later interface with other systems and collections. Consideration
   is given to what has been achieved so far, some lessons learnt, and the future challenges.
 creators:
-- Heritage, Thomas
+- Thomas Heritage
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378038/download
 grand_parent: iPRES

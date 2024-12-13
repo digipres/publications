@@ -10,7 +10,7 @@ abstract: 'The UK Legal Deposit Libraries have been researching and building exp
   on technical criteria to include considerations on the narrative and literary quality
   of digital interactive publications. '
 creators:
-- Rossi, Giulia Carla
+- Giulia Carla Rossi
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/19950fcda49c41f79c9e0e52faa52a17
 grand_parent: iPRES

@@ -15,9 +15,9 @@ abstract: This paper aims to establish engineering processes and methods for the
   revelation that preservability of the system in focus on that particular case can
   be greatly improved.
 creators:
-- Proença, Diogo
-- Antunes, Gonçalo
-- Miksa, Tomasz
+- Diogo Proença
+- Gonçalo Antunes
+- Tomasz Miksa
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378050/download
 grand_parent: iPRES

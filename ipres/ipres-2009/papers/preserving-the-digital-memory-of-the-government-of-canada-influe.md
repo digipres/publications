@@ -16,8 +16,8 @@ abstract: Library and Archives Canada has a wide mandate to preserve and provide
   and collaborative approach should provide a model for other digital heritage creators
   in Canada.
 creators:
-- Smith, Johanna
-- Armstrong, Pam
+- Johanna Smith
+- Pam Armstrong
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294007/download
 grand_parent: iPRES

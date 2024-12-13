@@ -12,7 +12,7 @@ abstract: This tutorial will prepare participants to use the open-source BitCura
   identify various forms of sensitive data within collections, and provide browser-based
   search and navigation of files and folders.
 creators:
-- Lee, Christopher A.
+- Christopher A. Lee
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502834/download
 grand_parent: iPRES

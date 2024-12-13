@@ -17,7 +17,7 @@ abstract: 'Digital preservation encompasses the theory and practice ensuring pur
   efficacy, and a more nuanced means of stating, measuring, and evaluating preservation
   intentions, expectations, and outcomes.'
 creators:
-- Abrams, Stephen
+- Stephen Abrams
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:922204/download
 grand_parent: iPRES

@@ -5,7 +5,7 @@ abstract: This workshop is a follow up to the Tutorial on Persistent Identifiers
   This workshop deals directly with new initiatives and capabilities of persistent
   identifiers.
 creators:
-- Clark, Jonathan
+- Jonathan Clark
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502827/download
 grand_parent: iPRES

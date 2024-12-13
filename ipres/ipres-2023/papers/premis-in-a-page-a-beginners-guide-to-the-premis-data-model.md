@@ -3,9 +3,9 @@ abstract: This poster from the PREMIS Editorial Committee will provide a high le
   overview of the PREMIS data model, aimed at providing an introduction to those who
   are unfamiliar with it.
 creators:
-- Zierau, Eld
-- O’Sullivan, Jack
-- Bredenberg, Karin
+- Eld Zierau
+- Jack O’Sullivan
+- Karin Bredenberg
 date: null
 document_url: https://www.ideals.illinois.edu/items/128276/bitstreams/428917/data.pdf
 grand_parent: iPRES

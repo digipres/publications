@@ -12,7 +12,7 @@ abstract: This poster outlines my research on strategies of re-enactment to keep
   their own solutions to intergenerational transmission means the process of preservation
   becomes part of the cultural product, a preservation of doing.
 creators:
-- Curham, Louise
+- Louise Curham
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503189/download
 grand_parent: iPRES

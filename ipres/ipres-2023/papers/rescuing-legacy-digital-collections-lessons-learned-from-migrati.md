@@ -7,9 +7,9 @@ abstract: The University of Sydney Library hosts many historically significant d
   capacity. We discuss the approaches taken to make use of existing systems, capabilities,
   and resourcing to rescue collections and prepare for future preservation actions.
 creators:
-- Maloney, Kayla
-- McAlpine, Katrina
-- Stanton, Jennifer
+- Kayla Maloney
+- Katrina McAlpine
+- Jennifer Stanton
 date: null
 document_url: https://www.ideals.illinois.edu/items/128324/bitstreams/429013/data.pdf
 grand_parent: iPRES

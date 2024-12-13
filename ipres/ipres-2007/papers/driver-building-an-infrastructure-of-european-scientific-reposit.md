@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Lossau, Norbert
+- Norbert Lossau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294481/download
 grand_parent: iPRES

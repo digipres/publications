@@ -12,10 +12,10 @@ abstract: 'In this paper, we describe our development of a highly automated
   multiple crawlers. Some modules were developed to improve the automation of web
   archiving workflows and provide more services.'
 creators:
-- Wu, Zhenxin
-- Xie, Jing
-- Hu, Jiying
-- Zhang, Zhixiong
+- Zhenxin Wu
+- Jing Xie
+- Jiying Hu
+- Zhixiong Zhang
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429565/download
 grand_parent: iPRES

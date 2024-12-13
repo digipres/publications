@@ -15,7 +15,7 @@ abstract: 'Authors have always been looking for new and innovative ways of aesth
   nestor, the network of expertise in long-term storage of digital resources, the
   German Literature Archive, and the German National Library.'
 creators:
-- Schrimpf, Sabine
+- Sabine Schrimpf
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294058/download
 grand_parent: iPRES

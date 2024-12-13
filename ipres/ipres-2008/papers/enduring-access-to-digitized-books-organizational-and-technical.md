@@ -8,8 +8,8 @@ abstract: The digitization of millions of books under corporate and non-profit p
   Library’s program to illustrate a range of organizational and technical issues involved
   in planning and implementing a preservation infrastructure for digitized books.
 creators:
-- Rieger, Oya Y.
-- Kehoe, Bill
+- Oya Y. Rieger
+- Bill Kehoe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294102/download
 grand_parent: iPRES

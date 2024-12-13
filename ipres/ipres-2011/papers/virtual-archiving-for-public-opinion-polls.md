@@ -42,7 +42,7 @@ abstract: "The Odum Institute for Research in Social Science Data Archive at the
   capabilities of the DVN. We are designing new workflows and help train the participating
   data producers to use these new and efficient methods of data ingest."
 creators:
-- Crabtree, Jonathan
+- Jonathan Crabtree
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294258/download
 grand_parent: iPRES

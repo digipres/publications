@@ -6,7 +6,7 @@ abstract: Photogrammetry – taking overlapping photographs of an object and con
   the outputs of our photogrammetry activity, including research in to emerging good
   practice, lessons learned, and potential future steps.
 creators:
-- Rippington, Sean
+- Sean Rippington
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/12aaab068cc54f2c9455a8efccb1b39c
 grand_parent: iPRES

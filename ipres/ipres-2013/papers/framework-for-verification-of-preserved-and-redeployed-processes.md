@@ -9,13 +9,13 @@ abstract: Preserving processes requires not only the identification of all proce
   preservation and the redeployment of the eScience process is tested by migrating
   it to substantially different environments.
 creators:
-- Miksa, Tomasz
-- Pröll, Stefan
-- Mayer, Rudolf
-- Strodl, Stephan
-- Vieira, Ricardo
-- Barateiro, José
-- Rauber, Andreas
+- Tomasz Miksa
+- Stefan Pröll
+- Rudolf Mayer
+- Stephan Strodl
+- Ricardo Vieira
+- José Barateiro
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378039/download
 grand_parent: iPRES

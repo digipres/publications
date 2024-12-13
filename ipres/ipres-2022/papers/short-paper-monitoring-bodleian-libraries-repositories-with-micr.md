@@ -9,7 +9,7 @@ abstract: The Digital Preservation Micro Services and Reporting (DPMS) service i
   DPMS service was developed. It describes the components of DPMS’s technical framework
   and the process of implementing it in Bodleian Libraries’ digital repositories
 creators:
-- Mooney, James
+- James Mooney
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/344108bbc45d4acc85b264b0b128fd52
 grand_parent: iPRES

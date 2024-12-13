@@ -1,9 +1,9 @@
 ---
 abstract: null
 creators:
-- Martinez, Antonio G
-- Redondo, Teofilo
-- Fuertes, Maria
+- Antonio G Martinez
+- Teofilo Redondo
+- Maria Fuertes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424812/download
 grand_parent: iPRES

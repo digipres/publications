@@ -8,7 +8,7 @@ abstract: The ingest and its preparation are crucial steps and of strategical im
   side. This paper will introduce the guide, present first experiences and discuss
   the challenges.
 creators:
-- Ludwig, Jens
+- Jens Ludwig
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294012/download
 grand_parent: iPRES

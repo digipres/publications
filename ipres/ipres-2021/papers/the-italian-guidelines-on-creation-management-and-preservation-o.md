@@ -13,7 +13,7 @@ abstract: 'This paper aims to address the issue of file formats assessment for t
 
   '
 creators:
-- Allegrezza, Stefano
+- Stefano Allegrezza
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424938/download
 grand_parent: iPRES

@@ -2,10 +2,10 @@
 abstract: In this paper, we describe the structure and contents for the OSS4Pres 2.0
   workshop.
 creators:
-- Meister, Sam
-- Dowding, Heidi
-- Peltzman, Shira
-- Wilson, Carl
+- Sam Meister
+- Heidi Dowding
+- Shira Peltzman
+- Carl Wilson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502835/download
 grand_parent: iPRES

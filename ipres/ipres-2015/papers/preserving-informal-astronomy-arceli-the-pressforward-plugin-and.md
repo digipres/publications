@@ -18,9 +18,9 @@ abstract: 'This poster will profile and demonstrate a new collaboration focused 
   area of scholarly investigation. How does any one scholar or community do it? PressForward
   seeks both technological and methodological solutions to this problem.'
 creators:
-- Westcott, Stephanie
-- Cruz, Kelle
-- Olson, Eric
+- Stephanie Westcott
+- Kelle Cruz
+- Eric Olson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429610/download
 grand_parent: iPRES

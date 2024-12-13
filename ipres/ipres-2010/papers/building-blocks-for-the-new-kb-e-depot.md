@@ -19,9 +19,9 @@ abstract: 'The National Library of the Netherlands (KB) will renew its digital a
   process for the other components will follow in the fall. The first iteration of
   the New e-Depot will be delivered in 2012.'
 creators:
-- van Wijngaarden, Hilde
-- Rog, Judith
-- Marijnen, Peter
+- Hilde van Wijngaarden
+- Judith Rog
+- Peter Marijnen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185513/download
 grand_parent: iPRES

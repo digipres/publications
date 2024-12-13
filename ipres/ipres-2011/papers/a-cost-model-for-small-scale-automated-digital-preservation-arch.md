@@ -15,8 +15,8 @@ abstract: Assessing the costs of preserving a digital data collection in the lon
   and presents the calculation the costs. A case study shows the application of the
   model for a small business setting.
 creators:
-- Strodl, Stephan
-- Rauber, Andreas
+- Stephan Strodl
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294219/download
 grand_parent: iPRES

@@ -12,11 +12,11 @@ abstract: 'National Digital Preservation Program is built as a public service of
 
   '
 creators:
-- Wu, Zhenxin
-- Zhang, Xiaolin
-- Zheng, Jiancheng
-- Zhang, Dongrong
-- Fu, Honghu
+- Zhenxin Wu
+- Xiaolin Zhang
+- Jiancheng Zheng
+- Dongrong Zhang
+- Honghu Fu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424952/download
 grand_parent: iPRES

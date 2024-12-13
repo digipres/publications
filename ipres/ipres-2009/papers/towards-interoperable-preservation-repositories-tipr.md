@@ -20,9 +20,9 @@ abstract: 'TIPR, Towards Interoperable Preservation Repositories, is a project f
   to prove and improve the use of the RXP; and finally, issues that have arisen in
   the course of the project so far.'
 creators:
-- Caplan, Priscilla
-- Pawletko, Joseph
-- Kehoe, William
+- Priscilla Caplan
+- Joseph Pawletko
+- William Kehoe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294006/download
 grand_parent: iPRES

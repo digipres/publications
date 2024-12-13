@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Lee, Christopher Albert
+- Christopher Albert Lee
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294521/download
 grand_parent: iPRES
