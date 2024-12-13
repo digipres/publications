@@ -24,7 +24,7 @@ layout: default
     <dt>License</dt>
     <dd>{{ page.license }}</dd>
     {% if page.document_url != "" %}
-    <dt>Direct Download</dt>
+    <dt>Download</dt>
     <dd><a href="{{ page.document_url }}">{{ page.size}} bytes</a></dd>
     {% endif %}
     {% if page.slides_url  != ""%}
@@ -43,7 +43,7 @@ layout: default
 
 {% if page.landing_page_url != "" or page.document_url != "" %}
 <p class="d-flex flex-justify-end">
-  <a href="{% if page.landing_page_url %}{{ page.landing_page_url }}{% else %}{{ page.document_url }}{% endif %}" class="btn btn-blue m-2">View This Publication</a>
+  <a href="{% if page.landing_page_url != '' %}{{ page.landing_page_url }}{% else %}{{ page.document_url }}{% endif %}" class="btn btn-blue m-2">View This Publication</a>
 </p>
 {% endif %}
 
