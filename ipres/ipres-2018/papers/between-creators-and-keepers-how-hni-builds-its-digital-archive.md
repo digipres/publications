@@ -29,6 +29,7 @@ publication_type: paper
 size: 109600
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Between creators and keepers: How HNI builds its digital archive'
 year: 2018
 ---

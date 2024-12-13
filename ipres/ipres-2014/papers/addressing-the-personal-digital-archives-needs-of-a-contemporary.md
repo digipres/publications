@@ -33,6 +33,7 @@ publication_type: paper
 size: 73242
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Addressing the personal digital archives needs of a contemporary artist: Paper
   - IPRES 2014 - Melbourne'
 year: 2014

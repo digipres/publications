@@ -33,6 +33,7 @@ publication_type: poster
 size: 70532
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Presto4U- European Technology for Digital Audiovisual Media Preservation:
   Poster (Text) '
 year: 2014

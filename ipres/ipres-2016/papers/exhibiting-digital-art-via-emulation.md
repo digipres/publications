@@ -28,6 +28,7 @@ publication_type: paper
 size: 811113
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Exhibiting Digital Art via Emulation
 year: 2016
 ---

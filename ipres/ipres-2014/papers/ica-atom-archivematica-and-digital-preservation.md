@@ -39,6 +39,7 @@ publication_type: workshops and tutorials
 size: 179325
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: ICA-AtoM, Archivematica and Digital Preservation
 year: 2014
 ---

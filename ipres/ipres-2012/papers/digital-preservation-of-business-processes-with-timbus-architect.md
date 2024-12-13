@@ -35,6 +35,7 @@ publication_type: paper
 size: 891998
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Digital Preservation Of Business Processes with TIMBUS Architecture
 year: 2012
 ---

@@ -30,6 +30,7 @@ publication_type: tutorial
 size: 617792
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Tutorial on Relational Database Preservation
 year: 2016
 ---

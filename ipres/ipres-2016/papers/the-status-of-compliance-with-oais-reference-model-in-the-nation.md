@@ -27,6 +27,7 @@ publication_type: poster
 size: 85245
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Status of Compliance with OAIS Reference Model in the National Diet Library
   Digital Collections
 year: 2016

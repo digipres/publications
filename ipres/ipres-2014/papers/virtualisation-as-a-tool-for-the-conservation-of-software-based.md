@@ -45,6 +45,7 @@ publication_type: paper
 size: 515944
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Virtualisation as a Tool for the Conservation of Software-Based Artworks
 year: 2014
 ---

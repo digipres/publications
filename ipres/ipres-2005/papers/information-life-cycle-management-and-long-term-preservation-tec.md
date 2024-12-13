@@ -41,6 +41,7 @@ publication_type: paper
 size: 1786530
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Information Life Cycle Management and Long Term Preservation - Technical Aspects
   Of Workflow Organisation: Presentation - iPRES 2005 - Göttingen'
 year: 2005

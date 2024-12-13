@@ -25,6 +25,7 @@ publication_type: paper
 size: 299240
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: '15 years of nestor: German Network of Expertise in Digital Preservation (paper
   presentation)'
 year: 2018

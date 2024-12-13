@@ -35,6 +35,7 @@ publication_type: workshops and tutorials
 size: 184665
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Surveying ISO Standards for PDF: archive, accessibility, engineering, metadata,
   3D data and PDF itself. History, pain points, solutions and the dream.'
 year: 2014

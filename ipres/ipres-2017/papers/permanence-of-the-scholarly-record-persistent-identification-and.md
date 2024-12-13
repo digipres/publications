@@ -35,6 +35,7 @@ publication_type: paper
 size: 393687
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Permanence of the Scholarly Record: Persistent Identification and Digital
   Preservation – A Roadmap'
 year: 2017

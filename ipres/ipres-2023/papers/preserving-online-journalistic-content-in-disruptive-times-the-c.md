@@ -32,6 +32,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121669
 source_name: iPRES
+stream_url: null
 title: 'PRESERVING ONLINE JOURNALISTIC CONTENT IN DISRUPTIVE TIMES: The case of collection.news'
 year: 2023
 ---

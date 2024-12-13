@@ -29,6 +29,7 @@ publication_type: paper
 size: 2224645
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Preservation Activities in National Library of China (NLC): Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

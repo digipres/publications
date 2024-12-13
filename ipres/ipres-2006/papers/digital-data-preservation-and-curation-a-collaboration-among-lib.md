@@ -44,6 +44,7 @@ publication_type: presentation
 size: 2044070
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Data Preservation and Curation: A Collaboration Among Libraries, Publishers,
   and the Virtual Observatory - A pilot project aimed at preserving, curating, and
   enabling access to digital data and associated electronic journals content.'

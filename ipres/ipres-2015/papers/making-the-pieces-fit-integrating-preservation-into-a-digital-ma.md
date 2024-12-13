@@ -37,6 +37,7 @@ publication_type: poster
 size: 373772
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Making the Pieces Fit: Integrating Preservation into a Digital Material Ecosystem'
 year: 2015
 ---

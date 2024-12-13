@@ -32,6 +32,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: BIT PRESERVATION USING THE OPEN SOURCE BITREPOSITORY.ORG FRAMEWORK'
 year: 2022
 ---

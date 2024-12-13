@@ -28,6 +28,7 @@ publication_type: paper
 size: 445984
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Construction of management platform for 3D model of cultural relics
 year: 2021
 ---

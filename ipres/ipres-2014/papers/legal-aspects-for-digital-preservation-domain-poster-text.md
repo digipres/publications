@@ -46,6 +46,7 @@ publication_type: poster
 size: 73953
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Legal Aspects for Digital Preservation Domain: Poster (Text) '
 year: 2014
 ---

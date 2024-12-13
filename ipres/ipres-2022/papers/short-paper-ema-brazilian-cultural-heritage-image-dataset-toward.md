@@ -30,6 +30,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: EMA: Brazilian Cultural Heritage Image Dataset - Towards AI-based
   metadata annotation of digital collections'
 year: 2022

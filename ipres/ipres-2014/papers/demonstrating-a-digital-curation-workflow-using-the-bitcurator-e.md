@@ -32,6 +32,7 @@ publication_type: demonstration
 size: 140743
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Demonstrating a Digital Curation Workflow using the BitCurator Environment
 year: 2014
 ---

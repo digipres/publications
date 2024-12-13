@@ -28,6 +28,7 @@ publication_type: poster
 size: 351021
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: NATIONAL FILM BOARD OF CANADA DIGITIZATION PLAN – A CASE STUDY
 year: 2010
 ---

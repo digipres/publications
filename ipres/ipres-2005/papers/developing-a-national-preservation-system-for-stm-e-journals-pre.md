@@ -57,6 +57,7 @@ publication_type: paper
 size: 134274
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Developing a National Preservation System for STM e-Journals: Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

@@ -30,6 +30,7 @@ publication_type: workshops and tutorials
 size: 147346
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Born Digital Appraisal, Ingest, and Processing
 year: 2014
 ---

@@ -35,6 +35,7 @@ publication_type: paper
 size: 181245
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'BABS2: A NEW PHASE, A NEW PERSPECTIVE IN DIGITAL LONG-TERM PRESERVATION –
   AN EXPERIENCE REPORT FROM THE BAVARIAN STATE LIBRARY'
 year: 2010

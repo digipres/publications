@@ -18,6 +18,7 @@ publication_type: presentation
 size: 432353
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A system for digital preservation of scientific data using DOI Names
 year: 2007
 ---

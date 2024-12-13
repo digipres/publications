@@ -25,6 +25,7 @@ publication_type: paper
 size: 695165
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Into the Archive: Potential and Limits of Standardizing the Ingest'
 year: 2009
 ---

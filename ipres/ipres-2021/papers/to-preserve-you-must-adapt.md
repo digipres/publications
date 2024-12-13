@@ -22,6 +22,7 @@ publication_type: lightning talk
 size: 50452
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: To Preserve, You Must Adapt.
 year: 2021
 ---

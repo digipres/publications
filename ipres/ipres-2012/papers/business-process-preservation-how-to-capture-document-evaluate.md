@@ -42,6 +42,7 @@ publication_type: poster
 size: 886533
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Business Process Preservation: How to capture, document & evaluate?'
 year: 2012
 ---

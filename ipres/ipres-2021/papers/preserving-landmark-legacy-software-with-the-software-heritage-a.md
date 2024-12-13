@@ -45,6 +45,7 @@ publication_type: paper
 size: 6270751
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preserving landmark legacy software with the Software Heritage Acquisition
   Process
 year: 2021

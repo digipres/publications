@@ -31,6 +31,7 @@ publication_type: paper
 size: 246044
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Saving Data Journalism '
 year: 2019
 ---

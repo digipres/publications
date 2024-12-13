@@ -29,6 +29,7 @@ publication_type: poster
 size: 370874
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'TOWARDS INTEROPERABLE PRESERVATION REPOSITORIES (TIPR): THE INTER-REPOSITORY
   SERVICE AGREEMENT'
 year: 2010

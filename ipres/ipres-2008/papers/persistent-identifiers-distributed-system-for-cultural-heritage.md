@@ -30,6 +30,7 @@ publication_type: paper
 size: 130273
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Persistent Identifiers distributed system for Cultural Heritage digital objects
 year: 2008
 ---

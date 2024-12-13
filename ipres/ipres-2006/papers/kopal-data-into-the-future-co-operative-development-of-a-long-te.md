@@ -30,6 +30,7 @@ publication_type: presentation
 size: 397041
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'kopal - Data into the future: Co-operative Development of a Long-term Digital
   Information Archive'
 year: 2006

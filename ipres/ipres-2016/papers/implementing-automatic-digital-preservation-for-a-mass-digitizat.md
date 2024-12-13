@@ -32,6 +32,7 @@ publication_type: paper
 size: 626440
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Implementing Automatic Digital Preservation for a Mass Digitization Workflow
 year: 2016
 ---

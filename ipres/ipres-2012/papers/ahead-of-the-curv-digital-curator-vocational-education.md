@@ -33,6 +33,7 @@ publication_type: paper
 size: 637943
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Ahead of the CurV: Digital Curator Vocational Education'
 year: 2012
 ---

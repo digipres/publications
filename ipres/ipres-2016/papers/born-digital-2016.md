@@ -25,6 +25,7 @@ publication_type: poster
 size: 48560
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Born Digital 2016
 year: 2016
 ---

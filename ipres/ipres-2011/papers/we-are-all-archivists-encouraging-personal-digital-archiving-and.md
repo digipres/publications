@@ -32,6 +32,7 @@ publication_type: paper
 size: 494888
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'We are all Archivists: Encouraging Personal Digital Archiving and Citizen
   Archiving on a Community Scale'
 year: 2011

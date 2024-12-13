@@ -40,6 +40,7 @@ publication_type: paper
 size: 602166
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Interoperability Framework for Persistent Identifiers systems
 year: 2012
 ---

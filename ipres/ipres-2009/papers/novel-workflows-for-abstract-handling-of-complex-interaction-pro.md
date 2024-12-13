@@ -33,6 +33,7 @@ publication_type: paper
 size: 1551899
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Novel Workflows for Abstract Handling of Complex Interaction Processes in Digital
   Preservation
 year: 2009

@@ -32,6 +32,7 @@ publication_type: poster
 size: 440999
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Enhancing characterisation for digital preservation
 year: 2013
 ---

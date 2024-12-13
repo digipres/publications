@@ -38,6 +38,7 @@ publication_type: paper
 size: 725779
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'ENSURE: Long term digital preservation of Health Care, Clinical Trial and
   Financial data'
 year: 2013

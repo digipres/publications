@@ -24,6 +24,7 @@ publication_type: poster
 size: 422606
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Demonstration of BitCurator Access Webtools and Disk Image Redaction Tools
 year: 2016
 ---

@@ -32,6 +32,7 @@ publication_type: paper
 size: 520806
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Transformation Rules for Model Migration in Relational Database Preservation
 year: 2011
 ---

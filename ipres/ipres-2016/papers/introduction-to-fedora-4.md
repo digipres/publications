@@ -32,6 +32,7 @@ publication_type: tutorial
 size: 91135
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Introduction to Fedora 4
 year: 2016
 ---

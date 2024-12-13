@@ -27,6 +27,7 @@ publication_type: paper
 size: 283884
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Building the future of digital preservation in french archival services '
 year: 2019
 ---

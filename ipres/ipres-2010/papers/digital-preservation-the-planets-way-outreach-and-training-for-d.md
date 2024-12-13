@@ -48,6 +48,7 @@ publication_type: poster
 size: 65660
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: '‘DIGITAL PRESERVATION: THE PLANETS WAY’: OUTREACH AND  TRAINING FOR DIGITAL
   PRESERVATION USING PLANETS TOOLS  AND SERVICES'
 year: 2010

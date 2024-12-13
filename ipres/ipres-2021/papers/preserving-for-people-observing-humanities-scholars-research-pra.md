@@ -42,6 +42,7 @@ publication_type: paper
 size: 473426
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preserving for People: Observing Humanities Scholars'' Research Practices
   in a Hybrid Archive Environment'
 year: 2021

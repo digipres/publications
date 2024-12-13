@@ -26,6 +26,7 @@ publication_type: tutorial
 size: 118426
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Persistent Identifiers for Digital Cultural Heritage
 year: 2016
 ---

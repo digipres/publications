@@ -27,6 +27,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Panel: WILL DNA FORM THE FABRIC OF OUR DIGITAL PRESERVATION STORAGE?\r\nDNA
   Data Storage: A Panel Discussion"
 year: 2022

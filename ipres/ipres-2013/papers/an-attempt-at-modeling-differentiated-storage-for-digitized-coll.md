@@ -29,6 +29,7 @@ publication_type: paper
 size: 134674
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'An attempt at modeling differentiated storage for digitized collections: finding
   the balance between storage, costs and preservation of digitized publications'
 year: 2013

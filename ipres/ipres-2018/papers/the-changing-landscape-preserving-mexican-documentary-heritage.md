@@ -32,6 +32,7 @@ publication_type: paper
 size: 87763
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Changing Landscape: Preserving Mexican documentary heritage.'
 year: 2018
 ---

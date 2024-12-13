@@ -28,6 +28,7 @@ publication_type: presentation
 size: 108365
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Towards A Preservation Content Model for Numeric Data Collections: PREMIS
   and FEDORA'
 year: 2006

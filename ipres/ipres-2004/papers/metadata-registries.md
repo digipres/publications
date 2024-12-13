@@ -18,6 +18,7 @@ publication_type: presentation
 size: 2042611
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Metadata-Registries
 year: 2004
 ---

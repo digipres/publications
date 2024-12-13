@@ -36,6 +36,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Vault: Building an Extensible, Affordable Digital Preservation
   & Repository Service'
 year: 2022

@@ -26,6 +26,7 @@ publication_type: workshops and tutorials
 size: 196328
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: PREMIS Implementation Fair Workshop
 year: 2014
 ---

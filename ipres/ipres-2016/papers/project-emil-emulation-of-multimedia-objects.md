@@ -23,6 +23,7 @@ publication_type: poster
 size: 180801
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Project EMiL – Emulation of Multimedia Objects
 year: 2016
 ---

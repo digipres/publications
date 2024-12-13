@@ -18,6 +18,7 @@ publication_type: presentation
 size: 941403
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation of Scientific Data in the Humanities
 year: 2004
 ---

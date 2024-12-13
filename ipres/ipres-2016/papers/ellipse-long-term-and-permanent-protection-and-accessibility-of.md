@@ -30,6 +30,7 @@ publication_type: paper
 size: 534404
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Ellipse – Long-term and Permanent Protection and Accessibility of Geodata
 year: 2016
 ---

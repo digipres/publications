@@ -47,6 +47,7 @@ publication_type: paper
 size: 586478
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Developing a Robust Migration Workflow for Preserving and Curating Hand-held
   Media
 year: 2011

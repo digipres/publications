@@ -50,6 +50,7 @@ publication_type: paper
 size: 705316
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Certification and Quality: A French Experience'
 year: 2011
 ---

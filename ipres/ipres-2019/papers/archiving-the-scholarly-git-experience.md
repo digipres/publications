@@ -27,6 +27,7 @@ publication_type: poster
 size: 158715
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'ARCHIVING THE SCHOLARLY GIT EXPERIENCE '
 year: 2019
 ---

@@ -39,6 +39,7 @@ publication_type: paper
 size: 245245
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Building Policy & Capacity: Launching the U.S. Library of Congress Digital
   Collections Management Compendium'
 year: 2021

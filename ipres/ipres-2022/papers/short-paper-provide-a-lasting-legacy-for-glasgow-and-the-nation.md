@@ -29,6 +29,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: "…provide a lasting legacy for Glasgow and the nation"Two years
   of transferring Scottish Cabinet records to National Records of Scotland'
 year: 2022

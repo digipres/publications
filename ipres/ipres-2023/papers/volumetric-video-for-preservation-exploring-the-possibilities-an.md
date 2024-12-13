@@ -31,6 +31,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121686
 source_name: iPRES
+stream_url: null
 title: 'VOLUMETRIC VIDEO FOR PRESERVATION: Exploring the Possibilities and Challenges
   for Immersive BIPOC Storytelling'
 year: 2023

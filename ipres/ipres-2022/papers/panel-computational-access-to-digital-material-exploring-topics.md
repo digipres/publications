@@ -30,6 +30,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: Computational Access to Digital Material: Exploring topics around engagement,
   ethics and resources'
 year: 2022

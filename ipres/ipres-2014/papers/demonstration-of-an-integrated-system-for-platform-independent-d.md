@@ -32,6 +32,7 @@ publication_type: demonstration
 size: 102710
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Demonstration of an Integrated System for Platform-independent Description
   of Human-Machine Interactions
 year: 2014

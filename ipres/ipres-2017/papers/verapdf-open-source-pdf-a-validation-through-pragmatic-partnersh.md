@@ -26,6 +26,7 @@ publication_type: paper
 size: 381867
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'veraPDF: open source PDF/A validation through pragmatic partnership'
 year: 2017
 ---

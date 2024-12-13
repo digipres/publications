@@ -41,6 +41,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: AIA/ OLIVER WITTE COLLECTION:A digital preservation workflow'
 year: 2022
 ---

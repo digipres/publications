@@ -28,6 +28,7 @@ publication_type: presentation
 size: 106741
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The OAIS Reference Model: current implementations'
 year: 2004
 ---

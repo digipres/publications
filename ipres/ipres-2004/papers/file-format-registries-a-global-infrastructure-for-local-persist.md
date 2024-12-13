@@ -28,6 +28,7 @@ publication_type: presentation
 size: 242580
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: File format registries - a global infrastructure for local persistence
 year: 2004
 ---

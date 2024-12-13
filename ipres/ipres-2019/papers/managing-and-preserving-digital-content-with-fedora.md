@@ -25,6 +25,7 @@ publication_type: paper
 size: 110730
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Managing And Preserving Digital Content With Fedora '
 year: 2019
 ---

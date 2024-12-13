@@ -32,6 +32,7 @@ publication_type: poster
 size: 138968
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Software Preservation Services in Cultural Heritage Organizations '
 year: 2019
 ---

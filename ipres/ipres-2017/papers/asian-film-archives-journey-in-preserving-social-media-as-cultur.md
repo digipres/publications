@@ -24,6 +24,7 @@ publication_type: poster
 size: 32122
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Asian Film Archive’s journey in preserving social media as cultural knowledge
 year: 2017
 ---

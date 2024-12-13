@@ -41,6 +41,7 @@ publication_type: paper
 size: 606825
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preserving Electronic Theses and Dissertations: Findings of the Lifecycle
   Management for ETDs Project'
 year: 2012

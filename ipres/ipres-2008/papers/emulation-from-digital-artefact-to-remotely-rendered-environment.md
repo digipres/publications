@@ -33,6 +33,7 @@ publication_type: paper
 size: 128557
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Emulation: From Digital Artefact to Remotely Rendered Environments'
 year: 2008
 ---

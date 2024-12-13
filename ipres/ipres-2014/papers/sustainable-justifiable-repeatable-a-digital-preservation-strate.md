@@ -38,6 +38,7 @@ publication_type: poster
 size: 251834
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Sustainable, justifiable, repeatable: A digital preservation strategy using
   metrics-based (re)appraisal: Poster (Poster) '
 year: 2014

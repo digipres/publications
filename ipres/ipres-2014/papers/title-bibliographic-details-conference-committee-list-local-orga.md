@@ -26,6 +26,7 @@ publication_type: proceedings preface
 size: 2538461
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Title, Bibliographic Details, Conference Committee List, Local Organising Committee
   List, Programme Committee List, Preface, Programme Details, Contents Pages
 year: 2014

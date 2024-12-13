@@ -38,6 +38,7 @@ publication_type: demonstration
 size: 273580
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Reviving Antique Software: Curation Challenges and the Olive Archive'
 year: 2014
 ---

@@ -30,6 +30,7 @@ publication_type: paper
 size: 40648
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The KB e-Depot in development Integrating research results in the library organisation
 year: 2008
 ---

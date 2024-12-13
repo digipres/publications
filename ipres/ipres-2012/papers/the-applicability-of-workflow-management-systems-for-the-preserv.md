@@ -36,6 +36,7 @@ publication_type: paper
 size: 836868
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Applicability of Workflow Management Systems for the Preservation of Business
   Processes
 year: 2012

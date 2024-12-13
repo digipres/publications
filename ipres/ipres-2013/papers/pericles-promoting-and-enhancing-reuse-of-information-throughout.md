@@ -45,6 +45,7 @@ publication_type: poster
 size: 447029
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PERICLES - Promoting and Enhancing Reuse of Information throughout the Content
   Lifecycle taking account of Evolving Semantics '
 year: 2013

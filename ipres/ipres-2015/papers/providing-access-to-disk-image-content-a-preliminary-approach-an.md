@@ -21,6 +21,7 @@ publication_type: poster
 size: 471306
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Providing Access to Disk Image Content: A Preliminary Approach and Workflow'
 year: 2015
 ---

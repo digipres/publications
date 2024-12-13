@@ -26,6 +26,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: PRESERVING PHOTOGRAMMETRY OUTPUTSA case study at the University of
   St Andrews Libraries and Museums'
 year: 2022

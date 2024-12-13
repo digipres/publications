@@ -18,6 +18,7 @@ publication_type: presentation
 size: 493445
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation by Migration to XML
 year: 2007
 ---

@@ -32,6 +32,7 @@ publication_type: long paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Long Paper: It Takes a Whole Village to Define a Preservation Strategy: Formalizing
   Policies on Data Formats Normalization at the National Library of France'
 year: 2022

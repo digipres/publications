@@ -32,6 +32,7 @@ publication_type: workshop
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Workshop: Welcome to Fedora 6.0: Features, Migration Support & Integrations
   for Community Use Cases'
 year: 2022

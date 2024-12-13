@@ -19,6 +19,7 @@ publication_type: lightning talk
 size: 27386
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PREMIS Rights: keeping pace with new requirements'
 year: 2021
 ---

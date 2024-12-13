@@ -41,6 +41,7 @@ publication_type: paper
 size: 658337
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'From cataloguing to digital curation: the role of libraries in data exchange'
 year: 2012
 ---

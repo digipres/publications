@@ -28,6 +28,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Short Paper: FROM RAY CATS TO DPC RAM: HOW BEST TO PRESERVE A DIGITAL MEMORY
   OF THE NUCLEAR DECOMMISSIONING PROCESS\r\n"
 year: 2022

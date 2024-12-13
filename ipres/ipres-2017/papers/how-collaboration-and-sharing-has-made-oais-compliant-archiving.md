@@ -23,6 +23,7 @@ publication_type: poster
 size: 74386
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: How collaboration and sharing has made OAIS compliant archiving at (very) small
   archives possible
 year: 2017

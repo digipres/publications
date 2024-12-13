@@ -28,6 +28,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121660
 source_name: iPRES
+stream_url: null
 title: 'IPARO: INTERPLANETARY ARCHIVAL RECORD OBJECT FOR DECENTRALIZED WEB ARCHIVING
   AND REPLAY'
 year: 2023

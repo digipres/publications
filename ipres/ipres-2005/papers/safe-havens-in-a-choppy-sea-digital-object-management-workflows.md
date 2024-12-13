@@ -31,6 +31,7 @@ publication_type: paper
 size: 764686
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Safe Havens in a Choppy Sea: Digital Object Management Workflows at the National
   Library of Australia: Presentation - iPRES 2005 - Göttingen'
 year: 2005

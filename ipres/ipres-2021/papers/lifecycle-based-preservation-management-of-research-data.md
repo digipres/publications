@@ -21,6 +21,7 @@ publication_type: lightning talk
 size: 341306
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Lifecycle-based Preservation Management of Research Data
 year: 2021
 ---

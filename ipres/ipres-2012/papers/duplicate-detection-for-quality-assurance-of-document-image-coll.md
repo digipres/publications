@@ -33,6 +33,7 @@ publication_type: paper
 size: 1772262
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Duplicate Detection for Quality Assurance of Document Image Collections
 year: 2012
 ---

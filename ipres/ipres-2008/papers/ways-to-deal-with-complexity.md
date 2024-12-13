@@ -35,6 +35,7 @@ publication_type: paper
 size: 87414
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Ways to deal with complexity
 year: 2008
 ---

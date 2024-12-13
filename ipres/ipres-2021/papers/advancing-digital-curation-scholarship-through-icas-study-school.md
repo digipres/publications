@@ -18,6 +18,7 @@ publication_type: lightning talk
 size: 70480
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Advancing Digital Curation Scholarship through ICA’s Study Schools
 year: 2021
 ---

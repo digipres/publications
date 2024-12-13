@@ -25,6 +25,7 @@ publication_type: paper
 size: 65143
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation of Art in the Digital Realm
 year: 2008
 ---

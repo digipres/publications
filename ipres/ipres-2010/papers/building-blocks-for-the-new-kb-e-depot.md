@@ -37,6 +37,7 @@ publication_type: paper
 size: 168468
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: BUILDING BLOCKS FOR THE NEW KB E-DEPOT
 year: 2010
 ---

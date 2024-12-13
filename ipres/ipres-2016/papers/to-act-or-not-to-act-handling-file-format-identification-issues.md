@@ -27,6 +27,7 @@ publication_type: poster
 size: 44108
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: To Act or Not to Act – Handling File Format Identification Issues in Practice
 year: 2016
 ---

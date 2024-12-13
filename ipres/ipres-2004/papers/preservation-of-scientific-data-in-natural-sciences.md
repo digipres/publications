@@ -29,6 +29,7 @@ publication_type: presentation
 size: 958776
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation of Scientific Data (in Natural Sciences)
 year: 2004
 ---

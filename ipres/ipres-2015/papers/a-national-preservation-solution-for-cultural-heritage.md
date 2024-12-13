@@ -27,6 +27,7 @@ publication_type: paper
 size: 317744
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A National Preservation Solution for Cultural Heritage
 year: 2015
 ---

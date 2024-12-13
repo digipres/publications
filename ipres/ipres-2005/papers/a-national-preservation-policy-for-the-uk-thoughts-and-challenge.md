@@ -21,6 +21,7 @@ publication_type: paper
 size: 127291
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A National Preservation Policy for the UK(?) - Thoughts and Challenges: Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

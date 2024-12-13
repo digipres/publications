@@ -46,6 +46,7 @@ publication_type: paper
 size: 302787
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A Case Study on Retrieval of Data from 8-inch Disks: Of the Importance of
   Hardware Repositories for Digital Preservation'
 year: 2017

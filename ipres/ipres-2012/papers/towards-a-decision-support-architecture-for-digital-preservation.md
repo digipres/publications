@@ -37,6 +37,7 @@ publication_type: paper
 size: 666122
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Towards a Decision Support Architecture for Digital Preservation of Business
   Processes
 year: 2012

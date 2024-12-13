@@ -41,6 +41,7 @@ publication_type: paper
 size: 993909
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Evaluating an Emulation Environment: Automation and Significant Key Characteristics'
 year: 2012
 ---

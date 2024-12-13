@@ -30,6 +30,7 @@ publication_type: paper
 size: 669775
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation as a Service for Trust: An InterPARES Trust Specification for
   Preserving Authentic Records in the Cloud'
 year: 2017

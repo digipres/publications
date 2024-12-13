@@ -32,6 +32,7 @@ publication_type: paper
 size: 242155
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Building Information Modeling – A Game Changer for Interoperability and a Chance
   for Digital Preservation of Architectural Data?
 year: 2014

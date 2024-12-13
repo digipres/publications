@@ -44,6 +44,7 @@ publication_type: paper
 size: 734924
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'DIGITAL PRESERVATION FOR ENTERPRISE CONTENT: A GAP-ANALYSIS BETWEEN ECM AND
   OAIS'
 year: 2010

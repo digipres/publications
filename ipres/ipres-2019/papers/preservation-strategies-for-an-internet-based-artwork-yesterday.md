@@ -31,6 +31,7 @@ publication_type: paper
 size: 546620
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation strategies for an internet-based artwork yesterday today and
   tomorrow '
 year: 2019

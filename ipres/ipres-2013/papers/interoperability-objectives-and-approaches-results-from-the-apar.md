@@ -34,6 +34,7 @@ publication_type: paper
 size: 1678147
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Interoperability Objectives and Approaches: Results from the APARSEN NoE'
 year: 2013
 ---

@@ -32,6 +32,7 @@ publication_type: presentation
 size: 197013
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The International e-Depot: e-Journal Archiving at the national library of
   the Netherlands'
 year: 2006

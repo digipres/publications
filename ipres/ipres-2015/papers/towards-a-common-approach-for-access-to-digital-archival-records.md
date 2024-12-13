@@ -36,6 +36,7 @@ publication_type: paper
 size: 756361
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Towards a Common Approach for Access to Digital Archival Records in Europe
 year: 2015
 ---

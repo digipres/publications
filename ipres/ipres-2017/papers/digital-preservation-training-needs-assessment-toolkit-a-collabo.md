@@ -30,6 +30,7 @@ publication_type: poster
 size: 315477
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital preservation training needs assessment toolkit: a collaborative development
   for skills auditing'
 year: 2017

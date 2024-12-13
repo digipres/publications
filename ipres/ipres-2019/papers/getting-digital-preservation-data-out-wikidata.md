@@ -29,6 +29,7 @@ publication_type: paper
 size: 422353
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Getting digital preservation data out Wikidata '
 year: 2019
 ---

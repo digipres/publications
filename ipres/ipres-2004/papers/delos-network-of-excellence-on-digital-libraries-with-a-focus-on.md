@@ -27,6 +27,7 @@ publication_type: presentation
 size: 62524
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'DELOS: Network of Excellence on Digital Libraries, with a focus on the Preservation
   Cluster'
 year: 2004

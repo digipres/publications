@@ -37,6 +37,7 @@ publication_type: paper
 size: 90300
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Bit Preservation: A Solved Problem?'
 year: 2008
 ---

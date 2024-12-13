@@ -61,6 +61,7 @@ publication_type: paper
 size: 422757
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A REFERENCE ARCHITECTURE FOR DIGITAL PRESERVATION
 year: 2010
 ---

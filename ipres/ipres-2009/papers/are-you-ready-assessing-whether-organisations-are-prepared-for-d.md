@@ -34,6 +34,7 @@ publication_type: paper
 size: 970025
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Are You Ready? Assessing Whether Organisations are Prepared for Digital Preservation
 year: 2009
 ---

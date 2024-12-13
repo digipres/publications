@@ -51,6 +51,7 @@ publication_type: paper
 size: 274866
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A Foundational Framework for Digital Curation: The Sept Domain Model'
 year: 2015
 ---

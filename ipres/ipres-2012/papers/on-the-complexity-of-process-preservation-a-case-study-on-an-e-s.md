@@ -32,6 +32,7 @@ publication_type: poster
 size: 781250
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'On the Complexity of Process Preservation: A Case Study on an E-Science Experiment'
 year: 2012
 ---

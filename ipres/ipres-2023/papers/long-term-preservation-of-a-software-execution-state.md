@@ -26,6 +26,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Long-Term Preservation of a Software Execution State
 year: 2023
 ---

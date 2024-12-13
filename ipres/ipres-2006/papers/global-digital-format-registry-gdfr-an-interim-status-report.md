@@ -31,6 +31,7 @@ publication_type: presentation
 size: 156401
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Global Digital Format Registry (GDFR): An Interim Status Report'
 year: 2006
 ---

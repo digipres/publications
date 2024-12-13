@@ -32,6 +32,7 @@ publication_type: paper
 size: 1612415
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Life and Death of an Information Package: Implementing the Lifecycle in a
   Multi-Purpose Preservation System'
 year: 2017

@@ -34,6 +34,7 @@ publication_type: paper
 size: 54835
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Establishing a Community-based Approach to Electronic Journal Archiving: the
   UK LOCKSS Pilot Programme'
 year: 2008

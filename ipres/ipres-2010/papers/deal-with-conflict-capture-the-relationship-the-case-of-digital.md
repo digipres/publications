@@ -55,6 +55,7 @@ publication_type: paper
 size: 130176
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'DEAL WITH CONFLICT,  CAPTURE THE RELATIONSHIP:  THE CASE OF DIGITAL OBJECT
   PROPERTIES'
 year: 2010

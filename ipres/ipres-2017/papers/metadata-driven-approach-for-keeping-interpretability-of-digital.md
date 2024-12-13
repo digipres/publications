@@ -47,6 +47,7 @@ publication_type: paper
 size: 1011275
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Metadata-Driven Approach for Keeping Interpretability of Digital Objects through
   Formal Provenance Description
 year: 2017

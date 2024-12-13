@@ -49,6 +49,7 @@ publication_type: paper
 size: 19676
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Future-Proofing the Web: What We Can Do Today: Presentation - iPRES 2005 -
   Göttingen'
 year: 2005

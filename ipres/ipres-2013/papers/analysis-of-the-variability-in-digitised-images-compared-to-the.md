@@ -38,6 +38,7 @@ publication_type: paper
 size: 337136
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Analysis of the variability in digitised images compared to the distortion
   introduced by compression
 year: 2013

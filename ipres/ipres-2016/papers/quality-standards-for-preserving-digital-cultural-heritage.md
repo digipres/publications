@@ -42,6 +42,7 @@ publication_type: workshop
 size: 140323
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Quality Standards for Preserving Digital Cultural Heritage
 year: 2016
 ---

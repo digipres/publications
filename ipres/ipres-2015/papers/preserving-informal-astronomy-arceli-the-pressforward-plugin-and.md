@@ -39,6 +39,7 @@ publication_type: poster
 size: 254600
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preserving Informal Astronomy: Arceli, the PressForward Plugin, and the Archiving
   of Scientific Communications'
 year: 2015

@@ -28,6 +28,7 @@ publication_type: tutorial
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Tutorial: Continuous Improvement Tools for Developing Capacity and Skills'
 year: 2022
 ---

@@ -17,6 +17,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: iPRES 2023 Conference Proceedings
 year: 2023
 ---

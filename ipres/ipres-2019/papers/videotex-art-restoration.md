@@ -24,6 +24,7 @@ publication_type: poster
 size: 128008
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Videotex Art Restoration '
 year: 2019
 ---

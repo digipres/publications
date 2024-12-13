@@ -19,6 +19,7 @@ publication_type: lightning talk
 size: 21854
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Developing a Flexible Skills Framework for Digital Preservation
 year: 2021
 ---

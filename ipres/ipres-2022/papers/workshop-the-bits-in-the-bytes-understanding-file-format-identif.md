@@ -40,6 +40,7 @@ publication_type: workshop
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Workshop: The Bits In The Bytes: Understanding File Format Identification'
 year: 2022
 ---

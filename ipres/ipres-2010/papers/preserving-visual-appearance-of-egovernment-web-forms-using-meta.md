@@ -63,6 +63,7 @@ publication_type: paper
 size: 41010
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: PRESERVING VISUAL APPEARANCE OF EGOVERNMENT  WEB FORMS USING METADATA  DRIVEN
   IMITATION
 year: 2010

@@ -18,6 +18,7 @@ publication_type: presentation
 size: 196066
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Preservation: Legal Issues'
 year: 2004
 ---

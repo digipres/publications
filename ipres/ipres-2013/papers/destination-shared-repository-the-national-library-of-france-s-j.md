@@ -38,6 +38,7 @@ publication_type: paper
 size: 51584
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Destination: Shared Repository: The National Library of France''s Journey
   to Third-Party Archiving'
 year: 2013

@@ -21,6 +21,7 @@ publication_type: poster
 size: 105451
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation Metadata Dictionary '
 year: 2019
 ---

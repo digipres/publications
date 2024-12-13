@@ -42,6 +42,7 @@ publication_type: paper
 size: 141098
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Using blockchain to engender trust in public digital archives
 year: 2018
 ---

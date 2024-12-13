@@ -22,6 +22,7 @@ publication_type: paper
 size: 699877
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The National Digital Stewardship Alliance Charter: Enabling Collaboration
   to Achieve National Digital Preservation'
 year: 2009

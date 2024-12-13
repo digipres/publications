@@ -25,6 +25,7 @@ publication_type: poster
 size: 113633
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Presentation and Contextualisation in the Online Archive of Internet Art
 year: 2017
 ---

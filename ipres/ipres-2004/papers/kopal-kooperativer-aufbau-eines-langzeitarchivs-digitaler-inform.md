@@ -18,6 +18,7 @@ publication_type: paper
 size: 113955
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'KOPAL: KOoPerativer Aufbau eines Langzeitarchivs digitaler Informationen'
 year: 2004
 ---

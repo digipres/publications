@@ -54,6 +54,7 @@ publication_type: paper
 size: 649626
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Developing a Community Capability Model Framework for data-intensive research
 year: 2012
 ---

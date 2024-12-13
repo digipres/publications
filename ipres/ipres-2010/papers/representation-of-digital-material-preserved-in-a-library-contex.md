@@ -67,6 +67,7 @@ publication_type: paper
 size: 228071
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: REPRESENTATION OF DIGITAL MATERIAL  PRESERVED IN A LIBRARY CONTEXT
 year: 2010
 ---

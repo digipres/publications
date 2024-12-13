@@ -79,6 +79,7 @@ publication_type: poster
 size: 384508
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'In Search of GeoBlacklight: Reporting on a Community-Driven Geospatial Data
   Portal in the Library'
 year: 2015

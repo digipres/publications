@@ -42,6 +42,7 @@ publication_type: poster
 size: 439146
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: AUSTRIAN STATE RECORDS MANAGEMENT LIFECYCLE
 year: 2010
 ---

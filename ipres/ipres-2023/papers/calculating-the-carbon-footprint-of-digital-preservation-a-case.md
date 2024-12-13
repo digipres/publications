@@ -34,6 +34,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121655
 source_name: iPRES
+stream_url: null
 title: 'CALCULATING THE CARBON FOOTPRINT OF DIGITAL PRESERVATION: A Case Study'
 year: 2023
 ---

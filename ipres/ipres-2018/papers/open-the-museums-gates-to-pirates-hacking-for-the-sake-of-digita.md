@@ -28,6 +28,7 @@ publication_type: paper
 size: 840130
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Open the museum’s gates to pirates: Hacking for the sake of digital art preservation'
 year: 2018
 ---

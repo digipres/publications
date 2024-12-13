@@ -25,6 +25,7 @@ publication_type: paper
 size: 60512
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Adapting Existing Technologies for Digitally Archiving Personal Lives Digital
   Forensics, Ancestral Computing, and Evolutionary Perspectives and Tools
 year: 2008

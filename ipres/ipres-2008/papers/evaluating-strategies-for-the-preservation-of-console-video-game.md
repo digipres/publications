@@ -39,6 +39,7 @@ publication_type: paper
 size: 764529
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Evaluating Strategies for the Preservation of Console Video Games
 year: 2008
 ---

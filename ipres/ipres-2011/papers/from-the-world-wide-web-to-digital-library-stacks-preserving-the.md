@@ -53,6 +53,7 @@ publication_type: paper
 size: 528846
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'From the World Wide Web to Digital Library Stacks: Preserving the French Web
   Archives'
 year: 2011

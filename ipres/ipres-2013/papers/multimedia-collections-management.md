@@ -33,6 +33,7 @@ publication_type: paper
 size: 255480
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Multimedia Collections Management
 year: 2013
 ---

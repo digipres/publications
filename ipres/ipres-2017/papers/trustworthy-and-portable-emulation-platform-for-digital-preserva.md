@@ -31,6 +31,7 @@ publication_type: paper
 size: 379441
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Trustworthy and Portable Emulation Platform for Digital Preservation
 year: 2017
 ---

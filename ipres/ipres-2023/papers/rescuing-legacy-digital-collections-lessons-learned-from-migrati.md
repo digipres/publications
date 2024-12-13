@@ -30,6 +30,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121654
 source_name: iPRES
+stream_url: null
 title: 'RESCUING LEGACY DIGITAL COLLECTIONS: Lessons Learned from Migrating Historical
   Bespoke Digital Collections'
 year: 2023

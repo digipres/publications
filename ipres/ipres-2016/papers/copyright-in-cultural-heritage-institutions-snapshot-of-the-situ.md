@@ -28,6 +28,7 @@ publication_type: paper
 size: 203899
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Copyright in Cultural Heritage Institutions Snapshot of the Situation in Switzerland
   from a national library perspective
 year: 2016

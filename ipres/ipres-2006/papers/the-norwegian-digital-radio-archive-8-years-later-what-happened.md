@@ -29,6 +29,7 @@ publication_type: presentation
 size: 1730422
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Norwegian Digital Radio Archive - 8 years later, what happened?
 year: 2006
 ---

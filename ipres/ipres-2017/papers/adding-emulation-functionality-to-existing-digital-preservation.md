@@ -34,6 +34,7 @@ publication_type: paper
 size: 887582
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Adding Emulation Functionality to Existing Digital Preservation Infrastructure
 year: 2017
 ---

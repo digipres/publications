@@ -38,6 +38,7 @@ publication_type: paper
 size: 895722
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Digital preservation, archives management, format migration, transformation,
   at scale, normalization
 year: 2012

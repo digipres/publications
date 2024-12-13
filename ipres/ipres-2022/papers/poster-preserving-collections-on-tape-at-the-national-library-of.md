@@ -30,6 +30,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Preserving Collections On Tape At The National Library Of Scotland:
   From Business Case To Bytes'
 year: 2022

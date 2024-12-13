@@ -29,6 +29,7 @@ publication_type: paper
 size: 97231
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Creating Virtual CD-ROM Collections
 year: 2008
 ---

@@ -24,6 +24,7 @@ publication_type: poster
 size: 94335
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Autonomous Preservation Tools in Minimal Effort Ingest
 year: 2016
 ---

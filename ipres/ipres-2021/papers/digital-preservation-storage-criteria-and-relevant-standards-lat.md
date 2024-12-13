@@ -45,6 +45,7 @@ publication_type: poster
 size: 426039
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: DIGITAL PRESERVATION STORAGE CRITERIA AND RELEVANT STANDARDS - Latest Development
   on the Digital Preservation Storage Criteria
 year: 2021

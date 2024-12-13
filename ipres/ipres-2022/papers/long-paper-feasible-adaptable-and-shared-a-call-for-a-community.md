@@ -26,6 +26,7 @@ publication_type: long paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Long Paper: Feasible, Adaptable and Shared: A call for a community framework
   for implementing ML and AI'
 year: 2022

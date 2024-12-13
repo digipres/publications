@@ -34,6 +34,7 @@ publication_type: presentation
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PUBLISHING AGRICULTURAL DATA FROM THE MORROW PLOTS: The Value and Logistics
   of Preserving a Long-Term Research Experiment'
 year: 2023

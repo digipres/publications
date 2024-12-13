@@ -37,6 +37,7 @@ publication_type: poster
 size: 52907
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Lifecycle Management in Maryland: Establishing the foundations for
   consortial approaches to digital preservation at Maryland universities and affiliated
   institutions'

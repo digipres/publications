@@ -18,6 +18,7 @@ publication_type: presentation
 size: 232595
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Preservation Europe: Training and Ecucation'
 year: 2007
 ---

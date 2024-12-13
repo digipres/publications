@@ -39,6 +39,7 @@ publication_type: paper
 size: 1307987
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Replicating Installed Application and Information Environments onto Emulated
   or Virtualized Hardware
 year: 2011

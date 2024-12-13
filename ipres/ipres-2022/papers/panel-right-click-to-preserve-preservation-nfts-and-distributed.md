@@ -30,6 +30,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: Right Click to Preserve: Preservation, NFTs, and Distributed Ledgers'
 year: 2022
 ---

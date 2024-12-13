@@ -24,6 +24,7 @@ publication_type: paper
 size: 280485
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Workflow Management in an Operational Archiving Environment: Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

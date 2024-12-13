@@ -34,6 +34,7 @@ publication_type: paper
 size: 813717
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Developing a Highly Automated Web Archiving System Based on IIPC Open Source
   Software
 year: 2015

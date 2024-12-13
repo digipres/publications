@@ -21,6 +21,7 @@ publication_type: workshop
 size: 107445
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Towards Smarter Persistent Identifiers
 year: 2016
 ---

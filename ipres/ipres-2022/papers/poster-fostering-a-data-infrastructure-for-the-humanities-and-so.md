@@ -30,6 +30,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: FOSTERING A DATA INFRASTRUCTURE FOR THE HUMANITIES AND SOCIAL SCIENCES:
   A Case Study in Japan'
 year: 2022

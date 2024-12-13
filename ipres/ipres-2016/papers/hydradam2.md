@@ -21,6 +21,7 @@ publication_type: poster
 size: 144307
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: HydraDAM2
 year: 2016
 ---

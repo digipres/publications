@@ -35,6 +35,7 @@ publication_type: paper
 size: 363737
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Supporting Virtual Reality and 3D in Academic Libraries '
 year: 2019
 ---

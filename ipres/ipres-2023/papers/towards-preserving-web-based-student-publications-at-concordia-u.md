@@ -30,6 +30,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121685
 source_name: iPRES
+stream_url: null
 title: TOWARDS PRESERVING WEB-BASED STUDENT PUBLICATIONS AT CONCORDIA UNIVERSITY
 year: 2023
 ---

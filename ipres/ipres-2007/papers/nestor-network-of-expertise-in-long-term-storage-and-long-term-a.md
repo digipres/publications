@@ -18,6 +18,7 @@ publication_type: paper
 size: 40197
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: nestor - Network of Expertise in Long-Term Storage and Long-Term availability
   of Digital Resources in Germany
 year: 2007

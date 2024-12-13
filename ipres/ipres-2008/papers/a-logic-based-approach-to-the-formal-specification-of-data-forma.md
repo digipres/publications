@@ -27,6 +27,7 @@ publication_type: paper
 size: 79292
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Logic-Based Approach to the Formal Specification of Data Formats
 year: 2008
 ---

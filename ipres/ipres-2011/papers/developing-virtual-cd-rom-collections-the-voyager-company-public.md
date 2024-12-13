@@ -37,6 +37,7 @@ publication_type: paper
 size: 607478
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Developing Virtual CD-ROM Collections: The Voyager Company Publications'
 year: 2011
 ---

@@ -38,6 +38,7 @@ publication_type: paper
 size: 2225080
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Design Decisions in Emulator Construction: A Case Study on Home Computer Software
   Preservation'
 year: 2011

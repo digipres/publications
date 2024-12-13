@@ -43,6 +43,7 @@ publication_type: paper
 size: 520524
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Towards an Integrated Media Transfer Environment: A Comparative Summary of
   Available Transfer Tools and Recommendations for the Development of a Toolset for
   the Preservation of Complex Digital Objects'

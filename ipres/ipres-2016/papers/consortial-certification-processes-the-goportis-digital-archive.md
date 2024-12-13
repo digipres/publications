@@ -28,6 +28,7 @@ publication_type: poster
 size: 45529
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Consortial Certification Processes – The Goportis Digital Archive
 year: 2016
 ---

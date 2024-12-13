@@ -27,6 +27,7 @@ publication_type: presentation
 size: 226762
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation Strategies of the Koninklijke Bibliotheek
 year: 2004
 ---

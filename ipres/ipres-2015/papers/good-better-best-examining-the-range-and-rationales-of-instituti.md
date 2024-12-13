@@ -25,6 +25,7 @@ publication_type: paper
 size: 320371
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Good, Better, Best? Examining the Range and Rationales of Institutional Data
   Curation Practices
 year: 2015

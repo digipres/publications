@@ -18,6 +18,7 @@ publication_type: presentation
 size: 61246
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: nestor - Network of Expertise in long-term STORage of Digital Preservation
 year: 2004
 ---

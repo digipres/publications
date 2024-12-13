@@ -18,6 +18,7 @@ publication_type: presentation
 size: 48876
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: reUSE! reUSE digital master files of printed material!
 year: 2004
 ---

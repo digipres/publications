@@ -35,6 +35,7 @@ publication_type: long paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Long Paper: RESILIENCE OF INTERNET ART SUPPORTED BY EXECUTABLE ARCHIVE PRINCIPLES  Case-study
   of Flash & VMRL Artwork '
 year: 2022

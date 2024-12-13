@@ -46,6 +46,7 @@ publication_type: paper
 size: 426039
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Cultural Heritage Preservation using Multimedia and AI
 year: 2021
 ---

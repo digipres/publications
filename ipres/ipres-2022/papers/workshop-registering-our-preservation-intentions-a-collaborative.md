@@ -27,6 +27,7 @@ publication_type: workshop
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Workshop: Registering our preservation intentions: A collaborative workshop
   on digital preservation registries'
 year: 2022

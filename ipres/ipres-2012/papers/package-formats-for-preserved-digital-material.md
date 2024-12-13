@@ -38,6 +38,7 @@ publication_type: paper
 size: 644237
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Package Formats for Preserved Digital Material
 year: 2012
 ---

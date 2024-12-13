@@ -67,6 +67,7 @@ publication_type: paper
 size: 88469
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'MEASURING CONTENT QUALITY IN A PRESERVATION  REPOSITORY: HATHITRUST AND LARGE-SCALE
   BOOK  DIGITIZATION'
 year: 2010

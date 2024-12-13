@@ -24,6 +24,7 @@ publication_type: poster
 size: 411511
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Achieving Transparency and Replicability: A Data Curation, Verification, and
   Publication Workflow'
 year: 2015

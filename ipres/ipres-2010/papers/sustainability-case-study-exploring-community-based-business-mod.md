@@ -24,6 +24,7 @@ publication_type: poster
 size: 147915
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'SUSTAINABILITY CASE STUDY: EXPLORING COMMUNITY-BASED BUSINESS MODELS FOR ARXIV'
 year: 2010
 ---

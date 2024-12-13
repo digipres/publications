@@ -26,6 +26,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: CoreTrustSeal v3.0 In a Preservation and Community Context'
 year: 2022
 ---

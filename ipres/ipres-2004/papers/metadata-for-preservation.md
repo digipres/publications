@@ -26,6 +26,7 @@ publication_type: presentation
 size: 107675
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Metadata for preservation
 year: 2004
 ---

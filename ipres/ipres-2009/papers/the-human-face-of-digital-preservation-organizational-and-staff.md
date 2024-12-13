@@ -31,6 +31,7 @@ publication_type: paper
 size: 1153004
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Human Face of Digital Preservation: Organizational and Staff Challenges,
   and Initiatives at the Bibliothèque nationale de France'
 year: 2009

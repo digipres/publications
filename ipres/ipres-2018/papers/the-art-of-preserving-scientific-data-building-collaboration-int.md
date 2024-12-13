@@ -29,6 +29,7 @@ publication_type: paper
 size: 271059
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Art of Preserving Scientific Data: Building collaboration into the preservation
   of a legacy database'
 year: 2018

@@ -34,6 +34,7 @@ publication_type: paper
 size: 474209
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Curation and Preservation of Research Data in Germany: A survey across different
   academic disciplines'
 year: 2011

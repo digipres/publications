@@ -28,6 +28,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Leveraging AI for Video Appraisal: A Case Study at the World Bank
   Group '
 year: 2022

@@ -33,6 +33,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121666
 source_name: iPRES
+stream_url: null
 title: VIRTUALIZATION FOR PROCESSING AND ACCESSING DIGITAL ARCHIVES
 year: 2023
 ---

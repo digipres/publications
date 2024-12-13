@@ -36,6 +36,7 @@ publication_type: paper
 size: 741831
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Towards a Systematic Information Governance Maturity Assessment
 year: 2016
 ---

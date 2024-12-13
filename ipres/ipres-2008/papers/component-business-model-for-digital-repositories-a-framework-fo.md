@@ -36,6 +36,7 @@ publication_type: paper
 size: 113023
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Component Business Model for Digital Repositories: A Framework for Analysis'
 year: 2008
 ---

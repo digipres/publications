@@ -21,6 +21,7 @@ publication_type: workshop
 size: 98888
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: OSS4Pres 2.0
 year: 2016
 ---

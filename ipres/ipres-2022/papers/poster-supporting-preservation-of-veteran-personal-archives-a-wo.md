@@ -24,6 +24,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Supporting Preservation of Veteran Personal Archives: A Workshop on
   the Use of the Virtual Footlocker Project Curriculum'
 year: 2022

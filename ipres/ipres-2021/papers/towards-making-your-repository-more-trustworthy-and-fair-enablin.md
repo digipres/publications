@@ -18,6 +18,7 @@ publication_type: lightning talk
 size: 64120
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Towards making your repository more trustworthy and FAIR-enabling
 year: 2021
 ---

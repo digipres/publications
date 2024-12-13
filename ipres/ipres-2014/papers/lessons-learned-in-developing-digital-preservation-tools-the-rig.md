@@ -35,6 +35,7 @@ publication_type: poster
 size: 158049
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Lessons learned in developing digital preservation tools the right way (and
   the wrong way): Poster (Text) '
 year: 2014

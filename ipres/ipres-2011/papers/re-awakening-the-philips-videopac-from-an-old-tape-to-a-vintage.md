@@ -33,6 +33,7 @@ publication_type: paper
 size: 1738302
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Re-awakening the Philips Videopac: From an old tape to a vintage feeling on
   a modern screen'
 year: 2011

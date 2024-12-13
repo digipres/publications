@@ -36,6 +36,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: ARCHIVER: Sustainable Preservation of Scientific Data'
 year: 2022
 ---

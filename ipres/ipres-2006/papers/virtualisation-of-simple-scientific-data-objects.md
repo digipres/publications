@@ -35,6 +35,7 @@ publication_type: presentation
 size: 1148200
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Virtualisation of Simple Scientific Data Objects
 year: 2006
 ---

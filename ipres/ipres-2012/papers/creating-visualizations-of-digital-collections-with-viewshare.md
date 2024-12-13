@@ -30,6 +30,7 @@ publication_type: paper
 size: 810083
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Creating Visualizations of Digital Collections with Viewshare
 year: 2012
 ---

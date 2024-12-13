@@ -32,6 +32,7 @@ publication_type: paper
 size: 542664
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Design of Collaborative Marking Mode for Museum Collections-Taking "gugong
   minghuaji" as an example
 year: 2021

@@ -28,6 +28,7 @@ publication_type: presentation
 size: 681524
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation of e-journals at the Koninklijke Bibliotheek
 year: 2004
 ---

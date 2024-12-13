@@ -26,6 +26,7 @@ publication_type: paper
 size: 355504
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A Demonstration of ePADD: Computational Analysis Software Facilitating Screening,
   Browsing, and Access for Historically and Culturally Valuable Email Collections'
 year: 2017

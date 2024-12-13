@@ -19,6 +19,7 @@ publication_type: poster
 size: 678903
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Building Archival Storage Component Using New Open Standard Infrastructure
 year: 2016
 ---

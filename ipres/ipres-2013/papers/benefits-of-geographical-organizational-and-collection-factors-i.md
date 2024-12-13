@@ -44,6 +44,7 @@ publication_type: paper
 size: 334794
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Benefits of geographical, organizational and collection factors in digital
   preservation cooperations: The experience of the Goportis consortium'
 year: 2013

@@ -18,6 +18,7 @@ publication_type: presentation
 size: 1466113
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: DRIVER - Building an Infrastructure of European Scientific Repositories
 year: 2007
 ---

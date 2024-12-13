@@ -29,6 +29,7 @@ publication_type: paper
 size: 175954
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Modeling Tweets in Compliance with the Portland Common Data Model
 year: 2015
 ---

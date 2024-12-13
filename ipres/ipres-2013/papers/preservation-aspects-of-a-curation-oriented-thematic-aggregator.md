@@ -41,6 +41,7 @@ publication_type: paper
 size: 637265
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation Aspects of a Curation-Oriented Thematic Aggregator
 year: 2013
 ---

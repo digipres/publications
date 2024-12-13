@@ -31,6 +31,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: The 2022 Revision of the PREMIS Rights Entity'
 year: 2022
 ---

@@ -36,6 +36,7 @@ publication_type: paper
 size: 887438
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Large-Scale Curation and Presentation of CD-ROM Art
 year: 2013
 ---

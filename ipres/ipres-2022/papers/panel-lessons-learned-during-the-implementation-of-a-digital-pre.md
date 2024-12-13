@@ -29,6 +29,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: Lessons Learned During the Implementation of a Digital Preservation
   Project:Experiences from Europe, USA, and Asia'
 year: 2022

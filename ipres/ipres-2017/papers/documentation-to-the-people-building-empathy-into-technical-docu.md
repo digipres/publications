@@ -26,6 +26,7 @@ publication_type: paper
 size: 386253
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Documentation to the People: Building Empathy into Technical Documentation
   for Digital Archiving'
 year: 2017

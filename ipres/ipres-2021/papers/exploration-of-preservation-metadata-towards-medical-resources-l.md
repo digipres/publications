@@ -37,6 +37,7 @@ publication_type: paper
 size: 255461
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: EXPLORATION OF PRESERVATION METADATA TOWARDS MEDICAL RESOURCES LONG-TERM ARCHIVING
 year: 2021
 ---

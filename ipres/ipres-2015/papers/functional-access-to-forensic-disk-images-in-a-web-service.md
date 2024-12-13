@@ -31,6 +31,7 @@ publication_type: paper
 size: 255366
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Functional Access to Forensic Disk Images in a Web Service
 year: 2015
 ---

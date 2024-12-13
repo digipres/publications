@@ -23,6 +23,7 @@ publication_type: paper
 size: 253776
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Matterhorn RDF Data Model '
 year: 2019
 ---

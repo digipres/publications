@@ -30,6 +30,7 @@ publication_type: presentation
 size: 67753
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Different approaches to digital preservation
 year: 2004
 ---

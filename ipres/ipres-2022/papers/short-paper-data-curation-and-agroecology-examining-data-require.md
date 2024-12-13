@@ -33,6 +33,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Short Paper: Data curation and agroecology: examining data requirements for
   short supply chains \r\n"
 year: 2022

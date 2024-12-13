@@ -43,6 +43,7 @@ publication_type: paper
 size: 645160
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Preservation of Newspapers: Findings of the Chronicles in Preservation
   Project'
 year: 2012

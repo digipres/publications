@@ -30,6 +30,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Evaluating a Taxonomy for Video Game Development Artifacts: Archival
   Taxonomies in Highly Innovative Domains'
 year: 2022

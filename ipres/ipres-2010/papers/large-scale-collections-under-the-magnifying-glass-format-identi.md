@@ -58,6 +58,7 @@ publication_type: poster
 size: 106396
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'LARGE-SCALE COLLECTIONS UNDER THE  MAGNIFYING GLASS: FORMAT IDENTIFICATION
   FOR'
 year: 2010

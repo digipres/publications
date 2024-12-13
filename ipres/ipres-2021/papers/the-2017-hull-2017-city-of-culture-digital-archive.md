@@ -18,6 +18,7 @@ publication_type: lightning talk
 size: 36197
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The 2017 Hull 2017 City of Culture Digital Archive
 year: 2021
 ---

@@ -33,6 +33,7 @@ publication_type: paper
 size: 424158
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Towards a Universal Virtual Interactor (UVI) for Digital Objects '
 year: 2019
 ---

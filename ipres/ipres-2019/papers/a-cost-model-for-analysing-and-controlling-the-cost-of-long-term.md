@@ -30,6 +30,7 @@ publication_type: paper
 size: 129847
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A cost model for analysing and controlling the cost of long-term digital accessibility
   as a strategic decision-making tool '
 year: 2019

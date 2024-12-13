@@ -18,6 +18,7 @@ publication_type: presentation
 size: 75356
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Realizing a Preservation Strategy: Format Migration with koLibRI'
 year: 2007
 ---

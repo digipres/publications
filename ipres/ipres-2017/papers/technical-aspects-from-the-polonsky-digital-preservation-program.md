@@ -30,6 +30,7 @@ publication_type: poster
 size: 285040
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Technical aspects from the Polonsky Digital Preservation Programme - The story
   so far at The Bodleian Libraries and Cambridge University Library
 year: 2017

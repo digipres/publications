@@ -18,6 +18,7 @@ publication_type: presentation
 size: 38864
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'International Digital Curation Curriculum: DigCCurr Project'
 year: 2007
 ---

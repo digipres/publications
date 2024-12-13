@@ -36,6 +36,7 @@ publication_type: paper
 size: 891666
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Formats and Preservation: Presentation - iPRES 2005 - Göttingen'
 year: 2005
 ---

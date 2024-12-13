@@ -31,6 +31,7 @@ publication_type: workshop
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Workshop: The Value of Catastrophic Data Loss'
 year: 2022
 ---

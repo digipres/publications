@@ -30,6 +30,7 @@ publication_type: workshop
 size: 91485
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Workshop on Relational Database Preservation Standards and Tools
 year: 2016
 ---

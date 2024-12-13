@@ -35,6 +35,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121665
 source_name: iPRES
+stream_url: null
 title: 'A QUESTION OF CHARACTER: How do we automatically recharacterize data at cloud
   scales?'
 year: 2023

@@ -31,6 +31,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Macintosh Resource Forks - Choosing File Formats for Preservation'
 year: 2022
 ---

@@ -50,6 +50,7 @@ publication_type: paper
 size: 89696
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PREMIS: Implementation and Preservation Metadata: Presentation - iPRES 2005
   - Göttingen'
 year: 2005

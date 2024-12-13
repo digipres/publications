@@ -26,6 +26,7 @@ publication_type: poster
 size: 109696
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Minimal Effort Ingest
 year: 2015
 ---

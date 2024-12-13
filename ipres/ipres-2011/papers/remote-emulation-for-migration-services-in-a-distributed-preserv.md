@@ -40,6 +40,7 @@ publication_type: paper
 size: 1594693
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Remote Emulation for Migration Services in a Distributed Preservation Framework
 year: 2011
 ---

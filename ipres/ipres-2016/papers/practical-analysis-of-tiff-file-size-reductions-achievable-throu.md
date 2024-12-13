@@ -30,6 +30,7 @@ publication_type: paper
 size: 480166
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Practical Analysis of TIFF File Size Reductions Achievable Through Compression
 year: 2016
 ---

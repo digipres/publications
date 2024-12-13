@@ -40,6 +40,7 @@ publication_type: paper
 size: 732253
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Materiality: Preserving Access to Computers as Complete Environments'
 year: 2009
 ---

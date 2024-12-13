@@ -45,6 +45,7 @@ publication_type: paper
 size: 249774
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Text File Format Identification: An Application of AI for the Curation of
   Digital Records'
 year: 2021

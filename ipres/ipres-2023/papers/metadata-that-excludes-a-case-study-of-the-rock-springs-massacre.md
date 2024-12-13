@@ -28,6 +28,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'METADATA THAT EXCLUDES: A Case Study of the Rock Springs Massacre in Digital
   Collections'
 year: 2023

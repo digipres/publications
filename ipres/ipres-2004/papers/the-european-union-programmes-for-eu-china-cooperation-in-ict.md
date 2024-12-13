@@ -18,6 +18,7 @@ publication_type: presentation
 size: 70787
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The European Union: Programmes for EU-China Cooperation in ICT'
 year: 2004
 ---

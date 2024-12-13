@@ -19,6 +19,7 @@ publication_type: paper
 size: 784595
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'International Conference on Preservation of Digital Objects - Göttingen 15–16
   Sep 05: Paper - iPRES 2005 - Göttingen'
 year: 2005

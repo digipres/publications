@@ -31,6 +31,7 @@ publication_type: paper
 size: 701725
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Challenges in Accessing Information in Digitized 19th-Century Czech Texts
 year: 2012
 ---

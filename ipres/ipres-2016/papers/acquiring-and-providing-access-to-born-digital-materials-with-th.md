@@ -28,6 +28,7 @@ publication_type: tutorial
 size: 428621
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Acquiring and Providing Access to Born-Digital Materials with the BitCurator
   Environment and BitCurator Access Webtools
 year: 2016

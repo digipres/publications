@@ -43,6 +43,7 @@ publication_type: paper
 size: 827783
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Authenticity Management in Long Term Digital Preservation of Medical Records
 year: 2012
 ---

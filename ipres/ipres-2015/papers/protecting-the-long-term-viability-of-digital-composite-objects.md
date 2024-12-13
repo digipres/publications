@@ -26,6 +26,7 @@ publication_type: poster
 size: 401955
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Protecting the Long-Term Viability of Digital Composite Objects through Format
   Migration
 year: 2015

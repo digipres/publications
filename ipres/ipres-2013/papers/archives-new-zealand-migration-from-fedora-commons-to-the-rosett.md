@@ -28,6 +28,7 @@ publication_type: paper
 size: 538671
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Archives New Zealand Migration from Fedora Commons to the Rosetta Digital Preservation
   System
 year: 2013

@@ -35,6 +35,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'EAASI PRESERVATION OF MOBILE APPLICATIONS: Progress with the long-term preservation
   of access to mobile applications using the EaaSI platform'
 year: 2023

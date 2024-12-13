@@ -29,6 +29,7 @@ publication_type: paper
 size: 475058
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'TOTEM: Trusted Online Technical Environment Metadata - A Long-Term Solution
   for a Relational Database / RDF Ontologies'
 year: 2011

@@ -25,6 +25,7 @@ publication_type: poster
 size: 426557
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Research on Accessibility of Digital Documentation on Physical Media across
   Different Versions of MS Windows
 year: 2015

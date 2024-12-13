@@ -32,6 +32,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Progress to Participatory Digital Preservation with Geopark: A Case
   Study of How Gold Museum in Taiwan Participates in Shui-Chin-Chiu Geopark to Engage
   with Local Communities'

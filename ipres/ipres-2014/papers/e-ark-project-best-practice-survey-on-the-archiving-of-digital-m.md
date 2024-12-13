@@ -40,6 +40,7 @@ publication_type: poster
 size: 30755
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'E-Ark Project – Best Practice Survey on the Archiving of Digital Material:
   Poster (Text) '
 year: 2014

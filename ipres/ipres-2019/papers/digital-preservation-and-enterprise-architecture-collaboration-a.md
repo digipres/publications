@@ -31,6 +31,7 @@ publication_type: paper
 size: 568897
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital preservation and enterprise architecture collaboration at the University
   of Melbourne '
 year: 2019

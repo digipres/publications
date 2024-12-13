@@ -38,6 +38,7 @@ publication_type: paper
 size: 1860232
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Towards Concise Preservation by Managed Forgetting: Challenges and Opportunities'
 year: 2013
 ---

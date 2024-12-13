@@ -20,6 +20,7 @@ publication_type: paper
 size: 613710
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: iPres 2018 Conference Summary
 year: 2018
 ---

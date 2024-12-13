@@ -18,6 +18,7 @@ publication_type: presentation
 size: 548908
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'nestor Training & Education: Experiences from Germany'
 year: 2007
 ---

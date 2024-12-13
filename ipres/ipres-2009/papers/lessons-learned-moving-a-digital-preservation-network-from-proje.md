@@ -28,6 +28,7 @@ publication_type: paper
 size: 760132
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Lessons Learned: Moving a Digital Preservation Network from Project Organization
   to Sustainability'
 year: 2009

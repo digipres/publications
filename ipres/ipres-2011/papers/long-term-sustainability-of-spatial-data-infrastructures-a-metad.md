@@ -48,6 +48,7 @@ publication_type: paper
 size: 1150321
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Long-Term Sustainability of Spatial Data Infrastructures: A Metadata Framework
   and Principles of Geo-Archiving'
 year: 2011

@@ -42,6 +42,7 @@ publication_type: paper
 size: 803489
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: When Digital Remembers Analogue - Conservation Metadata for Analogue Film as
   Preservation Description Information in a Digital Archive
 year: 2021

@@ -33,6 +33,7 @@ publication_type: poster
 size: 183941
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Metadata Representation and Risk Management Framework for Preservation Processes
   in AV Archives: Poster (Poster) '
 year: 2014

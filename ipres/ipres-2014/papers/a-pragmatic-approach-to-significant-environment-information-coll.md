@@ -49,6 +49,7 @@ publication_type: paper
 size: 439628
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A pragmatic approach to significant environment information collection to
   support object reuse: Paper '
 year: 2014

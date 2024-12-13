@@ -34,6 +34,7 @@ publication_type: workshops and tutorials
 size: 141075
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Modelling File Formats and Technical Environments using the NSLA Digital Preservation
   Technical Registry (DPTR)
 year: 2014

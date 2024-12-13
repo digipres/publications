@@ -41,6 +41,7 @@ publication_type: paper
 size: 284814
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: PROPOSING A FRAMEWORK AND A VISUAL TOOL FOR  ANALYSING GAPS IN DIGITAL PRESERVATION  PRACTICE
   – A CASE STUDY AMONG SCIENTIFIC  LIBRARIES IN EUROPE
 year: 2010

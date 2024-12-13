@@ -35,6 +35,7 @@ publication_type: poster
 size: 312064
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: PHAIDRA - A REPOSITORY-PROJECT OF THE UNIVERSITY OF  VIENNA
 year: 2010
 ---

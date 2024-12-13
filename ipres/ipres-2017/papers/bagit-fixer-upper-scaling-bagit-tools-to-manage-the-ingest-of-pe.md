@@ -31,6 +31,7 @@ publication_type: paper
 size: 111301
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'BagIt Fixer-Upper: Scaling BagIt Tools to Manage the Ingest of Petabytes of
   Digitization Work'
 year: 2017

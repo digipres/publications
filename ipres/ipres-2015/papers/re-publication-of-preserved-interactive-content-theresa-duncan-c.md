@@ -27,6 +27,7 @@ publication_type: poster
 size: 514672
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: '(Re-)publication of Preserved, Interactive Content – Theresa Duncan CD-ROMs:
   Visionary Videogames for Girls'
 year: 2015

@@ -20,6 +20,7 @@ publication_type: unknown
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "LABDRIVE Tutorial:\r\nA Research Data Management and Digital Preservation
   Platform"
 year: 2022

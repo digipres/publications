@@ -36,6 +36,7 @@ publication_type: paper
 size: 183994
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Self-assessment of the Digital Repository at the State and University Library,
   Denmark - a Case Study: Paper '
 year: 2014

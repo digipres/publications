@@ -25,6 +25,7 @@ publication_type: paper
 size: 85844
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Using METS, PREMIS and MODS for Archiving eJournals
 year: 2008
 ---

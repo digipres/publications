@@ -24,6 +24,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Short Paper: EVALUATING DIGITAL PRESERVATION CAPABILITY WITH LARGE AT-RISK
   COLLECTIONS: Lessons learnt from preserving the NVA Archive\r\n"
 year: 2022

@@ -62,6 +62,7 @@ publication_type: paper
 size: 86399
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'GUIDELINES FOR THE SELECTION OF DIGITAL HERITAGE FOR LONG-TERM PRESERVATION:
   WHAT, WHY, WHEN'
 year: 2021

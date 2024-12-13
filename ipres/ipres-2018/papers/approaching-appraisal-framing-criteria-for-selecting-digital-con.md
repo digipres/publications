@@ -47,6 +47,7 @@ publication_type: paper
 size: 200376
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Approaching Appraisal: Framing criteria for selecting digital content for
   preservation'
 year: 2018

@@ -18,6 +18,7 @@ publication_type: presentation
 size: 662170
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Digital Preservation Coalition: A Brief Introduction'
 year: 2004
 ---

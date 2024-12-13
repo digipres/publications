@@ -31,6 +31,7 @@ publication_type: paper
 size: 1150743
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: An Emergent Micro-Services Approach to Digital Curation Infrastructure
 year: 2009
 ---

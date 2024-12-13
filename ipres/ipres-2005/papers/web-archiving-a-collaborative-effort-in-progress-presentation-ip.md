@@ -38,6 +38,7 @@ publication_type: paper
 size: 562032
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Web Archiving: a collaborative effort in progress: Presentation - iPRES 2005
   - Göttingen'
 year: 2005

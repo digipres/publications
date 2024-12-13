@@ -38,6 +38,7 @@ publication_type: paper
 size: 889640
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Requirements Elicitation for a Long Term Digital Preservation System: A Case
   Study from the Financial Sector'
 year: 2012

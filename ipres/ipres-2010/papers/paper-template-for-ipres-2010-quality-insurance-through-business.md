@@ -70,6 +70,7 @@ publication_type: paper
 size: 113414
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PAPER TEMPLATE FOR IPRES 2010: QUALITY  INSURANCE THROUGH BUSINESS PROCESS  MANAGEMENT
   IN A FRENCH ARCHIVE'
 year: 2010

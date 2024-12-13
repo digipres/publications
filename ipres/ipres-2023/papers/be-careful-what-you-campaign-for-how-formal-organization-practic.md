@@ -35,6 +35,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121658
 source_name: iPRES
+stream_url: null
 title: 'BE CAREFUL WHAT YOU CAMPAIGN FOR: How formal organization practice may negatively
   impact adaptability aspects of preservation'
 year: 2023

@@ -29,6 +29,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PREMIS IMPLEMENTATION FAIR WORKSHOP: Exchanging Experiences using PREMIS'
 year: 2023
 ---

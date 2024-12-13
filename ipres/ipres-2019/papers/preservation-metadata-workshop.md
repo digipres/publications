@@ -29,6 +29,7 @@ publication_type: paper
 size: 134939
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation Metadata Workshop '
 year: 2019
 ---

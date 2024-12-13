@@ -20,6 +20,7 @@ publication_type: poster
 size: 142038
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'CREATING CONTINUITY FOR DIGITAL PRESERVATION PROJECTS '
 year: 2019
 ---

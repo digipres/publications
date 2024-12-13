@@ -33,6 +33,7 @@ publication_type: paper
 size: 71917
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Revamping the "Difficult (Potentially)" but "Mostly Good" and "Pretty Smooth"
   Removable Media Workflow at the Bentley Historical Library
 year: 2018

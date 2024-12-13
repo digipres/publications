@@ -33,6 +33,7 @@ publication_type: paper
 size: 714074
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Identifiers for Digital Objects: The case of software source code preservation'
 year: 2018
 ---

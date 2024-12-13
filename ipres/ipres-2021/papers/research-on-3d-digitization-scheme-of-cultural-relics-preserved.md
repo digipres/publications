@@ -43,6 +43,7 @@ publication_type: paper
 size: 468128
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Research on 3D Digitization Scheme of Cultural Relics Preserved for a Long
   Time
 year: 2021

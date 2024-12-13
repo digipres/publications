@@ -20,6 +20,7 @@ publication_type: paper
 size: 477785
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Adapting search user interfaces to web archives
 year: 2013
 ---

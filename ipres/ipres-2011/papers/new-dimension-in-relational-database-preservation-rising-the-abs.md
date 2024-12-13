@@ -39,6 +39,7 @@ publication_type: paper
 size: 1923260
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'New Dimension in Relational Database Preservation: rising the abstraction
   level'
 year: 2011

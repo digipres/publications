@@ -30,6 +30,7 @@ publication_type: paper
 size: 275231
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Aligning the eARK4All Archival Information Package and Oxford Common File
   Layout Specifications '
 year: 2019

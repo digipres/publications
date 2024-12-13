@@ -30,6 +30,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Quality Assurance For Born-Digital Interactive Narratives: The New
   Media Writing Prize Collection As A Case Study'
 year: 2022

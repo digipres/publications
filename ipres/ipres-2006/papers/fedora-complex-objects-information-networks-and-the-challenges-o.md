@@ -35,6 +35,7 @@ publication_type: presentation
 size: 319991
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Fedora: Complex Objects, Information Networks, and the Challenges of Digital
   Preservation'
 year: 2006

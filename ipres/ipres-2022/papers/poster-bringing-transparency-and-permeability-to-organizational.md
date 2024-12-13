@@ -32,6 +32,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Poster: Bringing Transparency and Permeability to Organizational Silos: Improving
   Workflow and Culture\r\n"
 year: 2022

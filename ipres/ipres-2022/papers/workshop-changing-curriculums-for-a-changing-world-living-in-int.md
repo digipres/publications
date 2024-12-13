@@ -31,6 +31,7 @@ publication_type: workshop
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Workshop: Changing Curriculums for a Changing World? Living in Interesting
   Times: Digital Preservation Education, Pedagogy and Skills'
 year: 2022

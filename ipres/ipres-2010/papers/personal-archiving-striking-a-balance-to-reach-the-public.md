@@ -76,6 +76,7 @@ publication_type: poster
 size: 41037
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PERSONAL ARCHIVING: STRIKING A BALANCE TO  REACH THE PUBLIC'
 year: 2010
 ---

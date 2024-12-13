@@ -47,6 +47,7 @@ publication_type: workshops and tutorials
 size: 152606
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preserving Data to Preserving Research: Curation of Process and Context'
 year: 2014
 ---

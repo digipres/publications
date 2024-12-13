@@ -25,6 +25,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: IT''S ALL IMPORTANT OF COURSE, BUT… '
 year: 2022
 ---

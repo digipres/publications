@@ -31,6 +31,7 @@ publication_type: presentation
 size: 585688
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A Dynamic Solution for Electronic Records: The National Archives & Records
   Administration’s Electronic Records Archives'
 year: 2006

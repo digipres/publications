@@ -36,6 +36,7 @@ publication_type: paper
 size: 163124
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Integrating e-government systems with digital archives: Paper '
 year: 2014
 ---

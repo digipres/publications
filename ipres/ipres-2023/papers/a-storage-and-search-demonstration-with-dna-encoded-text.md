@@ -34,6 +34,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121661
 source_name: iPRES
+stream_url: null
 title: A STORAGE AND SEARCH DEMONSTRATION WITH DNA-ENCODED TEXT
 year: 2023
 ---

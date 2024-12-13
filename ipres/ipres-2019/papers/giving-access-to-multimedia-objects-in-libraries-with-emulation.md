@@ -22,6 +22,7 @@ publication_type: paper
 size: 157085
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Giving Access to Multimedia Objects in Libraries with Emulation '
 year: 2019
 ---

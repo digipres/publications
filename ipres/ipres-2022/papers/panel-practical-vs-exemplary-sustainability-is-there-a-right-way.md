@@ -28,6 +28,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: ‘Practical’ Vs. ‘Exemplary’ Sustainability: Is There a Right Way to
   Archive Email?'
 year: 2022

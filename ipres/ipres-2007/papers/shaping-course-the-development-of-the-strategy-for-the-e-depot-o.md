@@ -37,6 +37,7 @@ publication_type: paper
 size: 58208
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: SHAPING COURSE. The development of the strategy for the e-Depot of the Koninklijke
   Bibliotheek, National Library of the Netherlands, in a national and international
   context

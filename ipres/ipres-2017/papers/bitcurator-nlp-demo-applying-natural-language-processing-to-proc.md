@@ -26,6 +26,7 @@ publication_type: paper
 size: 109586
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'BitCurator NLP Demo: Applying Natural Language Processing to Processing and
   Accessing Digital Collections'
 year: 2017

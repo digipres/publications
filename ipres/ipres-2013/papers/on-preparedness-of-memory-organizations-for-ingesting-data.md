@@ -38,6 +38,7 @@ publication_type: paper
 size: 470164
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: On Preparedness of Memory Organizations for Ingesting Data
 year: 2013
 ---

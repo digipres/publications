@@ -22,6 +22,7 @@ publication_type: poster
 size: 408098
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Invitation to Join the OAIS Community Platform
 year: 2015
 ---

@@ -30,6 +30,7 @@ publication_type: poster
 size: 730430
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Aggregating a Knowledge Base of File Formats from Linked Open Data
 year: 2012
 ---

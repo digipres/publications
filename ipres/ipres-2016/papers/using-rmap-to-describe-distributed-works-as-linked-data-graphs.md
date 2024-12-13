@@ -36,6 +36,7 @@ publication_type: paper
 size: 604016
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Using RMap to Describe Distributed Works as Linked Data Graphs
 year: 2016
 ---

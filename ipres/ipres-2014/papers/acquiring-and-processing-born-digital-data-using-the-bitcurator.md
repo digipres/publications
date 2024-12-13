@@ -34,6 +34,7 @@ publication_type: workshops and tutorials
 size: 150549
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Acquiring and Processing Born-Digital Data Using the BitCurator Environment
 year: 2014
 ---

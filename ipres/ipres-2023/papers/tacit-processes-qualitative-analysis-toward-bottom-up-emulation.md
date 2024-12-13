@@ -26,6 +26,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121659
 source_name: iPRES
+stream_url: null
 title: 'TACIT PROCESSES: Qualitative Analysis Toward Bottom-Up Emulation Workflows'
 year: 2023
 ---

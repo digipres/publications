@@ -35,6 +35,7 @@ publication_type: paper
 size: 319466
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Phantoms of the Digital Opera: The need for long term preservation of born-digital
   actorsand multimedia objects using methods that permit ongoing new creations'
 year: 2017

@@ -20,6 +20,7 @@ publication_type: presentation
 size: 996879
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Emulation for digital preservation in practice: the results'
 year: 2007
 ---

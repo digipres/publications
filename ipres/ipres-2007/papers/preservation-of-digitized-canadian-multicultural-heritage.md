@@ -18,6 +18,7 @@ publication_type: presentation
 size: 84762
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation of Digitized Canadian Multicultural Heritage
 year: 2007
 ---

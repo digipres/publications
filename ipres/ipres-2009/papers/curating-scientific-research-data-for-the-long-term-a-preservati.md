@@ -30,6 +30,7 @@ publication_type: paper
 size: 929395
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Curating Scientific Research Data for the Long Term: A Preservation Analysis
   Method in Context'
 year: 2009

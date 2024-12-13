@@ -44,6 +44,7 @@ publication_type: poster
 size: 443872
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Addressing Major Digital Archiving Challenges
 year: 2015
 ---

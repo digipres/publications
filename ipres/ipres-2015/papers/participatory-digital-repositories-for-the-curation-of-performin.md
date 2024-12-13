@@ -27,6 +27,7 @@ publication_type: paper
 size: 187156
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Participatory Digital Repositories for the Curation of Performing Arts with
   Digital Technology
 year: 2015

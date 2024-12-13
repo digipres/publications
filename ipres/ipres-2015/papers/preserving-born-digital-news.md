@@ -39,6 +39,7 @@ publication_type: paper
 size: 253019
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preserving Born-Digital News
 year: 2015
 ---

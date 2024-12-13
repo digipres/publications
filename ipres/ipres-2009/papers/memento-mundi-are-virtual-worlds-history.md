@@ -27,6 +27,7 @@ publication_type: paper
 size: 724952
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Memento Mundi: Are Virtual Worlds History?'
 year: 2009
 ---

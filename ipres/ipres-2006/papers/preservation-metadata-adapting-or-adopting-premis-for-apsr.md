@@ -30,6 +30,7 @@ publication_type: presentation
 size: 589783
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation Metadata: Adapting or Adopting PREMIS for APSR'
 year: 2006
 ---

@@ -29,6 +29,7 @@ publication_type: paper
 size: 93247
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Modeling System Reliability For Digital Preservation: Model Modification
   and Four-Copy Model Study'
 year: 2008

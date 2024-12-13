@@ -25,6 +25,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Vanished: Preserving the Carmichael Watson Project Website Offline
   Using Webrecorder'
 year: 2022

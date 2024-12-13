@@ -29,6 +29,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Short Paper: Going for Gold or Good Enough?\r\nObservations on three years
   of benchmarking with DPC RAM\r\n"
 year: 2022

@@ -46,6 +46,7 @@ publication_type: paper
 size: 984759
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Assessing Digital Preservation Capabilities Using a Checklist Assessment Method
 year: 2012
 ---

@@ -51,6 +51,7 @@ publication_type: paper
 size: 55263
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The evolution of digital preservation at the Getty Research Institute: How
   workflows have evolved in the past five years to address our varied needs'
 year: 2018

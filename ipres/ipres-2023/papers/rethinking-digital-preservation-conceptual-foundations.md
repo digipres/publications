@@ -31,6 +31,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'RETHINKING DIGITAL PRESERVATION: Conceptual Foundations'
 year: 2023
 ---

@@ -35,6 +35,7 @@ publication_type: paper
 size: 285957
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Research Data Management Organiser: A tool to support the planning, implementation
   and organisation of research data management'
 year: 2017

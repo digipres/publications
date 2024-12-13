@@ -37,6 +37,7 @@ publication_type: paper
 size: 995512
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Experiment, Document & Decide: a Collaborative Approach to Preservation Planning
   at the BnF'
 year: 2015

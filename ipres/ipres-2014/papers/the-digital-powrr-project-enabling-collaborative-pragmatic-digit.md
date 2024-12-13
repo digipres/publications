@@ -19,6 +19,7 @@ publication_type: poster
 size: 33292
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Digital POWRR Project: Enabling Collaborative Pragmatic Digital Preservation
   Approaches: Poster (Text) '
 year: 2014

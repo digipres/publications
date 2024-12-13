@@ -33,6 +33,7 @@ publication_type: presentation
 size: 186892
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'CADSL: China Archives of Digital Scientific Literature Initiative'
 year: 2006
 ---

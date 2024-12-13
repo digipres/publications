@@ -30,6 +30,7 @@ publication_type: paper
 size: 560666
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Beyond the Binary: Pre-Ingest Preservation of Metadata'
 year: 2015
 ---

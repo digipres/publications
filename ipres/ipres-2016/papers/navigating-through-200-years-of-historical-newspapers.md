@@ -28,6 +28,7 @@ publication_type: paper
 size: 12198969
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Navigating through 200 Years of Historical Newspapers
 year: 2016
 ---

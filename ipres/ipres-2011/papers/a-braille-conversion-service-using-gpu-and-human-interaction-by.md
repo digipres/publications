@@ -39,6 +39,7 @@ publication_type: paper
 size: 743898
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Braille Conversion Service Using GPU and Human Interaction by Computer Vision
 year: 2011
 ---

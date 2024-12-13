@@ -33,6 +33,7 @@ publication_type: poster
 size: 345628
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Automating the Preservation of Electronic Theses and Dissertations with Archivematica
 year: 2013
 ---

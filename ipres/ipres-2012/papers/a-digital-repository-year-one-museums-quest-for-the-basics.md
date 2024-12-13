@@ -31,6 +31,7 @@ publication_type: poster
 size: 650565
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A Digital Repository Year: One Museum’s Quest for the Basics'
 year: 2012
 ---

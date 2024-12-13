@@ -22,6 +22,7 @@ publication_type: paper
 size: 290643
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Managing and Preserving Research Data in Ex Libris Rosetta
 year: 2015
 ---

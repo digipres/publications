@@ -37,6 +37,7 @@ publication_type: paper
 size: 788850
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Towards Support for Long-Term Digital Preservation in Product Life Cycle Management
 year: 2009
 ---

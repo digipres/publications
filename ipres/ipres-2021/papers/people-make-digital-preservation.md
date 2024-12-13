@@ -19,6 +19,7 @@ publication_type: lightning talk
 size: 93019
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: People Make Digital Preservation
 year: 2021
 ---

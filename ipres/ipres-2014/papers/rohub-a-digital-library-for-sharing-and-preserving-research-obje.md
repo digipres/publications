@@ -34,6 +34,7 @@ publication_type: poster
 size: 293182
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'ROHub – A Digital Library for Sharing and Preserving Research Objects: Poster
   (Poster) '
 year: 2014

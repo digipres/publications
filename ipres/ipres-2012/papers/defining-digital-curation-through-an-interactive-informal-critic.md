@@ -34,6 +34,7 @@ publication_type: poster
 size: 578651
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Defining Digital Curation through an Interactive, Informal Critical Delphi
   Approach
 year: 2012

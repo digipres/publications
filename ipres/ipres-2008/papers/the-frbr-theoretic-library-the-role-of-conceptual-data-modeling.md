@@ -24,6 +24,7 @@ publication_type: paper
 size: 64762
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The FRBR-Theoretic Library: The Role of Conceptual Data Modeling in Cultural
   Heritage Information System Design'
 year: 2008

@@ -115,6 +115,7 @@ publication_type: paper
 size: 372456
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Linked Data Registry: A New Approach To Technical Registries'
 year: 2014
 ---

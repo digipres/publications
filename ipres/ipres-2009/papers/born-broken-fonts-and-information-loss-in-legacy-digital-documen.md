@@ -28,6 +28,7 @@ publication_type: paper
 size: 1351125
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Born Broken: Fonts and Information Loss in Legacy Digital Documents'
 year: 2009
 ---

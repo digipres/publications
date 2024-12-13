@@ -29,6 +29,7 @@ publication_type: presentation
 size: 135115
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation of Federal Digital Publications: GPO, Federal Depository Libraries,
   and Other Federal Agencies'
 year: 2006

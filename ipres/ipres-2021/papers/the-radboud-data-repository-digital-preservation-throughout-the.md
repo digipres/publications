@@ -19,6 +19,7 @@ publication_type: lightning talk
 size: 105949
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Radboud Data Repository: digital preservation throughout the research
   lifecycle'
 year: 2021

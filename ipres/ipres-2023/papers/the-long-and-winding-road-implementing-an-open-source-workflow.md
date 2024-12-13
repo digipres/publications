@@ -30,6 +30,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121663
 source_name: iPRES
+stream_url: null
 title: 'THE LONG AND WINDING ROAD: Implementing an Open-Source Workflow'
 year: 2023
 ---

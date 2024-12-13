@@ -38,6 +38,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121675
 source_name: iPRES
+stream_url: null
 title: 'FROM COMMUNITY-SUPPORTED VALUES TO ACTION: Operationalizing the Digital Preservation
   Declaration of Shared Values'
 year: 2023

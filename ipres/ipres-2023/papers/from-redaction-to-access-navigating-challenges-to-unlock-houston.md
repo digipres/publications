@@ -28,6 +28,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'FROM REDACTION TO ACCESS: Navigating Challenges to Unlock Houston''s LGBTQ
   Media History'
 year: 2023

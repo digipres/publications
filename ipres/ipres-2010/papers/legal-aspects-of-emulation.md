@@ -30,6 +30,7 @@ publication_type: poster
 size: 536813
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: LEGAL ASPECTS OF EMULATION
 year: 2010
 ---

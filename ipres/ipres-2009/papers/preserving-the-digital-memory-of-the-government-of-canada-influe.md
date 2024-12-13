@@ -34,6 +34,7 @@ publication_type: paper
 size: 754855
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preserving the Digital Memory of the Government of Canada: Influence and Collaboration
   with Records Creators'
 year: 2009

@@ -35,6 +35,7 @@ publication_type: poster
 size: 372195
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'POSTERS & DEMONSTRATIONS - (Poster) Curation Cost Exchange platform: Demonstration
   (Poster) '
 year: 2014

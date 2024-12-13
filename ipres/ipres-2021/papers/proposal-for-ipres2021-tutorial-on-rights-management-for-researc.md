@@ -32,6 +32,7 @@ publication_type: paper
 size: 93921
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Proposal for iPres2021 Tutorial on  Rights Management for Research Data Management,
   Sharing, and Preservation
 year: 2021

@@ -18,6 +18,7 @@ publication_type: lightning talk
 size: 78029
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preserving Immersive Media
 year: 2021
 ---

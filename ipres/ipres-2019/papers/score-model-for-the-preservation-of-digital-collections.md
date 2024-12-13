@@ -30,6 +30,7 @@ publication_type: paper
 size: 136832
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Score Model for the preservation of digital collections '
 year: 2019
 ---

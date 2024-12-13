@@ -35,6 +35,7 @@ publication_type: paper
 size: 1983302
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Digital Preservation of a Process and its Application to e-Science Experiments
 year: 2013
 ---

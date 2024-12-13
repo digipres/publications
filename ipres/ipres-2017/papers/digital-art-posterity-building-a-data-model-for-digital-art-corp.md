@@ -38,6 +38,7 @@ publication_type: paper
 size: 741873
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital art posterity: building a data model for digital art corpora'
 year: 2017
 ---

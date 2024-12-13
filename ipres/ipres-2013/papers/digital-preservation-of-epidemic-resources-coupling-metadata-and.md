@@ -37,6 +37,7 @@ publication_type: paper
 size: 120007
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital preservation of epidemic resources: coupling metadata and ontologies'
 year: 2013
 ---

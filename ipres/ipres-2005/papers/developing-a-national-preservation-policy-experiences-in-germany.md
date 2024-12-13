@@ -39,6 +39,7 @@ publication_type: paper
 size: 67713
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Developing a National Preservation Policy: Experiences in Germany: Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

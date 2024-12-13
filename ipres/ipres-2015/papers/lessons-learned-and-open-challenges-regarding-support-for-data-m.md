@@ -46,6 +46,7 @@ publication_type: paper
 size: 907742
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Lessons Learned and Open Challenges Regarding Support for Data Management Plans
   and Research Data Management
 year: 2015

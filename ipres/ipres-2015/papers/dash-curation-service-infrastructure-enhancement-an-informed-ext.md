@@ -37,6 +37,7 @@ publication_type: paper
 size: 472698
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Dash Curation Service Infrastructure Enhancement: An Informed Extension &
   Redesign'
 year: 2015

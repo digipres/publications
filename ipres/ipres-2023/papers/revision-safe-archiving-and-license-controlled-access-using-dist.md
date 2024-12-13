@@ -31,6 +31,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: REVISION-SAFE ARCHIVING AND LICENSE-CONTROLLED ACCESS USING DISTRIBUTED LEDGER
   TECHNOLOGY
 year: 2023

@@ -31,6 +31,7 @@ publication_type: paper
 size: 83670
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: “What? So What?” The Next-Generation JHOVE2 Architecture for Format-Aware Characterization
 year: 2008
 ---

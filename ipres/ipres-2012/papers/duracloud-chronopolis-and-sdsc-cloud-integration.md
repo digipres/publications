@@ -30,6 +30,7 @@ publication_type: poster
 size: 537271
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: DuraCloud, Chronopolis and SDSC Cloud Integration
 year: 2012
 ---

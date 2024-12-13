@@ -29,6 +29,7 @@ publication_type: paper
 size: 236571
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'DRM and digital preservation: A use case at the German National Library'
 year: 2014
 ---

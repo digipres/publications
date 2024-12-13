@@ -27,6 +27,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: "A Tartan Rather Than a Plain Cloth": Building a Shared Workflow
   to Preserve the Regional Ethnology of Scotland Project Archive'
 year: 2022

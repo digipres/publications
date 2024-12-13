@@ -45,6 +45,7 @@ publication_type: paper
 size: 394763
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'ARCHIVEMATICA: USING MICRO-SERVICES AND  OPEN-SOURCE SOFTWARE TO DELIVER A  COMPREHENSIVE
   DIGITAL CURATION SOLUTION'
 year: 2010

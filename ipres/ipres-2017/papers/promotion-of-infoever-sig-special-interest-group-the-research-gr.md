@@ -30,6 +30,7 @@ publication_type: paper
 size: 22038
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Promotion of InfoEver SIG (Special Interest Group), the Research Group Seeking
   to Establish a Grand Design for Long-Term Preservation of Digital Information in
   the Super Smart Society

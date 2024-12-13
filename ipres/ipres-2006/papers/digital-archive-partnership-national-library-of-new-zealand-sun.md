@@ -31,6 +31,7 @@ publication_type: presentation
 size: 1517516
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Archive Partnership: National Library of New Zealand, Sun Microsystems,
   Endeavor Information Systems'
 year: 2006

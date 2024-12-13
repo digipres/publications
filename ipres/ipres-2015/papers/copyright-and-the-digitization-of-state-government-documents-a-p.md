@@ -22,6 +22,7 @@ publication_type: paper
 size: 182957
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Copyright and the Digitization of State Government Documents: A Preliminary
   Analysis'
 year: 2015

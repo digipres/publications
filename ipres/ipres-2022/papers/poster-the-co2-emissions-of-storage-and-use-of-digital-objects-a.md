@@ -26,6 +26,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: THE CO2 EMISSIONS OF STORAGE AND USE OF DIGITAL OBJECTS AND DATA'
 year: 2022
 ---

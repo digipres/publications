@@ -18,6 +18,7 @@ publication_type: presentation
 size: 648396
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Creation and Long-term Preservation of Digital Multimedia Resources-Some:
   Preliminary Practices'
 year: 2007

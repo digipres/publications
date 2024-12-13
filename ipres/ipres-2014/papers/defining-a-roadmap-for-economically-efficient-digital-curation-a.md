@@ -28,6 +28,7 @@ publication_type: workshops and tutorials
 size: 217021
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Defining a Roadmap for Economically Efficient Digital Curation – a 4C Project
   Workshop
 year: 2014

@@ -30,6 +30,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'NOTIONS OF VALUE IN DIGITAL OBJECTS: A debate with myself and others'
 year: 2023
 ---

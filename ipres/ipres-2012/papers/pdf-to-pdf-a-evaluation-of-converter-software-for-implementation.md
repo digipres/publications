@@ -38,6 +38,7 @@ publication_type: poster
 size: 595742
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PDF to PDF/A: Evaluation of Converter Software for Implementation in Digital
   Repository Workflow'
 year: 2012

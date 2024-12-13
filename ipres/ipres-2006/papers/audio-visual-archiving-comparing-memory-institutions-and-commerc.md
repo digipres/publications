@@ -34,6 +34,7 @@ publication_type: presentation
 size: 3504446
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Audio-Visual Archiving: Comparing Memory Institutions and Commercial Industries'
 year: 2006
 ---

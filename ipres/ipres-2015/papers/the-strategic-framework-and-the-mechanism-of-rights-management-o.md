@@ -23,6 +23,7 @@ publication_type: paper
 size: 458564
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Strategic Framework and the Mechanism of Rights Management of Long-term
   Preservation
 year: 2015

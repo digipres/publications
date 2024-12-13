@@ -50,6 +50,7 @@ publication_type: paper
 size: 168082
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Checksums on Modern Filesystems, or: On the virtuous consumption of CPU cycles'
 year: 2018
 ---

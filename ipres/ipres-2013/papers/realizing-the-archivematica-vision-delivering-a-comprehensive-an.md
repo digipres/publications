@@ -50,6 +50,7 @@ publication_type: paper
 size: 244995
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Realizing the Archivematica vision: delivering a comprehensive and free OAIS
   implementation'
 year: 2013

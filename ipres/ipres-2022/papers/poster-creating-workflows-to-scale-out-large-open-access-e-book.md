@@ -27,6 +27,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Creating Workflows to Scale Out Large Open Access E-book Acquisitions
   at the Library of Congress'
 year: 2022

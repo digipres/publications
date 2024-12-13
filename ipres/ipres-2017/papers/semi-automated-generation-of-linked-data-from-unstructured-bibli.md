@@ -31,6 +31,7 @@ publication_type: paper
 size: 166124
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Semi-automated Generation of Linked Data from Unstructured Bibliographic Data
   for Japanese Historical Rare Books
 year: 2017

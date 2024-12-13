@@ -53,6 +53,7 @@ publication_type: paper
 size: 86540
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Metadata Encoding and Transmission Standard (METS): From Presentation
   to Preservation: Presentation - iPRES 2005 - Göttingen'
 year: 2005

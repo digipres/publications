@@ -21,6 +21,7 @@ publication_type: poster
 size: 105582
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Assigning Rights Statements to Legacy Digital Collections
 year: 2016
 ---

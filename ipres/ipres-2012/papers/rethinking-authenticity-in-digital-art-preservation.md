@@ -34,6 +34,7 @@ publication_type: paper
 size: 613917
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Rethinking authenticity in digital art preservation
 year: 2012
 ---

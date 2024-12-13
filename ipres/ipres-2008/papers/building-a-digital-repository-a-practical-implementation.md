@@ -22,6 +22,7 @@ publication_type: paper
 size: 34266
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Building a digital repository: a practical implementation'
 year: 2008
 ---

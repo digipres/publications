@@ -30,6 +30,7 @@ publication_type: paper
 size: 244859
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preserving Qualitative Data: A Data Model to Prepare Computer Assisted Qualitative
   Data Analysis Software Data for Long-term Preservation'
 year: 2015

@@ -40,6 +40,7 @@ publication_type: paper
 size: 1440733
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Persistent Identifier e-Infrastructure
 year: 2014
 ---

@@ -32,6 +32,7 @@ publication_type: paper
 size: 79027
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Towards a framework for integrating digital preservation research: Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

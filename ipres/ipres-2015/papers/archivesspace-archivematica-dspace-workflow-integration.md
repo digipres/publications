@@ -34,6 +34,7 @@ publication_type: poster
 size: 360713
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: ArchivesSpace-Archivematica-DSpace Workflow Integration
 year: 2015
 ---

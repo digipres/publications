@@ -29,6 +29,7 @@ publication_type: presentation
 size: 189093
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The nestor Catalogue of Criteria for Trusted Digital Repository Evaluation
   and Certification
 year: 2006

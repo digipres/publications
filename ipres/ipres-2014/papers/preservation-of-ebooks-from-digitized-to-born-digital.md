@@ -43,6 +43,7 @@ publication_type: paper
 size: 104492
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation of ebooks: from digitized to born-digital'
 year: 2014
 ---

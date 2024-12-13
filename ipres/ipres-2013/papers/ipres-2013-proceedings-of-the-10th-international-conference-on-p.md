@@ -40,6 +40,7 @@ publication_type: poster
 size: 12723002
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: iPRES 2013 - Proceedings of the 10th International Conference on Preservation
   of Digital Objects
 year: 2013

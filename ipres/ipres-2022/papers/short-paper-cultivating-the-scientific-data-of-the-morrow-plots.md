@@ -30,6 +30,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Cultivating the Scientific Data of the Morrow Plots: Visualization
   and Data Curation for a Long-term Agricultural Experiment'
 year: 2022

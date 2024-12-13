@@ -40,6 +40,7 @@ publication_type: paper
 size: 441625
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'UPBox and DataNotes: a collaborative data management environment for the long
   tail of research data'
 year: 2013

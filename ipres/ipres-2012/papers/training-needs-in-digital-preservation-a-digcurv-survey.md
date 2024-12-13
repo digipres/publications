@@ -31,6 +31,7 @@ publication_type: poster
 size: 625639
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Training needs in digital preservation – A DigCurV Survey
 year: 2012
 ---

@@ -46,6 +46,7 @@ publication_type: paper
 size: 475515
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Capitalizing on the State-of-the-Art in Preserving Complex Visual Digital
   Objects: The POCOS Project'
 year: 2011

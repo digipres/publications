@@ -26,6 +26,7 @@ publication_type: poster
 size: 22587
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Geospatial Data
 year: 2016
 ---

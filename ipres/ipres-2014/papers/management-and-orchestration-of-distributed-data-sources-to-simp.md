@@ -36,6 +36,7 @@ publication_type: paper
 size: 1002041
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Management and Orchestration of Distributed Data Sources to Simplify Access
   to Emulation-as-a-Service
 year: 2014

@@ -23,6 +23,7 @@ publication_type: poster
 size: 61030
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'State Records NSW Digital Archives: Poster (Poster) '
 year: 2014
 ---

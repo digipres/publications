@@ -34,6 +34,7 @@ publication_type: poster
 size: 607130
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: bwFLA – Practical Approach to Functional Access Strategies
 year: 2012
 ---

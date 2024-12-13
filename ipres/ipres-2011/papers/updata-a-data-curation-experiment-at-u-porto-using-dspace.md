@@ -39,6 +39,7 @@ publication_type: paper
 size: 819084
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: UPData - A Data Curation Experiment at U.Porto using DSpace
 year: 2011
 ---

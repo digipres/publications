@@ -35,6 +35,7 @@ publication_type: paper
 size: 1467609
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Exploring Friedrich Kittler’s Digital Legacy on Different Levels
 year: 2016
 ---

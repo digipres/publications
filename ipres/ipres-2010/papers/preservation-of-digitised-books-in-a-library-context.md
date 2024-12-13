@@ -32,6 +32,7 @@ publication_type: paper
 size: 271152
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: PRESERVATION OF DIGITISED BOOKS IN A LIBRARY CONTEXT
 year: 2010
 ---

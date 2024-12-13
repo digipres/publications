@@ -66,6 +66,7 @@ publication_type: paper
 size: 728893
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Policy-Driven Repository Interoperability:  Enabling Integration Patterns
   for iRODS and Fedora'
 year: 2010

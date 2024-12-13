@@ -27,6 +27,7 @@ publication_type: paper
 size: 1035454
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Advancing Data Integrity in a Digital Preservation Archive Ex Libris and the
   Church of Jesus Christ of Latter-day Saints
 year: 2012

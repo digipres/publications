@@ -30,6 +30,7 @@ publication_type: workshop
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Workshop: The Climate Crisis and New Paradigms For Digital Access'
 year: 2022
 ---

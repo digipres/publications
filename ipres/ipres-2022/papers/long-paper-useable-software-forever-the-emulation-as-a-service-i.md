@@ -27,6 +27,7 @@ publication_type: long paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Long Paper: Useable Software Forever. \r\nThe Emulation as a Service Infrastructure
   (EaaSI) Program of Work\r\n"
 year: 2022

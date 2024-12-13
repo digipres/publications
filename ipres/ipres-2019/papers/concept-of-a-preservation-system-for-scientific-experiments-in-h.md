@@ -32,6 +32,7 @@ publication_type: poster
 size: 120000
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Concept of a Preservation System for Scientific Experiments in HPC '
 year: 2019
 ---

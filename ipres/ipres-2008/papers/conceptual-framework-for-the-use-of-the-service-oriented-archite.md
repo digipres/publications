@@ -36,6 +36,7 @@ publication_type: paper
 size: 83627
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Conceptual Framework for the Use of the Service-oriented Architecture-Approach
   in the Digital Preservation
 year: 2008
