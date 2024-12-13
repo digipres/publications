@@ -12,7 +12,7 @@ proceedings_full: ""
 proceedings_phaidra: ""
 proceedings_osf: ""
 session_recordings: ""
-has_children: false
+has_children: true
 year: 2024
 website_mirror_ipres: ""
 proceedings_ideals: ""
