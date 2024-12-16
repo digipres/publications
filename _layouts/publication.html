@@ -23,27 +23,31 @@ layout: default
     <dd>{{ page.publication_type }}</dd>
     <dt>License</dt>
     <dd>{{ page.license }}</dd>
-    {% if page.document_url != "" %}
+    {% if page.document_url and page.document_url != "" %}
     <dt>Download</dt>
-    <dd><a href="{{ page.document_url }}">{{ page.size}} bytes</a></dd>
+    <dd><a href="{{ page.document_url }}">{{ page.size | default: '(unknown)'}} bytes</a></dd>
     {% endif %}
-    {% if page.slides_url  != ""%}
+    {% if page.slides_url and page.slides_url != ""%}
     <dt>Slides</dt>
     <dd><a href="{{ page.slides_url }}">here</a></dd>
     {% endif %}
-    {% if page.stream_url != "" %}
+    {% if page.stream_url and page.stream_url != "" %}
     <dt>Video Stream</dt>
     <dd><a href="{{ page.stream_url }}">here</a></dd>
     {% endif %}
-    {% if page.notes_url != "" %}
+    {% if page.notes_url and page.notes_url != "" %}
     <dt>Collaborative Notes</dt>
     <dd><a href="{{ page.notes_url }}">here</a></dd>
     {% endif %}
 </dl>
 
-{% if page.landing_page_url != "" or page.document_url != "" %}
+{% if page.landing_page_url and page.landing_page_url != "" %}
 <p class="d-flex flex-justify-end">
-  <a href="{% if page.landing_page_url != '' %}{{ page.landing_page_url }}{% else %}{{ page.document_url }}{% endif %}" class="btn btn-blue m-2">View This Publication</a>
+  <a href="{{ page.landing_page_url }}" class="btn btn-blue m-2">View This Publication</a>
+</p>
+{% elsif page.document_url and page.document_url != "" %}
+<p class="d-flex flex-justify-end">
+  <a href="{{ page.document_url }}" class="btn btn-blue m-2">View This Publication</a>
 </p>
 {% endif %}
 
