@@ -12,7 +12,7 @@ abstract: This poster reports on the results from a series of workshops with Phi
 creators:
 - Jonathan Isip
 date: 2024-09-19 13:30:00+01:00
-document_url: https://zenodo.org/records/13743226/download/pdf
+document_url: https://drive.google.com/file/d/1Ezx6h0lmTSw3KXpnPK0h-0f768QA5OX5/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

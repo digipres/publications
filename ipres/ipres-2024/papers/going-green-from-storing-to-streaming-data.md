@@ -28,7 +28,7 @@ abstract: "Our digital heritage users want to be able to find and use all source
 creators:
 - Tamara van Zwol
 date: 2024-09-17 11:00:00+01:00
-document_url: https://zenodo.org/records/13682989/download/pdf
+document_url: https://zenodo.org/records/13682989
 grand_parent: iPRES
 institutions: []
 keywords:

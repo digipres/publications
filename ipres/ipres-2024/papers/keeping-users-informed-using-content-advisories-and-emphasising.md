@@ -32,7 +32,7 @@ abstract: 'There is an increasing importance to ensure that archive users have i
 creators:
 - Teagan Zoldoske
 date: 2024-09-18 11:05:00+01:00
-document_url: https://zenodo.org/records/13744594/download/pdf
+document_url: https://zenodo.org/records/13744594
 grand_parent: iPRES
 institutions: []
 keywords:

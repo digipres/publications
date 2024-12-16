@@ -45,7 +45,7 @@ creators:
 - Marita Everhardt
 - Oliver Parkes
 date: 2024-09-18 15:30:00+01:00
-document_url: https://zenodo.org/records/13495834/download/pdf
+document_url: https://drive.google.com/file/d/1S6gkqrbys0IayEFtZIYar5RGJAfW2Ixy/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -33,7 +33,7 @@ creators:
 - Lamyk Bekius
 - isabelle van ongeval
 date: 2024-09-17 11:10:00+01:00
-document_url: https://zenodo.org/records/13745238/download/pdf
+document_url: https://zenodo.org/records/13745238
 grand_parent: iPRES
 institutions: []
 keywords:

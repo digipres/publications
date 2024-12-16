@@ -27,7 +27,7 @@ abstract: "The documentation of workflows within only one institution is already
 creators:
 - Natascha Schumann
 date: 2024-09-19 11:00:00+01:00
-document_url: https://zenodo.org/records/13646719/download/pdf
+document_url: https://drive.google.com/file/d/13yHIxJzEAvz2hC6fn_itnX8t3Uj9Xu4_/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -19,7 +19,7 @@ abstract: "The National Library of Norway needed a simple way to visualize how t
 creators:
 - Siarhei Kulakou
 date: 2024-09-19 09:00:00+01:00
-document_url: https://zenodo.org/records/13682379/download/pdf
+document_url: https://drive.google.com/file/d/17jQcO-YgkU46OzLac9cbc3hkFWxsyM8c/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

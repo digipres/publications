@@ -33,7 +33,7 @@ abstract: "**Focus of my contribution**\nIn examining the procedures for managin
 creators:
 - Carolin Hahn
 date: 2024-09-18 13:30:00+01:00
-document_url: https://zenodo.org/records/13629654/download/pdf
+document_url: https://drive.google.com/file/d/1V1wNTydVnhzVgFF1z6CvpI35rFG0y_OJ/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

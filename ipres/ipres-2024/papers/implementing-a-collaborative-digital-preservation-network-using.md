@@ -28,7 +28,7 @@ abstract: "The Michigan Digital Preservation Network (MDPN) received an [impleme
 creators:
 - Chelsea Denault
 date: 2024-09-17 11:10:00+01:00
-document_url: https://zenodo.org/records/13730565/download/pdf
+document_url: https://zenodo.org/records/13730565
 grand_parent: iPRES
 institutions: []
 keywords:

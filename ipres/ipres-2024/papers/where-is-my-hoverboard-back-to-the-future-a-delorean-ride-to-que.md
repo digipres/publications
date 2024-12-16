@@ -26,7 +26,7 @@ abstract: "Embark on a journey reminiscent of the iconic movie \"Back to the Fut
 creators:
 - Stefania Di Maria
 date: 2024-09-18 15:35:00+01:00
-document_url: https://zenodo.org/records/13732254/download/pdf
+document_url: https://zenodo.org/records/13732254
 grand_parent: iPRES
 institutions: []
 keywords:

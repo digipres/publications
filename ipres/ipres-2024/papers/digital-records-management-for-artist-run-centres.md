@@ -21,7 +21,7 @@ abstract: "This poster will outline the ways in which Western Front Society, an 
 creators:
 - Andres Resto-Spotts
 date: 2024-09-18 11:00:00+01:00
-document_url: https://zenodo.org/records/13507914/download/pdf
+document_url: https://drive.google.com/file/d/12nFjcQcd5F5lfWTKlYuuMcHAq9w1i4I0/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

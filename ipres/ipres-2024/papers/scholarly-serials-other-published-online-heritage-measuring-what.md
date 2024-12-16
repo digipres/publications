@@ -20,7 +20,7 @@ creators:
 - Gaëlle Béquet
 - Peter Burnhill
 date: 2024-09-18 13:45:00+01:00
-document_url: https://zenodo.org/records/13684800/download/pdf
+document_url: https://zenodo.org/records/13684800
 grand_parent: iPRES
 institutions: []
 keywords:

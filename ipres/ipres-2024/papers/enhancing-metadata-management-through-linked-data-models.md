@@ -32,7 +32,7 @@ creators:
 - Miel Vander Sande
 - Milan Valadou
 date: 2024-09-19 13:30:00+01:00
-document_url: https://zenodo.org/records/13683132/download/pdf
+document_url: https://drive.google.com/file/d/101n_kxalTFkpCL4TXmmc_iEHwf_jx5--/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

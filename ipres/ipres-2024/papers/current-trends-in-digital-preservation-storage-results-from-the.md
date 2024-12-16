@@ -36,7 +36,7 @@ creators:
 - Krista Oldham
 - Max Prud'homme
 date: 2024-09-18 13:30:00+01:00
-document_url: https://zenodo.org/records/13648690/download/pdf
+document_url: https://drive.google.com/file/d/1A2ONCkxhqFewBnI5FqC5ZC9EGFsPUiO2/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -16,7 +16,7 @@ abstract: "This poster visualizes the roadmap of Digital Archive Flanders (DAF) 
 creators:
 - Robert Vanormelingen
 date: 2024-09-17 11:00:00+01:00
-document_url: https://zenodo.org/records/13682721/download/pdf
+document_url: https://drive.google.com/file/d/1ZxBEoLFjoHJQ2bDwYIRk6HsmoMsHgWkD/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

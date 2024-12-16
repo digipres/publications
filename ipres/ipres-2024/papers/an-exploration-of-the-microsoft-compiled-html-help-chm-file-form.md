@@ -17,7 +17,7 @@ abstract: 'Originally developed as a replacement to WinHelp in the late-90’s a
 creators:
 - David Clipsham
 date: 2024-09-17 15:50:00+01:00
-document_url: https://zenodo.org/records/13643227/download/pdf
+document_url: https://zenodo.org/records/13643227
 grand_parent: iPRES
 institutions: []
 keywords:

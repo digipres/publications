@@ -29,7 +29,7 @@ abstract: "As born digital and digitized collections continue to grow and resear
 creators:
 - Camille Salas
 date: 2024-09-17 11:15:00+01:00
-document_url: https://zenodo.org/records/13652332/download/pdf
+document_url: https://zenodo.org/records/13652332
 grand_parent: iPRES
 institutions: []
 keywords:

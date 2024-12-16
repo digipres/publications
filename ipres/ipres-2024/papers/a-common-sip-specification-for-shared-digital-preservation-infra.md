@@ -30,7 +30,7 @@ abstract: 'The preservation of digital cultural heritage demands innovative appr
 creators:
 - Matthew Burgess
 date: 2024-09-18 11:00:00+01:00
-document_url: https://zenodo.org/records/13667924/download/pdf
+document_url: https://zenodo.org/records/13667924
 grand_parent: iPRES
 institutions: []
 keywords:

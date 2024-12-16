@@ -27,7 +27,7 @@ creators:
 - Kayn Curry
 - Teresa Soleau
 date: 2024-09-17 11:00:00+01:00
-document_url: https://zenodo.org/records/13662118/download/pdf
+document_url: https://drive.google.com/file/d/1ekCQBHVlOz7pT9zeQ9iR-b5pOv75XbTW/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

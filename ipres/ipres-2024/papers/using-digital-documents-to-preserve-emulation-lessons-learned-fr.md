@@ -26,7 +26,7 @@ abstract: 'What started as a request for emulation-related readings to share wit
 creators:
 - Ethan Gates
 date: 2024-09-17 15:45:00+01:00
-document_url: https://zenodo.org/records/13685468/download/pdf
+document_url: https://zenodo.org/records/13685468
 grand_parent: iPRES
 institutions: []
 keywords:

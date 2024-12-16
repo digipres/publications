@@ -31,7 +31,7 @@ abstract: "The National Archives (UK) is committed to making transfer of digital
 creators:
 - Kirsten Arnold
 date: 2024-09-19 13:40:00+01:00
-document_url: https://zenodo.org/records/13684688/download/pdf
+document_url: https://zenodo.org/records/13684688
 grand_parent: iPRES
 institutions: []
 keywords:

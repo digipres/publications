@@ -25,7 +25,7 @@ abstract: 'One of the three underlying themes of this years iPRES is “Starting
 creators:
 - Paul Stokes
 date: 2024-09-18 13:40:00+01:00
-document_url: https://zenodo.org/records/13763625/download/pdf
+document_url: https://zenodo.org/records/13763625
 grand_parent: iPRES
 institutions: []
 keywords:

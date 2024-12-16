@@ -29,7 +29,7 @@ abstract: "In the leadup to the launch of its digital preservation system, the R
 creators:
 - Kevin Wong
 date: 2024-09-18 11:00:00+01:00
-document_url: https://zenodo.org/records/13379521/download/pdf
+document_url: https://zenodo.org/records/13379521
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -23,7 +23,7 @@ abstract: "This lightning talk is a continuation of a presentation at the Counci
 creators:
 - Lisa Lawlis
 date: 2024-09-18 13:25:00+01:00
-document_url: https://zenodo.org/records/13686481/download/pdf
+document_url: https://zenodo.org/records/13686481
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -33,7 +33,7 @@ creators:
 - Alicia Wise
 - Anthony Leroy
 date: 2024-09-19 09:00:00+01:00
-document_url: https://zenodo.org/records/13652938/download/pdf
+document_url: https://drive.google.com/file/d/1ba6l0lV5PQ3wo5k6k5dWb6Pq1Xei0nTa/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

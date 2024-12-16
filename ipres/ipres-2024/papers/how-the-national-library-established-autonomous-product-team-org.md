@@ -22,7 +22,7 @@ abstract: "The National Library of Norway is an archive that collects a wide ran
 creators:
 - Torbjørn Pedersen
 date: 2024-09-18 11:20:00+01:00
-document_url: https://zenodo.org/records/13744311/download/pdf
+document_url: https://zenodo.org/records/13744311
 grand_parent: iPRES
 institutions: []
 keywords:

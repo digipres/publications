@@ -17,7 +17,7 @@ abstract: This presentation delves into the rearchitecting of a preservation arc
 creators:
 - Allison Ruffner
 date: 2024-09-18 11:05:00+01:00
-document_url: https://zenodo.org/records/13226918/download/pdf
+document_url: https://zenodo.org/records/13226918
 grand_parent: iPRES
 institutions: []
 keywords:

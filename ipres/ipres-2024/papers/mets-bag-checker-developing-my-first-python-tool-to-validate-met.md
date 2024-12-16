@@ -11,7 +11,7 @@ abstract: "METS is a metadata standard for packaging all metadata required for t
 creators:
 - Bertrand Caron
 date: 2024-09-18 11:10:00+01:00
-document_url: https://zenodo.org/records/13750097/download/pdf
+document_url: https://zenodo.org/records/13750097
 grand_parent: iPRES
 institutions: []
 keywords:

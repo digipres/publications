@@ -15,7 +15,7 @@ abstract: "iPRES has been around for a while. It’s now 20 years since the firs
 creators:
 - Paul Stokes
 date: 2024-09-17 13:30:00+01:00
-document_url: https://zenodo.org/records/13759576/download/pdf
+document_url: https://drive.google.com/file/d/1ai9TeBZ1ZID1dIxIXkfEYKLhIBI9GLvP/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

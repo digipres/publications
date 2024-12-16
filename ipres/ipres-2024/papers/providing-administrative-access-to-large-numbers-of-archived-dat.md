@@ -29,7 +29,7 @@ abstract: 'With this poster, we hope to open a discussion about the challenges i
 creators:
 - Nikolaj Wolthers Andersen
 date: 2024-09-17 11:00:00+01:00
-document_url: https://zenodo.org/records/13649234/download/pdf
+document_url: https://drive.google.com/file/d/1HeDaF6ZZh4MZnslpkLrOFXwlQJZZg1LL/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

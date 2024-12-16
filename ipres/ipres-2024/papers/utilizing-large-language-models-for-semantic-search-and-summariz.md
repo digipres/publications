@@ -42,7 +42,7 @@ abstract: 'Among many different media types, the Internet Archive also preserves
 creators:
 - Sawood Alam
 date: 2024-09-18 11:15:00+01:00
-document_url: https://zenodo.org/records/13742797/download/pdf
+document_url: https://zenodo.org/records/13742797
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -26,7 +26,7 @@ abstract: "Many archives are making use of cloud-based managed services for Digi
 creators:
 - Steve Daly
 date: 2024-09-19 11:00:00+01:00
-document_url: https://zenodo.org/records/13647420/download/pdf
+document_url: https://drive.google.com/file/d/1OegrTqeIgOLFJbk-82LiMZ1x-qKUkDfN/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

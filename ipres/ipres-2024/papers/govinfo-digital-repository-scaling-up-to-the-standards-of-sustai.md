@@ -41,7 +41,7 @@ creators:
 - Heidi Ramos
 - Jessica Tieman
 date: 2024-09-18 11:00:00+01:00
-document_url: https://zenodo.org/records/13643139/download/pdf
+document_url: https://drive.google.com/file/d/1vmPonbE8LNIcTL36HOSkimC6hUp97Z0B/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

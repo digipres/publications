@@ -33,7 +33,7 @@ creators:
 - Maureen Pennock
 - Nancy McGovern
 date: 2024-09-17 11:00:00+01:00
-document_url: https://zenodo.org/records/13713511/download/pdf
+document_url: https://drive.google.com/file/d/1ze5ckMVA55q1K0WWe7U_gHXPaGItX62o/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

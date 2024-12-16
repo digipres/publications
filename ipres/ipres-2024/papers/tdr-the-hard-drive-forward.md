@@ -43,7 +43,7 @@ abstract: 'The National Archives (UK) has archived born-digital records for over
 creators:
 - Kirsten Arnold
 date: 2024-09-17 11:00:00+01:00
-document_url: https://zenodo.org/records/13684925/download/pdf
+document_url: https://drive.google.com/file/d/1oxLNXb1llzEBkG_wDjpqWLrBPbwy7UPT/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

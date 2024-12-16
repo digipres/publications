@@ -24,7 +24,7 @@ creators:
 - Jon Shaw
 - Brigitte Weinsteiger
 date: 2024-09-19 13:30:00+01:00
-document_url: https://zenodo.org/records/13698003/download/pdf
+document_url: https://zenodo.org/records/13698003
 grand_parent: iPRES
 institutions: []
 keywords:

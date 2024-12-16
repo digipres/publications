@@ -26,7 +26,7 @@ abstract: "Globally, conflicts and wars threaten sustainability of people’s ta
 creators:
 - Usman Ibrahim
 date: 2024-09-18 13:30:00+01:00
-document_url: https://zenodo.org/records/13906269/download/pdf
+document_url: https://zenodo.org/records/13906269
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -34,7 +34,7 @@ abstract: 'This poster would illustrate a few of the key findings of a research 
 creators:
 - Brett Lougheed
 date: 2024-09-19 13:30:00+01:00
-document_url: https://zenodo.org/records/13629614/download/pdf
+document_url: https://drive.google.com/file/d/1YVHdTXIAU1XEW_uEqcvED8knTfEroEbf/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -33,7 +33,7 @@ creators:
 - Alice Austin
 - Sara Day Thomson
 date: 2024-09-17 13:30:00+01:00
-document_url: https://zenodo.org/records/13682709/download/pdf
+document_url: https://drive.google.com/file/d/102Vgj5mxklCrv2_vVeh8aMQnMgObySqw/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

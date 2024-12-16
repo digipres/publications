@@ -19,7 +19,7 @@ abstract: "Paradox in Paradox Database - Hybrid Asset Preservation\n\nIn Novembe
 creators:
 - Pawel Jaskulski
 date: 2024-09-19 11:00:00+01:00
-document_url: https://zenodo.org/records/13683476/download/pdf
+document_url: https://drive.google.com/file/d/1heZkhe6jWyDMkOnvZ34ek-6dGaFeqgc6/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

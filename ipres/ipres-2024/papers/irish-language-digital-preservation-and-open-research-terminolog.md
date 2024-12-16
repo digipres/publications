@@ -21,7 +21,7 @@ creators:
 - Kevin Long
 - Noelia Romero
 date: 2024-09-18 11:00:00+01:00
-document_url: https://zenodo.org/records/13643055/download/pdf
+document_url: https://drive.google.com/file/d/15B_EzcbBuKvnfHL8ngew-yinRK9OzUma/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

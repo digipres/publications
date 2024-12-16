@@ -13,7 +13,7 @@ creators:
 - Cynthia Wu
 - Joshua Ng
 date: 2024-09-19 11:20:00+01:00
-document_url: https://zenodo.org/records/13656147/download/pdf
+document_url: https://zenodo.org/records/13656147
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -34,7 +34,7 @@ abstract: 'The National Diet Library (NDL), as the only legal deposit library in
 creators:
 - Takafumi Kinoshita
 date: 2024-09-19 13:30:00+01:00
-document_url: https://zenodo.org/records/13641209/download/pdf
+document_url: https://drive.google.com/file/d/1z4HHMVTKxESmZIdZr_pCq8QBuyHu3T0X/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

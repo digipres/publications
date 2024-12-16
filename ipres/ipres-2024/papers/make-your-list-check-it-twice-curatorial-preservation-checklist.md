@@ -19,7 +19,7 @@ creators:
 - Erin Clary
 - Mikala Narlock
 date: 2024-09-19 13:40:00+01:00
-document_url: https://zenodo.org/records/13645948/download/pdf
+document_url: https://drive.google.com/file/d/1oQjYjNiuhVcMPLM27BDaEX-FJbxQPXF-/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

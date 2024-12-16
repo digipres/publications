@@ -40,7 +40,7 @@ abstract: 'After researching the digital news preservation landscape in the USA,
 creators:
 - Karen Hanson
 date: 2024-09-17 13:35:00+01:00
-document_url: https://zenodo.org/records/13621505/download/pdf
+document_url: https://drive.google.com/file/d/1xu-LQuCz3VM38X_sEVfOhBzXE5qMFyRW/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

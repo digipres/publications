@@ -23,7 +23,7 @@ abstract: 'The digital preservation community is well acquainted with text publi
 creators:
 - Katharina Markus
 date: 2024-09-17 15:35:00+01:00
-document_url: https://zenodo.org/records/13683418/download/pdf
+document_url: https://zenodo.org/records/13683418
 grand_parent: iPRES
 institutions: []
 keywords:

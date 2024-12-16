@@ -31,7 +31,7 @@ abstract: 'How do we preserve our past and guide against issues that gave rise t
 creators:
 - Folasade Adepoju
 date: 2024-09-18 15:45:00+01:00
-document_url: https://zenodo.org/records/13685954/download/pdf
+document_url: https://zenodo.org/records/13685954
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -21,7 +21,7 @@ abstract: "The Digital Archive team at University of Glasgow Archives & Special 
 creators:
 - Emma Yan
 date: 2024-09-17 11:05:00+01:00
-document_url: https://zenodo.org/records/13646396/download/pdf
+document_url: https://zenodo.org/records/13646396
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -24,7 +24,7 @@ abstract: "Many born-digital collections are created with access and shareabilit
 creators:
 - Ailie O'Hagan
 date: 2024-09-18 15:30:00+01:00
-document_url: https://zenodo.org/records/13682520/download/pdf
+document_url: https://drive.google.com/file/d/1BI2Fs2BY2MF0pQLwiaEPn5Ew6nOAPb7K/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

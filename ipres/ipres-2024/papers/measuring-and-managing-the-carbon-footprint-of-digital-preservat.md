@@ -27,7 +27,7 @@ abstract: Being able to measure and manage the carbon emissions of long-term dig
 creators:
 - Matthew Addis
 date: 2024-09-17 13:30:00+01:00
-document_url: https://zenodo.org/records/13682874/download/pdf
+document_url: https://drive.google.com/file/d/1UIw99uOzpxoxNIebXfTJJyaTAnXm5aRR/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

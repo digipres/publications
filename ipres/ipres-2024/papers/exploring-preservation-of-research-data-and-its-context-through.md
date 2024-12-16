@@ -42,7 +42,7 @@ abstract: 'The shift from document-centric to data-centric approaches in the res
 creators:
 - Akihiro Kameda
 date: 2024-09-19 09:00:00+01:00
-document_url: https://zenodo.org/records/13756258/download/pdf
+document_url: https://drive.google.com/file/d/1HxC6T4sVifq1IGSJuOrh2FcNSRrYMQDT/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

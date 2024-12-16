@@ -34,7 +34,7 @@ abstract: 'We have previously reported the carbon footprint calculations for the
 creators:
 - Mikko Tiainen
 date: 2024-09-19 13:30:00+01:00
-document_url: https://zenodo.org/records/13683021/download/pdf
+document_url: https://drive.google.com/file/d/1V1U-5fV739ByESM2QmVNVepTaCT4YQUh/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

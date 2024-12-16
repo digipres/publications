@@ -40,7 +40,7 @@ abstract: 'This poster presents the first working emulator of the Zenith Z-100 p
 creators:
 - Margaret Black
 date: 2024-09-18 13:30:00+01:00
-document_url: https://zenodo.org/records/13862872/download/pdf
+document_url: https://drive.google.com/file/d/14qmd-cgOZqGxljfWOxTEx_yWy1Tt8kBK/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

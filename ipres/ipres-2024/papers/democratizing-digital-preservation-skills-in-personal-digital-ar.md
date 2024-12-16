@@ -34,7 +34,7 @@ creators:
 - Lee J Pretlove
 - Bethany M Aylward
 date: 2024-09-17 13:30:00+01:00
-document_url: https://zenodo.org/records/13711158/download/pdf
+document_url: https://drive.google.com/file/d/1MmsZS9IP_iPshz1rlL_IBYyPN-7mGSeK/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -28,7 +28,7 @@ abstract: The digital transformation in Brazilian public administration has crea
 creators:
 - Fernanda Maciel
 date: 2024-09-18 13:35:00+01:00
-document_url: https://zenodo.org/records/13643315/download/pdf
+document_url: https://drive.google.com/file/d/1IAF55Biaq8LbkRtcSZb0BNkiEg4gVkyv/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

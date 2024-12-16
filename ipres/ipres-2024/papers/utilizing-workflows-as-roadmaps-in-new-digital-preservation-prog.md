@@ -22,7 +22,7 @@ abstract: "Creating a digital preservation program from scratch involves many co
 creators:
 - Ciaran Purdome
 date: 2024-09-18 15:40:00+01:00
-document_url: https://zenodo.org/records/13751020/download/pdf
+document_url: https://zenodo.org/records/13751020
 grand_parent: iPRES
 institutions: []
 keywords:

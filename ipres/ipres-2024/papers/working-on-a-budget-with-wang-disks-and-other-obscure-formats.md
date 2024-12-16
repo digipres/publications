@@ -35,7 +35,7 @@ creators:
 - Chris Knowles
 - Tyler Thorsted
 date: 2024-09-16 11:00:00+01:00
-document_url: https://zenodo.org/records/13828372
+document_url: null
 grand_parent: iPRES
 institutions: []
 keywords:

@@ -26,7 +26,7 @@ creators:
 - Remco van Veenendaal
 - YANNICK GRANDCOLAS
 date: 2024-09-18 13:30:00+01:00
-document_url: https://zenodo.org/records/13744899/download/pdf
+document_url: https://drive.google.com/file/d/1Z1qUMATsp_ATXhfcPLo_O04owyaqd8cx/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:

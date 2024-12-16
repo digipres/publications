@@ -17,7 +17,7 @@ abstract: This poster highlights my efforts to introduce and advocate for digita
 creators:
 - Marcella Lees
 date: 2024-09-18 15:10:00+01:00
-document_url: https://zenodo.org/records/13683154/download/pdf
+document_url: https://drive.google.com/file/d/10T59eru6SBbWlQhJG9VCk61AnzJ-n3nQ/view?usp=drive_link
 grand_parent: iPRES
 institutions: []
 keywords:
