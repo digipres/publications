@@ -25,9 +25,9 @@ abstract: 'Despite the importance of web archives for the access to historical i
   create the JPEG2000; based on these results, the encoding library is therefore recommended
   technical preservation metadata to retain.'
 creators:
-- Palmer, William
-- May, Peter
-- Cliff, Peter
+- William Palmer
+- Peter May
+- Peter Cliff
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377377/download
 grand_parent: iPRES
@@ -51,6 +51,7 @@ publication_type: paper
 size: 939049
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: An Analysis of Contemporary JPEG2000 Codecs for Image Format Migration
 year: 2013
 ---

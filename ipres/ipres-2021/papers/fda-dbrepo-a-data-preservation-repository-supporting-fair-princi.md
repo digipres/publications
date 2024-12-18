@@ -11,13 +11,13 @@ abstract: 'Database preservation frequently happens post-factum: databases are t
   right from the onset. We present the FAIR Data Austria Database Repository (FDA-DBRepo)
   infrastructure and provide a first version of an open-source reference implementation.'
 creators:
-- Weise, Martin
-- Michlits, Cornelia
-- Staudinger, Moritz
-- Gergely, Eva
-- Stytsenko, Kirill
-- Ganguly, Raman
-- Rauber, Andreas
+- Martin Weise
+- Cornelia Michlits
+- Moritz Staudinger
+- Eva Gergely
+- Kirill Stytsenko
+- Raman Ganguly
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424911/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: paper
 size: 381548
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'FDA-DBRepo: A Data Preservation Repository Supporting FAIR Principles, Data
   Versioning and Reproducible Queries'
 year: 2021

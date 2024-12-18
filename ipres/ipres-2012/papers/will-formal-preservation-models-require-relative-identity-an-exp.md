@@ -25,9 +25,9 @@ abstract: 'The problem of identifying and re–identifying data put the notion o
   further motivates the development of a system that will provide a comprehensive
   treatment of data concepts. '
 creators:
-- Sacchi, Simone
-- Wickett, Karen M.
-- Renear, Allen H.
+- Simone Sacchi
+- Karen M. Wickett
+- Allen H. Renear
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294078/download
 grand_parent: iPRES
@@ -51,6 +51,7 @@ publication_type: paper
 size: 518825
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Will Formal Preservation Models Require Relative Identity? An exploration of
   data identity statements
 year: 2012

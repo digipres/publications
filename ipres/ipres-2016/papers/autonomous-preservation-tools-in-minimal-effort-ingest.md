@@ -6,9 +6,9 @@ abstract: This poster presents the concept of Autonomous Preservation Tools, as 
   rather than before. We present our Newspaper Digitisation Project as a case- study
   of real-world implementations of Autonomous Preser- vation Tools.
 creators:
-- Askov Blekinge, Asger
-- Ravn Andersen, Thorbjørn
-- Ammitzbøll Jurik, Bolette
+- Asger Askov Blekinge
+- Thorbjørn Ravn Andersen
+- Bolette Ammitzbøll Jurik
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502846/download
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: poster
 size: 94335
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Autonomous Preservation Tools in Minimal Effort Ingest
 year: 2016
 ---

@@ -7,7 +7,7 @@ abstract: The use of digital technologies in support of Cultural Heritage missio
   the data models required to represent the desirable characteristics of both print
   and digital media.
 creators:
-- Murray, Ronald J.
+- Ronald J. Murray
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294147/download
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: paper
 size: 64762
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The FRBR-Theoretic Library: The Role of Conceptual Data Modeling in Cultural
   Heritage Information System Design'
 year: 2008

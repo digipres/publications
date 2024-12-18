@@ -12,7 +12,7 @@ abstract: 'Dunhuang Mogao Grottoes, a world cultural heritage originally built i
 
   '
 creators:
-- Yu, Tianxiu
+- Tianxiu Yu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424894/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 199678
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: iPres2021 Panel Discussion on Long-term Preservation and Utilization of Digital
   Dunhuang Resources
 year: 2021

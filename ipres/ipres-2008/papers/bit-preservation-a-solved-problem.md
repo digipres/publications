@@ -20,7 +20,7 @@ abstract: 'For years, discussions of digital preservation have routinely feature
 
   • Policy, suggesting ways of dealing with this unfortunate situation.'
 creators:
-- Rosenthal, David S. H.
+- David S. H. Rosenthal
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294179/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: paper
 size: 90300
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Bit Preservation: A Solved Problem?'
 year: 2008
 ---

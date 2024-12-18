@@ -16,8 +16,8 @@ abstract: 'Long-term readability of electronic data is a key regulatory requirem
 
   '
 creators:
-- Milic-Frayling, Natasa
-- Cubric, Marija
+- Natasa Milic-Frayling
+- Marija Cubric
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424943/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: paper
 size: 1261982
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'EXECUTABLE ARCHIVES: Software integrity for data readability and validation
   of archived studies'
 year: 2021

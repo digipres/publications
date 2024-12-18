@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Altenhöner, Reinhard
+- Reinhard Altenhöner
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294845/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: paper
 size: 40197
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: nestor - Network of Expertise in Long-Term Storage and Long-Term availability
   of Digital Resources in Germany
 year: 2007

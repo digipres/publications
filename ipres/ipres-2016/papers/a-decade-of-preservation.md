@@ -11,10 +11,10 @@ abstract: This paper provides a historical look at the technical migrations of t
   microservices approach have been instrumental in ensuring the longevity of the system
   through staff and organizational changes.
 creators:
-- Schaefer, Sibyl
-- Ritter, Mike
-- Minor, David
-- Smorul, Mike
+- Sibyl Schaefer
+- Mike Ritter
+- David Minor
+- Mike Smorul
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502845/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 152615
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Decade of Preservation
 year: 2016
 ---

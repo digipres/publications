@@ -12,7 +12,7 @@ abstract: 'Collection information is one of the important resources that has lon
 
   '
 creators:
-- Ye, Yipei
+- Yipei Ye
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424913/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 972742
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: RESEARCH AND PRACTICE ON DOMAIN ONTOLOGY OF ANCIENT CHINESE ARTIFACTS
 year: 2021
 ---

@@ -8,9 +8,9 @@ abstract: This half day tutorial will provide participants with an introduction 
   language of the World Wide Web Consortium. It is maintained by the METS Board and
   the METS Maintenance Activity is managed by the Library of Congress [2]..
 creators:
-- Lehtonen, Juha
-- Mosely, Sean
-- Bredenberg, Karin
+- Juha Lehtonen
+- Sean Mosely
+- Karin Bredenberg
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079750/download
 grand_parent: iPRES
@@ -26,6 +26,7 @@ publication_type: paper
 size: 125182
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Understanding and Implementing METS '
 year: 2019
 ---

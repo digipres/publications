@@ -12,9 +12,9 @@ abstract: This paper looks at some of the domain specific preservation challenge
   comprehensive and practical advice for data creators plus a number of case studies
   which demonstrate the real practical application of the Guides.
 creators:
-- Mitcham, Jenny
-- Niven, Kieron
-- Richards, Julian
+- Jenny Mitcham
+- Kieron Niven
+- Julian Richards
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185505/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 504142
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'ARCHIVING ARCHAEOLOGY: INTRODUCING THE GUIDES TO GOOD PRACTICE'
 year: 2010
 ---

@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Willemse, Ellen
+- Ellen Willemse
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294515/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 412989
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: DARIAH - Challenges for arts & humanities data curation
 year: 2007
 ---

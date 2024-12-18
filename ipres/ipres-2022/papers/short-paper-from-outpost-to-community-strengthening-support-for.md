@@ -16,7 +16,7 @@ abstract: 'The digital preservation workforce is dispersed across organizations,
   the thriving DPC Australasia Stakeholder Group, and the ongoing development of a
   sustainable business model are undeniable indicators of the success of this project. '
 creators:
-- Weatherburn, Jaye
+- Jaye Weatherburn
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/bd6f375ec8e043e0a87f6aad28b58bd8
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: From Outpost to Community: Strengthening support for the Australasian
   digital preservation community through regional presence'
 year: 2022

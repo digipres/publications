@@ -8,9 +8,9 @@ abstract: Advances in digital preservation software tools have sometimes been sl
   of requirements identified by practitioners, and will describe four resulting tool
   developments that significantly advance our digital preservation capability.
 creators:
-- Wheathley, Paul
-- McGath, Gary
-- Petrov, Petar
+- Paul Wheathley
+- Gary McGath
+- Petar Petrov
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378036/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: poster
 size: 440999
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Enhancing characterisation for digital preservation
 year: 2013
 ---

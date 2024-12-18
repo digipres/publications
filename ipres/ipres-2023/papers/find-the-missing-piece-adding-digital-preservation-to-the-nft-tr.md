@@ -14,7 +14,7 @@ abstract: The NFT (Non-fungible token) market is experiencing explosive growth. 
   of the new business model and workflow, with potential future challenges and opportunities
   to the revised NFT market.
 creators:
-- Shan, Pengyin
+- Pengyin Shan
 date: null
 document_url: https://www.ideals.illinois.edu/items/128310/bitstreams/428985/data.pdf
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121650
 source_name: iPRES
+stream_url: null
 title: 'FIND THE MISSING PIECE: Adding Digital Preservation to the NFT Trading Ecosystem'
 year: 2023
 ---

@@ -9,9 +9,9 @@ abstract: The digital revolution has completely changed how audiences use and in
   more sophisticated than past technologies, but also much more open and promising.
   Our aim is to exploit the full potential of these new and constantly evolving technologies.
 creators:
-- Dutrisac, Julie
-- Ruel, Christian
-- Frate, Luisa
+- Julie Dutrisac
+- Christian Ruel
+- Luisa Frate
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245906/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: poster
 size: 351021
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: NATIONAL FILM BOARD OF CANADA DIGITIZATION PLAN – A CASE STUDY
 year: 2010
 ---

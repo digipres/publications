@@ -32,7 +32,7 @@ abstract: 'All we know about predicting our digital future is based on our past,
   the plain text fail. This is something we can do for preservation today that we
   may never have the money or the knowledge to do in the future.'
 creators:
-- Kunze, John
+- John Kunze
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295039/download
 grand_parent: iPRES
@@ -49,6 +49,7 @@ publication_type: paper
 size: 19676
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Future-Proofing the Web: What We Can Do Today: Presentation - iPRES 2005 -
   Göttingen'
 year: 2005

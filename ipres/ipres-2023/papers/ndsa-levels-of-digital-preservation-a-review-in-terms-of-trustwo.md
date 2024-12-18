@@ -22,7 +22,7 @@ abstract: Records created in organizations that have archival value should be pr
   that this study will raise awareness in the organizations to do a better job of
   preserving the records that have archival value.
 creators:
-- Sağlık, Özhan
+- Özhan Sağlık
 date: null
 document_url: https://www.ideals.illinois.edu/items/128293/bitstreams/428951/data.pdf
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121652
 source_name: iPRES
+stream_url: null
 title: 'NDSA LEVELS OF DIGITAL PRESERVATION: A REVIEW IN TERMS OF TRUSTWORTHINESS
   OF DIGITAL RECORDS'
 year: 2023

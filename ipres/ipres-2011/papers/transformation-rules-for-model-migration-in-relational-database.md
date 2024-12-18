@@ -11,9 +11,9 @@ abstract: Digital preservation is about memory and giving easy access to it. If 
   integrity and authenticity. The rules were implemented in a case study which involved
   a human resources information system.
 creators:
-- Rahman, Arif Ur
-- Ribeiro, Cristina
-- David, Gabriel
+- Arif Ur Rahman
+- Cristina Ribeiro
+- Gabriel David
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294268/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 520806
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Transformation Rules for Model Migration in Relational Database Preservation
 year: 2011
 ---

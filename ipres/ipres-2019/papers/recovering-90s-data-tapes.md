@@ -12,7 +12,7 @@ abstract: the recovery of digital data from tape formats from the mid to late â€
   project. The paper also presents some first results of sites from 1gg5 that have
   already been reconstructed from these tapes.
 creators:
-- van der Knijff, Johan
+- Johan van der Knijff
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079683/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 707938
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Recovering â€™90S Data Tapes '
 year: 2019
 ---

@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Steinke, Tobias
+- Tobias Steinke
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294513/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 75356
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Realizing a Preservation Strategy: Format Migration with koLibRI'
 year: 2007
 ---

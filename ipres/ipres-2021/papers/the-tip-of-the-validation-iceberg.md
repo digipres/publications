@@ -6,8 +6,8 @@ abstract: 'This paper describes the volume of JHOVE-based file validation warnin
 
   '
 creators:
-- Gattuso, Jay
-- Goethals, Andrea
+- Jay Gattuso
+- Andrea Goethals
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424902/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 934600
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: THE TIP OF THE VALIDATION ICEBERG
 year: 2021
 ---

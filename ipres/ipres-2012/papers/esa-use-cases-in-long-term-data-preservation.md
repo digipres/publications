@@ -11,9 +11,9 @@ abstract: Long Term Data Preservation (LTDP) aims at ensuring the intelligibilit
   future generations data use and accessibility of this cultural heritage is needed
   to define a systematic approach, accompanied by different use cases.
 creators:
-- Albani, Mirko
-- Leone, Rosemarie
-- Tona, Calogera
+- Mirko Albani
+- Rosemarie Leone
+- Calogera Tona
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293846/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: paper
 size: 1008905
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: ESA USE CASES IN LONG TERM DATA PRESERVATION
 year: 2012
 ---

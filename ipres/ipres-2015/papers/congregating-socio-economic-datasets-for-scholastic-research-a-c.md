@@ -12,7 +12,7 @@ abstract: Digital curation initiatives with an intention to preserve the intelle
   technological obsolescence, dissemination expanded to the public, copyright issues
   have to be overcome.
 creators:
-- Patnaik, K. Rama
+- K. Rama Patnaik
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429596/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 477699
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Congregating Socio- Economic Datasets for Scholastic Research: A Case Study
   in IIMB Library'
 year: 2015

@@ -8,8 +8,8 @@ abstract: 'This demonstration proposal describes the Curation Cost Exchange plat
   Clarify the Costs of Curation) and the relationship of the CCEx to other 4C Project
   outputs will also be briefly described. '
 creators:
-- Faria, Luis
-- Grindley, Neil
+- Luis Faria
+- Neil Grindley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378719/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: poster
 size: 372195
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'POSTERS & DEMONSTRATIONS - (Poster) Curation Cost Exchange platform: Demonstration
   (Poster) '
 year: 2014

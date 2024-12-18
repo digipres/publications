@@ -14,11 +14,11 @@ abstract: The preservation community is busily building systems for repositories
   community to collaborate effectively, and point out extension points and future
   work.
 creators:
-- Kulovits, Hannes
-- Kraxner, Michael
-- Plangg, Markus
-- Becker, Christoph
-- Bechhofer, Sean
+- Hannes Kulovits
+- Michael Kraxner
+- Markus Plangg
+- Christoph Becker
+- Sean Bechhofer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378051/download
 grand_parent: iPRES
@@ -42,6 +42,7 @@ publication_type: paper
 size: 2146418
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Open Preservation Data: Controlled vocabularies and ontologies for preservation
   ecosystems'
 year: 2013

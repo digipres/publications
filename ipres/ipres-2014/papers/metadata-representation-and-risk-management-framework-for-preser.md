@@ -10,9 +10,9 @@ abstract: This paper proposes an approach to assessing risks related to audiovis
   in the framework and enables a unified approach to data gathering from the heterogeneous
   tools and devices used in an AV preservation workflow.
 creators:
-- Bailer, Werner
-- Hall-May, Martin
-- Veres, Galina
+- Werner Bailer
+- Martin Hall-May
+- Galina Veres
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378710/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: poster
 size: 183941
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Metadata Representation and Risk Management Framework for Preservation Processes
   in AV Archives: Poster (Poster) '
 year: 2014

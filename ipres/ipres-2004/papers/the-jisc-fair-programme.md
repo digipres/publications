@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Beagrie, Neil
+- Neil Beagrie
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295025/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 111193
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The JISC FAIR Programme
 year: 2004
 ---

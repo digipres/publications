@@ -7,7 +7,7 @@ abstract: 'Following three years of software development, requirements refinemen
   research repository. We will conclude with a discussion of some possible future
   enhancements envisioned for the integration. '
 creators:
-- Lake, Sarah
+- Sarah Lake
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/3fdfc65388be4ea4bd55c95cf6790cf4
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Archivematica-EPrints Integration: Developing digital preservation
   capacity for open repositories '
 year: 2022

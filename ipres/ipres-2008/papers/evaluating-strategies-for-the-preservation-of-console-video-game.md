@@ -19,10 +19,10 @@ abstract: The amount of content from digital origin permanently increases. The s
   emulation and migration in the same planning process and that the selection of suitable
   sample records is crucial.
 creators:
-- Guttenbrunner, Mark
-- Kehrberg, Carmen
-- Rauber, Andreas
-- Becker, Christoph
+- Mark Guttenbrunner
+- Carmen Kehrberg
+- Andreas Rauber
+- Christoph Becker
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294111/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: paper
 size: 764529
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Evaluating Strategies for the Preservation of Console Video Games
 year: 2008
 ---

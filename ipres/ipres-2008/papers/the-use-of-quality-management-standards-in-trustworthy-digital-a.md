@@ -10,11 +10,11 @@ abstract: Quality management is one of the essential parts to become a trustwort
   like documentation, transparency, adequacy, and measureability in order to demonstrate
   the trustworthiness of their digital archive.
 creators:
-- Dobratz, Susanne
-- Schoger, Astrid
-- Rätzke, Björn
-- Borghoff, Uwe M.
-- Rödig, Peter
+- Susanne Dobratz
+- Astrid Schoger
+- Björn Rätzke
+- Uwe M. Borghoff
+- Peter Rödig
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294155/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: 60574
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Use of Quality Management Standards in Trustworthy Digital Archives
 year: 2008
 ---

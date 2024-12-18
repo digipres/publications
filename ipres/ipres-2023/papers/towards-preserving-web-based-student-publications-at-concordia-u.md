@@ -8,8 +8,8 @@ abstract: Student-run papers, journals, and magazines that were previously publi
   so far. We will conclude with a discussion of future opportunities for outreach
   and other envisioned pathways for collaboration.
 creators:
-- Lake, Sarah
-- Richan, John
+- Sarah Lake
+- John Richan
 date: null
 document_url: https://www.ideals.illinois.edu/items/128316/bitstreams/428997/data.pdf
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121685
 source_name: iPRES
+stream_url: null
 title: TOWARDS PRESERVING WEB-BASED STUDENT PUBLICATIONS AT CONCORDIA UNIVERSITY
 year: 2023
 ---

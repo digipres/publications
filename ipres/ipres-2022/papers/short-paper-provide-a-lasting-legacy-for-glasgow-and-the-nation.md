@@ -8,7 +8,7 @@ abstract: This paper outlines the recent transfer of a series of high-level Scot
   and lessons learned from an enterprise carried out exclusively within the challenging
   context of the Covid-19 pandemic
 creators:
-- Stewart, Garth
+- Garth Stewart
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/d8c0f84391724077a9f7872911eefbeb
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: "…provide a lasting legacy for Glasgow and the nation"Two years
   of transferring Scottish Cabinet records to National Records of Scotland'
 year: 2022

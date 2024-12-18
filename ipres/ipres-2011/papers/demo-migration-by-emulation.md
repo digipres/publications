@@ -9,9 +9,9 @@ abstract: 'The availability of migration tools for older formats is often limite
   integrated into the PLANETS testbed. These services demonstrate preservation workflows
   using migration together with the emulation of original environments.'
 creators:
-- Valizada, Isgandar
-- von Suchodoletz, Dirk
-- Rechert, Klaus
+- Isgandar Valizada
+- Dirk von Suchodoletz
+- Klaus Rechert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294260/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 802149
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Demo: Migration-by-Emulation'
 year: 2011
 ---

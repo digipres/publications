@@ -14,10 +14,10 @@ abstract: In the beginning, SPAR, the National Library of France's repository, w
   the BnF will have to be examined over time, to ensure all the communities' needs
   are met while SPAR remains viable.
 creators:
-- Derrot, Sophie
-- Peyrard, Sebastien
-- Oury, Clement
-- Fauduet, Louise
+- Sophie Derrot
+- Sebastien Peyrard
+- Clement Oury
+- Louise Fauduet
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:292755/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: paper
 size: 594017
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation Is Knowledge: A community-driven preservation approach'
 year: 2012
 ---

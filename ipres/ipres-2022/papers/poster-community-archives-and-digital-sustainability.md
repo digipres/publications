@@ -3,7 +3,7 @@ abstract: A short poster presentation on the issues facing smaller community org
   and volunteer-led groups related to digitisation, digital preservation, and digital
   sustainability.
 creators:
-- Wilson, Audrey
+- Audrey Wilson
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/50d3e432ee8d4b55b83079b2cb7b31ea
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Community Archives and Digital Sustainability'
 year: 2022
 ---

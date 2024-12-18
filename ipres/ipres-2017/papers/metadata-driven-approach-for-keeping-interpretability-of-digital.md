@@ -29,8 +29,8 @@ abstract: Metadata about digital objects help users find, understand, use and re
   provenance related research. Finally, the main findings of this research are summarized
   in the conclusions.
 creators:
-- Li, Chunqiu
-- Sugimoto, Shigeo
+- Chunqiu Li
+- Shigeo Sugimoto
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931067/download
 grand_parent: iPRES
@@ -47,6 +47,7 @@ publication_type: paper
 size: 1011275
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Metadata-Driven Approach for Keeping Interpretability of Digital Objects through
   Formal Provenance Description
 year: 2017

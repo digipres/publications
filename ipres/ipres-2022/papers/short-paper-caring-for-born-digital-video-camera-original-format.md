@@ -5,7 +5,7 @@ abstract: 'Over time, we have seen the exponential growth of born-digital files,
   of born-digital camera original video formats in an archival setting and the intentional
   irreversible change that may be required to stabilize them for future access.'
 creators:
-- Sanchez, Crystal
+- Crystal Sanchez
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/0d2b5c6e8ee64c8b82356214e60c1032
 grand_parent: iPRES
@@ -23,6 +23,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Caring for Born Digital Video Camera Original Formats: Considering
   Intentional Change'
 year: 2022

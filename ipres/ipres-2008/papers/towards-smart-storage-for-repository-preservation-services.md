@@ -10,12 +10,12 @@ abstract: The move to digital is being accompanied by a huge rise in volumes of 
   and management. Some early examples will be presented, focussing on storage management
   and format risk assessment.
 creators:
-- Hitchcock, Steve
-- Carr, Leslie
-- Jefferies, Neil
-- O’Steen, Ben
-- Brown, Adrian
-- Tarrant, David
+- Steve Hitchcock
+- Leslie Carr
+- Neil Jefferies
+- Ben O’Steen
+- Adrian Brown
+- David Tarrant
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294148/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 166395
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Towards smart storage for repository preservation services
 year: 2008
 ---

@@ -8,7 +8,7 @@ abstract: 'Over the course of six weeks, members of the Data Curation Network we
   conclude by identifying areas of potential future research as well as practical
   collaboration opportunities.'
 creators:
-- Narlock, Mikala
+- Mikala Narlock
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/53bbd675484a4238bf4f157de851dfed
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: long paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Long Paper: “We’re all doing the best we can with what we’ve got” : Preservation
   practices of Data Curation Network members '
 year: 2022

@@ -17,8 +17,8 @@ abstract: 'Phaidra (Permanent Hosting, Archiving and Indexing of
 
   which are provided with structured metadata.'
 creators:
-- Höckner, Markus
-- Budroni, Paolo
+- Markus Höckner
+- Paolo Budroni
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245909/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: poster
 size: 312064
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: PHAIDRA - A REPOSITORY-PROJECT OF THE UNIVERSITY OF  VIENNA
 year: 2010
 ---

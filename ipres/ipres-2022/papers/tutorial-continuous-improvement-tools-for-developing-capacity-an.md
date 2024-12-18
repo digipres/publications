@@ -6,7 +6,7 @@ abstract: The ability to apply a carefully considered and well implemented appro
   for continuous improvement at their organization using resources developed by the
   Digital Preservation Coalition.
 creators:
-- McMeekin, Sharon
+- Sharon McMeekin
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/cf658f229268470cb107b113163bf724
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: tutorial
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Tutorial: Continuous Improvement Tools for Developing Capacity and Skills'
 year: 2022
 ---

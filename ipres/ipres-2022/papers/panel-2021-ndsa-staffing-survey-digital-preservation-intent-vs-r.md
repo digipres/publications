@@ -7,7 +7,7 @@ abstract: The 2021 Staffing Survey represents the third iteration of an expansiv
   and to encourage attendees to engage in a dialogue around digital preservation staffing,
   organizational support, and workforce development within the field.
 creators:
-- Work, Lauren
+- Lauren Work
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/38cca09ecdf740ecaf710fd519710f04
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: 2021 NDSA Staffing Survey: Digital Preservation Intent vs Reality'
 year: 2022
 ---

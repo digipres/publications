@@ -45,9 +45,9 @@ abstract: '"In order to preserve software-based art the research community has p
   like a full-system emulation; the latter only being possible when the speed advantage
   of the new hardware is large enough."'
 creators:
-- Roeck, Claudia
-- Noordegraaf, Julia
-- Rechert, Klaus
+- Claudia Roeck
+- Julia Noordegraaf
+- Klaus Rechert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923622/download
 grand_parent: iPRES
@@ -64,6 +64,7 @@ publication_type: paper
 size: 3744583
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Evaluation of preservation strategies for an interactive, software-based artwork
   with complex behavior using the case study Horizons (2008) by Geert Mul
 year: 2018

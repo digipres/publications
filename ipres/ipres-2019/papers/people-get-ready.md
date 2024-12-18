@@ -6,7 +6,7 @@ abstract: Sustainability has been a key focus for the digital preservation commu
   workforce development in digital preservation and suggest steps forward we should
   take as a community.
 creators:
-- McMeekin, Sharon
+- Sharon McMeekin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081732/download
 grand_parent: iPRES
@@ -22,6 +22,7 @@ publication_type: paper
 size: 252520
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'People Get Ready '
 year: 2019
 ---

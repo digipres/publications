@@ -1,9 +1,9 @@
 ---
 abstract: null
 creators:
-- Chunwang, Li
-- Zhenxin, Wu
-- Xiaolin, Zhang
+- Li Chunwang
+- Wu Zhenxin
+- Zhang Xiaolin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294525/download
 grand_parent: iPRES
@@ -20,6 +20,7 @@ publication_type: presentation
 size: 331495
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation Management in Practice: Trusted Workflow'
 year: 2007
 ---

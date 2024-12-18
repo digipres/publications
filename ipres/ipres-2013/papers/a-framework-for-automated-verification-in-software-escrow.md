@@ -14,12 +14,12 @@ abstract: If a business is in need of customized software it often orders it fro
   We also analyze an exemplary use-case software to show the applicability of our
   framework.
 creators:
-- Weigl, Elisabeth
-- Binder, Johannes
-- Strodl, Stephan
-- Kolany, Barbara
-- Draws, Daniel
-- Rauber, Andreas
+- Elisabeth Weigl
+- Johannes Binder
+- Stephan Strodl
+- Barbara Kolany
+- Daniel Draws
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377372/download
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: paper
 size: 386097
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Framework for Automated Verification in Software Escrow
 year: 2013
 ---

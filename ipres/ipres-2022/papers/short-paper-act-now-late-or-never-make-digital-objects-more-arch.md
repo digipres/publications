@@ -5,7 +5,7 @@ abstract: Newly acquired or published objects might be corrupt or might not conf
   to detect or prevent problems early in institutional data processing is depicted
   in this paper.
 creators:
-- Tunnat, Yvonne
+- Yvonne Tunnat
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/43112b00d58c4646a2d91da61f7a09b0
 grand_parent: iPRES
@@ -23,6 +23,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: ACT NOW, LATE OR NEVER: Make Digital Objects (more) archivable
   early in their life cycle?'
 year: 2022

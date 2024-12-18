@@ -9,9 +9,9 @@ abstract: 'A persistent identifier (PID) provides a long-lasting reference to an
   to engage in a conversation on how PID providers can work with the preservation
   community, and what preservation strategies they should be deploying with PID metadata.'
 creators:
-- Meadows, Alice
-- Hendricks, Ginny
-- Cousijn, Helena
+- Alice Meadows
+- Ginny Hendricks
+- Helena Cousijn
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081746/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: paper
 size: 129159
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PIDs & Preservation '
 year: 2019
 ---

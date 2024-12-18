@@ -47,8 +47,8 @@ abstract: 'The “paperless office” concept has been around for
 
   labs, and student coursework.'
 creators:
-- Briston, Heather
-- Estlund, Karen
+- Heather Briston
+- Karen Estlund
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245898/download
 grand_parent: iPRES
@@ -65,6 +65,7 @@ publication_type: poster
 size: 191175
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: GUIDING A CAMPUS THROUGH THE TRANSITION TO A  PAPERLESS RECORDS SYSTEM
 year: 2010
 ---

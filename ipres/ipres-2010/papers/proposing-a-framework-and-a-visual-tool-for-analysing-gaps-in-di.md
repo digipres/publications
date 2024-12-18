@@ -21,11 +21,11 @@ abstract: 'In this paper we present a case study and selected results
 
   Europe.'
 creators:
-- Gomm, Moritz
-- Hemmje, Matthias
-- Brocks, Holger
-- Schrimpf, Sabine
-- Werkmann, Björn
+- Moritz Gomm
+- Matthias Hemmje
+- Holger Brocks
+- Sabine Schrimpf
+- Björn Werkmann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185454/download
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: paper
 size: 284814
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: PROPOSING A FRAMEWORK AND A VISUAL TOOL FOR  ANALYSING GAPS IN DIGITAL PRESERVATION  PRACTICE
   – A CASE STUDY AMONG SCIENTIFIC  LIBRARIES IN EUROPE
 year: 2010

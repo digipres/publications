@@ -6,8 +6,8 @@ abstract: Software preservation must consider knowledge management as a key chal
   of their infrastructure, and completeness and applicability of knowledge that is
   required to successfully steward the collec-tion.
 creators:
-- Espenschied, Dragan
-- Rechert, Klaus
+- Dragan Espenschied
+- Klaus Rechert
 date: null
 document_url: https://www.ideals.illinois.edu/items/128300/bitstreams/428965/data.pdf
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: SOFTWARE PRESERVATION AFTER THE INTERNET
 year: 2023
 ---

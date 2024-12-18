@@ -7,10 +7,10 @@ abstract: Processing information stored as data in a specific data format is tig
   for persistent, authentic access to stored information, this paper presents a logic-based
   approach for the formal specification of data formats.
 creators:
-- Hartle, Michael
-- Mühlhäuser, Max
-- Schumann, Daniel
-- Botchak, Arsene
+- Michael Hartle
+- Max Mühlhäuser
+- Daniel Schumann
+- Arsene Botchak
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294183/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: paper
 size: 79292
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Logic-Based Approach to the Formal Specification of Data Formats
 year: 2008
 ---

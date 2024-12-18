@@ -19,9 +19,9 @@ abstract: The Library of Congress has many millions of objects it has either dig
   the scope of engagement and providing compelling use cases that amplify the impact
   of digital collections.
 creators:
-- Mears, Jaime
-- Potter, Abigail
-- Zwaard, Kate
+- Jaime Mears
+- Abigail Potter
+- Kate Zwaard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931100/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: paper
 size: 160748
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Collections as Data: Preservation to Access to Use to Impact'
 year: 2017
 ---

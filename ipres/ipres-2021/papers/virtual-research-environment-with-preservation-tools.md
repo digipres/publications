@@ -3,9 +3,9 @@ abstract: 'Lightning Talk
 
   '
 creators:
-- Molenda, Ania
-- Speller, Martin
-- Wilson, Carl
+- Ania Molenda
+- Martin Speller
+- Carl Wilson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1417878/download
 grand_parent: iPRES
@@ -23,6 +23,7 @@ publication_type: paper
 size: 26349
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Virtual Research Environment  with Preservation Tools
 year: 2021
 ---

@@ -15,8 +15,8 @@ abstract: Emulation1 used as a long-term preservation strategy offers the possib
   of this strategy are that it improves user convenience while maximizing emulation
   capabilities.
 creators:
-- von Suchodoletz, Dirk
-- van der Hoeven, Jeffrey
+- Dirk von Suchodoletz
+- Jeffrey van der Hoeven
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294107/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 128557
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Emulation: From Digital Artefact to Remotely Rendered Environments'
 year: 2008
 ---

@@ -14,8 +14,8 @@ abstract: Use of primary sources often focuses on identifying and tracking entit
   from such materials. The resulting services and methods can be used by LAM professionals
   and the users they serve.
 creators:
-- Lee, Christopher
-- Woods, Kam
+- Christopher Lee
+- Kam Woods
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931103/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 135616
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Diverse Digital Collections Meet Diverse Uses: Applying Natural Language Processing
   to Born-Digital Primary Sources'
 year: 2017

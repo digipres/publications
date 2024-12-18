@@ -11,7 +11,7 @@ abstract: In this paper, I explore the concept of significant properties and how
   and environments do not. This paper concludes that additional metrics are needed
   to begin shaping the process of documenting significant properties at scale.
 creators:
-- Bettivia, Rhiannon S.
+- Rhiannon S. Bettivia
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503173/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: paper
 size: 397041
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Mapping Significance of Video Games in OAIS
 year: 2016
 ---

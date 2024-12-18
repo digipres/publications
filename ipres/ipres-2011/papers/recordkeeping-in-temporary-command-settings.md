@@ -11,7 +11,7 @@ abstract: This article is about the recordkeeping that takes place during large 
   records are difficult, and reduce the possibility to use records from large operations
   as knowledge reservoirs.
 creators:
-- Borglund, Erik A.M.
+- Erik A.M. Borglund
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294249/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 539863
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Recordkeeping in Temporary Command Settings
 year: 2011
 ---

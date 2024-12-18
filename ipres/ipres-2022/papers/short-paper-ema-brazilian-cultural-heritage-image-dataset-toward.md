@@ -10,7 +10,7 @@ abstract: Metadata annotation in digital collections is typically conducted by s
   of automated metadata annotation tools. The paper also presents baseline ResNet50
   results for the dataset, resulting in an over 86% recognition rate.
 creators:
-- De Oliveira, Vagner Inácio
+- Vagner Inácio De Oliveira
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/8b33e028cec2433588bce3a158d0a7ba
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: EMA: Brazilian Cultural Heritage Image Dataset - Towards AI-based
   metadata annotation of digital collections'
 year: 2022

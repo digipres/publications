@@ -19,9 +19,9 @@ abstract: Until now, digital preservation research has been mainly driven by pub
   determine the corresponding actions, and contribute to the overall commercial success
   of enterprises.
 creators:
-- Barateiro, José
-- Burda, Daniel
-- Simon, Daniel
+- José Barateiro
+- Daniel Burda
+- Daniel Simon
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378043/download
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: paper
 size: 524070
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Leveraging DP in Commercial Contexts through ERM
 year: 2013
 ---

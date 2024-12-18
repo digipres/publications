@@ -15,9 +15,9 @@ abstract: The emulation of obsolete hardware and software environments to enable
   of this approach and this paper will examine the next steps needed to make this
   a reality.
 creators:
-- Cochrane, Euan
-- Tilbury, Jonathan
-- Stobbe, Oleg
+- Euan Cochrane
+- Jonathan Tilbury
+- Oleg Stobbe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931101/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 887582
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Adding Emulation Functionality to Existing Digital Preservation Infrastructure
 year: 2017
 ---

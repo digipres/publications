@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Giles, Laura
+- Laura Giles
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424725/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: lightning talk
 size: 36197
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The 2017 Hull 2017 City of Culture Digital Archive
 year: 2021
 ---

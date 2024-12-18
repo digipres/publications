@@ -12,9 +12,9 @@ abstract: Digital preservation research has increasingly been shifting focus fro
   the challenges and implications for establishing sustainable and verifiable eScience
   processes.
 creators:
-- Mayer, Rudolf
-- Proell, Stefan
-- Rauber, Andreas
+- Rudolf Mayer
+- Stefan Proell
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293771/download
 grand_parent: iPRES
@@ -36,6 +36,7 @@ publication_type: paper
 size: 836868
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Applicability of Workflow Management Systems for the Preservation of Business
   Processes
 year: 2012

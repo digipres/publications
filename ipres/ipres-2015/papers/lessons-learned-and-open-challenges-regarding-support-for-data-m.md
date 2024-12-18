@@ -17,10 +17,10 @@ abstract: 'This paper outlines an approach for developing tools and services tha
   Information related to a data object is supported in a serialization using the OAI-ORE
   format.'
 creators:
-- Görzig, Heike
-- Engel, Felix
-- Brocks, Holger
-- Hemmje, Matthias
+- Heike Görzig
+- Felix Engel
+- Holger Brocks
+- Matthias Hemmje
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429549/download
 grand_parent: iPRES
@@ -46,6 +46,7 @@ publication_type: paper
 size: 907742
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Lessons Learned and Open Challenges Regarding Support for Data Management Plans
   and Research Data Management
 year: 2015

@@ -17,8 +17,8 @@ abstract: Risk is a constant in every area and at all levels of any organization
   and processes, in order to develop a Risk Assessment method that can be applied
   while managing the life-cycle of digital information.
 creators:
-- Canteiro, Sara
-- Barateiro, José
+- Sara Canteiro
+- José Barateiro
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294215/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: paper
 size: 1140000
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Risk Assessment in Digital Preservation of e-Science Data and Processes
 year: 2011
 ---

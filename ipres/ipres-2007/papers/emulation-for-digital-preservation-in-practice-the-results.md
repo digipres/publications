@@ -1,9 +1,9 @@
 ---
 abstract: null
 creators:
-- van der Hoeven, Jeffrey
-- Verdegem, Remco
-- Lohman, Bram
+- Jeffrey van der Hoeven
+- Remco Verdegem
+- Bram Lohman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294514/download
 grand_parent: iPRES
@@ -20,6 +20,7 @@ publication_type: presentation
 size: 996879
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Emulation for digital preservation in practice: the results'
 year: 2007
 ---

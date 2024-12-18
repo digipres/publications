@@ -21,9 +21,9 @@ abstract: 'From September 3-5, 2013 (with tutorials the September 2 and workshop
   students, industry representatives and other professionals involved in digital preservation
   to network and share information.'
 creators:
-- Borbinha, José
-- Nelson, Michael
-- Knight, Steve
+- José Borbinha
+- Michael Nelson
+- Steve Knight
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378099/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: poster
 size: 12723002
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: iPRES 2013 - Proceedings of the 10th International Conference on Preservation
   of Digital Objects
 year: 2013

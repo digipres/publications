@@ -35,9 +35,9 @@ abstract: 'As digital scholarship continues to transform research, so it
 
   documented, analyzed, and distributed.'
 creators:
-- Trelogan, Jessica
-- Esteva, Maria
-- Jackson, Lauren
+- Jessica Trelogan
+- Maria Esteva
+- Lauren Jackson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429572/download
 grand_parent: iPRES
@@ -54,6 +54,7 @@ publication_type: paper
 size: 761737
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preserving an Evolving Collection: “On-The-Fly” Solutions for The Chora of
   Metaponto Publication Series'
 year: 2015

@@ -17,8 +17,8 @@ abstract: This project explores the world of retrocomputing, a constellation of 
   is important to recognize the value of their projects on their own terms and ask
   in what ways institutional efforts can support such projects.
 creators:
-- Takhteyev, Yuri
-- DuPont, Quinn
+- Yuri Takhteyev
+- Quinn DuPont
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294080/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: poster
 size: 572987
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Retrocomputing as Preservation
 year: 2012
 ---

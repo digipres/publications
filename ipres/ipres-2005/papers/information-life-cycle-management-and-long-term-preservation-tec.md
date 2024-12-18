@@ -24,7 +24,7 @@ abstract: 'Publications were traditionally distributed in the form of print medi
   A final step will illustrate the practical impact of these consequences on the operating
   processes which are currently being developed.'
 creators:
-- Altenhöner, Reinhard
+- Reinhard Altenhöner
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295036/download
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: paper
 size: 1786530
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Information Life Cycle Management and Long Term Preservation - Technical Aspects
   Of Workflow Organisation: Presentation - iPRES 2005 - Göttingen'
 year: 2005

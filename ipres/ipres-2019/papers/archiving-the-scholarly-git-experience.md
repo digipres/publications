@@ -10,8 +10,8 @@ abstract: Our poster will reflect our recent efforts to understand the workflows
   to source code, and the materials around it, and argue that the whole should be
   considered part of the scholarly record.
 creators:
-- Milliken, Genevieve
-- Steeves, Vicky
+- Genevieve Milliken
+- Vicky Steeves
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081757/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: poster
 size: 158715
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'ARCHIVING THE SCHOLARLY GIT EXPERIENCE '
 year: 2019
 ---

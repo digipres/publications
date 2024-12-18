@@ -9,7 +9,7 @@ abstract: Nowadays digital data is produced at an exponential rate. The predomin
   allows an effective and efficient implementation on the long term in a perspective
   of saving research and patrimonial information.
 creators:
-- Burgi, Pierre-yves
+- Pierre-yves Burgi
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/64a78a6b692544dc8ce61b9fa15acc46
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: OAIS-compliant digital archiving of research and patrimonial
   data in DNA'
 year: 2022

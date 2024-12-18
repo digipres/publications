@@ -6,7 +6,7 @@ abstract: This poster will illustrate the origins of OA (OA) e-book acquisition 
   the COVID-19 pandemic; and ongoing challenges in expanding and routinizing OA e-book
   collecting at the Library of Congress.
 creators:
-- Seroka, Lauren
+- Lauren Seroka
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/3f4dd08cbb3842739c82ccac5a422de0
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Creating Workflows to Scale Out Large Open Access E-book Acquisitions
   at the Library of Congress'
 year: 2022

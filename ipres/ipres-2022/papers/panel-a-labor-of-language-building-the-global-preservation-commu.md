@@ -6,7 +6,7 @@ abstract: 'Translation of digital preservation documentation into other language
   methods for sustainably supporting translation efforts without reliance on volunteer
   labor. '
 creators:
-- Fraimow, Rebecca
+- Rebecca Fraimow
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/9984b02379924f5a87bda1a9f7f43dca
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: A Labor of Language:  Building The Global Preservation Community Through
   Funded Translation Projects'
 year: 2022

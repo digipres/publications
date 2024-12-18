@@ -6,7 +6,7 @@ abstract: This poster presentation describes the results of a research project c
   to investigate the practicality of long-term preservation and use of digital library
   materials stored by the NDL on physical media.
 creators:
-- Yamamoto, Shunsuke
+- Shunsuke Yamamoto
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429611/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: poster
 size: 426557
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Research on Accessibility of Digital Documentation on Physical Media across
   Different Versions of MS Windows
 year: 2015

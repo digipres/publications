@@ -19,9 +19,9 @@ abstract: 'This workshop will update the community on the work of the Levels of 
 
   '
 creators:
-- Tallman, Nathan
-- Work, Lauren
-- Daigle, Bradley
+- Nathan Tallman
+- Lauren Work
+- Bradley Daigle
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079677/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: paper
 size: 115664
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Level up on preservation: Updating and Mapping the next generation of the
   Levels of Preservation '
 year: 2019

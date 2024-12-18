@@ -15,11 +15,11 @@ abstract: "Since 2019, four groups have been created within the French associati
   from the French national Library, it was created to use digital objects and images
   available in Gallica, the French digital national library online (https://gallica.bnf.fr).\n"
 creators:
-- Grandcolas, Yannick
-- Bechard, Lorène
-- Humbert, Marion
-- Sin Blima-Barru, Martine
-- Levasseur, Emeline
+- Yannick Grandcolas
+- Lorène Bechard
+- Marion Humbert
+- Martine Sin Blima-Barru
+- Emeline Levasseur
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424941/download
 grand_parent: iPRES
@@ -46,6 +46,7 @@ publication_type: poster
 size: 392467
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Enhancing French Digital Preservation Cooperation
 year: 2021
 ---

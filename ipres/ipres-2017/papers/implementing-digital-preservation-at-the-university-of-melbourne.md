@@ -7,7 +7,7 @@ abstract: 'To  implementthe  University  of  Melbourne’s  digital  preservatio
   The goals and achievementsto date for the project are described, as are some nextsteps
   that are buildingon these activities.'
 creators:
-- Weatherburn, Jaye
+- Jaye Weatherburn
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931142/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: paper
 size: 126450
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Implementing Digital Preservation at the University of Melbourne
 year: 2017
 ---

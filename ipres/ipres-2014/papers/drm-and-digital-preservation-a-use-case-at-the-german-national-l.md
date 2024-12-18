@@ -7,8 +7,8 @@ abstract: "Digital Rights Management (DRM) is in use for many digital publicatio
   of DRM protections within the ingest workflow of the archival system by analysis
   and case-by-case distinction. \n"
 creators:
-- Hein, Stefan
-- Steinke, Tobias
+- Stefan Hein
+- Tobias Steinke
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378120/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 236571
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'DRM and digital preservation: A use case at the German National Library'
 year: 2014
 ---

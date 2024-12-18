@@ -57,9 +57,9 @@ abstract: 'Geospatial data are widely used by many institutions, governments, an
   Tech, and has also allowed us to leverage campus partners to better optimize our
   ability to serve the discovery and preservation needs of the Virginia Tech community.'
 creators:
-- Coleman, R. Shane
-- Ogier, Andrea
-- Farag, Mohamed
+- R. Shane Coleman
+- Andrea Ogier
+- Mohamed Farag
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429581/download
 grand_parent: iPRES
@@ -79,6 +79,7 @@ publication_type: poster
 size: 384508
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'In Search of GeoBlacklight: Reporting on a Community-Driven Geospatial Data
   Portal in the Library'
 year: 2015

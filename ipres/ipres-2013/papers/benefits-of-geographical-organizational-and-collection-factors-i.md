@@ -20,11 +20,11 @@ abstract: Digital preservation is a resource intensive task, requiring specific 
   and recommendations a thesis will be formulated for each of the three factors, which
   will then be checked against the experience gained by the Goportis consortium.
 creators:
-- Lindlar, Michelle
-- Friese, Yvonne
-- Müller, Elisabeth
-- Bähr, Thomas
-- von Trosdorf, Anja
+- Michelle Lindlar
+- Yvonne Friese
+- Elisabeth Müller
+- Thomas Bähr
+- Anja von Trosdorf
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377394/download
 grand_parent: iPRES
@@ -44,6 +44,7 @@ publication_type: paper
 size: 334794
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Benefits of geographical, organizational and collection factors in digital
   preservation cooperations: The experience of the Goportis consortium'
 year: 2013

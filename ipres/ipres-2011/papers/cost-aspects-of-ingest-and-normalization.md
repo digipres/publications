@@ -17,9 +17,9 @@ abstract: 'The Danish National Archives, and The Royal Library and the State and
   the model’s precision – existing cost data from submission projects have been used
   to test the CMDP and the results of this test are described.'
 creators:
-- Kejser, Ulla Bøgvad
-- Thirifays, Alex
-- Nielsen, Anders Bo
+- Ulla Bøgvad Kejser
+- Alex Thirifays
+- Anders Bo Nielsen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294222/download
 grand_parent: iPRES
@@ -43,6 +43,7 @@ publication_type: paper
 size: 554018
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Cost Aspects of Ingest and Normalization
 year: 2011
 ---

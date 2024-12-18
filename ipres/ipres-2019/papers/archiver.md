@@ -14,10 +14,10 @@ abstract: Do you need to acquire standards-based, cost-effective archiving and p
   for the supply side and how the wider demand side community can benefit from the
   ARCHIVER results through the ARCHIVER Early Adopters program.
 creators:
-- Gaiarin, Sara Pitonnet
-- Jones, Bob
-- Shiers, Jamie
-- Fernandes, João
+- Sara Pitonnet Gaiarin
+- Bob Jones
+- Jamie Shiers
+- João Fernandes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079916/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 149880
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'ARCHIVER '
 year: 2019
 ---

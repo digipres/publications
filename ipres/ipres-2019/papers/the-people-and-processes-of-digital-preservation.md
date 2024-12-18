@@ -8,9 +8,9 @@ abstract: 'Most initiatives to build digital preservation programs focus almost 
   approaches, and successes.Keywords – digital preservation, capacity planning, organizational
   issues, leveraging expertise, international organizations'
 creators:
-- Deserno, Ineke
-- Canela, Montserrat
-- Kramer-Smyth, Jeanne
+- Ineke Deserno
+- Montserrat Canela
+- Jeanne Kramer-Smyth
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080460/download
 grand_parent: iPRES
@@ -26,6 +26,7 @@ publication_type: paper
 size: 142815
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The People And Processes of Digital Preservation '
 year: 2019
 ---

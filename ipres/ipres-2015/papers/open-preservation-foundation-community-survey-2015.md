@@ -12,10 +12,10 @@ abstract: 'This poster will present the headline results from the Open Preservat
   and practice over time. The published analysis and raw data will be forthcoming
   by the end of 2015.'
 creators:
-- Fay, Ed
-- McGuinness, Becky
-- Wilson, Carl
-- Krabbenhoeft, Nick
+- Ed Fay
+- Becky McGuinness
+- Carl Wilson
+- Nick Krabbenhoeft
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429587/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: poster
 size: 342067
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Open Preservation Foundation Community Survey 2015
 year: 2015
 ---

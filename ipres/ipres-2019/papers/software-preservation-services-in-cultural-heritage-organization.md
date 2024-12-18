@@ -11,12 +11,12 @@ abstract: 'Preserving software is a prerequisite for preserving and providing ac
   a foundational agenda that SPN members and other cultural heritage professionals
   can use to conduct further research on sustainable software preservation services.'
 creators:
-- Erickson, Seth
-- Benner, Jessica G.
-- Work, Lauren
-- Lassere, Monique
-- Williford, Christa
-- Hagenmaier, Wendy
+- Seth Erickson
+- Jessica G. Benner
+- Lauren Work
+- Monique Lassere
+- Christa Williford
+- Wendy Hagenmaier
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080502/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: poster
 size: 138968
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Software Preservation Services in Cultural Heritage Organizations '
 year: 2019
 ---

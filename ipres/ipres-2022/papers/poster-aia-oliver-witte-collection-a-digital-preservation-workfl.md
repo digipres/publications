@@ -19,7 +19,7 @@ abstract: In 2017, the Canadian Center for Architecture (CCA) collaborated with 
   a master’s program at the University of Montreal in Information Science (MLIS),
   with a concentration in archives.<br />
 creators:
-- Genest, Elisabeth
+- Elisabeth Genest
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/6fa2ccc3c7024d19a68a8a0d81c803db
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: AIA/ OLIVER WITTE COLLECTION:A digital preservation workflow'
 year: 2022
 ---

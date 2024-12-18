@@ -19,9 +19,9 @@ abstract: Personal Digital Archiving (PDA) is a relatively recent topic in the l
   is how public institutions such as libraries and archives can help community organizations
   and individuals?
 creators:
-- Lunghi, Maurizio
-- Schumann, Natascha
-- Tibbo, Helen
+- Maurizio Lunghi
+- Natascha Schumann
+- Helen Tibbo
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502830/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: workshop
 size: 137705
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Personal Digital Archiving
 year: 2016
 ---

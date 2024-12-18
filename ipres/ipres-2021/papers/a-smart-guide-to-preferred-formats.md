@@ -8,9 +8,9 @@ abstract: 'The Dutch Digital Heritage Network has developed an online tool that 
 
   '
 creators:
-- Alloing, Sam
-- de Boer, Remco
-- Steeman, Marjolein
+- Sam Alloing
+- Remco de Boer
+- Marjolein Steeman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424922/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 451784
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Smart Guide to Preferred Formats
 year: 2021
 ---

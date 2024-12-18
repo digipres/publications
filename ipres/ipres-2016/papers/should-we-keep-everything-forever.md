@@ -11,11 +11,11 @@ abstract: The University of Illinois at Urbana-Champaign's library-based Researc
   practices from the archives community to develop preservation review processes and
   guidelines for datasets published in the Illinois Data Bank.
 creators:
-- Anderson, Bethany
-- Rimkus, Kyle
-- Imker, Heidi
-- Dunham, Elise
-- Braxton, Susan
+- Bethany Anderson
+- Kyle Rimkus
+- Heidi Imker
+- Elise Dunham
+- Susan Braxton
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502905/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: poster
 size: 132291
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Should We Keep Everything Forever?
 year: 2016
 ---

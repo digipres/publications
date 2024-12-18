@@ -11,7 +11,7 @@ abstract: The Minimum Preservation Tool (MPT), developed by the British Library,
   different hash functions and four sizes of parallel processes, across three broad
   corpora (large, mixed, and small file-sizes).
 creators:
-- May, Peter
+- Peter May
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/a3e4f5b25a0c400aa3e9083e6f592da2
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Upscaling the MPT'
 year: 2022
 ---

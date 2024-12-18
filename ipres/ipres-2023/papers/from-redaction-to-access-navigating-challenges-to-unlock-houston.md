@@ -6,8 +6,8 @@ abstract: The Gulf Coast LGBT Radio and Television Digitization Project launched
   goal of equitable access to unique materials created by and for a marginalized community,
   while maintaining adherence to copyright restrictions.
 creators:
-- Vinson, Emily
-- Scott, Bethany
+- Emily Vinson
+- Bethany Scott
 date: null
 document_url: https://www.ideals.illinois.edu/items/128275/bitstreams/428915/data.pdf
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'FROM REDACTION TO ACCESS: Navigating Challenges to Unlock Houston''s LGBTQ
   Media History'
 year: 2023

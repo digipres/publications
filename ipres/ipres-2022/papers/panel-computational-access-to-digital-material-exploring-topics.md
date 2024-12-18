@@ -11,7 +11,7 @@ abstract: Computational access is a newly emerging approach to access within the
   and platform to discuss these issues in greater depth with a range of practitioners
   with practical experience in this area.
 creators:
-- Talboom, Leontien
+- Leontien Talboom
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/7129a966814445a085c2b6a58da91ecf
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: Computational Access to Digital Material: Exploring topics around engagement,
   ethics and resources'
 year: 2022

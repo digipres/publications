@@ -3,14 +3,14 @@ abstract: "This workshop is designed to gather together the community of digital
   and others working specifically with born digital collections to discuss aspects
   of the appraisal, processing, and ingest process. \n"
 creators:
-- Moran, Jessica
-- O'Meara, Erin
-- Rosin, Leigh
-- Elford, Douglas
-- Jolly, Emma
-- Langley, Somaya
-- Mennerich, Donald
-- Lee, Christopher
+- Jessica Moran
+- Erin O'Meara
+- Leigh Rosin
+- Douglas Elford
+- Emma Jolly
+- Somaya Langley
+- Donald Mennerich
+- Christopher Lee
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378136/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: workshops and tutorials
 size: 147346
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Born Digital Appraisal, Ingest, and Processing
 year: 2014
 ---

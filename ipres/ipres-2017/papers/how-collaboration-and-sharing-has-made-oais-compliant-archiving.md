@@ -4,8 +4,8 @@ abstract: Can small archives with limited budgets and only a handful of employee
   have joined forces and found a way to do it. This poster describes how it is made
   possible through close collaboration and sharing within a network organization.
 creators:
-- Hougaard Edsen Johansen, Kathrine
-- Neuhard, Mads
+- Kathrine Hougaard Edsen Johansen
+- Mads Neuhard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931128/download
 grand_parent: iPRES
@@ -23,6 +23,7 @@ publication_type: poster
 size: 74386
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: How collaboration and sharing has made OAIS compliant archiving at (very) small
   archives possible
 year: 2017

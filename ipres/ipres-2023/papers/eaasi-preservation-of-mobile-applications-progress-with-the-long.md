@@ -13,9 +13,9 @@ abstract: Mobile devices have revolutionized computing and democratized access t
   to address as we move forwards with ensuring long-term access to this essential
   part of our history.
 creators:
-- Cochrane, Euan
-- Oberhauser, Jurek
-- Gieschke, Rafael
+- Euan Cochrane
+- Jurek Oberhauser
+- Rafael Gieschke
 date: null
 document_url: https://www.ideals.illinois.edu/items/128313/bitstreams/428991/data.pdf
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'EAASI PRESERVATION OF MOBILE APPLICATIONS: Progress with the long-term preservation
   of access to mobile applications using the EaaSI platform'
 year: 2023

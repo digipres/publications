@@ -11,7 +11,7 @@ abstract: Given that preservation is now a fairly well-described problem, it sho
   Some indication will also be given as to where collective international effort may
   be of universal benefit.
 creators:
-- Grindley, Neil
+- Neil Grindley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294223/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 581218
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Costs and Economics of Preservation
 year: 2011
 ---

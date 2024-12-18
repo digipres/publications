@@ -19,9 +19,9 @@ abstract: 'An increasing number of UK Higher Education Institutions (HEIs) are d
   and training. Through this programme we will develop a service model for institutional
   support and a transferable RDM toolkit.'
 creators:
-- Jones, Sarah
-- Pryor, Graham
-- Whyte, Angus
+- Sarah Jones
+- Graham Pryor
+- Angus Whyte
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293775/download
 grand_parent: iPRES
@@ -47,6 +47,7 @@ publication_type: paper
 size: 676702
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Developing Research Data Management Capability: the View from a National Support
   Service'
 year: 2012

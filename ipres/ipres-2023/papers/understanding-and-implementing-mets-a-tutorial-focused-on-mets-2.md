@@ -9,9 +9,9 @@ abstract: This half day tutorial will provide participants with an introduction 
   by the METS Editorial Board, and the METS Maintenance Activity is managed by the
   Library of Congress [2].
 creators:
-- Bredenberg, Karin
-- Elkiss, Aaron
-- Lehtonen, Juha
+- Karin Bredenberg
+- Aaron Elkiss
+- Juha Lehtonen
 date: null
 document_url: https://www.ideals.illinois.edu/items/128260/bitstreams/428885/data.pdf
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'UNDERSTANDING AND IMPLEMENTING METS: A tutorial focused on METS 2'
 year: 2023
 ---

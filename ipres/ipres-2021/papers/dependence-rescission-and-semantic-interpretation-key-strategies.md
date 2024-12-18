@@ -8,8 +8,8 @@ abstract: 'There are three states of archival objects and their corresponding ma
 
   '
 creators:
-- Yi, Qian
-- Linqing, Ma
+- Qian Yi
+- Ma Linqing
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424832/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: 227902
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'DEPENDENCE RESCISSION AND SEMANTIC INTERPRETATION: KEY STRATEGIES TO LONG-TERM
   PRESERVATION OF DIGITAL ARCHIVES'
 year: 2021

@@ -4,8 +4,8 @@ abstract: Jisc are considering implementing a Dynamic Purchasing system for memb
   is and the process we’re undergoing to decide if we will provide a DPS. In effect,
   how we’re building a robust business case to provide a DPS for our members.
 creators:
-- Stokes, Paul
-- Colbron, Karen
+- Paul Stokes
+- Karen Colbron
 date: null
 document_url: https://www.ideals.illinois.edu/items/128266/bitstreams/428895/data.pdf
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'THE WHAT, WHY AND HOW OF A DIGITAL PRESERVATION DPS: The process by which
   a Dynamic Purchasing System for Digital Preservation service may (or may not) be
   adopted'

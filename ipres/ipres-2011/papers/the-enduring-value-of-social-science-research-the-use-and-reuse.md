@@ -17,9 +17,9 @@ abstract: The goal of this paper is to examine the extent to which social scienc
   to not sharing data. This finding is robust even when the models are adjusted for
   PI characteristics, grant award features, and institutional characteristics.
 creators:
-- Pienta, Amy
-- Lyle, Jared
-- Alter, George
+- Amy Pienta
+- Jared Lyle
+- George Alter
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294251/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: paper
 size: 532779
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Enduring Value of Social Science Research: The Use and Reuse of Primary
   Research Data'
 year: 2011

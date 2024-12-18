@@ -11,7 +11,7 @@ abstract: The more we interact online and manage digital lives, the more we buil
   and the at-risk output of underserved communities. Large amounts or small, all digital
   materials have the potential to be vital to cultural history studies in the future.
 creators:
-- Johnston, Leslie
+- Leslie Johnston
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294250/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 494888
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'We are all Archivists: Encouraging Personal Digital Archiving and Citizen
   Archiving on a Community Scale'
 year: 2011

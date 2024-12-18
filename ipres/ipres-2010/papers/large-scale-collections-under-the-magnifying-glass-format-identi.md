@@ -41,7 +41,7 @@ abstract: 'Institutions that perform web crawls in order to gather
 
   developed for other kinds of digital assets.'
 creators:
-- Oury, Clément
+- Clément Oury
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245900/download
 grand_parent: iPRES
@@ -58,6 +58,7 @@ publication_type: poster
 size: 106396
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'LARGE-SCALE COLLECTIONS UNDER THE  MAGNIFYING GLASS: FORMAT IDENTIFICATION
   FOR'
 year: 2010

@@ -2,8 +2,8 @@
 abstract: We believe that our work can be applied to improve the quality of the services
   provided by other web archives.
 creators:
-- Cruz, David
-- Gomes, Daniel
+- David Cruz
+- Daniel Gomes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377376/download
 grand_parent: iPRES
@@ -20,6 +20,7 @@ publication_type: paper
 size: 477785
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Adapting search user interfaces to web archives
 year: 2013
 ---

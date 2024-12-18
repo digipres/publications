@@ -10,7 +10,7 @@ abstract: This paper will discuss the recent work of the abrdn archive to create
   fuel, but the outcome has been positive and archive colleagues are keen to find
   out where the road will lead them next.
 creators:
-- Williamson, Karyn
+- Karyn Williamson
 date: null
 document_url: https://www.ideals.illinois.edu/items/128312/bitstreams/428989/data.pdf
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121663
 source_name: iPRES
+stream_url: null
 title: 'THE LONG AND WINDING ROAD: Implementing an Open-Source Workflow'
 year: 2023
 ---

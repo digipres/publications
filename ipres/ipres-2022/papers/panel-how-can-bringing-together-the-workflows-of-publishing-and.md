@@ -19,7 +19,7 @@ abstract: Rather than preservation and archiving being an afterthought for digit
   be preserved at scale. And Project JASPER works with small, independent OA journals
   to facilitate preservation.
 creators:
-- Barnes, Miranda
+- Miranda Barnes
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/c526c37b9e1e4a71a378c94612356914
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: How can bringing together the workflows of publishing and preservation
   lead to better, longer-term solutions that benefit both?: A panel with COPIM Work
   Package 7, the Embedding Preservability in New Forms of Scholarship Project (NYU),

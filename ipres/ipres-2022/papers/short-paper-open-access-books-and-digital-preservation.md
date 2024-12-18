@@ -6,7 +6,7 @@ abstract: This panel discussion will report on a recent data-driven project to m
   to the lack of comprehensive international services for discovery or on which to
   build a registry of preservation providers and their holdings.
 creators:
-- Wise, Alicia
+- Alicia Wise
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/71ac4bf580e14c148e77b7fec68a5db6
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Short Paper: OPEN ACCESS BOOKS AND DIGITAL PRESERVATION\r\n"
 year: 2022
 ---

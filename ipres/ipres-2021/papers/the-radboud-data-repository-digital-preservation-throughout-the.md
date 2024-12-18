@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Slouwerhof, Inge
-- Lamers, Didi
+- Inge Slouwerhof
+- Didi Lamers
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424724/download
 grand_parent: iPRES
@@ -19,6 +19,7 @@ publication_type: lightning talk
 size: 105949
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Radboud Data Repository: digital preservation throughout the research
   lifecycle'
 year: 2021

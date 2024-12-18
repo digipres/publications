@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- van Horik, René
+- René van Horik
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294999/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 633582
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation of image documents: Theory & Case Study'
 year: 2004
 ---

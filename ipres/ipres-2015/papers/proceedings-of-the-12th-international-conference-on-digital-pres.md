@@ -5,15 +5,15 @@ abstract: The 12th International Conference on Digital Preservation (iPRES) was 
   3 demos, 6 workshops, 3 tutorials and 5 panels, as well as several interactive sessions
   and a Digital Preservation Showcase.
 creators:
-- Lee, Christopher
-- Crabtree, Jonathan
-- Konstantelos, Leo
-- McGovern, Nancy
-- Maeda, Yukio
-- Pennock, Maureen
-- Tibbo, Helen
-- Woods, Kam
-- Zierau, Eld
+- Christopher Lee
+- Jonathan Crabtree
+- Leo Konstantelos
+- Nancy McGovern
+- Yukio Maeda
+- Maureen Pennock
+- Helen Tibbo
+- Kam Woods
+- Eld Zierau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429524/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 29281551
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Proceedings of the 12th International Conference on Digital Preservation
 year: 2015
 ---

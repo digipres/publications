@@ -7,7 +7,7 @@ abstract: Jisc and the Digital Preservation Coalition (DPC) have undertaken an a
   which will help organisations make a stronger case for robust and effective digital
   preservation practice.
 creators:
-- Stokes, Paul
+- Paul Stokes
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/b1fe8e2172b14e62b5dc817c3ba84fd5
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: WHAT DOES DATA LOSS REALLY COST? '
 year: 2022
 ---

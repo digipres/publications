@@ -5,8 +5,8 @@ abstract: In this poster, we discuss the topic of preserving a cultural institut
   this. We also look at issues and challenges that have surfaced, as well as offer
   recommendations in response.
 creators:
-- Pang, Natalie
-- Ng, Joshua
+- Natalie Pang
+- Joshua Ng
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931138/download
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: poster
 size: 32122
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Asian Film Archive’s journey in preserving social media as cultural knowledge
 year: 2017
 ---

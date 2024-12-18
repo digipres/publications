@@ -18,8 +18,8 @@ abstract: 'A growing percentage of the world''s intellectual output is in the fo
 
   '
 creators:
-- Ryan, Daniel
-- St. Clair, Gloriana
+- Daniel Ryan
+- Gloriana St. Clair
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378721/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: demonstration
 size: 273580
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Reviving Antique Software: Curation Challenges and the Olive Archive'
 year: 2014
 ---

@@ -9,9 +9,9 @@ abstract: A quite general view of the digital preservation problem and its assoc
   reduce the human effort required for periodically checking (monitoring) whether
   a task on a digital object is performable.
 creators:
-- Tzitzikas, Yannis
-- Marketakis, Yannis
-- Kargakis, Yannis
+- Yannis Tzitzikas
+- Yannis Marketakis
+- Yannis Kargakis
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293679/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 738194
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Conversion and Emulation-aware Dependency Reasoning for Curation Services
 year: 2012
 ---

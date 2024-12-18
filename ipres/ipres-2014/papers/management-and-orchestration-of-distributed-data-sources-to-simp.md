@@ -15,8 +15,8 @@ abstract: 'Emulation-as-a-Service makes emulation widely available for non-exper
 
   '
 creators:
-- Liebetraut, Thomas
-- Rechert, Klaus
+- Thomas Liebetraut
+- Klaus Rechert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378105/download
 grand_parent: iPRES
@@ -36,6 +36,7 @@ publication_type: paper
 size: 1002041
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Management and Orchestration of Distributed Data Sources to Simplify Access
   to Emulation-as-a-Service
 year: 2014

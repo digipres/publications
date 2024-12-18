@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Neuroth, Heike
+- Heike Neuroth
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294992/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 597026
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Why Digital Preservation? Needs and Challenges
 year: 2004
 ---

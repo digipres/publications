@@ -1,10 +1,10 @@
 ---
 abstract: null
 creators:
-- Lu, Qing
-- Zhang, Yingdong
-- Sun, Yinbing
-- Sun, Xiaoying
+- Qing Lu
+- Yingdong Zhang
+- Yinbing Sun
+- Xiaoying Sun
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424816/download
 grand_parent: iPRES
@@ -21,6 +21,7 @@ publication_type: lightning talk
 size: 341306
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Lifecycle-based Preservation Management of Research Data
 year: 2021
 ---

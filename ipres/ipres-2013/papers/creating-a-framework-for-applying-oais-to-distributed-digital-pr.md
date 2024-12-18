@@ -11,8 +11,8 @@ abstract: This paper describes work being done towards a Framework for Applying 
   terminology, placement of OAIS functional entities, and roles and responsibilities
   for carrying out DDP.
 creators:
-- Zierau, Eld
-- Schultz, Matt
+- Eld Zierau
+- Matt Schultz
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377399/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 2403266
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Creating a Framework for Applying OAIS to Distributed Digital Preservation
 year: 2013
 ---

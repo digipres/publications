@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Stokes, Paul
-- Burland, Tamsin
+- Paul Stokes
+- Tamsin Burland
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424813/download
 grand_parent: iPRES
@@ -19,6 +19,7 @@ publication_type: lightning talk
 size: 120341
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation as the Priority
 year: 2021
 ---

@@ -6,10 +6,10 @@ abstract: We use emulation to preserve a complex digital artifact in the museum.
   researchers and museum practitioners. The preserved artifact now is on display in
   real exhibitions.
 creators:
-- Padberg, Frank
-- Häberle, Martin
-- Irrgang, Daniel
-- Tögel, Philipp
+- Frank Padberg
+- Martin Häberle
+- Daniel Irrgang
+- Philipp Tögel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502855/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: paper
 size: 475172
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Case Study on Emulation-based Preservation in the Museum
 year: 2016
 ---

@@ -7,8 +7,8 @@ abstract: 'LABDRIVE is a Research Data Management and Digital Preservation platf
   The purpose of this tutorial is to introduce the design principles of LABDRIVE as
   well as explain how it works through a tutorial (a guided demonstration).'
 creators:
-- Martinez, Antonio Guillermo
-- Fuertes, Maria
+- Antonio Guillermo Martinez
+- Maria Fuertes
 date: null
 document_url: https://www.ideals.illinois.edu/items/128262/bitstreams/428889/data.pdf
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'HOW TO PRESERVE RESEARCH DATASETS: LABDRIVE Tutorial'
 year: 2023
 ---

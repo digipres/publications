@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Ross, Seamus
+- Seamus Ross
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294459/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 352559
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Exploring and Charting the Digital Preservation Research Landscape
 year: 2007
 ---

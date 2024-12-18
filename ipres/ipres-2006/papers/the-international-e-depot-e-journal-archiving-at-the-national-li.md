@@ -15,7 +15,7 @@ abstract: 'Electronic journals dominate the field of academic literature, and it
   to address these risks: the Safe Places Network. This paper also includes a comprehensive
   overview of the e-Depot system and the KB approaches to digital preservation.'
 creators:
-- Oltmans, Erik
+- Erik Oltmans
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294560/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: presentation
 size: 197013
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The International e-Depot: e-Journal Archiving at the national library of
   the Netherlands'
 year: 2006

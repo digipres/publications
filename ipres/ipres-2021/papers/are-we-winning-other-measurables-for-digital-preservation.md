@@ -11,7 +11,7 @@ abstract: 'This short paper reflects on the past 25 years of the Archaeology Dat
 
   '
 creators:
-- Evans, Tim
+- Tim Evans
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424951/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 359497
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Are we winning? Other measurables for Digital Preservation
 year: 2021
 ---

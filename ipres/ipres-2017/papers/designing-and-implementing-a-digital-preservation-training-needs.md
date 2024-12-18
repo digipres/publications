@@ -12,8 +12,8 @@ abstract: This paper describes the design and pilot of a digital preservation tr
   take as their starting point the awareness level, knowledge, practical skills, problem
   solving approaches and preferred learning style of staff within the ORA team.
 creators:
-- Mason, Sarah
-- Halvarsson, Edith
+- Sarah Mason
+- Edith Halvarsson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931095/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 422038
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Designing and implementing a digital preservation training needs assessment:
   Findings from the Bodleian Libraries’ institutional repository'
 year: 2017

@@ -16,8 +16,8 @@ abstract: Lots of Copies Keep Stuff Safe (LOCKSS1) represents a sophisticated co
   it describes the steps we are taking to ensure both the LOCKSS software and Technical
   Support Service grow effectively to support library use and information management.
 creators:
-- Rusbridge, Adam
-- Ross, Seamus
+- Adam Rusbridge
+- Seamus Ross
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294175/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 54835
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Establishing a Community-based Approach to Electronic Journal Archiving: the
   UK LOCKSS Pilot Programme'
 year: 2008

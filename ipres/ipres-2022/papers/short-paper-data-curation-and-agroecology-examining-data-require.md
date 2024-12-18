@@ -12,7 +12,7 @@ abstract: 'Digital preservation discourse tends to focus the organisational and 
   analysis of information flows across the partners to identify requirements for their
   long-term capture and access. '
 creators:
-- Higgins, Sarah
+- Sarah Higgins
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/9705947ba09844579a6a3babf80f1e56
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Short Paper: Data curation and agroecology: examining data requirements for
   short supply chains \r\n"
 year: 2022

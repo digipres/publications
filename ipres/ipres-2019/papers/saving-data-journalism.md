@@ -11,11 +11,11 @@ abstract: While dynamic and interactive Web applications are becoming increasing
   preservation. We will present our ongoing work on the prototype, andalso discuss
   some use cases and avenues for future development.
 creators:
-- Hoffman, Brian
-- Chirigati, Fernando
-- Rampin, Rémi
-- Steeves, Vicky
-- Boss, Katherine
+- Brian Hoffman
+- Fernando Chirigati
+- Rémi Rampin
+- Vicky Steeves
+- Katherine Boss
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081743/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: 246044
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Saving Data Journalism '
 year: 2019
 ---

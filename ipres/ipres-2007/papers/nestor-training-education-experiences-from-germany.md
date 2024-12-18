@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Oßwald, Achim
+- Achim Oßwald
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294523/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 548908
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'nestor Training & Education: Experiences from Germany'
 year: 2007
 ---

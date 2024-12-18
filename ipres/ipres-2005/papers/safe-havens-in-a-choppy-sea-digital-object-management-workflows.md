@@ -14,7 +14,7 @@ abstract: 'The National Library of Australia collects, archives and provides acc
   An overview of PANDAS, the Library''s Web archiving and management system for PANDORA,
   Australia''s Web Archive, is also provided.'
 creators:
-- Clifton, Gerard
+- Gerard Clifton
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295038/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: 764686
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Safe Havens in a Choppy Sea: Digital Object Management Workflows at the National
   Library of Australia: Presentation - iPRES 2005 - Göttingen'
 year: 2005

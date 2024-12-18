@@ -31,10 +31,10 @@ abstract: 'A prerequisite for digital preservation is to be able to capture
 
   issues relevant to archiving this high-profile website.'
 creators:
-- Hockx-Yu, Helen
-- Johnson, Stephen
-- Crawford, Lewis
-- Coram, Roger
+- Helen Hockx-Yu
+- Stephen Johnson
+- Lewis Crawford
+- Roger Coram
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185468/download
 grand_parent: iPRES
@@ -50,6 +50,7 @@ publication_type: paper
 size: 648905
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: CAPTURING AND REPLAYING STREAMING MEDIA IN A  WEB ARCHIVE – A BRITISH LIBRARY
   CASE STUDY
 year: 2010

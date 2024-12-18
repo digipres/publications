@@ -10,7 +10,7 @@ abstract: 'Digital Libraries (DL) have been made possible through the integratio
   This talk will provide an overview of the seven Research Clusters within the DELOS
   Network, with a specific focus on activities of the DELOS Preservation Cluster.'
 creators:
-- Rauber, Andreas
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295011/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: presentation
 size: 62524
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'DELOS: Network of Excellence on Digital Libraries, with a focus on the Preservation
   Cluster'
 year: 2004

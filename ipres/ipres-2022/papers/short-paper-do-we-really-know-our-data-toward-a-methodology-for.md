@@ -13,7 +13,7 @@ abstract: Library and Archives Canada’s (LAC) new File Formats Policy, which c
   to better overall capacity management, and digital preservation migration, planning,
   and sustainability.
 creators:
-- Smyth, Tom
+- Tom Smyth
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/968dbd6625e74e53ba53e8b4d7d19a52
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Do We Really Know Our Data? Toward a Methodology for Assessing
   Preservation Sustainability and Improving PAIMAS Negotiations via Characterization'
 year: 2022

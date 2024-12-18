@@ -17,7 +17,7 @@ abstract: 'For the past five years, Princeton University Library – specificall
   key management system for student records maintained by the vendor but managed by
   repository staff, and a reliable and quick exit strategy.'
 creators:
-- Berdini, Annalise
+- Annalise Berdini
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079915/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 107416
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Preservation in a High Security Environment '
 year: 2019
 ---

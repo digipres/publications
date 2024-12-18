@@ -15,8 +15,8 @@ abstract: Scalable systems and services for preserving digital content became im
   using Braille patterns. No special input device and skills are needed, only familiarity
   with Braille code is required.
 creators:
-- Graf, Roman
-- Huber-Mörk, Reinhold
+- Roman Graf
+- Reinhold Huber-Mörk
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294245/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: paper
 size: 743898
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Braille Conversion Service Using GPU and Human Interaction by Computer Vision
 year: 2011
 ---

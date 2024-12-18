@@ -13,8 +13,8 @@ abstract: The SPRUCE Project has applied community oriented approaches to suppor
   (or otherwise) of some of the more innovative or unconventional approaches taken
   by the Project.
 creators:
-- Wheathley, Paul
-- Pennock, Maureen
+- Paul Wheathley
+- Maureen Pennock
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378061/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: paper
 size: 528195
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Supporting practical preservation work and making it sustainable with SPRUCE
 year: 2013
 ---

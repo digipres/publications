@@ -14,8 +14,8 @@ abstract: While New York University Libraries has a long history of and commitme
   about how to enact ethical and sustainable stewardship in digital collecting, access,
   and preservation practices.
 creators:
-- McCann, Laura
-- Stephan, Weatherly A.
+- Laura McCann
+- Weatherly A. Stephan
 date: null
 document_url: https://www.ideals.illinois.edu/items/128309/bitstreams/428983/data.pdf
 grand_parent: iPRES
@@ -36,6 +36,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121599
 source_name: iPRES
+stream_url: null
 title: 'FROM SILOS TO COMMUNITY: The Path to a Holistic Digital Preservation Policy'
 year: 2023
 ---

@@ -7,8 +7,8 @@ abstract: Digitization workflows for automatic acquisition of image collections 
   this work is a definition of the quality assurance workflow and its automatic computation.
   The goal is to create a reliable tool suite that is based on image processing techniques.
 creators:
-- Graf, Roman
-- King, Ross
+- Roman Graf
+- Ross King
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378708/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: poster
 size: 163763
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Quality Assurance Tools for Digital Repositories: Poster (Poster) '
 year: 2014
 ---

@@ -4,7 +4,7 @@ abstract: 'This poster describes the Format Library helper tool built by the Nat
 
   '
 creators:
-- Gattuso, Jay
+- Jay Gattuso
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424897/download
 grand_parent: iPRES
@@ -26,6 +26,7 @@ publication_type: poster
 size: 153662
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: INTRODUCING THE FORMAT LIBRARY HELPER
 year: 2021
 ---

@@ -8,9 +8,9 @@ abstract: 'Researchers in information science are placing increased attention on
   this content, though their needs differ. We focus on three issues that raise challenges
   for preservation and access: file format, context, and dissemination.'
 creators:
-- Yakel, Elizabeth
-- Frank, Rebecca
-- Suzuka, Kara
+- Elizabeth Yakel
+- Rebecca Frank
+- Kara Suzuka
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429567/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 551619
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Educational Records of Practice: Preservation and Access Concerns'
 year: 2015
 ---

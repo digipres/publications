@@ -10,8 +10,8 @@ abstract: The National Diet Library (NDL) has been providing access to digitized
   challenges faced in effecting long-term preservation while meeting the functional
   requirements of the OAIS reference model.
 creators:
-- Kimezawa, Tsukasa
-- Kamitsuna, Shuji
+- Tsukasa Kimezawa
+- Shuji Kamitsuna
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502843/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: poster
 size: 85245
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Status of Compliance with OAIS Reference Model in the National Diet Library
   Digital Collections
 year: 2016

@@ -26,8 +26,8 @@ abstract: 'Electronic publishing is the usual form in the scientific communicati
   The talk focusses on report of the RLG-group and current activities in Germany to
   handle and standardize the requirements for trusted repositories.'
 creators:
-- Altenhöner, Reinhard
-- Neuroth, Heike
+- Reinhard Altenhöner
+- Heike Neuroth
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295014/download
 grand_parent: iPRES
@@ -44,6 +44,7 @@ publication_type: presentation
 size: 376043
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Trusted Digital Repositories, Certification
 year: 2004
 ---

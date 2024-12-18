@@ -14,9 +14,9 @@ abstract: 'Previous studies have shown the feasibility of migration services whe
   based on a digital artifacts'' original applications. The component-based architecture
   allows the distribution of system components among specialized memory institutions.'
 creators:
-- von Suchodoletz, Dirk
-- Valizada, Isgandar
-- Rechert, Klaus
+- Dirk von Suchodoletz
+- Isgandar Valizada
+- Klaus Rechert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294240/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: paper
 size: 1594693
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Remote Emulation for Migration Services in a Distributed Preservation Framework
 year: 2011
 ---

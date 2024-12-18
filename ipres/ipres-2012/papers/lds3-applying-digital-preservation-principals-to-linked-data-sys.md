@@ -16,8 +16,8 @@ abstract: Data publishing using semantic web and linked data techniques enables 
   be referenced and discovered in order to build customisable alerting services for
   risk management in preservation systems.
 creators:
-- Tarrant, David
-- Carr, Les
+- David Tarrant
+- Les Carr
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293766/download
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: paper
 size: 930154
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'LDS3: Applying Digital Preservation Principals to Linked Data Systems'
 year: 2012
 ---

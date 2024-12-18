@@ -2,7 +2,7 @@
 abstract: This is a two-page summary of the 2018 iPres Conference co-hosted by MIT
   Libraries and Harvard Library in Boston MA USA September 24-27, 2018.
 creators:
-- McGovern, Nance
+- Nance McGovern
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923683/download
 grand_parent: iPRES
@@ -20,6 +20,7 @@ publication_type: paper
 size: 613710
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: iPres 2018 Conference Summary
 year: 2018
 ---

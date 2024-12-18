@@ -13,7 +13,7 @@ abstract: 'This paper aims to address the issue of file formats assessment for t
 
   '
 creators:
-- Allegrezza, Stefano
+- Stefano Allegrezza
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424938/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 714228
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Italian Guidelines on Creation, Management and Preservation of digital
   records. A proposed Methodology for File Formats Assessment
 year: 2021

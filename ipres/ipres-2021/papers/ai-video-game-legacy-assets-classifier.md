@@ -9,7 +9,7 @@ abstract: "Our department collects vast chunks of assorted data from legacy serv
   To illustrate performance we will present confusion matrices, F1 scores, and precision-recall
   graphs. We will also outline future plans regarding model improvements and uses.\n"
 creators:
-- Serbicki, Stefan
+- Stefan Serbicki
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424888/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 299393
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: AI Video Game Legacy Assets Classifier
 year: 2021
 ---

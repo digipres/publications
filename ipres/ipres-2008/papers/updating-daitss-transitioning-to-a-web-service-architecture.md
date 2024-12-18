@@ -11,9 +11,9 @@ abstract: 'The Florida Digital Archive (FDA) is a long-term preservation reposit
   of existing tools, services, and registries; and revising the internal data model
   to be more conformant with the PREMIS data.'
 creators:
-- Fischer, Randall
-- Lazzarino, Franco
-- Chou, Carol
+- Randall Fischer
+- Franco Lazzarino
+- Carol Chou
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294162/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 43329
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Updating DAITSS - Transitioning to a web service architecture
 year: 2008
 ---

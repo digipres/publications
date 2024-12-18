@@ -8,7 +8,7 @@ abstract: This poster explores how and why two maturity models, the NDSA Levels 
   Finally the poster outlines early findings from the implementation and potential
   future developments.
 creators:
-- Haunton, Melinda
+- Melinda Haunton
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/bada278ae04743f5be05f28eb7c3e301
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Incorporating Digital Preservation and Access Maturity Models into
   Wider Assessment Programmes: Archive Service Accreditation and the Levels of Digital
   Preservation and Born-Digital Access'

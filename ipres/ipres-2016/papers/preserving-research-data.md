@@ -14,12 +14,12 @@ abstract: Applying digital preservation actions to research data is a practical 
   in particular how to best manage formats that are not immediately supported and
   need to be added to file registries such as PRONOM.
 creators:
-- Mitcham, Jenny
-- Wilson, Simon
-- Green, Richard
-- Awre, Christopher
-- Addis, Matthew
-- Allinson, Julie
+- Jenny Mitcham
+- Simon Wilson
+- Richard Green
+- Christopher Awre
+- Matthew Addis
+- Julie Allinson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503171/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 329947
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preserving Research Data
 year: 2016
 ---

@@ -26,8 +26,8 @@ abstract: 'Archive authorities develop information resources to enable public of
   preservation projects, this approach may be generalisable to other cross-disciplinary
   and cross-functional work.'
 creators:
-- Francis, Peter
-- Kong, Alan
+- Peter Francis
+- Alan Kong
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378076/download
 grand_parent: iPRES
@@ -47,6 +47,7 @@ publication_type: paper
 size: 320280
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Making the strange familiar: Bridging boundaries on database preservation
   projects'
 year: 2014

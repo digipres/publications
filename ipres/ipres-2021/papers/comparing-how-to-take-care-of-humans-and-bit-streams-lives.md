@@ -8,7 +8,7 @@ abstract: "This paper investigates a number of practices to ensure safety for hu
   precautions can be used in similar ways in a bit preservation case involving methods
   and systems on both the technical and the organizational level"
 creators:
-- Zierau, Eld
+- Eld Zierau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424889/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 609585
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: COMPARING HOW TO TAKE CARE OF HUMANS’ AND BIT-STREAMS’ LIVES
 year: 2021
 ---

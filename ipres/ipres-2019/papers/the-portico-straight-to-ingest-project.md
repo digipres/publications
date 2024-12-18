@@ -8,8 +8,8 @@ abstract: This paper describes a soon-to-be-concluded six-month project at Porti
   of problematic content handling, as well as a streamlining, rather than expansion,
   of manual production processes for content continually growing in quantity and complexity.
 creators:
-- Kirchhoff, Amy
-- Morrissey, Sheila
+- Amy Kirchhoff
+- Sheila Morrissey
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1082725/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: paper
 size: 341350
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Portico Straight-to-Ingest Project '
 year: 2019
 ---

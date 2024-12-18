@@ -12,8 +12,8 @@ abstract: 'The overarching goal of digital libraries and archives are similar - 
   This presentation will use examples from the Islandora Open Source Software Community
   and Framework to demonstrate the strides made to bridge the gap.'
 creators:
-- Leggott, Mark
-- Tripp, Erin
+- Mark Leggott
+- Erin Tripp
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429593/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 334963
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Mind the Gap: Bridging Digital Libraries & Archives'
 year: 2015
 ---

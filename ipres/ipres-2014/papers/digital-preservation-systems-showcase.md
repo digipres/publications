@@ -2,7 +2,7 @@
 abstract: iPRES2014 Digital Preservation Systems Showcase. System demonstrations by
   DuraSpace, Artefactual Systems, KEEP Solutions, Preservica and Ex Libris
 creators:
-- King, Ross
+- Ross King
 - Ex Libris
 - Preservica
 - KEEP Solutions
@@ -24,6 +24,7 @@ publication_type: workshops and tutorials
 size: 131686
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Digital Preservation Systems Showcase
 year: 2014
 ---

@@ -53,8 +53,8 @@ abstract: 'This paper outlines the recent initiative run at CINES,
 
   future ISO 16363 certification.'
 creators:
-- MASSOL, Marion
-- ROUCHON, Olivier
+- Marion MASSOL
+- Olivier ROUCHON
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185502/download
 grand_parent: iPRES
@@ -70,6 +70,7 @@ publication_type: paper
 size: 113414
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PAPER TEMPLATE FOR IPRES 2010: QUALITY  INSURANCE THROUGH BUSINESS PROCESS  MANAGEMENT
   IN A FRENCH ARCHIVE'
 year: 2010

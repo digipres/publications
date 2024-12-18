@@ -7,7 +7,7 @@ abstract: Running software from the early 19980s and 1990s, often problems are e
   of IBM-compatible personal computers is given and approaches to memory management
   configuration are presented.
 creators:
-- de Vries, Denise
+- Denise de Vries
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/9693bdd66282411cb09bf47324df951e
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: OPTIMIZING MEMORY FOR LEGACY DOS SYSTEMS'
 year: 2022
 ---

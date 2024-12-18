@@ -16,12 +16,12 @@ abstract: 'When preserving spreadsheets, in certain cases it is decided to conve
 
   '
 creators:
-- Van Veenendaal, Remco
-- Wijsman, Lotte
-- Skødt, Asbjørn
-- Sein, Kati
-- Takema, Jacob
-- O’sullivan, Jack
+- Remco Van Veenendaal
+- Lotte Wijsman
+- Asbjørn Skødt
+- Kati Sein
+- Jacob Takema
+- Jack O’sullivan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424921/download
 grand_parent: iPRES
@@ -46,6 +46,7 @@ publication_type: paper
 size: 214333
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Significant Properties Of Spreadsheets
 year: 2021
 ---

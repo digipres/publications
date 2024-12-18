@@ -6,8 +6,8 @@ abstract: arXiv.org is internationally acknowledged as a pioneering and successf
   with running the repository that take into consideration both daily operational
   costs and efforts in improving its technical architecture and functionality.
 creators:
-- Rieger, Oya Y.
-- Warner, Simeon
+- Oya Y. Rieger
+- Simeon Warner
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245905/download
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: poster
 size: 147915
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'SUSTAINABILITY CASE STUDY: EXPLORING COMMUNITY-BASED BUSINESS MODELS FOR ARXIV'
 year: 2010
 ---

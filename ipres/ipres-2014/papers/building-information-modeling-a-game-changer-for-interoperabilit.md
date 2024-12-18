@@ -12,7 +12,7 @@ abstract: "Digital data associated with the architectural design-and constructio
   of the methods as well as the open file format standard IFC (Industry Foundation
   Classes) as one way to store and preserve BIM data. \n "
 creators:
-- Lindlar, Michelle
+- Michelle Lindlar
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378117/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 242155
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Building Information Modeling – A Game Changer for Interoperability and a Chance
   for Digital Preservation of Architectural Data?
 year: 2014

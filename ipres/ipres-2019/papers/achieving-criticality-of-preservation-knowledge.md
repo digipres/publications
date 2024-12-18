@@ -18,10 +18,10 @@ abstract: 'The concerns of the digital preservation community are shared by thos
   nuclear field can contribute to the broader digital preservation community thus
   opening a dialogue on how we can progress together.'
 creators:
-- Moye, Jim
-- Mitcham, Jenny
-- Kilbride, William
-- Kata, Elizabeth
+- Jim Moye
+- Jenny Mitcham
+- William Kilbride
+- Elizabeth Kata
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1082724/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: paper
 size: 127506
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Achieving Criticality of Preservation Knowledge '
 year: 2019
 ---

@@ -7,8 +7,8 @@ abstract: This paper presents an approach for semi-automatic aggregation of know
   domain model. Furthermore, we employ expert rules for inferring explicit knowledge
   on the nature and preservation friendliness of the file formats.
 creators:
-- Graf, Roman
-- Gordea, Sergiu
+- Roman Graf
+- Sergiu Gordea
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293868/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: poster
 size: 730430
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Aggregating a Knowledge Base of File Formats from Linked Open Data
 year: 2012
 ---

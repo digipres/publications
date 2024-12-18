@@ -6,7 +6,7 @@ abstract: This paper describes the work and outputs of the joint NDA-DPC project
   of this project the UK’s Nuclear Decommissioning Authority is now much better placed
   to face the very real digital preservation challenges of the future.
 creators:
-- Popham, Michael
+- Michael Popham
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/79271bfbd3e64204902848e75abacbdc
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Short Paper: FROM RAY CATS TO DPC RAM: HOW BEST TO PRESERVE A DIGITAL MEMORY
   OF THE NUCLEAR DECOMMISSIONING PROCESS\r\n"
 year: 2022

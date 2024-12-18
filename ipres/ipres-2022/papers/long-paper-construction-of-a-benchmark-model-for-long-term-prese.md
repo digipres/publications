@@ -9,7 +9,7 @@ abstract: There is a wealth of academic information accumulated on social media,
   The next step is to invite experts to make judgments and propose amendments to this
   evaluation index system.
 creators:
-- Zhang, Dongrong
+- Dongrong Zhang
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/da657ce9fba94391a387bc1e71388c30
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: long paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Long Paper: CONSTRUCTION OF A BENCHMARK MODEL FOR LONG-TERM PRESERVATION VALUE
   EVALUATION OF ACADEMIC INFORMATION ON SOCIAL MEDIA'
 year: 2022

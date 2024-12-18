@@ -13,9 +13,9 @@ abstract: 'In a recent scoping study we have inquired into the data management n
   dedicated repository pro- vides the grounds for collecting researcher feedback on
   the curation process.'
 creators:
-- Rocha da Silva, Joao
-- Riberio, Cristina
-- Correia Lopes, Joao
+- Joao Rocha da Silva
+- Cristina Riberio
+- Joao Correia Lopes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293770/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: paper
 size: 895722
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Digital preservation, archives management, format migration, transformation,
   at scale, normalization
 year: 2012

@@ -5,8 +5,8 @@ abstract: The digital preservation function in an academic research library is c
   University of Notre Dame, which serves as a framework for planning and building
   a sustainable Digital Preservation program.
 creators:
-- Brower, Donald
-- Hockx-Yu, Helen
+- Donald Brower
+- Helen Hockx-Yu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080459/download
 grand_parent: iPRES
@@ -22,6 +22,7 @@ publication_type: paper
 size: 201374
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Building Sustainable Digital Preservation '
 year: 2019
 ---

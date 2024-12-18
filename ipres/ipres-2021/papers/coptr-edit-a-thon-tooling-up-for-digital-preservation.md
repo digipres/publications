@@ -21,9 +21,9 @@ abstract: 'Community Owned digital Preservation Tool Registry (COPTR) was develo
 
   '
 creators:
-- Molenda, Ania
-- Wheatley, Paul
-- Erdman, Stacey
+- Ania Molenda
+- Paul Wheatley
+- Stacey Erdman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424907/download
 grand_parent: iPRES
@@ -46,6 +46,7 @@ publication_type: paper
 size: 140939
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: COPTR-EDIT-A-THON Tooling up for digital preservation
 year: 2021
 ---

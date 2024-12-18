@@ -7,8 +7,8 @@ abstract: Since 2004, the Libraryof Congress, abeholden stakeholder in the risk 
   analyzes the adverse effects for digital preservation as realized in current digitization
   workflows.
 creators:
-- Schlaack, William
-- Oates, Anna
+- William Schlaack
+- Anna Oates
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081760/download
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: paper
 size: 250226
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The case for a standard that’s old news '
 year: 2019
 ---

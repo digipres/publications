@@ -10,9 +10,9 @@ abstract: As storage costs drop, storage is becoming the lowest cost in a digita
   to eliminate the all-or-nothing approach of current IT systems, reduce the impact
   of failures of digital storage technology and mitigate against loss of digital data.
 creators:
-- Wright, Richard
-- Miller, Ant
-- Addis, Matthew
+- Richard Wright
+- Ant Miller
+- Matthew Addis
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294140/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 123868
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Significance of Storage in the ‘Cost of Risk’ of Digital Preservation
 year: 2008
 ---

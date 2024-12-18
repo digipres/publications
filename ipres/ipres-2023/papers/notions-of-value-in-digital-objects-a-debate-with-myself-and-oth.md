@@ -11,7 +11,7 @@ abstract: 'The world of digital preservation and archiving has drawn heavily on 
   ideas might apply to digital materials and be predicated on the essential differences
   between analog and digital sources.'
 creators:
-- Popham, Michael
+- Michael Popham
 date: null
 document_url: https://www.ideals.illinois.edu/items/128331/bitstreams/429027/data.pdf
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'NOTIONS OF VALUE IN DIGITAL OBJECTS: A debate with myself and others'
 year: 2023
 ---

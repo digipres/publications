@@ -12,8 +12,8 @@ abstract: We introduce a technique for ﬁnding multilingual translations for li
   for a broader range of people, which leads to greater diversity in the digital preservation
   community.
 creators:
-- Thronton, Katherine
-- Seals-Nutt, Kenneth
+- Katherine Thronton
+- Kenneth Seals-Nutt
 date: null
 document_url: https://www.ideals.illinois.edu/items/128304/bitstreams/428973/data.pdf
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121670
 source_name: iPRES
+stream_url: null
 title: MULTILINGUAL LABELS FOR DIGITAL PRESERVATION
 year: 2023
 ---

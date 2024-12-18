@@ -4,8 +4,8 @@ abstract: This paper uses a collective case study to reveal similarities and dif
   The study uncovers a wide range of organizations and technical variations among
   the nine services, but finds that they can be grouped into three basic service models.
 creators:
-- Hall, Nathan
-- Boock, Michael
+- Nathan Hall
+- Michael Boock
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931106/download
 grand_parent: iPRES
@@ -22,6 +22,7 @@ publication_type: paper
 size: 166780
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Environmental Scan of Distributed Digital Preservation Services: A Collective
   Case Study'
 year: 2017

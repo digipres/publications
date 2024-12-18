@@ -19,7 +19,7 @@ abstract: 'Much digital preservation research has been built on the assumption t
   community/3rd party support. These factors are ideal candidates for use in a file
   format endangerment index. '
 creators:
-- Ryan, Heather
+- Heather Ryan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378114/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: paper
 size: 138789
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Occam’s Razor and File Format Endangerment Factors
 year: 2014
 ---

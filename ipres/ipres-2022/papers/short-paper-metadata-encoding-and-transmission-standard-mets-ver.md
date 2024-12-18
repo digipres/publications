@@ -6,7 +6,7 @@ abstract: The METS Editorial Board is working on version 2 of the Metadata Encod
   METS 1 for most use cases. In this paper the METS Editorial Board presents the changes
   in a short form and invites comments and thoughts on the evolution of METS.
 creators:
-- Elkiss, Aaron
+- Aaron Elkiss
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/bf34f36f1bcd4943b4599dfa1bec7a6c
 grand_parent: iPRES
@@ -26,6 +26,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Metadata Encoding and Transmission Standard (METS) Version 2'
 year: 2022
 ---

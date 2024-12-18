@@ -19,7 +19,7 @@ abstract: 'This paper introduces datorium - a digital data preservation project 
   profit from increased citations of their work, thereby improving their professional
   reputation.'
 creators:
-- Linne, Monika
+- Monika Linne
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378062/download
 grand_parent: iPRES
@@ -43,6 +43,7 @@ publication_type: paper
 size: 324045
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Sustainable Data Preservation using datorium – facilitating the Scientific
   Ideal of Data Sharing in the Social Sciences '
 year: 2013

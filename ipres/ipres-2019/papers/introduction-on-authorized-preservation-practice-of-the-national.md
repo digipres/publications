@@ -2,9 +2,9 @@
 abstract: This work will introduce the structure of the National Digital Preservation
   Program in China, and why do we establish the form of authorized preservation.
 creators:
-- Zheng, Jiancheng
-- Wu, Zhenxin
-- Wang, Chao
+- Jiancheng Zheng
+- Zhenxin Wu
+- Chao Wang
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1082721/download
 grand_parent: iPRES
@@ -20,6 +20,7 @@ publication_type: paper
 size: 186310
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Introduction on authorized preservation practice of the National Digital Preservation
   Program in China '
 year: 2019

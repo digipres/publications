@@ -31,7 +31,7 @@ abstract: 'The aim of the paper is to illustrate how the distributed aspects of 
   OO-IO model provides terminology and contribute to break down analysis and audit
   questions.'
 creators:
-- Zierau, Eld
+- Eld Zierau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931073/download
 grand_parent: iPRES
@@ -48,6 +48,7 @@ publication_type: paper
 size: 558175
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'OAIS and Distributed Digital Preservation in Practice: An exploration of Danish
   and other use cases that contributed to the development of the Outer OAIS–Inner
   OAIS Model for Distributed Digital Preservation'

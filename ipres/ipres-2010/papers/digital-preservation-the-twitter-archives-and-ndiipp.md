@@ -17,8 +17,8 @@ abstract: On April 14, 2010, the Library of Congress and Twitter made the joint 
   of curating and serving a digital collection as rich and diverse as the Twitter
   archive.
 creators:
-- Campbell, Laura E.
-- Dulabahn, Beth
+- Laura E. Campbell
+- Beth Dulabahn
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185350/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 46110
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'DIGITAL PRESERVATION: THE TWITTER ARCHIVES AND NDIIPP'
 year: 2010
 ---

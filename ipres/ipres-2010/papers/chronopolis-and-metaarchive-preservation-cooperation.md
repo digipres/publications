@@ -43,9 +43,9 @@ abstract: 'This paper will examine ongoing work between two
 
   interactions.'
 creators:
-- Minor, David
-- Phillips, Mark
-- Schultz, Matt
+- David Minor
+- Mark Phillips
+- Matt Schultz
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185504/download
 grand_parent: iPRES
@@ -61,6 +61,7 @@ publication_type: paper
 size: 172017
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'CHRONOPOLIS AND METAARCHIVE:  PRESERVATION COOPERATION'
 year: 2010
 ---

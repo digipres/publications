@@ -9,10 +9,10 @@ abstract: The availability and accessibility of digital artworks is closely tied
   booting directly into a prepared emulated environment. Furthermore, we report from
   practical experiences using the system in two museum exhibitions.
 creators:
-- Espenschied, Dragan
-- Rechert, Klaus
-- Liebetraut, Thomas
-- Stobbe, Oleg
+- Dragan Espenschied
+- Klaus Rechert
+- Thomas Liebetraut
+- Oleg Stobbe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503174/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 811113
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Exhibiting Digital Art via Emulation
 year: 2016
 ---

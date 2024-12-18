@@ -8,12 +8,12 @@ abstract: The Morrow Plots at the University of Illinois Urbana-Champaign are th
   and interdisciplinary work within the Morrow Plots stakeholder community to publish
   the dataset, and identify necessary next steps.
 creators:
-- Anderson, Bethany G.
-- Caldrone, Sandi L.
-- Henry, Joshua K.
-- Imker, Heidi J.
-- Margenot, Andrew J.
-- Williams, Sarah C.
+- Bethany G. Anderson
+- Sandi L. Caldrone
+- Joshua K. Henry
+- Heidi J. Imker
+- Andrew J. Margenot
+- Sarah C. Williams
 date: null
 document_url: https://www.ideals.illinois.edu/items/128875/bitstreams/430338/data.pdf
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: presentation
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PUBLISHING AGRICULTURAL DATA FROM THE MORROW PLOTS: The Value and Logistics
   of Preserving a Long-Term Research Experiment'
 year: 2023

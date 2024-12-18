@@ -13,12 +13,12 @@ abstract: Email is one of the most ubiquitous forms of communication in both per
   have a straightforward and cost-effective way of preserving emails for posterity,
   complementing other preservation methods and tools.
 creators:
-- Habing, Tom
-- Wyatt, Peter
-- Irwin, Eden
-- Martinez, Ruby
-- Johnson, Duff
-- Prom, Christopher
+- Tom Habing
+- Peter Wyatt
+- Eden Irwin
+- Ruby Martinez
+- Duff Johnson
+- Christopher Prom
 date: null
 document_url: https://www.ideals.illinois.edu/items/128327/bitstreams/429019/data.pdf
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PDF/MAIL: Moving Theory Towards Practice'
 year: 2023
 ---

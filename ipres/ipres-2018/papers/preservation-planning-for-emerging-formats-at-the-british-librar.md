@@ -22,11 +22,11 @@ abstract: 'The British Library and the other UK Legal Deposit Libraries have bee
   authority, provenance, versioning, and personalization. Engagement with content
   providers will be key to resolving all of these in a satisfactory manner.'
 creators:
-- Day, Michael
-- Jenkins, Jeremy
-- Cooke, Ian
-- Smith, Caylin
-- Pennock, Maureen
+- Michael Day
+- Jeremy Jenkins
+- Ian Cooke
+- Caylin Smith
+- Maureen Pennock
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923625/download
 grand_parent: iPRES
@@ -43,6 +43,7 @@ publication_type: paper
 size: 337528
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation planning for emerging formats at the British Library
 year: 2018
 ---

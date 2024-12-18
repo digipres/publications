@@ -5,9 +5,9 @@ abstract: 'This half day tutorial will provide participants with a short introdu
 
   '
 creators:
-- Bredenberg, Karin
-- Zierau, Eld
-- Lindlar, Michelle
+- Karin Bredenberg
+- Eld Zierau
+- Michelle Lindlar
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424836/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: 209038
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: UNDERSTANDING AND IMPLEMENTING PREMIS - A tutorial
 year: 2021
 ---

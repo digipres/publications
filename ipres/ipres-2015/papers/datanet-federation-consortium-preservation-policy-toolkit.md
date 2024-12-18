@@ -6,9 +6,9 @@ abstract: The DataNet Federation Consortium uses a policy-based data management 
   forms of policies, and provides a generic template for designing actionable preservation
   policies.
 creators:
-- Moore, Reagan
-- Rajasekar, Arcot
-- Xu, Hao
+- Reagan Moore
+- Arcot Rajasekar
+- Hao Xu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429554/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: paper
 size: 761619
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: DataNet Federation Consortium Preservation Policy ToolKit
 year: 2015
 ---

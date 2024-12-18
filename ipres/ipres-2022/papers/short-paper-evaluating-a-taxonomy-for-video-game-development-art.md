@@ -10,7 +10,7 @@ abstract: Digital game development is innovative and intersectional, producing c
   generating recommendations for improvements to the taxonomy—including changes to
   terms, structure, and guidance—and insights on evaluation framework.
 creators:
-- Schmalz, Marc
+- Marc Schmalz
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/6c0c5184b2fc4688912d5b8595a0fdd1
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Evaluating a Taxonomy for Video Game Development Artifacts: Archival
   Taxonomies in Highly Innovative Domains'
 year: 2022

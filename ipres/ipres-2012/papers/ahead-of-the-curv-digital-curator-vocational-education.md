@@ -4,8 +4,8 @@ abstract: In this paper, we describe the work of the EC-funded DigCurV project. 
   work, and the development of proposed frameworks for evaluating and delivering a
   digital curation curriculum.
 creators:
-- Molloy, Laura
-- Gow, Ann
+- Laura Molloy
+- Ann Gow
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293862/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 637943
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Ahead of the CurV: Digital Curator Vocational Education'
 year: 2012
 ---

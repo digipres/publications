@@ -8,7 +8,7 @@ abstract: The notion "significant properties" in digital preservation can be par
   introduces the notions 'file format features' and 'significant properties', discusses
   their relation and discusses their role in a successful long-term preservation effort.
 creators:
-- Aschenbrenner, Andreas
+- Andreas Aschenbrenner
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294998/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: presentation
 size: 468757
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: File Format Features and Significant Properties
 year: 2004
 ---

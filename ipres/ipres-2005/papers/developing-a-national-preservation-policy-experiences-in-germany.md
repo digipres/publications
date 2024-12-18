@@ -21,8 +21,8 @@ abstract: 'One of the versatile tasks of the project nestor is to develop guidel
   This paper will summarize the results that have been made in the nestor project
   concerning the development of a national preservation policy.'
 creators:
-- Neuroth, Heike
-- Strathmann, Stefan
+- Heike Neuroth
+- Stefan Strathmann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295033/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: paper
 size: 67713
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Developing a National Preservation Policy: Experiences in Germany: Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

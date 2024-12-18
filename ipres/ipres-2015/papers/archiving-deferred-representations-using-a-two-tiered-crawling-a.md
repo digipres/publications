@@ -19,9 +19,9 @@ abstract: 'Web resources are increasingly interactive, resulting in resources
   and creates a frontier (set of URIs to be crawled) 1.8 times larger than using only
   Heritrix.'
 creators:
-- Brunelle, Justin
-- Weigle, Michele
-- Nelson, Michael
+- Justin Brunelle
+- Michele Weigle
+- Michael Nelson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429536/download
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: paper
 size: 1381392
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Archiving Deferred Representations Using a Two-Tiered Crawling Approach
 year: 2015
 ---

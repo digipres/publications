@@ -12,9 +12,9 @@ abstract: The E-ARK4ALL1 project released an alpha version of its Common Specifi
   required to manage such objects. This paper provides a brief introduction to the
   two specifications and then describes how the OCFL can be applied to an E-ARK IP.
 creators:
-- Dappert, Angela
-- Bredenberg, Karin
-- Jefferies, Neil
+- Angela Dappert
+- Karin Bredenberg
+- Neil Jefferies
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079782/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 275231
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Aligning the eARK4All Archival Information Package and Oxford Common File
   Layout Specifications '
 year: 2019

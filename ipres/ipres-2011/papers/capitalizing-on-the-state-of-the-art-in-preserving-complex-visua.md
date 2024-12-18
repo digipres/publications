@@ -16,15 +16,15 @@ abstract: 'Complex visual digital objects and environments present the digital p
   art in preserving complex objects, provide input to collections management and create
   fertile ground for future collaborations between academia and industry.'
 creators:
-- Konstantelos, Leo
-- Baker, Drew
-- Billenness, Clive
-- Dobreva, Milena
-- Delve, Janet
-- Séfi, Sonia
-- Joguin, Vincent
-- Beacham, Richard
-- Anderson, David
+- Leo Konstantelos
+- Drew Baker
+- Clive Billenness
+- Milena Dobreva
+- Janet Delve
+- Sonia Séfi
+- Vincent Joguin
+- Richard Beacham
+- David Anderson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294276/download
 grand_parent: iPRES
@@ -46,6 +46,7 @@ publication_type: paper
 size: 475515
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Capitalizing on the State-of-the-Art in Preserving Complex Visual Digital
   Objects: The POCOS Project'
 year: 2011

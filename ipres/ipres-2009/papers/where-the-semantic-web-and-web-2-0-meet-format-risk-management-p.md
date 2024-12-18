@@ -14,9 +14,9 @@ abstract: The Web is increasingly becoming a platform for linked data. This mean
   registry, P2, and its services, show how it can be used, and provide examples where
   it delivers more answers than the contributing resources.
 creators:
-- Tarrant, David
-- Carr, Les
-- Hitchcock, Steve
+- David Tarrant
+- Les Carr
+- Steve Hitchcock
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294053/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 1236739
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Where the Semantic Web and Web 2.0 Meet Format Risk Management: P2 Registry'
 year: 2009
 ---

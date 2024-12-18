@@ -13,7 +13,7 @@ abstract: For many memory institutions, policies, procedures, and practices are 
   such collaboration and capacity building is a necessity for the success of end-to-end
   digital preservation programs.
 creators:
-- Beking, Angela
+- Angela Beking
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081749/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 176437
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Reformat Required '
 year: 2019
 ---

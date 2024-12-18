@@ -17,8 +17,8 @@ abstract: University libraries and data repositories are increasingly being aske
   discovery components are being extended to apply to any standards-compliant repository
   supporting the SWORD submission and OAI-PMH metadata harvesting protocols.
 creators:
-- Hoebelheinrich, Nancy
-- Abrams, Stephen
+- Nancy Hoebelheinrich
+- Stephen Abrams
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429573/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: paper
 size: 472698
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Dash Curation Service Infrastructure Enhancement: An Informed Extension &
   Redesign'
 year: 2015

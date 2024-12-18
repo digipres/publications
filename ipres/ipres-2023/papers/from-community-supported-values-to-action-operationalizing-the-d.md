@@ -14,10 +14,10 @@ abstract: Operating from a foundation of shared values, the community-supported 
   how they have enacted these values within their organizations, and other project
   findings.
 creators:
-- Wang, Hannah
-- Farrell, Jess
-- Mumma, Courtney
-- Schaefer, Sibyl
+- Hannah Wang
+- Jess Farrell
+- Courtney Mumma
+- Sibyl Schaefer
 date: null
 document_url: https://www.ideals.illinois.edu/items/128280/bitstreams/428925/data.pdf
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121675
 source_name: iPRES
+stream_url: null
 title: 'FROM COMMUNITY-SUPPORTED VALUES TO ACTION: Operationalizing the Digital Preservation
   Declaration of Shared Values'
 year: 2023

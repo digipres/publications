@@ -15,7 +15,7 @@ abstract: 'Since 1996, the Internet Archive (IA) has provided storage, preservat
   of nonprofits, libraries, and cultural heritage organizations, that this service
   aims to address. '
 creators:
-- Bailey, Jefferson
+- Jefferson Bailey
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/b74c4cc17fc840618753022974248727
 grand_parent: iPRES
@@ -36,6 +36,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Vault: Building an Extensible, Affordable Digital Preservation
   & Repository Service'
 year: 2022

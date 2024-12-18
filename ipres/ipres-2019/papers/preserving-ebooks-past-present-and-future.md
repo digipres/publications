@@ -3,10 +3,10 @@ abstract: This panel will present and discuss different eBook workflows and chal
   from four national libraries, considering a range of issues from technical complexities
   to evolution of the content type and changes in the publishing/collecting landscape.
 creators:
-- Steinke, Tobias
-- Lemay, Faye
-- Pennock, Maureen
-- Owens, Trevor
+- Tobias Steinke
+- Faye Lemay
+- Maureen Pennock
+- Trevor Owens
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079694/download
 grand_parent: iPRES
@@ -22,6 +22,7 @@ publication_type: paper
 size: 156651
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preserving eBooks: Past, Present and Future '
 year: 2019
 ---

@@ -14,7 +14,7 @@ abstract: 'People with responsibility for scholarly assets agree that digital pr
   audit and repair it to ward off damage and attacks, and transparently deliver it
   to readers with transparent on-access format migration. [www.lockss.org]'
 creators:
-- Reich, Victoria
+- Victoria Reich
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294853/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: presentation
 size: 860780
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: LOCKSS - Lots of Copies Keep Stuff Safe
 year: 2006
 ---

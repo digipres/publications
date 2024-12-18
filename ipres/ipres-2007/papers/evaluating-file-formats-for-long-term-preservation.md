@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- van Wijk, Caroline
-- Rog, Judith
+- Caroline van Wijk
+- Judith Rog
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294504/download
 grand_parent: iPRES
@@ -19,6 +19,7 @@ publication_type: presentation
 size: 228284
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Evaluating File Formats for Long-term Preservation
 year: 2007
 ---

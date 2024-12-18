@@ -11,7 +11,7 @@ abstract: This paper presents the newly available Micr’Olonys software-on-film
   formats and software, as well as the access key to DNA digital storage to archive
   massive amounts of data.
 creators:
-- Joguin, Vincent
+- Vincent Joguin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081750/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: paper
 size: 232262
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Passive Digital Preservation Now & Later '
 year: 2019
 ---

@@ -18,13 +18,13 @@ abstract: The International Study on the Impact of Copyright Law on Digital Pres
   allow a uniform national system for the collection of digital materials by relevant
   state and national collecting institutions.
 creators:
-- Besek, June M.
-- Weston, Christopher D.
-- Muir, Adrienne
-- Mossink, Wilma
-- LeFurgy, William G.
-- Fitzgerald, Brian
-- Coates, Jessica
+- June M. Besek
+- Christopher D. Weston
+- Adrienne Muir
+- Wilma Mossink
+- William G. LeFurgy
+- Brian Fitzgerald
+- Jessica Coates
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294141/download
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: paper
 size: 40501
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: International Study on Copyright and Digital Preservation
 year: 2008
 ---

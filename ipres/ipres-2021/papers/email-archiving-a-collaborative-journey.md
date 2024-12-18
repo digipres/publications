@@ -10,11 +10,11 @@ abstract: 'This panel examines the current and future developments in email arch
 
   '
 creators:
-- Martinez, Ruby
-- Prom, Chris
-- Abrams, Stephen
-- Wiedeman, Gregory
-- Teichman, Matt
+- Ruby Martinez
+- Chris Prom
+- Stephen Abrams
+- Gregory Wiedeman
+- Matt Teichman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424945/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: paper
 size: 268850
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Email Archiving: A Collaborative Journey'
 year: 2021
 ---

@@ -11,9 +11,9 @@ abstract: 'The mission of the KB e-Depot is to ensure permanent access to large 
   and process improvements. As are the results of the projects in which the R&D team
   is involved. The organisation around the e-Depot is based on this pragmatic approach.'
 creators:
-- van Wijngaarden, Hilde
-- Ras, Marcel
-- Houtman, Frank
+- Hilde van Wijngaarden
+- Marcel Ras
+- Frank Houtman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294177/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 40648
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The KB e-Depot in development Integrating research results in the library organisation
 year: 2008
 ---

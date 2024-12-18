@@ -10,8 +10,8 @@ abstract: "The ARCHIVER Project has brought together customers, vendors, and inf
   procurement process, where end users were able to directly influence the expected
   functionalities in the platform and how they are expected to operate."
 creators:
-- Guillermo Martinez, Antonio
-- Fuertes, Maria
+- Antonio Guillermo Martinez
+- Maria Fuertes
 date: null
 document_url: https://www.ideals.illinois.edu/items/128322/bitstreams/429009/data.pdf
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121677
 source_name: iPRES
+stream_url: null
 title: 'ARCHIVER PROJECT: A SUCCESSFUL PUBLIC-PRIVATE COLLABORATIVE PROJECT'
 year: 2023
 ---

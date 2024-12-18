@@ -12,8 +12,8 @@ abstract: The biblioblogosphere comprises the personal, typically professional-o
   and better understand the phenomenon of blogging in academe and implications for
   long-term stewardship of this form.
 creators:
-- Hank, Carolyn
-- Sugimoto, Cassidy R.
+- Carolyn Hank
+- Cassidy R. Sugimoto
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293869/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: poster
 size: 618183
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Bibliobloggers’ Preservation Perceptions, Preferences, and Practices
 year: 2012
 ---

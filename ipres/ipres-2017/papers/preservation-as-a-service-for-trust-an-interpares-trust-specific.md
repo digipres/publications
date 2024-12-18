@@ -12,7 +12,7 @@ abstract: Questions regarding trust and authenticity of records stored in the Cl
   capture, create or document metadata and activities that provide supporting evidence
   of the authenticity of records entrusted to the Cloud Service Providers.
 creators:
-- Jansen, Adam
+- Adam Jansen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931143/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 669775
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation as a Service for Trust: An InterPARES Trust Specification for
   Preserving Authentic Records in the Cloud'
 year: 2017

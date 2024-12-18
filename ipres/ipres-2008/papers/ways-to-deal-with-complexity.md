@@ -18,7 +18,7 @@ abstract: Several ways to deal with complexity are discussed. An archive can han
   it can be achieved, but until this stage is reached, the single steps and the standards
   which must be followed often are extremely complex.
 creators:
-- Keitel, Christian
+- Christian Keitel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294182/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 87414
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Ways to deal with complexity
 year: 2008
 ---

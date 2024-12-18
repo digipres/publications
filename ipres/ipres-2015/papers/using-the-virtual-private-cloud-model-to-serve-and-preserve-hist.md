@@ -6,8 +6,8 @@ abstract: This poster session describes the selection criteria and process used 
   mapping of “rights” elements in DC datastreams to PREMIS “rightsExtension” elements,
   and more.
 creators:
-- Truman, Gail
-- Henderson, Jaime
+- Gail Truman
+- Jaime Henderson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429609/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: poster
 size: 561830
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Using the Virtual-Private Cloud Model to Serve and Preserve Historical Collections:
   A Case Study (Based on Islandora)'
 year: 2015

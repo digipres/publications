@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Neuroth, Heike
+- Heike Neuroth
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295022/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 61246
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: nestor - Network of Expertise in long-term STORage of Digital Preservation
 year: 2004
 ---

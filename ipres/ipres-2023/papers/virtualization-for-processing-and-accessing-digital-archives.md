@@ -9,9 +9,9 @@ abstract: At a basic level, virtualization [1] is the use of a host computer or 
   containerization and desktop virtualization in digital curation at academic special
   collections libraries.
 creators:
-- Black, Shelly
-- Dietz, Brian
-- Farrell, Matthew
+- Shelly Black
+- Brian Dietz
+- Matthew Farrell
 date: null
 document_url: https://www.ideals.illinois.edu/items/128319/bitstreams/429003/data.pdf
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121666
 source_name: iPRES
+stream_url: null
 title: VIRTUALIZATION FOR PROCESSING AND ACCESSING DIGITAL ARCHIVES
 year: 2023
 ---

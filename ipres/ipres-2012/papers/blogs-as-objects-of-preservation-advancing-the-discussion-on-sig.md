@@ -14,14 +14,14 @@ abstract: The quest for identifying ‘significant properties’ is a common cha
   It concludes by discussing the limitations of the approach and suggesting directions
   for future research.
 creators:
-- Stepanyan, Karen
-- Ross, Seamus
-- Trier, Matthias
-- Joy, Mike
-- Cristea, Alexandra I.
-- Gkotsis, George
-- Kalb, Hendrik
-- Kim, Yunhyong
+- Karen Stepanyan
+- Seamus Ross
+- Matthias Trier
+- Mike Joy
+- Alexandra I. Cristea
+- George Gkotsis
+- Hendrik Kalb
+- Yunhyong Kim
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293844/download
 grand_parent: iPRES
@@ -44,6 +44,7 @@ publication_type: paper
 size: 1002759
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Blogs as Objects of Preservation: Advancing the Discussion on Significant
   Properties'
 year: 2012

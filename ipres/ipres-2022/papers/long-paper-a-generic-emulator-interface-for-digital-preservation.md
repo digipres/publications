@@ -9,7 +9,7 @@ abstract: Emulation frameworks as well as emulation as an access strategy have m
   list, describe and integrate emulators of interest for the digital preservation
   community.
 creators:
-- Gieschke, Rafael
+- Rafael Gieschke
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/67d151ad23254b3dbaf62250ae8d5093
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: long paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Long Paper: A Generic Emulator Interface for Digital Preservation --- Towards
   a Collaborative Distributed Emulator Registry'
 year: 2022

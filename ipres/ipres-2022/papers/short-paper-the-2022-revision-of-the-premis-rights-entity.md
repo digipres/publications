@@ -11,7 +11,7 @@ abstract: As digital preservation practice has matured, our understanding of wha
   that have informed this work, and the gaps we have identified, before briefly outlining
   the next steps to be taken.
 creators:
-- Steeman, Marjolein
+- Marjolein Steeman
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/7ca2d68b56e54e77a813a2b9e4c50787
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: The 2022 Revision of the PREMIS Rights Entity'
 year: 2022
 ---

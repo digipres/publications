@@ -18,7 +18,7 @@ abstract: This workshop will provide practical experience of analyzing digital f
   the conversation with the digital preservation community and enable more people
   to participate in this collective endeavor.<br />
 creators:
-- Mackenzie, Francesca
+- Francesca Mackenzie
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/1dd97a5e85e6496c9245937292d243e3
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: workshop
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Workshop: The Bits In The Bytes: Understanding File Format Identification'
 year: 2022
 ---

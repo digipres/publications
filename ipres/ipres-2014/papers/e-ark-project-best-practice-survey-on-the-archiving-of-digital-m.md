@@ -6,9 +6,9 @@ abstract: 'This paper describes the poster presented at iPres2014 by the EC fund
 
   '
 creators:
-- Billenness, Clive
-- Johansen, Kathrine
-- Anderson, David
+- Clive Billenness
+- Kathrine Johansen
+- David Anderson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378694/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: poster
 size: 30755
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'E-Ark Project – Best Practice Survey on the Archiving of Digital Material:
   Poster (Text) '
 year: 2014

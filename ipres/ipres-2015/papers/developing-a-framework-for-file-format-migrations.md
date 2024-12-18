@@ -3,8 +3,8 @@ abstract: In this paper, we describe the development of a file format migrations
   at Harvard Library, using one migration case study, Kodak PhotoCD images, to demonstrate
   implementation of the framework.
 creators:
-- Heinen, Joey
-- Goethals, Andrea
+- Joey Heinen
+- Andrea Goethals
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429550/download
 grand_parent: iPRES
@@ -21,6 +21,7 @@ publication_type: paper
 size: 722250
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Developing a Framework for File Format Migrations
 year: 2015
 ---

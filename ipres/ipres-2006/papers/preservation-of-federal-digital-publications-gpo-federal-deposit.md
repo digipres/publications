@@ -11,8 +11,8 @@ abstract: The U.S. Government Printing Office (GPO) is committed to ensuring per
   future. This presentation will focus on GPO's collaboration with other communities
   of practice and the development of FDsys, GPO's digital content management system.
 creators:
-- Haun-Mohamed, Robin
-- Baldwin, Gil
+- Robin Haun-Mohamed
+- Gil Baldwin
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294558/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: presentation
 size: 135115
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation of Federal Digital Publications: GPO, Federal Depository Libraries,
   and Other Federal Agencies'
 year: 2006

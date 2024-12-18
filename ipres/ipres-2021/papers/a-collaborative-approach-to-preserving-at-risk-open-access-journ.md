@@ -9,7 +9,7 @@ abstract: 'Scholars rely upon ongoing access to the published research in their 
 
   '
 creators:
-- Wise, Alicia
+- Alicia Wise
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424896/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 127637
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A Collaborative Approach to Preserving At-Risk Open Access Journals: “Journals
   Preserved Forever”'
 year: 2021

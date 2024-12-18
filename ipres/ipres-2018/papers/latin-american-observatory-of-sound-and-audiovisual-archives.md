@@ -9,7 +9,7 @@ abstract: News, paradigm-shifting ideas, social movements, scientific discoverie
   last century. The purpose is combating their technological obsolescence and material
   degradation as well as offering better access to these materials.
 creators:
-- Rodríguez, Perla Olivia
+- Perla Olivia Rodríguez
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923642/download
 grand_parent: iPRES
@@ -26,6 +26,7 @@ publication_type: paper
 size: 126606
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Latin American Observatory of sound and audiovisual archives
 year: 2018
 ---

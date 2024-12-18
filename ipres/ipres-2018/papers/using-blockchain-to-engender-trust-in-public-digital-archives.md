@@ -17,15 +17,15 @@ abstract: '"Archives are special – the homes of our collective memories. Altho
   This data is permanently preserved through peer-to-peer distribution and consensus
   checking without the need for a trusted third party."'
 creators:
-- Green, Alex
-- Bell, Mark
-- Sheridan, John
-- Collomosse, John
-- Bui, Tu
-- Brown, Alan
-- Fawcett, Jamie
-- Thereaux, Olivier
-- Tennison, Jeni
+- Alex Green
+- Mark Bell
+- John Sheridan
+- John Collomosse
+- Tu Bui
+- Alan Brown
+- Jamie Fawcett
+- Olivier Thereaux
+- Jeni Tennison
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923629/download
 grand_parent: iPRES
@@ -42,6 +42,7 @@ publication_type: paper
 size: 141098
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Using blockchain to engender trust in public digital archives
 year: 2018
 ---

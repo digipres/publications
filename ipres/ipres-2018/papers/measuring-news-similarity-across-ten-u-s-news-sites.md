@@ -19,10 +19,10 @@ abstract: News websites make editorial decisions about what stories to in- clude
   on Election Day, and an increase (0.354) after Election Day. Our method shows that
   we can effectively identity top stories and quantify news similarity.
 creators:
-- Atkins, Grant
-- Nwala, Alexander
-- Weigle, Michele
-- Nelson, Michael
+- Grant Atkins
+- Alexander Nwala
+- Michele Weigle
+- Michael Nelson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923617/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: paper
 size: 18995885
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Measuring News Similarity Across Ten U.S. News Sites.
 year: 2018
 ---

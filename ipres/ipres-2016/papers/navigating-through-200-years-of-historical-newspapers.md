@@ -8,11 +8,11 @@ abstract: This paper describes the processes which led to the creation of an inn
   the general public) to explore different facets of about 4 million press articles
   spanning an almost 200 hundred years period.
 creators:
-- Rochat, Yannick
-- Kaplan, Frédéric
-- Bornet, Cyril
-- Buntinx, Vincent
-- Ehrmann, Maud
+- Yannick Rochat
+- Frédéric Kaplan
+- Cyril Bornet
+- Vincent Buntinx
+- Maud Ehrmann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503181/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 12198969
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Navigating through 200 Years of Historical Newspapers
 year: 2016
 ---

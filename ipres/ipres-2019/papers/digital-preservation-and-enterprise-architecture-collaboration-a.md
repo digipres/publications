@@ -13,9 +13,9 @@ abstract: This paper examines a meeting of mindsets at the University of Melbour
   can continue to drive mutually beneficial digital preservation operations at the
   university.
 creators:
-- Turner, Sean
-- Winton, Lyle
-- Weatherburn, Jaye
+- Sean Turner
+- Lyle Winton
+- Jaye Weatherburn
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081725/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: 568897
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital preservation and enterprise architecture collaboration at the University
   of Melbourne '
 year: 2019

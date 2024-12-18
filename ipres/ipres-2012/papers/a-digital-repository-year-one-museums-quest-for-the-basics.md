@@ -9,8 +9,8 @@ abstract: The Computer History Museum (CHM) had its own mini deluge of digital d
   the Museum in the forefront of small cultural institutions creating digital repositories
   and we hope to share what we have learned with other similar organizations.
 creators:
-- Jabloner, Paula
-- Kott, Katherine
+- Paula Jabloner
+- Katherine Kott
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293870/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: poster
 size: 650565
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A Digital Repository Year: One Museum’s Quest for the Basics'
 year: 2012
 ---

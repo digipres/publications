@@ -17,7 +17,7 @@ abstract: 'Digital preservation encompasses the theory and practice ensuring pur
   efficacy, and a more nuanced means of stating, measuring, and evaluating preservation
   intentions, expectations, and outcomes.'
 creators:
-- Abrams, Stephen
+- Stephen Abrams
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:922204/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 578528
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Nothing succeeds like success: A framework for evaluating digital preservation
   outcomes'
 year: 2018

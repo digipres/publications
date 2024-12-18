@@ -12,9 +12,9 @@ abstract: 'This 3-hour workshop focuses on presenting the current stateof-the-ar
   guidelines and use cases, that focuses on the operational concerns of database preservation
   and relevant real-world use cases.'
 creators:
-- Faria, Luis
-- Aas, Kuldar
-- Büchler, Marcel
+- Luis Faria
+- Kuldar Aas
+- Marcel Büchler
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502816/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: workshop
 size: 91485
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Workshop on Relational Database Preservation Standards and Tools
 year: 2016
 ---

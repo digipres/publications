@@ -13,11 +13,11 @@ abstract: Practitioners generally agree that providing a service to enable openi
   how it may be improved upon in the future and how it may be implemented in access
   and discovery tools.
 creators:
-- Meyerson, Jessica
-- Rechert, Klaus
-- Gates, Ethan
-- Anderson, Seth
-- Cochrane, Euan
+- Jessica Meyerson
+- Klaus Rechert
+- Ethan Gates
+- Seth Anderson
+- Euan Cochrane
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081742/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 424158
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Towards a Universal Virtual Interactor (UVI) for Digital Objects '
 year: 2019
 ---

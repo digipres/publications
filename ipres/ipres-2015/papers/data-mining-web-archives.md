@@ -19,8 +19,8 @@ abstract: 'Many institutions are now building rich, significant archives of web 
   link graph data, named entities, and other post-processed data can help facilitate
   new uses and new types of visualization, inquiry, and analysis.'
 creators:
-- Bailey, Jefferson
-- Donovan, Lori
+- Jefferson Bailey
+- Lori Donovan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429619/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: paper
 size: 323509
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Data Mining Web Archives
 year: 2015
 ---

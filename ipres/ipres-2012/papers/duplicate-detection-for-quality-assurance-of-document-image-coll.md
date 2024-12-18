@@ -9,9 +9,9 @@ abstract: Digital preservation workflows for image collections involving automat
   35.000 pages are presented. Duplicated pages are identified with high reliability
   and well in accordance with results obtained independently by human visual inspection.
 creators:
-- Huber-Mork, Reinhold
-- Schindler, Alexander
-- Schlarb, Sven
+- Reinhold Huber-Mork
+- Alexander Schindler
+- Sven Schlarb
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293840/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 1772262
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Duplicate Detection for Quality Assurance of Document Image Collections
 year: 2012
 ---

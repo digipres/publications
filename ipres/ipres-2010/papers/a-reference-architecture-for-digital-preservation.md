@@ -43,9 +43,9 @@ abstract: 'Apart from being a technological issue, digital
 
   of digital preservation.'
 creators:
-- Antunes, Gonçalo
-- Barateiro, José
-- Borbinha, José
+- Gonçalo Antunes
+- José Barateiro
+- José Borbinha
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185217/download
 grand_parent: iPRES
@@ -61,6 +61,7 @@ publication_type: paper
 size: 422757
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A REFERENCE ARCHITECTURE FOR DIGITAL PRESERVATION
 year: 2010
 ---

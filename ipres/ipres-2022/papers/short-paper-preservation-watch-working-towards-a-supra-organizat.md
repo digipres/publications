@@ -7,7 +7,7 @@ abstract: 'Preservation Watch is a vital function when it comes to monitoring in
   will ex-pand on the scope of the group, our goals, and our stock agenda for this
   year. '
 creators:
-- Wijsman, Lotte
+- Lotte Wijsman
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/43557e623e3f4a40a2e72010f1774479
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Short Paper: Preservation Watch: Working Towards A Supra-Organizational Preservation
   Watch Function Within The Dutch Digital Heritage Network\r\n"
 year: 2022

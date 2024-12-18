@@ -6,8 +6,8 @@ abstract: This demonstration will showcase ongoing work at the National Library 
   we capture in the knowledge base and describe the steps we are taking to transform
   it into a machine-actionable graph database, a prototype of which will also be demonstrated.
 creators:
-- Pearson, Mark
-- Kay, Gareth
+- Mark Pearson
+- Gareth Kay
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378722/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: demonstration
 size: 185151
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: NLA Software and File Formats Knowledge Base
 year: 2014
 ---

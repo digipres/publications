@@ -16,11 +16,11 @@ abstract: 'This poster provides the latest updates on the Digital Preservation S
 
   '
 creators:
-- Zierau, Eld
-- Wu, Cynthia
-- Goethals, Andrea
-- McGovern, Nancy
-- Schaefer, Sibyl
+- Eld Zierau
+- Cynthia Wu
+- Andrea Goethals
+- Nancy McGovern
+- Sibyl Schaefer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424849/download
 grand_parent: iPRES
@@ -45,6 +45,7 @@ publication_type: poster
 size: 426039
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: DIGITAL PRESERVATION STORAGE CRITERIA AND RELEVANT STANDARDS - Latest Development
   on the Digital Preservation Storage Criteria
 year: 2021

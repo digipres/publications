@@ -12,12 +12,12 @@ abstract: 'The increasing demands faced by repository systems and the growing po
   related controls can also improve the current functioning of the repository system
   and increase reproducibility of the workflows.'
 creators:
-- Miksa, Tomasz
-- Antunes, Goncalo
-- Vieira, Ricardo
-- Rauber, Andreas
-- Strodl, Stephan
-- Mayer, Rudolf
+- Tomasz Miksa
+- Goncalo Antunes
+- Ricardo Vieira
+- Andreas Rauber
+- Stephan Strodl
+- Rudolf Mayer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378104/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 1021830
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Risk Driven Selection of Preservation Activities for Increasing Sustainability
   of Open Source Systems and Workflows
 year: 2014

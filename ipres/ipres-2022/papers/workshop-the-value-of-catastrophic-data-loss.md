@@ -9,7 +9,7 @@ abstract: Jisc and the Digital Preservation Coalition (DPC) have undertaken an a
   have lost data with those who wish to avoid losses, explores the usefulness of such
   data loss events to the community.
 creators:
-- Stokes, Paul
+- Paul Stokes
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/c412bc3250f14080845eca46e1dd2a1f
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: workshop
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Workshop: The Value of Catastrophic Data Loss'
 year: 2022
 ---

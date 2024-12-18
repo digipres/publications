@@ -24,10 +24,10 @@ abstract: 'Current client-side, or “static,” web archiving crawlers have bee
   of the site using ReproZip-Web. They will then be able to test replaying the site
   from the newly created and preservable .rpz file.'
 creators:
-- Boss, Katherine
-- Kreymer, Ilya
-- Rampin, Vicky
-- Rampin, Rémi
+- Katherine Boss
+- Ilya Kreymer
+- Vicky Rampin
+- Rémi Rampin
 date: null
 document_url: https://www.ideals.illinois.edu/items/128256/bitstreams/428877/data.pdf
 grand_parent: iPRES
@@ -47,6 +47,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: SERVER-SIDE WEB ARCHIVING USING REPROZIP-WEB
 year: 2023
 ---

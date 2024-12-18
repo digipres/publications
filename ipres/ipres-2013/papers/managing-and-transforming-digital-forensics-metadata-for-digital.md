@@ -10,9 +10,9 @@ abstract: In this paper we present ongoing work conducted as part of the BitCura
   documentation of integrity and provenance, tracking events associated with pre-ingest
   and post-ingest forensic processing, and providing specific evidence of authenticity.
 creators:
-- Woods, Kam
-- Chassanoff, Alexandra
-- A. Lee, Christopher
+- Kam Woods
+- Alexandra Chassanoff
+- Christopher A. Lee
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378044/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 902869
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Managing and Transforming Digital Forensics Metadata for Digital Collections
 year: 2013
 ---

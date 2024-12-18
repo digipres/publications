@@ -9,9 +9,9 @@ abstract: This poster offers the iPRES community an interim update on work at Th
   the project, highlighting the potential benefits of the approach and identifying
   areas for further investigation.
 creators:
-- Underdown, David H
-- Ranade, Sonia
-- Mulinder, Alec
+- David H Underdown
+- Sonia Ranade
+- Alec Mulinder
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1082719/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: poster
 size: 121134
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Safeguarding the nation’s digital memory '
 year: 2019
 ---

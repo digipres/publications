@@ -8,9 +8,9 @@ abstract: Digital information often relies on the interactions of multiple indiv
   this enables us to determine which tools to use to undertake particular preservation
   actions for a Representation.
 creators:
-- O'Sullivan, Jack
-- Smith, Richard
-- Tilbury, Jonathan
+- Jack O'Sullivan
+- Richard Smith
+- Jonathan Tilbury
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424890/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 330641
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Identification of Multi-Part Digital Objects
 year: 2021
 ---

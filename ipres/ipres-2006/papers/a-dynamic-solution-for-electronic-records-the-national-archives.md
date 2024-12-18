@@ -14,7 +14,7 @@ abstract: After a year long design competition, in September 2005 the National A
   which includes for the life of the republic. The speaker will describe the architecture
   and processes for digital preservation and access in the ERA system.
 creators:
-- Thibodeau, Kenneth
+- Kenneth Thibodeau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294868/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: presentation
 size: 585688
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A Dynamic Solution for Electronic Records: The National Archives & Records
   Administration’s Electronic Records Archives'
 year: 2006

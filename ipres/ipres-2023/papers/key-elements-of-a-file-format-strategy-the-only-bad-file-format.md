@@ -10,7 +10,7 @@ abstract: Within the Digital Preservation Community there are many references to
   systems. What works for one institution may not work for another, and the work created
   by a larger institution may benefit those with smaller resources.
 creators:
-- Thorsted, Tyler
+- Tyler Thorsted
 date: null
 document_url: https://www.ideals.illinois.edu/items/128330/bitstreams/429025/data.pdf
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121679
 source_name: iPRES
+stream_url: null
 title: 'KEY ELEMENTS OF A FILE FORMAT STRATEGY: The only bad file format is one that
   hasn''t been documented.'
 year: 2023

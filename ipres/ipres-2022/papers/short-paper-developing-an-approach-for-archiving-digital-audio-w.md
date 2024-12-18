@@ -13,7 +13,7 @@ abstract: This paper concerns a current pilot study relating to contemporary pop
   challenges it presents. We will then cover the approaches taken by the Library and
   our progress to date.<br />
 creators:
-- Love, Valerie
+- Valerie Love
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/92af357d94024f98ae9b7eef66b44853
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Developing an approach for archiving Digital Audio Workstation
   projects: A pilot study'
 year: 2022

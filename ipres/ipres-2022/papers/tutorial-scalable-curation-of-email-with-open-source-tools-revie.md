@@ -57,7 +57,7 @@ abstract: 'Email has served, and continues to serve, as the communication and re
   The tutorial will be conducted in part using remotely hosted interactive notebooks
   and a web-based SQLite database browsing utility.<br />'
 creators:
-- Lee, Christopher
+- Christopher Lee
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/68e15a76b8534ee1be9507cad801a752
 grand_parent: iPRES
@@ -75,6 +75,7 @@ publication_type: tutorial
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Tutorial: Scalable Curation of Email with Open-Source Tools: Review, Appraisal,
   and Triage of Mail (RATOM)'
 year: 2022

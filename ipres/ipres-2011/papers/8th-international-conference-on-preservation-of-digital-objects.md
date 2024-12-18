@@ -2,12 +2,12 @@
 abstract: '8th International Conference on Preservation of Digital Objects, November
   1 – 4, 2011, Singapore '
 creators:
-- Borbinha, José
-- Buddharaju, Raju
-- Khoo, Christopher
-- Sugimoto, Shigeo
-- Foo, Schubert
-- Jatowt, Adam
+- José Borbinha
+- Raju Buddharaju
+- Christopher Khoo
+- Shigeo Sugimoto
+- Schubert Foo
+- Adam Jatowt
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294293/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: proceedings
 size: 16588478
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 8th International Conference on Preservation of Digital Objects
 year: 2011
 ---

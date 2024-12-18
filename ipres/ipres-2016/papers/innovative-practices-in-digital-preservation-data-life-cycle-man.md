@@ -3,10 +3,10 @@ abstract: In this workshop, we show how researchers and information professional
   are supported throughout the data life-cycle in order to ensure innovative and professional
   digital preservation in Switzerland.
 creators:
-- Burgi, Pierre-Yves
-- Sesartić, Ana
-- Dieudé, Aude
-- Blumer, Eliane
+- Pierre-Yves Burgi
+- Ana Sesartić
+- Aude Dieudé
+- Eliane Blumer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502832/download
 grand_parent: iPRES
@@ -22,6 +22,7 @@ publication_type: workshop
 size: 221153
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Innovative practices in Digital Preservation Data Life Cycle Management (DLCM)
 year: 2016
 ---

@@ -18,7 +18,7 @@ abstract: 'The role of the National Archives of Australia is to promote the crea
   the project should enable the Archives to sustainably harvest, preserve and provide
   access to digital records in the information age.'
 creators:
-- D'Arcy, Zoe
+- Zoe D'Arcy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429539/download
 grand_parent: iPRES
@@ -36,6 +36,7 @@ publication_type: paper
 size: 827889
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Project Chrysalis - Transforming the Digital Business of the National Archives
   of Australia
 year: 2015

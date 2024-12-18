@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- McMeekin, Sharon
-- Currie, Amy
+- Sharon McMeekin
+- Amy Currie
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424692/download
 grand_parent: iPRES
@@ -19,6 +19,7 @@ publication_type: lightning talk
 size: 21854
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Developing a Flexible Skills Framework for Digital Preservation
 year: 2021
 ---

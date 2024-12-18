@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- McGovern, Nancy Yvonne
+- Nancy Yvonne McGovern
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294526/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 304820
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Aligning Digital Preservation Policies with Community Standards
 year: 2007
 ---

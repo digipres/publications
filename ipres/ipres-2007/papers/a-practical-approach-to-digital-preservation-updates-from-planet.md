@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Hockx-Yu, Helen
-- Farquhar, Adam
+- Helen Hockx-Yu
+- Adam Farquhar
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294463/download
 grand_parent: iPRES
@@ -19,6 +19,7 @@ publication_type: presentation
 size: 308599
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A practical approach to digital preservation: updates from PLANETS'
 year: 2007
 ---

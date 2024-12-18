@@ -19,8 +19,8 @@ abstract: The SPAR repository project started as a way to make preservation easi
   with available resources and tiered prices. As the first clients come in, prices
   and processes are still in flux, and vulnerable to policy changes.
 creators:
-- Fauduet, Louise
-- Peyrard, Sébastien
+- Louise Fauduet
+- Sébastien Peyrard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378014/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: paper
 size: 51584
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Destination: Shared Repository: The National Library of France''s Journey
   to Third-Party Archiving'
 year: 2013

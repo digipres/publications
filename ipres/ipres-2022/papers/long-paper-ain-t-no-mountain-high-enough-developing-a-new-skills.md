@@ -7,7 +7,7 @@ abstract: A skilled workforce is essential to successful digital preservation. B
   including facilitating recruitment, structuring professional development, auditing
   skills, and reviewing curricula.
 creators:
-- McMeekin, Sharon
+- Sharon McMeekin
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/786859b63e024c6fbb3f042018e1d9f3
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: long paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Long Paper: Ain''t No Mountain High Enough: Developing a New Skills Framework
   for Digital Preservation'
 year: 2022

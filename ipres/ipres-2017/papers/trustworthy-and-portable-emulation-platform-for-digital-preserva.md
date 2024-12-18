@@ -12,9 +12,9 @@ abstract: We present an architecture for a trustworthy and portableemulation pla
   of encrypted data on the untrusted user platform foruse by the emulator and hence
   limits the potential perfor-mance issues originated from remote execution over Internetconnections.
 creators:
-- Tarkhani, Zahra
-- Brown, Geoffrey
-- Myers, Steven
+- Zahra Tarkhani
+- Geoffrey Brown
+- Steven Myers
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931066/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: 379441
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Trustworthy and Portable Emulation Platform for Digital Preservation
 year: 2017
 ---

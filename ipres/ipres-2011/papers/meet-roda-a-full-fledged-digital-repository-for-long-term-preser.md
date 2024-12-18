@@ -6,9 +6,9 @@ abstract: 'RODA is an open-source full-fledged digital preservation repository c
   It is supported by open-source technologies and makes use of existing standards
   such as the OAIS [1], METS [2], EAD [3] and PREMIS [4].'
 creators:
-- Castro, Rui
-- Ferreira, Miguel
-- Faria, Luís
+- Rui Castro
+- Miguel Ferreira
+- Luís Faria
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294262/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: 540259
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Meet RODA, a Full-Fledged Digital Repository for Long-Term Preservation
 year: 2011
 ---

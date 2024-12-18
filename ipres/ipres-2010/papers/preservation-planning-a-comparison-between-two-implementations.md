@@ -41,7 +41,7 @@ abstract: 'This paper examines preservation planning as it is
 
   system in conjunction with Ex Libris Group.1'
 creators:
-- McKinney, Peter
+- Peter McKinney
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185503/download
 grand_parent: iPRES
@@ -57,6 +57,7 @@ publication_type: paper
 size: 299028
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PRESERVATION PLANNING: A COMPARISON BETWEEN TWO  IMPLEMENTATIONS.'
 year: 2010
 ---

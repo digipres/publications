@@ -15,8 +15,8 @@ abstract: The focus of this paper is on which digital objects to preserve when p
   than images made in cheap mass digitisation. Although initial manual work is more
   expensive, the storage and bit preservation expenses are lower over a long period.
 creators:
-- Zierau, Eld
-- Jensen, Claus
+- Eld Zierau
+- Claus Jensen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185514/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 271152
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: PRESERVATION OF DIGITISED BOOKS IN A LIBRARY CONTEXT
 year: 2010
 ---

@@ -13,8 +13,8 @@ abstract: One of the most important challenges in planning and maintaining a dig
   preservation decisions in a set of scenarios involving different ingest and preservation
   planning profiles.
 creators:
-- Weihs, Christian
-- Rauber, Andreas
+- Christian Weihs
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294237/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: 986584
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Simulating the Effect of Preservation Actions on Repository Evolution
 year: 2011
 ---

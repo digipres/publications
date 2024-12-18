@@ -10,7 +10,7 @@ abstract: In support of a multi-year initiative to revitalize its core digital p
   of authentic digital information objects with that of opportunities for legitimate
   information experiences.
 creators:
-- Abrams, Stephen
+- Stephen Abrams
 date: null
 document_url: https://www.ideals.illinois.edu/items/128298/bitstreams/428961/data.pdf
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'RETHINKING DIGITAL PRESERVATION: Conceptual Foundations'
 year: 2023
 ---

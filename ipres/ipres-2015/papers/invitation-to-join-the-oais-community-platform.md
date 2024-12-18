@@ -2,10 +2,10 @@
 abstract: In this poster, we describe an initiative to build a community resource
   around the OAIS standard.
 creators:
-- Sierman, Barbara
-- Kilbride, William
-- L'Hours, Hervé
-- Wheatley, Paul
+- Barbara Sierman
+- William Kilbride
+- Hervé L'Hours
+- Paul Wheatley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429602/download
 grand_parent: iPRES
@@ -22,6 +22,7 @@ publication_type: poster
 size: 408098
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Invitation to Join the OAIS Community Platform
 year: 2015
 ---

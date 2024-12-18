@@ -29,9 +29,9 @@ abstract: 'Getting to the Bottom Line: 20 Cost Questions for Digital Preservatio
 
   resources targeted toward the digital preservation community.'
 creators:
-- Schultz, Matt
-- Trehub, Aaron
-- Skinner, Katherine
+- Matt Schultz
+- Aaron Trehub
+- Katherine Skinner
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429558/download
 grand_parent: iPRES
@@ -48,6 +48,7 @@ publication_type: paper
 size: 198146
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Getting to the Bottom Line: 20 Digital Preservation Cost Questions'
 year: 2015
 ---

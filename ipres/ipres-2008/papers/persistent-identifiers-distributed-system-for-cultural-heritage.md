@@ -9,11 +9,11 @@ abstract: In this paper, we present a prototype with a novel resolution architec
   under development and we present the next steps, in particular we describe the interoperability
   perspective that already partially foresees the NBN prototype.
 creators:
-- Bellini, Emanuele
-- Fugazza, Cristiano
-- Damiani, Ernesto
-- Lunghi, Maurizio
-- Cirinnà, Chiara
+- Emanuele Bellini
+- Cristiano Fugazza
+- Ernesto Damiani
+- Maurizio Lunghi
+- Chiara Cirinnà
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294166/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 130273
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Persistent Identifiers distributed system for Cultural Heritage digital objects
 year: 2008
 ---

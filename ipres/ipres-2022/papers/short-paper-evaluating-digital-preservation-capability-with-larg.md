@@ -4,7 +4,7 @@ abstract: 'This paper presents the efforts of the Archives & Special Collections
   NVA Archive. We discuss the nature of the collection, and the way it was used to
   evaluate our digital preservation capability. '
 creators:
-- Konstantelos, Leo
+- Leo Konstantelos
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/77f82e14715c46bbb54386e784a51649
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Short Paper: EVALUATING DIGITAL PRESERVATION CAPABILITY WITH LARGE AT-RISK
   COLLECTIONS: Lessons learnt from preserving the NVA Archive\r\n"
 year: 2022

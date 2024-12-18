@@ -20,10 +20,10 @@ abstract: This paper introduces the motivation and describes the model of a nove
   model which covers the identified missing parts and gaps regarding the acquisition
   of digital preservation description information.
 creators:
-- Allasia, Walter
-- Chang, Wo
-- Gordea, Sergiu
-- Bailer, Werner
+- Walter Allasia
+- Wo Chang
+- Sergiu Gordea
+- Werner Bailer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378108/download
 grand_parent: iPRES
@@ -45,6 +45,7 @@ publication_type: paper
 size: 337286
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Novel Metadata Standard for Multimedia Preservation
 year: 2014
 ---

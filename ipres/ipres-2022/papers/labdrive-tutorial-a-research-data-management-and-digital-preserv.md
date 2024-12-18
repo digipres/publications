@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Martinez, Antonio Guillermo
+- Antonio Guillermo Martinez
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/b2a1b6eacdfc4f8f8509714fccd1aad3
 grand_parent: iPRES
@@ -20,6 +20,7 @@ publication_type: unknown
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "LABDRIVE Tutorial:\r\nA Research Data Management and Digital Preservation
   Platform"
 year: 2022

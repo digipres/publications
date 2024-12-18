@@ -12,8 +12,8 @@ abstract: The German project kopal develops a cooperative used long-term digital
   management. The archival system is ready to be used by the project partners and
   ca. 10 TB of data will be ingested until the end of the year 2006.
 creators:
-- Altenhöner, Reinhard
-- Steinke, Tobias
+- Reinhard Altenhöner
+- Tobias Steinke
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294554/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: presentation
 size: 397041
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'kopal - Data into the future: Co-operative Development of a Long-term Digital
   Information Archive'
 year: 2006

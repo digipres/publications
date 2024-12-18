@@ -49,8 +49,8 @@ abstract: 'This article describes the development of Archives
 
   interoperability among diverse archival systems.'
 creators:
-- Di Iorio, Angela
-- Lunghi, Maurizio
+- Angela Di Iorio
+- Maurizio Lunghi
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185403/download
 grand_parent: iPRES
@@ -66,6 +66,7 @@ publication_type: paper
 size: 121749
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: RELEVANT METADATA TO PRESERVE “ALIEN” AIP
 year: 2010
 ---

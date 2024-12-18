@@ -9,9 +9,9 @@ abstract: Third-party software dependency is a big threat for digital art- works
   processes. ZKM opened its gates to pirates and hacker communities thereby ac- knowledging
   their contribution to digital art preservation.
 creators:
-- Stricot, Morgane
-- "Vlaminck\t, Matthieu"
-- Heiss, Daniel
+- Morgane Stricot
+- Matthieu Vlaminck
+- Daniel Heiss
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923621/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 840130
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Open the museum’s gates to pirates: Hacking for the sake of digital art preservation'
 year: 2018
 ---

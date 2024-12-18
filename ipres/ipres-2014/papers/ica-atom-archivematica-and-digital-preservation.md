@@ -21,8 +21,8 @@ abstract: 'ICA-AtoM is an open source, web-based archival description software a
 
   The workshop is open to the public. '
 creators:
-- Summers, Lise
-- Travers, Meg
+- Lise Summers
+- Meg Travers
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378138/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: workshops and tutorials
 size: 179325
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: ICA-AtoM, Archivematica and Digital Preservation
 year: 2014
 ---

@@ -11,9 +11,9 @@ abstract: 'Appraisal has long been a source of intense debate in the archival co
   applying repeatable processes, and ultimately establishing measurable institutional
   value. '
 creators:
-- West, Brent
-- Kaczmarek, Joanne
-- Phoenix, Jordan
+- Brent West
+- Joanne Kaczmarek
+- Jordan Phoenix
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378704/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: poster
 size: 251834
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Sustainable, justifiable, repeatable: A digital preservation strategy using
   metrics-based (re)appraisal: Poster (Poster) '
 year: 2014

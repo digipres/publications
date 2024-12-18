@@ -6,10 +6,10 @@ abstract: "The role of government archival institutions is to ensure that essent
   agencies on systems design, improvements and migrations with good recordkeeping
   their goal. \n "
 creators:
-- Findlay, Cassie
-- Fitzgerald, Neal
-- Waugh, Andrew
-- Lehane, Richard
+- Cassie Findlay
+- Neal Fitzgerald
+- Andrew Waugh
+- Richard Lehane
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378132/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: paper
 size: 148815
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preserving Government Business Systems: Panel '
 year: 2014
 ---

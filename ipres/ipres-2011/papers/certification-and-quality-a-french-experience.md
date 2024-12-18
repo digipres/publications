@@ -23,9 +23,9 @@ abstract: 'The CINES has two main missions, among which is the long-term preserv
   staff is now willing to share its knowledge and feedback with the rest of the community,
   by participating in think tanks as well as standardization workgroups.'
 creators:
-- Massol, Marion
-- Béchard, Lorène
-- Rouchon, Olivier
+- Marion Massol
+- Lorène Béchard
+- Olivier Rouchon
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294203/download
 grand_parent: iPRES
@@ -50,6 +50,7 @@ publication_type: paper
 size: 705316
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Certification and Quality: A French Experience'
 year: 2011
 ---

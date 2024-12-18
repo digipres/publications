@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Goebert, Samuel
-- Sarti, Alain
+- Samuel Goebert
+- Alain Sarti
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294263/download
 grand_parent: iPRES
@@ -19,6 +19,7 @@ publication_type: paper
 size: 531145
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A non-proprietary RAID replacement for long term preservation systems
 year: 2011
 ---

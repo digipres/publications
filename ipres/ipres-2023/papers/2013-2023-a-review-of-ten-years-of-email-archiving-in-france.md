@@ -16,7 +16,7 @@ abstract: 'Emails are an essential medium of communication. Their management is 
   This article looks at the transition from theory to practice of a more operational
   acquisition of this type of archive in a French context.'
 creators:
-- Ville, Marion
+- Marion Ville
 date: null
 document_url: https://www.ideals.illinois.edu/items/128288/bitstreams/428941/data.pdf
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121688
 source_name: iPRES
+stream_url: null
 title: '2013 - 2023: A REVIEW OF TEN YEARS OF EMAIL ARCHIVING IN FRANCE'
 year: 2023
 ---

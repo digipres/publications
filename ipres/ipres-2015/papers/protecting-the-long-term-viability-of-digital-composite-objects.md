@@ -7,8 +7,8 @@ abstract: This poster documents work recently undertaken at Emory University’s
   engineers to migrate existing disk images to formats now deemed more suitable for
   long-term digital preservation.
 creators:
-- Roke, Elizabeth
-- Waugh, Dorothy
+- Elizabeth Roke
+- Dorothy Waugh
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429599/download
 grand_parent: iPRES
@@ -26,6 +26,7 @@ publication_type: poster
 size: 401955
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Protecting the Long-Term Viability of Digital Composite Objects through Format
   Migration
 year: 2015

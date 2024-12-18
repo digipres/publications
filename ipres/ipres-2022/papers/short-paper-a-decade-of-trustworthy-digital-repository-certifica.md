@@ -10,7 +10,7 @@ abstract: As the only institution in the world with an ISO 16363:2012-certified 
   this secondary form of assessment and GPO’s observations and lessons learned as
   an ISO 16363-certified repository thus far.
 creators:
-- Tieman, Jessica
+- Jessica Tieman
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/f264dc0353394e5795b9de9352c6516c
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Short Paper: A DECADE OF TRUSTWORTHY DIGITAL REPOSITORY CERTIFICATION: YET
   THERE WAS ONE\r\n"
 year: 2022

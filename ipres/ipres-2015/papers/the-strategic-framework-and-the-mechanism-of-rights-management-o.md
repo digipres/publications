@@ -3,8 +3,8 @@ abstract: In this paper, we describe how the National Science Library, Chinese A
   of Sciences is building the Strategic Framework and the Mechanism of Rights Management
   for Long-term Preservation of digital resources.
 creators:
-- Gaolei, Yin
-- Yan, Zhao
+- Yin Gaolei
+- Zhao Yan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429588/download
 grand_parent: iPRES
@@ -23,6 +23,7 @@ publication_type: paper
 size: 458564
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Strategic Framework and the Mechanism of Rights Management of Long-term
   Preservation
 year: 2015

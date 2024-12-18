@@ -10,7 +10,7 @@ abstract: The best practices for representing analog audio with digital bitstrea
   complex audio objects after digitization and approaches that have been implemented
   but not widely adopted.
 creators:
-- Krabbenhoeft, Nick
+- Nick Krabbenhoeft
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081758/download
 grand_parent: iPRES
@@ -26,6 +26,7 @@ publication_type: paper
 size: 215715
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'What is the Standard Format for Digitized Audio? '
 year: 2019
 ---

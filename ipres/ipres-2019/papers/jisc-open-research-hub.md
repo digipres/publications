@@ -23,11 +23,11 @@ abstract: 'Jisc’s Open Research Hub (JORH) integrates a number of repository, 
   delegates, ranging from the broad methods mentioned above, down to individual design
   decisions informed by our research and domain expertise.'
 creators:
-- Davey, Tom
-- Fripp, Dom
-- Burland, Tamsin
-- Kaye, John
-- Stokes, Paul
+- Tom Davey
+- Dom Fripp
+- Tamsin Burland
+- John Kaye
+- Paul Stokes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1082722/download
 grand_parent: iPRES
@@ -43,6 +43,7 @@ publication_type: paper
 size: 158149
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Jisc Open Research Hub '
 year: 2019
 ---

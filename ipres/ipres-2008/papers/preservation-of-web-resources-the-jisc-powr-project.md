@@ -7,12 +7,12 @@ abstract: This paper describes the work of the JISC-funded PoWR (Preservation Of
   the challenges and identify appropriate best practices, and outlines areas in which
   further work is required.
 creators:
-- Kelly, Brian
-- Hatcher, Jordan
-- Davis, Richard
-- Pinsent, Ed
-- Guy, Marieke
-- Ashley, Kevin
+- Brian Kelly
+- Jordan Hatcher
+- Richard Davis
+- Ed Pinsent
+- Marieke Guy
+- Kevin Ashley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294104/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 56924
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation Of Web Resources: The JISC-PoWR Project'
 year: 2008
 ---

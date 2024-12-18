@@ -11,9 +11,9 @@ abstract: The MathArc project has created a protocol, software, and registry tha
   kopal version of DIAS. This presentation describes not how they work individually,
   but how they all work together in the MathArc system.
 creators:
-- Enders, Markus
-- Smith, Adam
-- Kehoe, William
+- Markus Enders
+- Adam Smith
+- William Kehoe
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294561/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: presentation
 size: 5692610
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Bringing Many Tools Together: Building a system of co-operating OAIS''s in
   the MathArc project'
 year: 2006

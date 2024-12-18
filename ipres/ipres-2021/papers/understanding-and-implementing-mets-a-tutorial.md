@@ -8,9 +8,9 @@ abstract: This half day tutorial will provide participants with an introduction 
   maintained by the METS Board and the METS Maintenance Activity is managed by the
   Library of Congress
 creators:
-- Bredenberg, Karin
-- Lehtonen, Juha
-- Steinke, Tobias
+- Karin Bredenberg
+- Juha Lehtonen
+- Tobias Steinke
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424835/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 201947
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: UNDERSTANDING AND IMPLEMENTING METS - A tutorial
 year: 2021
 ---

@@ -10,10 +10,10 @@ abstract: Environmental sustainability is becoming an important factor in digita
   the service life has a smaller role. As a whole, the annual carbon footprint of
   the services is smaller than the annual carbon footprint of three average Finns.
 creators:
-- Tiainen, Mikko
-- Lehtonen, Juha
-- Helin, Heikki
-- Kylander, Johan
+- Mikko Tiainen
+- Juha Lehtonen
+- Heikki Helin
+- Johan Kylander
 date: null
 document_url: https://www.ideals.illinois.edu/items/128307/bitstreams/428979/data.pdf
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121655
 source_name: iPRES
+stream_url: null
 title: 'CALCULATING THE CARBON FOOTPRINT OF DIGITAL PRESERVATION: A Case Study'
 year: 2023
 ---

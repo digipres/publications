@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Hallgrimsson, Thorsteinn
+- Thorsteinn Hallgrimsson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294188/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: paper
 size: 19756
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: International Approaches to Web-Archiving Panel Discussion
 year: 2008
 ---

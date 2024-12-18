@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Neuroth, Heike
-- Strathmann, Stefan
+- Heike Neuroth
+- Stefan Strathmann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294496/download
 grand_parent: iPRES
@@ -19,6 +19,7 @@ publication_type: presentation
 size: 542313
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: What do We Need to Preserve on University Level? Ask the Local Scientist
 year: 2007
 ---

@@ -5,12 +5,12 @@ abstract: How do we apply the lessons of ongoing evaluations of digital preserva
   different viewpoints to pool best practice and explore the issues to ensure the
   community can expect more durable systems however they are delivered.
 creators:
-- O’Sullivan, Jack
-- Rieger, Oya Y.
-- Stewart, Kelly
-- Guicherd-Callin, Thib
-- Giaretta, David
-- Kilbride, William
+- Jack O’Sullivan
+- Oya Y. Rieger
+- Kelly Stewart
+- Thib Guicherd-Callin
+- David Giaretta
+- William Kilbride
 date: null
 document_url: https://www.ideals.illinois.edu/items/128287/bitstreams/428939/data.pdf
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'APPROACHES TO DIGITAL PRESERVATION PRODUCT AND SERVICE SUSTAINABILITY: Comparing
   alternate approaches'
 year: 2023

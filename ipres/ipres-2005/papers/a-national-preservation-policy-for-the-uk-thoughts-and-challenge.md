@@ -4,7 +4,7 @@ abstract: This talk will describe the state of the art of digital curation in th
   formed Digital Curation Centre will be discussed in some detail. In addition some
   of the national legislative and funding drivers will be outlined.
 creators:
-- Patel, Manjula
+- Manjula Patel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295035/download
 grand_parent: iPRES
@@ -21,6 +21,7 @@ publication_type: paper
 size: 127291
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A National Preservation Policy for the UK(?) - Thoughts and Challenges: Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

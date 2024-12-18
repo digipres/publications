@@ -18,7 +18,7 @@ abstract: We are at a point where the scope, definition, and uses of digital lib
   middleware to facilitate alerting of preservation-noteworthy events and the development
   of services to respond to such events.
 creators:
-- Payette , Sandy
+- Sandy Payette
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294552/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: presentation
 size: 319991
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Fedora: Complex Objects, Information Networks, and the Challenges of Digital
   Preservation'
 year: 2006

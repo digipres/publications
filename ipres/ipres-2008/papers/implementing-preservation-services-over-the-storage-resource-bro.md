@@ -16,8 +16,8 @@ abstract: Many international institutions and organizations responsible for mana
   of objects, stored in SRB. It also provides an evaluation of the performance and
   usability of the PresSRB system, within the context of an environmental case study.
 creators:
-- Kosovic, Douglas
-- Hunter, Jane
+- Douglas Kosovic
+- Jane Hunter
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294150/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 103393
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Implementing Preservation Services over the Storage Resource Broker
 year: 2008
 ---

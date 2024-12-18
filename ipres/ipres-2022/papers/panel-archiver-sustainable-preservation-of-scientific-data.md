@@ -17,7 +17,7 @@ abstract: 'The ARCHIVER project (Archiving and Preservation for Research Environ
   time for the ARCHIVER participants to share their insights and experiences with
   the wider LTDP community.'
 creators:
-- Addis, Matthew
+- Matthew Addis
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/4ae31a0a6d004c77ad5e297cad2141be
 grand_parent: iPRES
@@ -36,6 +36,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: ARCHIVER: Sustainable Preservation of Scientific Data'
 year: 2022
 ---

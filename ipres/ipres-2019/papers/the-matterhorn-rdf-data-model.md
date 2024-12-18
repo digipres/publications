@@ -6,8 +6,8 @@ abstract: Matterhorn RDF is a linked data-based model for archival metadata with
   the implementation of Matterhorn RDF, classes and properties of existing ontologies
   are used. The formalization of the model is realized with the help of SHACL shapes.
 creators:
-- Dubois, Alain
-- Wildi, Tobias
+- Alain Dubois
+- Tobias Wildi
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079685/download
 grand_parent: iPRES
@@ -23,6 +23,7 @@ publication_type: paper
 size: 253776
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Matterhorn RDF Data Model '
 year: 2019
 ---

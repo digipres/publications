@@ -6,7 +6,7 @@ abstract: Since its founding in 1977, University Archives and Special Collection
   efforts to transform syllabi collection into an all-digital process, while providing
   for the future preservation of historical syllabi.
 creators:
-- Pascual, Chloé
+- Chloé Pascual
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429595/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: poster
 size: 28401
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preserving Electronic Syllabi at California State University Long Beach
 year: 2015
 ---

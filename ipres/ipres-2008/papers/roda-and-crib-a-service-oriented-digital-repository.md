@@ -10,12 +10,12 @@ abstract: In 2006 the Portuguese National Archives (Directorate-General of the P
   into a complete digital preservation solution based on currently available archiving
   and preservation standards, e.g. OAIS, EAD, PREMIS, METS and ANSI/NISO Z39.87.
 creators:
-- Ramalho, José Carlos
-- Corujo, Luis
-- Barbedo, Francisco
-- Castro, Rui
-- Faria, Luis
-- Ferreira, Miguel
+- José Carlos Ramalho
+- Luis Corujo
+- Francisco Barbedo
+- Rui Castro
+- Luis Faria
+- Miguel Ferreira
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294164/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 262828
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'RODA and Crib : A Service-Oriented Digital Repository'
 year: 2008
 ---

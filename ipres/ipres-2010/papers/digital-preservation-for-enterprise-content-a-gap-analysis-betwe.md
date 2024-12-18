@@ -27,8 +27,8 @@ abstract: 'Today, more and more information is being produced in a digital form.
   compliance (the retention or destruction of certain documents in accordance to legal
   requirements).'
 creators:
-- Korb, Joachim
-- Strodl, Stephan
+- Joachim Korb
+- Stephan Strodl
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185501/download
 grand_parent: iPRES
@@ -44,6 +44,7 @@ publication_type: paper
 size: 734924
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'DIGITAL PRESERVATION FOR ENTERPRISE CONTENT: A GAP-ANALYSIS BETWEEN ECM AND
   OAIS'
 year: 2010

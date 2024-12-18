@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- van der Werf, Bram
+- Bram van der Werf
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294277/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: paper
 size: 24220
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Building Digital Preservation Practices, Tools and Services on Quicksand
 year: 2011
 ---

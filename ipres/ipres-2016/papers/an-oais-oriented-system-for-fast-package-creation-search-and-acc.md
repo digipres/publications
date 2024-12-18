@@ -13,13 +13,13 @@ abstract: This paper describes the scalable e-archiving repository system develo
   been used to build the prototype. Furthermore, the paper provides experimental results
   and gives directions for future work.
 creators:
-- Schlarb, Sven
-- Aas, Kuldar
-- Delve, Janet
-- Rörden, Jan
-- Bartha, Mihai
-- Karl, Roman
-- Schmidt, Rainer
+- Sven Schlarb
+- Kuldar Aas
+- Janet Delve
+- Jan Rörden
+- Mihai Bartha
+- Roman Karl
+- Rainer Schmidt
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502851/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 770037
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: An OAIS-oriented System for Fast Package Creation, Search, and Access
 year: 2016
 ---

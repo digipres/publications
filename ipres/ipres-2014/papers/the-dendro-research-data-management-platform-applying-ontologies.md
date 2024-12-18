@@ -11,10 +11,10 @@ abstract: "It has been shown that data management should start as early as possi
   acting as a staging area for later deposit in long-term preservation solutions.
   \n\n "
 creators:
-- da Silva, João
-- Castro, João
-- Ribeiro, Cristina
-- Lopes, João
+- João da Silva
+- João Castro
+- Cristina Ribeiro
+- João Lopes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378115/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 602422
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Dendro research data management platform: Applying ontologies to long-term
   preservation in a collaborative environment'
 year: 2014

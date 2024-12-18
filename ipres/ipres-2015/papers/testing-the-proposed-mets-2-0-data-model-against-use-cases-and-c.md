@@ -16,10 +16,10 @@ abstract: The Metadata Encoding and Transmission Standard (METS) 1.x schema has 
   in the discussions, and the subsequent evaluation / refinement of a METS 2.0 data
   model.
 creators:
-- Caron, Bertrand
-- Nef, Andreas
-- Hoebelheinrich, Nancy
-- Habing, Thomas
+- Bertrand Caron
+- Andreas Nef
+- Nancy Hoebelheinrich
+- Thomas Habing
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429620/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: paper
 size: 310778
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Testing the Proposed METS 2.0 Data Model against Use Cases and Complementary
   Data Models: Presentations and Community Discussion'
 year: 2015

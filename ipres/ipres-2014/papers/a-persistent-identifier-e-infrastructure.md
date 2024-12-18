@@ -20,7 +20,7 @@ abstract: Persistent identifiers (PIDs) have been recognized as a crucial enabli
   to the specific needs of different communities and stakeholders of the e-science
   environment.
 creators:
-- Bazzanella, Barbara
+- Barbara Bazzanella
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378107/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: paper
 size: 1440733
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Persistent Identifier e-Infrastructure
 year: 2014
 ---

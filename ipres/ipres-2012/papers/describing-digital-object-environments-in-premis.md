@@ -10,10 +10,10 @@ abstract: “Digital preservation metadata” is the information that is needed 
   describes on-going efforts within the PREMIS data dictionary’s Editorial Committee
   to define an improved metadata description for them.
 creators:
-- Dappert, Angela
-- Peyrard, Sebastien
-- Delve, Janet
-- Chou, Carol C.H.
+- Angela Dappert
+- Sebastien Peyrard
+- Janet Delve
+- Carol C.H. Chou
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293684/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: paper
 size: 1234313
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Describing Digital Object Environments in PREMIS
 year: 2012
 ---

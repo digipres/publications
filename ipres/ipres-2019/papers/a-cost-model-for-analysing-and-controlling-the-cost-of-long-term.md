@@ -12,9 +12,9 @@ abstract: For some time now, heritage organisations and other institutions have 
   management costs. But is this assumption correct? And how can we control the cost
   of curating digital collections in the long term?
 creators:
-- van Velzen, E.
-- Swagemakers, W.
-- Uffen, H.
+- E. van Velzen
+- W. Swagemakers
+- H. Uffen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079781/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 129847
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A cost model for analysing and controlling the cost of long-term digital accessibility
   as a strategic decision-making tool '
 year: 2019

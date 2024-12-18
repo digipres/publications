@@ -11,8 +11,8 @@ abstract: "The Digital Repository of Ireland (DRI) is building an interactive na
   issues of repository federation in terms of storage, deposit and the legal frameworks
   associated with these activities. \n "
 creators:
-- Webb, Sharon
-- O’Carroll, Aileen
+- Sharon Webb
+- Aileen O’Carroll
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378124/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 57999
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The process of building a national trusted digital repository: solving the
   federation problem'
 year: 2014

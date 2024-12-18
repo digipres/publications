@@ -10,7 +10,7 @@ abstract: How can the curatorial processes of the museum be participated by sour
   communities cooperate with the museum to preserve geoheritage and develop a sustainable
   economy.
 creators:
-- Lin, Yi-Ting
+- Yi-Ting Lin
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/fc223a439e9347e49352b38a8bd6b81d
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Progress to Participatory Digital Preservation with Geopark: A Case
   Study of How Gold Museum in Taiwan Participates in Shui-Chin-Chiu Geopark to Engage
   with Local Communities'

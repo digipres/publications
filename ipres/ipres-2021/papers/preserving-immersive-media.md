@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- SERHAT KARAMAN, OSMAN
+- OSMAN SERHAT KARAMAN
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424815/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: lightning talk
 size: 78029
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preserving Immersive Media
 year: 2021
 ---

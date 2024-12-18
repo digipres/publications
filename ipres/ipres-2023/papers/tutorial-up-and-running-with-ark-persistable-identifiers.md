@@ -6,8 +6,8 @@ abstract: This half-day (3-hour) tutorial is a pragmatic introduction to the Arc
   to use and how to create ARKs for their respective memory organizations. No prior
   experience is required.
 creators:
-- Kunze, John
-- Winston, Donny
+- John Kunze
+- Donny Winston
 date: null
 document_url: https://www.ideals.illinois.edu/items/128261/bitstreams/428887/data.pdf
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'TUTORIAL: UP AND RUNNING WITH ARK PERSISTABLE IDENTIFIERS'
 year: 2023
 ---

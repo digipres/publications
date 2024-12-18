@@ -17,9 +17,9 @@ abstract: 'This paper presents an approach for merging information automatically
 
   '
 creators:
-- Graf, Roman
-- Ryan, Heather
-- Gordea, Sergiu
+- Roman Graf
+- Heather Ryan
+- Sergiu Gordea
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378112/download
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: paper
 size: 810821
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Model for Format Endangerment Analysis using Fuzzy Logic
 year: 2014
 ---

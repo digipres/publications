@@ -15,9 +15,9 @@ abstract: The Database Preservation Toolkit is a software that automates the mig
   to pilot them in the context of the European Archival Records and Knowledge Preservation
   project on several European national archives.
 creators:
-- Ferreira, Bruno
-- Ramalho, José Carlos
-- Faria, Luís
+- Bruno Ferreira
+- José Carlos Ramalho
+- Luís Faria
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503182/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 378550
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Database Preservation Toolkit
 year: 2016
 ---

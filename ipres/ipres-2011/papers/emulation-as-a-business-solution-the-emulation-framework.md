@@ -14,10 +14,10 @@ abstract: 'Emulation is often considered a technically very complex subject. The
   Each of the four steps of the emulation workflow are described in detail, providing
   a simple tool for managing a complex decision making process.'
 creators:
-- Lohman, Bram
-- van der Hoeven, Jeffrey
-- Michel, David
-- Kiers, Bart
+- Bram Lohman
+- Jeffrey van der Hoeven
+- David Michel
+- Bart Kiers
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294241/download
 grand_parent: iPRES
@@ -44,6 +44,7 @@ publication_type: paper
 size: 872434
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Emulation as a Business Solution: the Emulation Framework'
 year: 2011
 ---

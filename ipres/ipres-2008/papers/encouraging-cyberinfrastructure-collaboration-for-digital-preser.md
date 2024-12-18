@@ -40,10 +40,10 @@ abstract: 'Over the last several decades, U.S. supercomputing centers such as th
   briefly considered and compared, and future directions for international efforts
   are evaluated.'
 creators:
-- Jordan, Christopher
-- McDonald, Robert H.
-- Minor, David
-- Kozbial, Ardys
+- Christopher Jordan
+- Robert H. McDonald
+- David Minor
+- Ardys Kozbial
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294168/download
 grand_parent: iPRES
@@ -60,6 +60,7 @@ publication_type: paper
 size: 47176
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Encouraging Cyberinfrastructure Collaboration for Digital Preservation
 year: 2008
 ---

@@ -9,10 +9,10 @@ abstract: The Goportis Consortium consists of the three German National Subject 
   process (distribution of tasks, time frame, etc.). This way it could serve as best-practice
   example for other institutions interested in consortial certification.
 creators:
-- Friese, Yvonne
-- Bähr, Thomas
-- Schwab, Franziska
-- Gerdes, Thomas
+- Yvonne Friese
+- Thomas Bähr
+- Franziska Schwab
+- Thomas Gerdes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502854/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: poster
 size: 45529
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Consortial Certification Processes – The Goportis Digital Archive
 year: 2016
 ---

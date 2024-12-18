@@ -16,8 +16,8 @@ abstract: Significant progress has been made in clarifying the decision factors 
   policy definitions at large scales, and to lower entry barriers by focussing on
   those aspects that have the strongest impact.
 creators:
-- Hamm, Markus
-- Becker, Christoph
+- Markus Hamm
+- Christoph Becker
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294210/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: paper
 size: 1106015
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Impact Assessment of Decision Criteria in Preservation Planning
 year: 2011
 ---

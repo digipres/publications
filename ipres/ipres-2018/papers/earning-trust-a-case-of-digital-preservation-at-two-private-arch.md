@@ -11,8 +11,8 @@ abstract: In this paper a comparison is made between two private Dutch archives 
   differences and similarities with the aim to find the areas where the organizations
   might truly support each other.
 creators:
-- Ras, Marcel
-- Gillesse, Robert
+- Marcel Ras
+- Robert Gillesse
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923640/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 119150
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Earning trust: A case of digital preservation at two private archives'
 year: 2018
 ---

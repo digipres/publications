@@ -12,9 +12,9 @@ abstract: Significant progress and guidance has been produced in data recovery f
   software emulation are all areas for further exploration in the interest of bringing
   older 8-inch floppy media content to researchers.
 creators:
-- Sampson, Walker
-- Adams , Abby
-- Roche, Austin
+- Walker Sampson
+- Abby Adams
+- Austin Roche
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923648/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: paper
 size: 973455
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Data Recovery and Investigation from 8-inch Floppy Disk Media: Three Use Cases'
 year: 2018
 ---

@@ -7,7 +7,7 @@ abstract: Registries that describe the technical context within which our digita
   landscape, identifying gaps in provision, understanding changing user needs, and
   exploring opportunities for collaboration.
 creators:
-- Wheatley, Paul
+- Paul Wheatley
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/b4c21be4d96c4b369711d9d242185451
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: workshop
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Workshop: Registering our preservation intentions: A collaborative workshop
   on digital preservation registries'
 year: 2022

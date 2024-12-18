@@ -27,10 +27,10 @@ abstract: 'Researchers across a range of fields have been inspired by the
 
   current version of the CCMF.'
 creators:
-- Lyon, Liz
-- Ball, Alexander
-- Duke, Monica
-- Day, Michael
+- Liz Lyon
+- Alexander Ball
+- Monica Duke
+- Michael Day
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293003/download
 grand_parent: iPRES
@@ -54,6 +54,7 @@ publication_type: paper
 size: 649626
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Developing a Community Capability Model Framework for data-intensive research
 year: 2012
 ---

@@ -6,7 +6,7 @@ abstract: In this poster, we present the current status, lessons learned, and be
   and set of resources and case studies for use within repositories seeking an audit-based
   approach of evaluation.
 creators:
-- Tieman, Jessica
+- Jessica Tieman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429608/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: poster
 size: 87386
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Strategies for Audit-Based Repository Certification: Guidelines, Resources,
   and Tools to Prepare, Organize, and Evaluate Criteria Evidence'
 year: 2015

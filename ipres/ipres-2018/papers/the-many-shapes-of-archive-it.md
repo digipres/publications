@@ -58,10 +58,10 @@ abstract: "Web archives, a key area of digital preservation, meet the needs of j
   order to identify its semantic category. Identifying collections by their semantic
   category allows further downstream processing to be tailored to these categories."
 creators:
-- Jones, Shawn
-- Weigle, Michele
-- Nwala, Alexander
-- Nelson, Michael
+- Shawn Jones
+- Michele Weigle
+- Alexander Nwala
+- Michael Nelson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923619/download
 grand_parent: iPRES
@@ -78,6 +78,7 @@ publication_type: paper
 size: 2639145
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: The Many Shapes of Archive-It.
 year: 2018
 ---

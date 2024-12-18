@@ -7,8 +7,8 @@ abstract: Viewshare is a free, Library-of-Congress-sponsored platform that empow
   navigation), which can be copy-pasted in any webpage. The data augmentation services
   associated with Viewshare will also be demonstrated.
 creators:
-- Owens, Trevor
-- Potter, Abigail
+- Trevor Owens
+- Abigail Potter
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294075/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 810083
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Creating Visualizations of Digital Collections with Viewshare
 year: 2012
 ---

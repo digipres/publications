@@ -17,11 +17,11 @@ abstract: 'For decades, the Earth Science (ES) community has launched missions t
   impact on key parameters and consequently on the value of digital assets. This model
   is being assessed in ES scenarios with data curators and archive managers.'
 creators:
-- Caruso, Giuseppa
-- Briguglio, Luigi
-- Matthews, Brian
-- Tona, Calogera
-- Albani, Mirko
+- Giuseppa Caruso
+- Luigi Briguglio
+- Brian Matthews
+- Calogera Tona
+- Mirko Albani
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378046/download
 grand_parent: iPRES
@@ -43,6 +43,7 @@ publication_type: paper
 size: 593313
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Modelling Data Value in Digital Preservation
 year: 2013
 ---

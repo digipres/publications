@@ -22,8 +22,8 @@ abstract: '"In January 2015, GPO initiated a project to assess FDsys/govinfo aga
   creatively while working closely with a standard can produce authoritative and trustworthy
   practices in order to define and meet the needs of the repository’s Designated Community."'
 creators:
-- Tieman, Jessica
-- Walls, David
+- Jessica Tieman
+- David Walls
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923639/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: paper
 size: 73449
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'From Theory to Practice: The art and implementation of trustworthy digital
   repository certification'
 year: 2018

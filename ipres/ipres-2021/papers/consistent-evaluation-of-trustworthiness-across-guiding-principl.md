@@ -1,17 +1,17 @@
 ---
 abstract: null
 creators:
-- Giaretta, David
-- Garrett, John
-- Maggio, Iolanda
-- Conrad, Mark
-- Hughes, J Steven
-- Longstreth, Terry
-- Svanetti, Roberta
-- Lin, Dawei
-- Downs, Robert R.
-- Engel, Felix
-- Hemmje, Matthias
+- David Giaretta
+- John Garrett
+- Iolanda Maggio
+- Mark Conrad
+- J Steven Hughes
+- Terry Longstreth
+- Roberta Svanetti
+- Dawei Lin
+- Robert R. Downs
+- Felix Engel
+- Matthias Hemmje
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424817/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: lightning talk
 size: 81592
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Consistent evaluation of trustworthiness across guiding principles and standards
   is crucial to ensure a robust digital repository ecosystem
 year: 2021

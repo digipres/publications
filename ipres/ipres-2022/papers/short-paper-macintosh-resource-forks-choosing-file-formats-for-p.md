@@ -10,7 +10,7 @@ abstract: The preservation of files from early Macintosh Classic (OS <=9) may of
   information can be lost. Round-tripping a file through a preservation system and
   back to the original OS can help identify potential loss.
 creators:
-- Thorsted, Tyler
+- Tyler Thorsted
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/f7e31bd0cd2549b7bb61d9d230a67527
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Macintosh Resource Forks - Choosing File Formats for Preservation'
 year: 2022
 ---

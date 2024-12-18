@@ -6,9 +6,9 @@ abstract: This paper discusses the challenges of preserving art in the digital c
   We will see that while work has been done towards digital preservation, significant
   issues remain.
 creators:
-- Au Yeung, Tim
-- Greenberg, Saul
-- Carpendale, Sheelagh
+- Tim Au Yeung
+- Saul Greenberg
+- Sheelagh Carpendale
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294099/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: paper
 size: 65143
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation of Art in the Digital Realm
 year: 2008
 ---

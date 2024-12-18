@@ -12,11 +12,11 @@ abstract: The emergence of the European Digital Library (Europeana) foregrounds 
   which guarantee effective record keeping of all transactions and the current status
   of the repository.
 creators:
-- Gavrilis, Dimitris
-- Angelis, Stavros
-- Papatheodorou, Christos
-- Dallas, Costis
-- Constantopoulos, Panos
+- Dimitris Gavrilis
+- Stavros Angelis
+- Christos Papatheodorou
+- Costis Dallas
+- Panos Constantopoulos
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378054/download
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: paper
 size: 637265
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation Aspects of a Curation-Oriented Thematic Aggregator
 year: 2013
 ---

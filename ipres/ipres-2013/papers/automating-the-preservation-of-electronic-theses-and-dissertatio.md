@@ -6,7 +6,7 @@ abstract: This poster describes the tools, services, and workflows that Simon Fr
   plans to expand its digital preservation services using Archivematica, including
   integration of LOCKSS as a distributed storage network for content managed by Archivematica.
 creators:
-- Jordan, Mark
+- Mark Jordan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377391/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: poster
 size: 345628
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Automating the Preservation of Electronic Theses and Dissertations with Archivematica
 year: 2013
 ---

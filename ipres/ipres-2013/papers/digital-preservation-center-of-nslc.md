@@ -4,7 +4,7 @@ abstract: This paper briefly introduces the context and major functions of Digit
   and describes its digital preservation system, as well as its preservation services
   and future work.
 creators:
-- Wu, Zhenxin
+- Zhenxin Wu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378015/download
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: paper
 size: 290007
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Digital Preservation Center of NSLC
 year: 2013
 ---

@@ -20,15 +20,15 @@ abstract: 'In a digital preservation environment there is a need for a complete 
   turnkey solution that is ready to deploy, which significantly shortens the gap between
   theoretical development and practical applications.'
 creators:
-- Xu, Hao
-- Coposky, Jason
-- Bedard, Dan
-- Ward, Jewel
-- Russell, Terrell
-- Rajasekar, Arcot
-- Moore, Reagan
-- Keller, Ben
-- Greer, Zoey
+- Hao Xu
+- Jason Coposky
+- Dan Bedard
+- Jewel Ward
+- Terrell Russell
+- Arcot Rajasekar
+- Reagan Moore
+- Ben Keller
+- Zoey Greer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429566/download
 grand_parent: iPRES
@@ -50,6 +50,7 @@ publication_type: paper
 size: 147378
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Method for the Systematic Generation of Audit Logs in a Digital Preservation
   Environment and Its Experimental Implementation In a Production Ready System
 year: 2015

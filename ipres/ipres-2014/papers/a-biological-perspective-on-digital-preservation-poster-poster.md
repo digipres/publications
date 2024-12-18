@@ -12,12 +12,12 @@ abstract: Successful preservation of Digital Objects (DOs) ultimately demands a 
   background. It includes first results from a case-study examining a software-based
   art preservation scenario (SBA) developed as part of the PERICLES FP7 project.
 creators:
-- Pocklington, Michael
-- Eggers, Anna
-- Corubolo, Fabio
-- Ludwig, Jens
-- Hedges, Mark
-- Darányi, Sándor
+- Michael Pocklington
+- Anna Eggers
+- Fabio Corubolo
+- Jens Ludwig
+- Mark Hedges
+- Sándor Darányi
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378714/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: poster
 size: 759438
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A Biological Perspective on Digital Preservation: Poster (Poster) '
 year: 2014
 ---

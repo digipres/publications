@@ -45,9 +45,9 @@ abstract: 'The Danish National Archives (DNA) has ingested structurally heteroge
   • The technical infrastructure suffered from a number of shortcomings and late decisions,
   resulting in precious loss of time.'
 creators:
-- Thirifays, Alex
-- Dokkedal, Barbara
-- Nielsen, Anders Bo
+- Alex Thirifays
+- Barbara Dokkedal
+- Anders Bo Nielsen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294205/download
 grand_parent: iPRES
@@ -67,6 +67,7 @@ publication_type: paper
 size: 534994
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Evaluation of a Large Migration Project
 year: 2011
 ---

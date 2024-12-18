@@ -17,7 +17,7 @@ abstract: Mimi Onuoha’s Library of Missing Datasets catalogues datasets that w
   finding a home for digital objects, and sharing (and deleting) these products of
   memory work.
 creators:
-- Lowry, James
+- James Lowry
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/3634d99e60aa48e3bebab72630fd8a86
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: unknown
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Digital Storytelling as Preservation
 year: 2022
 ---

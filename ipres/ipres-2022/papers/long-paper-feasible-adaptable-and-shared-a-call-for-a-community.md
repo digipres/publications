@@ -8,7 +8,7 @@ abstract: 'Through open research, experimentation and convenings with LAM sector
   LC Labs is proposing a step toward collaboratively generating a LAM-specific framework
   for understanding and implementing ML and AI technologies.  '
 creators:
-- Potter, Abigail
+- Abigail Potter
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/2d51dd5f0fcf4af0939ee9a7b8cbb309
 grand_parent: iPRES
@@ -26,6 +26,7 @@ publication_type: long paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Long Paper: Feasible, Adaptable and Shared: A call for a community framework
   for implementing ML and AI'
 year: 2022

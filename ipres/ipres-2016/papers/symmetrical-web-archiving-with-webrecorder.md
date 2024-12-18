@@ -14,8 +14,8 @@ abstract: This paper describes a workshop for the novel, open source web archivi
   to symmetrical archiving, using Webrecorder’s emulation-based browsers, defining
   object boundaries, and transitioning from or augmenting crawler-based archives.
 creators:
-- Espenschied, Dragan
-- Kreymer, Ilya
+- Dragan Espenschied
+- Ilya Kreymer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502837/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: workshop
 size: 488998
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Symmetrical Web Archiving With Webrecorder
 year: 2016
 ---

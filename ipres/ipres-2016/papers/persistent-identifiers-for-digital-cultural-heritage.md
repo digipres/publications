@@ -6,11 +6,11 @@ abstract: 'This is an introductory level tutorial. The goals of the tutorial are
   set of needs; and to share case studies that are relevant to the Digital Preservation
   community.'
 creators:
-- Clark, Jonathan
-- Hakala, Juha
-- Lunghi, Maurizio
-- Ras, Marcel
-- van Veenendaal, Remco
+- Jonathan Clark
+- Juha Hakala
+- Maurizio Lunghi
+- Marcel Ras
+- Remco van Veenendaal
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502826/download
 grand_parent: iPRES
@@ -26,6 +26,7 @@ publication_type: tutorial
 size: 118426
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Persistent Identifiers for Digital Cultural Heritage
 year: 2016
 ---

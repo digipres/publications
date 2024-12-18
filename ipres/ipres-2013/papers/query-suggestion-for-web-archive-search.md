@@ -8,10 +8,10 @@ abstract: Users frequently mistype queries and blame the web archive for poor se
   of archived web collections. The final result can be tested at http://archive.pt
   and the software is publicly available as an open source project.
 creators:
-- Costa, Miguel
-- Miranda, João
-- Cruz, David
-- Gomes, Daniel
+- Miguel Costa
+- João Miranda
+- David Cruz
+- Daniel Gomes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378057/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 204896
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Query Suggestion for Web Archive Search
 year: 2013
 ---

@@ -12,10 +12,10 @@ abstract: 'Preserving a full computer system for long-term access is in some cas
   a distributed framework, enabling on-site preservation tasks, while making use of
   a common shared knowledge base and ready-made access preview technologies.'
 creators:
-- Valizada, Isgandar
-- Rechert, Klaus
-- von Suchodoletz, Dirk
-- Schmelzer, Sebastian
+- Isgandar Valizada
+- Klaus Rechert
+- Dirk von Suchodoletz
+- Sebastian Schmelzer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294082/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: paper
 size: 1073647
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Demo – An Integrated System-Preservation Workflow
 year: 2012
 ---

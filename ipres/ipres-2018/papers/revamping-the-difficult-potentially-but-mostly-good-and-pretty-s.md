@@ -15,7 +15,7 @@ abstract: 'Archivists at the University of Michigan Bentley Historical Library r
   to early feedback and ultimately adapt our recommendations to better align with
   archivists’ needs.'
 creators:
-- Eckard, Max
+- Max Eckard
 - Alexa
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923647/download
@@ -33,6 +33,7 @@ publication_type: paper
 size: 71917
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Revamping the "Difficult (Potentially)" but "Mostly Good" and "Pretty Smooth"
   Removable Media Workflow at the Bentley Historical Library
 year: 2018

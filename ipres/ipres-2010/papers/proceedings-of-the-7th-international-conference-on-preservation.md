@@ -2,10 +2,10 @@
 abstract: 7th International Conference on Preservation of Digital Objects, September
   19 – 24, 2010, Vienna, Austria
 creators:
-- Rauber, Andreas
-- Constantopoulos, Panos
-- Kaiser, Max
-- Guenther, Rebecca
+- Andreas Rauber
+- Panos Constantopoulos
+- Max Kaiser
+- Rebecca Guenther
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245912/download
 grand_parent: iPRES
@@ -21,6 +21,7 @@ publication_type: proceedings
 size: 8768074
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Proceedings of the 7th International Conference on Preservation of Digital
   Objects
 year: 2010

@@ -17,7 +17,7 @@ abstract: 'Software often plays a key role in the ways that institutions functio
   inventory is necessary for contending with these obstacles and ensuring a reliable
   long-term software preservation strategy.'
 creators:
-- Contaxis, Nicole
+- Nicole Contaxis
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429582/download
 grand_parent: iPRES
@@ -36,6 +36,7 @@ publication_type: poster
 size: 385316
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preserving In-House Developed Software
 year: 2015
 ---

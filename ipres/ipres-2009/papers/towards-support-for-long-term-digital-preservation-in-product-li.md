@@ -15,12 +15,12 @@ abstract: Important legal and economic motivations exist for the design and engi
   architecture and a proposed preservation service interface that respects the needs
   of the engineering industry.
 creators:
-- Wilkes, Wolfgang
-- Heidbrink, Hans-Ulrich
-- Hemmje, Matthias
-- Hundsdörfer, Andreas
-- Heutelbeck, Dominic
-- Brunsmann, Jörg
+- Wolfgang Wilkes
+- Hans-Ulrich Heidbrink
+- Matthias Hemmje
+- Andreas Hundsdörfer
+- Dominic Heutelbeck
+- Jörg Brunsmann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294018/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: paper
 size: 788850
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Towards Support for Long-Term Digital Preservation in Product Life Cycle Management
 year: 2009
 ---

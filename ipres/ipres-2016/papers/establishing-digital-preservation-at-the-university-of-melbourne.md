@@ -12,7 +12,7 @@ abstract: 'Through 2015-2016, the University of Melbourne is set to achieve the 
   and ongoing investment in infrastructure (both people and technology). Realizing
   this vision will support the University’s functions, accountability, and legacy.'
 creators:
-- Weatherburn, Jaye
+- Jaye Weatherburn
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502902/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: poster
 size: 138167
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Establishing Digital Preservation At the University of Melbourne
 year: 2016
 ---

@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Jiazhen, Liu
+- Liu Jiazhen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294527/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 230853
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Thoughts on Constructing the Disaster-Tolerant and Recovery Base of Archival
   Data in China
 year: 2007

@@ -13,10 +13,10 @@ abstract: The SHAMAN project targets a framework integrating advances in the dat
   In the end we derive a service-oriented architecture with a grid-based integration
   layer as an initial approach to manage the challenges.
 creators:
-- Klas, Claus-Peter
-- Hemmje, Matthias
-- Müller, Lars
-- Brocks, Holger
+- Claus-Peter Klas
+- Matthias Hemmje
+- Lars Müller
+- Holger Brocks
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294151/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 233233
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Embedding Legacy Environments into A Grid-Based Preservation Infrastructure
 year: 2008
 ---

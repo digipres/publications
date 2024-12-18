@@ -8,8 +8,8 @@ abstract: In this paper, we describe a new initiative to develop a massive open 
   students, library practitioners, and data producers—will have opportunities to collaborate
   with and learn from others engaged in data curation practice.
 creators:
-- Tibbo, Helen
-- Christian, Thu-Mai
+- Helen Tibbo
+- Thu-Mai Christian
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378079/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 57784
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Networked Instruction for Research Data Curation Education: The CRADLE Project'
 year: 2014
 ---

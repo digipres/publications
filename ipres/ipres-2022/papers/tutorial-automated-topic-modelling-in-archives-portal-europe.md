@@ -28,7 +28,7 @@ abstract: ' <br />Archives Portal Europe (APE, www.archivesportaleurope.net) is 
   it live, gathering feedback on its usability and possible future implementations
   outside of the specific corpus of Archives Portal Europe. <br />'
 creators:
-- Arnold, Kerstin
+- Kerstin Arnold
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/0f3deda8eb8f40fbb14b077162b3bc5d
 grand_parent: iPRES
@@ -46,6 +46,7 @@ publication_type: unknown
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'TUTORIAL: AUTOMATED TOPIC MODELLING IN ARCHIVES PORTAL EUROPE'
 year: 2022
 ---

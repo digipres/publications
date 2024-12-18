@@ -32,9 +32,9 @@ abstract: '"Five years ago, at the Getty Research Institute, we implemented the 
   of waiting for some magical day when we have all the time, staffing, and expertise
   to give our full attention and care to each filestream."'
 creators:
-- Schroffel, Laura
-- Wang, Lorain
-- Soleau , Teresa
+- Laura Schroffel
+- Lorain Wang
+- Teresa Soleau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923614/download
 grand_parent: iPRES
@@ -51,6 +51,7 @@ publication_type: paper
 size: 55263
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The evolution of digital preservation at the Getty Research Institute: How
   workflows have evolved in the past five years to address our varied needs'
 year: 2018

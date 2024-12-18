@@ -9,7 +9,7 @@ abstract: "This paper asks the question “what form of digital preservation col
   issues around working within the strategic environment to coordinate local, regional
   and national approaches across Scotland and the United Kingdom. \n"
 creators:
-- Mead, Darryl
+- Darryl Mead
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378121/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 66240
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Shaping a national consortium for digital preservation
 year: 2014
 ---

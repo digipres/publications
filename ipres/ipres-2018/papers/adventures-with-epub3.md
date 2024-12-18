@@ -30,8 +30,8 @@ abstract: '"The role of standards in digital preservation is widely acknowledged
   be able to identify items with explicit rendering needs beyond those served by their
   default rendering viewers."'
 creators:
-- Pennock, Maureen
-- Day, Michael
+- Maureen Pennock
+- Michael Day
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:923650/download
 grand_parent: iPRES
@@ -48,6 +48,7 @@ publication_type: paper
 size: 606283
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Adventures with ePub3 '
 year: 2018
 ---

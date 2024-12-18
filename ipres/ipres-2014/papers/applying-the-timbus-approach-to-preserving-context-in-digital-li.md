@@ -24,8 +24,8 @@ abstract: "To date, digital preservation has generally focused on the preservati
   relevant to the digital library domain. They will also gain an understanding of
   digital preservation as a risk mitigation strategy. \n "
 creators:
-- Coutinho, Carlos
-- Gooding, Paul
+- Carlos Coutinho
+- Paul Gooding
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378687/download
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: workshops and tutorials
 size: 146965
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Applying the TIMBUS Approach to Preserving Context in Digital Libraries
 year: 2014
 ---

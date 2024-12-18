@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Xie, Sherry L.
+- Sherry L. Xie
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294495/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 203938
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Preservation: Sustainable Programs and Best Practices'
 year: 2007
 ---

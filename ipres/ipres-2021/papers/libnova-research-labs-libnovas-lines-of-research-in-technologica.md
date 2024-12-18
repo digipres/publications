@@ -1,9 +1,9 @@
 ---
 abstract: null
 creators:
-- Martinez, Antonio G
-- Redondo, Teofilo
-- Fuertes, Maria
+- Antonio G Martinez
+- Teofilo Redondo
+- Maria Fuertes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424811/download
 grand_parent: iPRES
@@ -20,6 +20,7 @@ publication_type: lightning talk
 size: 61554
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: LIBNOVA RESEARCH LABS LIBNOVA’s lines of research in technological innovation
 year: 2021
 ---

@@ -14,10 +14,10 @@ abstract: Security is critical to repository trustworthiness. Recent internation
   needs. Implications for better understanding the security of digital repositories
   are discussed as well as directions for future research.
 creators:
-- Donaldson, Devan Ray
-- Keitel, Christian
-- Dowding, Heidi
-- Hill, Raquel
+- Devan Ray Donaldson
+- Christian Keitel
+- Heidi Dowding
+- Raquel Hill
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503191/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 237617
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Securing Trustworthy Digital Repositories
 year: 2016
 ---

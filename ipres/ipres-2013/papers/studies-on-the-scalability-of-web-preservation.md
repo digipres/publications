@@ -33,12 +33,12 @@ abstract: 'This paper describes a mechanism for improving the scalability of pre
   several orders of magnitude, producing a corresponding increase in performance and
   scalability.'
 creators:
-- Blevins, Rory
-- Patel, Ismail
-- O'Sullivan, Jack
-- Hunter, Ashley
-- Sharpe, Robert
-- Sinclair, Pauline
+- Rory Blevins
+- Ismail Patel
+- Jack O'Sullivan
+- Ashley Hunter
+- Robert Sharpe
+- Pauline Sinclair
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378060/download
 grand_parent: iPRES
@@ -58,6 +58,7 @@ publication_type: paper
 size: 447142
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Studies on the scalability of web preservation
 year: 2013
 ---

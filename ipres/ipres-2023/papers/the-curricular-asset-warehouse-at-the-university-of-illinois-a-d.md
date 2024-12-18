@@ -16,10 +16,10 @@ abstract: 'What happens to the devices that host digital objects – hard drives
   to avoid future costs and to minimize the department’s contribution to the global
   e-waste problem.'
 creators:
-- Hodgin Jones, Karin
-- Jones,  Jimi
-- Bianconi, Robyn
-- Moran, Liam
+- Karin Hodgin Jones
+- Jimi Jones
+- Robyn Bianconi
+- Liam Moran
 date: null
 document_url: https://www.ideals.illinois.edu/items/128279/bitstreams/428923/data.pdf
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121656
 source_name: iPRES
+stream_url: null
 title: 'THE CURRICULAR ASSET WAREHOUSE AT THE UNIVERSITY OF ILLINOIS: A Digital Archive’s
   Sustainability Case Study'
 year: 2023

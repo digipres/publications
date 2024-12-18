@@ -12,7 +12,7 @@ abstract: The Ohio State University Libraries established the Digital Preservati
   the process analysis and improvement techniques we have brought to bear, along with
   our initial recommendations for workflow and organizational improvement.
 creators:
-- Noonan, Daniel
+- Daniel Noonan
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/45c2d9bd33274267b825c95874852297
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: "Poster: Bringing Transparency and Permeability to Organizational Silos: Improving
   Workflow and Culture\r\n"
 year: 2022

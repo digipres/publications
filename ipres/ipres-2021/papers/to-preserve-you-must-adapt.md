@@ -1,9 +1,9 @@
 ---
 abstract: null
 creators:
-- Kinnaman, Alex
-- Howard, Rachel
-- Ulvestad, Deanna
+- Alex Kinnaman
+- Rachel Howard
+- Deanna Ulvestad
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1422933/download
 grand_parent: iPRES
@@ -22,6 +22,7 @@ publication_type: lightning talk
 size: 50452
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: To Preserve, You Must Adapt.
 year: 2021
 ---

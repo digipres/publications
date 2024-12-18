@@ -5,7 +5,7 @@ abstract: 'This poster describes the image comparison technique developed at the
 
   '
 creators:
-- Gattuso, Jay
+- Jay Gattuso
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424898/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: poster
 size: 313184
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: IS THIS IMAGE THAT IMAGE?
 year: 2021
 ---

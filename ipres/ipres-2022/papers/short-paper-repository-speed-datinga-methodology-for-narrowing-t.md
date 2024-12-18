@@ -9,7 +9,7 @@ abstract: Selecting a repository system is a task many collecting institutions h
   should help organizations starting on the selection road to make good choices when
   shortlisting solutions.
 creators:
-- Bredenberg, Karin
+- Karin Bredenberg
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/ae172f989b0343f9a556fcd22b6f175e
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: Repository Speed DatingA methodology for narrowing the field'
 year: 2022
 ---

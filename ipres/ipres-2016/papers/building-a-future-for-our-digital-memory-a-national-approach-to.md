@@ -9,7 +9,7 @@ abstract: 'In 2015 the national Network for Digital Heritage was established. Th
   national digital heritage. What are the developments and where are we now, with
   the program running for a year and the first results are delivered.'
 creators:
-- Ras, Marcel
+- Marcel Ras
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502838/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: paper
 size: 155042
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Building a Future for our Digital Memory A National Approach to Digital Preservation
   in The Netherlands
 year: 2016

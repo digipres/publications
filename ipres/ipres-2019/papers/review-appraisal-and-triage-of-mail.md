@@ -11,8 +11,8 @@ abstract: This full-day tutorial will focus on open-source software (OSS) tools 
   and how processing of email can fit into larger digital curation workflows. We will
   conclude with a discussion of implications for participants in their own institutions.
 creators:
-- Woods, Kam
-- Lee, Christopher A.
+- Kam Woods
+- Christopher A. Lee
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080466/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 110290
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Review, Appraisal, And Triage of Mail: '
 year: 2019
 ---

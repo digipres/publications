@@ -10,7 +10,7 @@ abstract: For research institutions in the humanities and social sciences in Jap
   these activities, the program aims to promote long-term preservation and re-use
   of data in the humanities and social sciences.
 creators:
-- Ikeuchi, Ui
+- Ui Ikeuchi
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/b31f0378876e4abd8e74ae19899d8d51
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: FOSTERING A DATA INFRASTRUCTURE FOR THE HUMANITIES AND SOCIAL SCIENCES:
   A Case Study in Japan'
 year: 2022

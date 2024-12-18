@@ -20,7 +20,7 @@ abstract: 'Operating an international archive for digital information resources 
   archives for scientific publications, sharing responsibility for complete, world-wide
   coverage and allocate tasks accordingly.'
 creators:
-- van Eijck van Heslinga, Elisabeth
+- Elisabeth van Eijck van Heslinga
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294464/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: paper
 size: 58208
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: SHAPING COURSE. The development of the strategy for the e-Depot of the Koninklijke
   Bibliotheek, National Library of the Netherlands, in a national and international
   context

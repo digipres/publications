@@ -4,8 +4,8 @@ abstract: This paper presents the efforts of Archives and Special Collections (A
   digital archiving workflow. This will be achieved by conducting a pilot project
   and in this paper we discuss the project, our methodology and outputs and outcomes.
 creators:
-- Konstantelos, Leo
-- Yan, Emma
+- Leo Konstantelos
+- Emma Yan
 date: null
 document_url: https://www.ideals.illinois.edu/items/128858/bitstreams/430310/data.pdf
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: presentation
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'CREATING AN END-TO-END PROCESS FOR IMPLEMENTING A DIGITAL ARCHIVING WORKFLOW:
   How we are putting theory into practice'
 year: 2023

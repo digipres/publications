@@ -12,10 +12,10 @@ abstract: "This paper provides an overview of the methodology and supporting adv
   as evidence of business activity are strategic assets in their own right, not just
   a byproduct of the business process, owned by the application. \n"
 creators:
-- MacDonald, Ingrid
-- Fitzgerald, Neal
-- Morris, Anna
-- Cunningham, Adrian
+- Ingrid MacDonald
+- Neal Fitzgerald
+- Anna Morris
+- Adrian Cunningham
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378129/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 348721
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Decommissioning of legacy systems: A methodology for indentifying and preserving
   records of ongoing business value in legacy business systems: Paper '
 year: 2014

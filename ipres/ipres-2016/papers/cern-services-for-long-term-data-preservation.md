@@ -15,13 +15,13 @@ abstract: In this paper we describe the services that are offered by CERN [3] fo
   has some domain-specific aspects (where the basic technology could nonetheless be
   adapted).
 creators:
-- Berghaus, Frank
-- Simko, Tibor
-- Shiers, Jamie
-- Ganis, Gerardo
-- Dallmeier Tiessen, Sünje
-- Melia, Germán Cancio
-- Blomer, Jakob
+- Frank Berghaus
+- Tibor Simko
+- Jamie Shiers
+- Gerardo Ganis
+- Sünje Dallmeier Tiessen
+- Germán Cancio Melia
+- Jakob Blomer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502840/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: paper
 size: 415852
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: CERN Services for Long Term Data Preservation
 year: 2016
 ---

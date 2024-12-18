@@ -10,8 +10,8 @@ abstract: In this paper we describe new methods for the acquisition of emails fr
   file characterisation, thereby facilitating the level of preservation watch we want
   in connection with the preservation of the acquisitioned emails.
 creators:
-- Jensen, Claus
-- Hedegaard, Christen
+- Claus Jensen
+- Christen Hedegaard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502847/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: paper
 size: 658072
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: A Method for Acquisition and Preservation of Emails
 year: 2016
 ---

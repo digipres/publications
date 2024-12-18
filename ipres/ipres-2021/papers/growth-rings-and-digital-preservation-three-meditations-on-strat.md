@@ -12,7 +12,7 @@ abstract: 'This short paper consists of three meditations on potentially fruitfu
 
   '
 creators:
-- Curham, Louise
+- Louise Curham
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424932/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 178915
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: GROWTH RINGS AND DIGITAL PRESERVATION Three meditations on strategies to preserve
   performance-dependent items
 year: 2021

@@ -11,9 +11,9 @@ abstract: Apart from technical, organisational and economical challenges of long
   Nationalbibliothek (DNB) and the Koninklijke Bibliotheek (KB, the National Library
   of the Netherlands).
 creators:
-- van der Hoeven, Jeffrey
-- Dindorf, Marcus
-- Sepetjan, Sophie
+- Jeffrey van der Hoeven
+- Marcus Dindorf
+- Sophie Sepetjan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:245907/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: poster
 size: 536813
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: LEGAL ASPECTS OF EMULATION
 year: 2010
 ---

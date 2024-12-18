@@ -8,7 +8,7 @@ abstract: Should we preserve everything or only a selection of the available inf
   part of the project "nestor" http://www.langzeitarchivierung.de/index.php?newlang=eng
   supported by the Germany Ministry for Education and Research.
 creators:
-- Severiens, Thomas
+- Thomas Severiens
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295013/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: presentation
 size: 721395
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation Planning, Institutional Strategies and Policies
 year: 2004
 ---

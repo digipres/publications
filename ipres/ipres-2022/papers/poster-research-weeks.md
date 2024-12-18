@@ -12,7 +12,7 @@ abstract: Technology companies often run ‘hack weeks’ allowing staff to spen
   how we made it happen, and generally open up discussions on digital preservation
   research and development approaches within organizations.
 creators:
-- May, Peter
+- Peter May
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/ee75a21f33a84ef18209da00d12c0996
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Research Weeks'
 year: 2022
 ---

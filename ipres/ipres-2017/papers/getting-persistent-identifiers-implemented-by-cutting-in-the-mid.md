@@ -28,9 +28,9 @@ abstract: "The Persistent Identifier (PID) project of the Dutch Digital Heritage
   and the outcomes of this project may help cultural heritage initiatives in other
   countries to get PIDs implemented in their organisations too."
 creators:
-- van Veenendaal, Remco
-- Ras, Marcel
-- Dangerfield, Marie Claire
+- Remco van Veenendaal
+- Marcel Ras
+- Marie Claire Dangerfield
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931104/download
 grand_parent: iPRES
@@ -47,6 +47,7 @@ publication_type: paper
 size: 352423
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Getting Persistent Identifiers Implemented By ‘Cutting In The Middle-Man’
 year: 2017
 ---

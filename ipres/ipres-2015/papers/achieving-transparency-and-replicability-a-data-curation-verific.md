@@ -3,8 +3,8 @@ abstract: In this poster, we illustrate the workflow developed by the Odum Insti
   for Research in Social Science Data Archive to support the curation and verification
   of replication data files for the American Journal of Political Science.
 creators:
-- Christian, Thu-Mai
-- Lafferty-Hess, Sophia
+- Thu-Mai Christian
+- Sophia Lafferty-Hess
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429580/download
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: poster
 size: 411511
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Achieving Transparency and Replicability: A Data Curation, Verification, and
   Publication Workflow'
 year: 2015

@@ -13,7 +13,7 @@ abstract: The hard sciences have worked for many years towards global collaborat
   preservation, Nestor II aims to network the e-Science and preservation communities
   and further the transfer of concepts and tools between them.
 creators:
-- Neuroth, Heike
+- Heike Neuroth
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294564/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: presentation
 size: 155026
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'nestor II: e-Science and Preservation - A Perfect Match?'
 year: 2006
 ---

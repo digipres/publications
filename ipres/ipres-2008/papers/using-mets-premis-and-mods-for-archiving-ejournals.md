@@ -7,8 +7,8 @@ abstract: As institutions turn towards developing archival digital repositories,
   structural, PREMIS preservation and MODS descriptive metadata for the British Library’s
   eJournal system.
 creators:
-- Dappert, Angela
-- Enders, Markus
+- Angela Dappert
+- Markus Enders
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294144/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: paper
 size: 85844
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Using METS, PREMIS and MODS for Archiving eJournals
 year: 2008
 ---

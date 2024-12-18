@@ -1,9 +1,9 @@
 ---
 abstract: null
 creators:
-- Martinez, Antonio G
-- Redondo, Teofilo
-- Fuertes, Maria
+- Antonio G Martinez
+- Teofilo Redondo
+- Maria Fuertes
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424810/download
 grand_parent: iPRES
@@ -20,6 +20,7 @@ publication_type: lightning talk
 size: 83642
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: LEARNINGS FROM ARCHIVER PROJECT How to preserve research datasets
 year: 2021
 ---

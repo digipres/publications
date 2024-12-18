@@ -5,7 +5,7 @@ abstract: Implementation of a digital repository involves much more than just th
   it is also an organisational issue and requires fundamental consideration of core
   records management and recordkeeping issues.
 creators:
-- Boudrez, Filip
+- Filip Boudrez
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294178/download
 grand_parent: iPRES
@@ -22,6 +22,7 @@ publication_type: paper
 size: 34266
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Building a digital repository: a practical implementation'
 year: 2008
 ---

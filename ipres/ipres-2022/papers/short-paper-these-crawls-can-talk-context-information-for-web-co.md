@@ -15,7 +15,7 @@ abstract: 'The National Library of the Netherlands has been harvesting the web s
   web collections that we think could be seen as implementations of these three types
   of documentation elements.'
 creators:
-- van den Eijkel, Susanne
+- Susanne van den Eijkel
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/acfd309330364e85ac3f465450cd54bd
 grand_parent: iPRES
@@ -36,6 +36,7 @@ publication_type: short paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Short Paper: These Crawls can Talk. Context Information for Web Collections.'
 year: 2022
 ---

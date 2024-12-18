@@ -7,9 +7,9 @@ abstract: This poster presents the preliminary findings of a project that analyz
   Future work will identify points of intervention in digital preservation to address
   these issues.
 creators:
-- Han, Yingying
-- Han, Ruohua
-- Wickett, Karen M.
+- Yingying Han
+- Ruohua Han
+- Karen M. Wickett
 date: null
 document_url: https://www.ideals.illinois.edu/items/128273/bitstreams/428911/data.pdf
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'METADATA THAT EXCLUDES: A Case Study of the Rock Springs Massacre in Digital
   Collections'
 year: 2023

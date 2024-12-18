@@ -16,7 +16,7 @@ abstract: 'This paper presents an investigation of the best suitable package for
   differ from the ones described here, e.g. if there are specific forensic or direct
   access to files.'
 creators:
-- Zierau, Eld
+- Eld Zierau
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293682/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: paper
 size: 644237
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Package Formats for Preserved Digital Material
 year: 2012
 ---

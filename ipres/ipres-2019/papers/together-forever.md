@@ -11,10 +11,10 @@ abstract: 'Collaboration is a key to success in digital preservation. In Finland
   with a set of common specifications only through a close collaboration with the
   data curators.'
 creators:
-- Lehtonen, Juha
-- Koivunen, Kimmo
-- Helin, Heikki
-- Kylander, Johan
+- Juha Lehtonen
+- Kimmo Koivunen
+- Heikki Helin
+- Johan Kylander
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1081727/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: paper
 size: 287264
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Together Forever '
 year: 2019
 ---

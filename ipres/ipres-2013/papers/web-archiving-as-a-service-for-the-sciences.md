@@ -10,9 +10,9 @@ abstract: The collection and archiving of scientifically relevant websites is so
   With this project the Bavarian State Library wants to improve both quantity and
   quality of scientific web archives and promote their use in the scholarly context.
 creators:
-- Kugler, Anna
-- Beinert, Tobias
-- Schoger, Astrid
+- Anna Kugler
+- Tobias Beinert
+- Astrid Schoger
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378095/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: paper
 size: 241805
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Web Archiving as a Service for the Sciences
 year: 2013
 ---

@@ -19,8 +19,8 @@ abstract: Managing authenticity is a crucial issue in the preservation of digita
   the European Community under the Information Society Technologies (IST) program
   of the 7th FP for RTD - project APARSEN, ref. 269977.
 creators:
-- Salza, Silvio
-- Guercio, Maria
+- Silvio Salza
+- Maria Guercio
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293837/download
 grand_parent: iPRES
@@ -43,6 +43,7 @@ publication_type: paper
 size: 827783
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Authenticity Management in Long Term Digital Preservation of Medical Records
 year: 2012
 ---

@@ -11,7 +11,7 @@ abstract: nestor, the German network of expertise in digital preservation starte
   were identified that also need further refinement in order to make nestor fit for
   the future. These aspects shall be discussed in the paper.
 creators:
-- Schrimpf, Sabine
+- Sabine Schrimpf
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294002/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 760132
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Lessons Learned: Moving a Digital Preservation Network from Project Organization
   to Sustainability'
 year: 2009

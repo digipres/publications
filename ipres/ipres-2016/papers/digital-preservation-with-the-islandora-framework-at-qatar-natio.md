@@ -3,9 +3,9 @@ abstract: This poster outlines how Qatar National Library builds a versatile mul
   repository that will provide digital preservation solutions to a wide range of national
   stakeholders and use cases.
 creators:
-- Straube, Armin
-- Abo Ouda, Mohammed
-- Shaon, Arif
+- Armin Straube
+- Mohammed Abo Ouda
+- Arif Shaon
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503176/download
 grand_parent: iPRES
@@ -21,6 +21,7 @@ publication_type: poster
 size: 567089
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Digital Preservation with the Islandora Framework at Qatar National Library
 year: 2016
 ---

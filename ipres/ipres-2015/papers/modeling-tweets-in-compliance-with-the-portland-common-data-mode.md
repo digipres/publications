@@ -9,8 +9,8 @@ abstract: 'The ingest of non-traditional digital library collections into a link
   can derive a linked data serialization and perform the ingest into our preservation
   repository.'
 creators:
-- Klein, Martin
-- Clarke, Kevin
+- Martin Klein
+- Kevin Clarke
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429592/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 175954
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Modeling Tweets in Compliance with the Portland Common Data Model
 year: 2015
 ---

@@ -4,8 +4,8 @@ abstract: This poster reports on a project at the University of Miami Libraries 
   access in the UM Digital Collections, and to assign item-level rights statements
   to over 52,000 items.
 creators:
-- Capell, Laura
-- Williams, Elliot
+- Laura Capell
+- Elliot Williams
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502824/download
 grand_parent: iPRES
@@ -21,6 +21,7 @@ publication_type: poster
 size: 105582
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Assigning Rights Statements to Legacy Digital Collections
 year: 2016
 ---

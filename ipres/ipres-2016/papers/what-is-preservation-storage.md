@@ -11,13 +11,13 @@ abstract: Storage is arguably the most fundamental building block of any technic
   is possible for the attendees to write a brief “principles of preservation storage”
   as a starting point for a larger discussion within the community after the conference.
 creators:
-- Goethals, Andrea
-- Schaefer, Sibyl
-- Zwaard, Kate
-- Truman, Gail
-- McGovern, Nancy
-- Mandelbaum, Jane
-- Knight, Steve
+- Andrea Goethals
+- Sibyl Schaefer
+- Kate Zwaard
+- Gail Truman
+- Nancy McGovern
+- Jane Mandelbaum
+- Steve Knight
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502819/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: workshop
 size: 91695
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: What is Preservation Storage?
 year: 2016
 ---

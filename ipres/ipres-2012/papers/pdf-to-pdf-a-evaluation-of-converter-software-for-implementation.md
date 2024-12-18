@@ -14,8 +14,8 @@ abstract: PDF/A is a version of Portable Document Format backed by ISO standard 
   the FDA’s evaluation process and present the results in such a way that they provide
   insight into challenges and potential drawbacks during similar evaluation or implementation.
 creators:
-- Koo, Jamin
-- Chou, Carol C.H.
+- Jamin Koo
+- Carol C.H. Chou
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293871/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: poster
 size: 595742
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'PDF to PDF/A: Evaluation of Converter Software for Implementation in Digital
   Repository Workflow'
 year: 2012

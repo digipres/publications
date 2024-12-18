@@ -7,7 +7,7 @@ abstract: 'Working with huge collections of unstructured data is a common yet st
 
   '
 creators:
-- Fritz, Steffen
+- Steffen Fritz
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424904/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 229108
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'filedriller: Marrying Siegfried and the National Software Reference Library'
 year: 2021
 ---

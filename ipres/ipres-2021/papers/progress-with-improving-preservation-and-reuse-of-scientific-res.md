@@ -12,12 +12,12 @@ abstract: 'We report progress towards automatically transforming existing analys
 
   '
 creators:
-- Cornwell, Peter
-- Agosti, Donat
-- Benichou, Laurence
-- Gonzalez Lopez, Jose Benito
-- Herren, Madeleine
-- Ruch, Patrick
+- Peter Cornwell
+- Donat Agosti
+- Laurence Benichou
+- Jose Benito Gonzalez Lopez
+- Madeleine Herren
+- Patrick Ruch
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424947/download
 grand_parent: iPRES
@@ -46,6 +46,7 @@ publication_type: paper
 size: 2425249
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: PROGRESS WITH IMPROVING PRESERVATION AND REUSE OF SCIENTIFIC RESEARCH DATA
 year: 2021
 ---

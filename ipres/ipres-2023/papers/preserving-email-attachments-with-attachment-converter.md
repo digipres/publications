@@ -1,10 +1,10 @@
 ---
 abstract: null
 creators:
-- Teichman, Matt
-- Gosselar, Ashley
-- Obetta, Obi
-- Karle, Nishchay
+- Matt Teichman
+- Ashley Gosselar
+- Obi Obetta
+- Nishchay Karle
 date: null
 document_url: https://www.ideals.illinois.edu/items/128257/bitstreams/428879/data.pdf
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: PRESERVING EMAIL ATTACHMENTS WITH ATTACHMENT CONVERTER
 year: 2023
 ---

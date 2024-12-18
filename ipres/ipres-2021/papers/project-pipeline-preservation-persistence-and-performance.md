@@ -14,9 +14,9 @@ abstract: 'Preservation pipelines demonstrate extended value when digitized cont
 
   '
 creators:
-- Greenberg, Jane
-- Rauch, Christopher B.
-- Kelly, Mat
+- Jane Greenberg
+- Christopher B. Rauch
+- Mat Kelly
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424940/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: paper
 size: 546397
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Project Pipeline: Preservation, Persistence, and Performance'
 year: 2021
 ---

@@ -8,7 +8,7 @@ abstract: The ingest and its preparation are crucial steps and of strategical im
   side. This paper will introduce the guide, present first experiences and discuss
   the challenges.
 creators:
-- Ludwig, Jens
+- Jens Ludwig
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294012/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: paper
 size: 695165
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Into the Archive: Potential and Limits of Standardizing the Ingest'
 year: 2009
 ---

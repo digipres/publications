@@ -10,9 +10,9 @@ abstract: 'There are relatively few digital preservation policies within institu
   and countries and will be of interest to those wishing to develop policy and justify
   investment in digital preservation within a wide range of institutions.'
 creators:
-- Beagrie, Neil
-- Williams, Peter
-- Rettberg, Najla
+- Neil Beagrie
+- Peter Williams
+- Najla Rettberg
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294052/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 216652
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Preservation Policy: A subject of no importance?'
 year: 2008
 ---

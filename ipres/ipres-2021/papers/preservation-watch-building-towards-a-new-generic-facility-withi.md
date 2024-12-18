@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- van Zwol, Tamara  (Coordinator Preservation Watch for The Dutch Digital Heritage
-  Network
+- Tamara  (Coordinator Preservation Watch for The Dutch Digital Heritage Network van
+  Zwol
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424693/download
 grand_parent: iPRES
@@ -19,6 +19,7 @@ publication_type: lightning talk
 size: 586349
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation Watch: building towards a new generic facility within The Dutch
   Digital Heritage Network'
 year: 2021

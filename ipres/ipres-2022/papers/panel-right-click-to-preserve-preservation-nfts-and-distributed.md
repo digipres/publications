@@ -9,7 +9,7 @@ abstract: Artists have experimented with cryptocurrency-incentivized distributed
   specific approach to how preservation professionals can keep such works alive. We
   then jointly compare their merits in a variety of preservation contexts.
 creators:
-- Ippolito, Jon
+- Jon Ippolito
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/e1613acecbc046539f47fe0621b08953
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: panel
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Panel: Right Click to Preserve: Preservation, NFTs, and Distributed Ledgers'
 year: 2022
 ---

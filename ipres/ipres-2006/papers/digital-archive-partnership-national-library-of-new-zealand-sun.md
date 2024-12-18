@@ -14,7 +14,7 @@ abstract: For almost two years, the National Library of New Zealand (NLNZ), Ende
   Group will be examined as a method of ensuring industry-wide compliance and as a
   mechanism for explicating and resolving tension between partners.
 creators:
-- Tamminga, Tim
+- Tim Tamminga
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294557/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: presentation
 size: 1517516
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Archive Partnership: National Library of New Zealand, Sun Microsystems,
   Endeavor Information Systems'
 year: 2006

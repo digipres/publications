@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Donova, Lori
+- Lori Donova
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424694/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: lightning talk
 size: 30447
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Community History Web Archiving Program
 year: 2021
 ---

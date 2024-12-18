@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- McDonald, Robert H.
+- Robert H. McDonald
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294480/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 801569
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Chronopolis Demonstration Project: A Grid-Based Digital Preservation Environment'
 year: 2007
 ---

@@ -11,7 +11,7 @@ abstract: Different digital objects have different preservation requirements inv
   and partners to improve the quality of the preservation of and access to digital
   objects while reducing costs.
 creators:
-- van Meegen Silva, Ana
+- Ana van Meegen Silva
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079696/download
 grand_parent: iPRES
@@ -27,6 +27,7 @@ publication_type: paper
 size: 162224
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'One repository solution doesn’t fit all '
 year: 2019
 ---

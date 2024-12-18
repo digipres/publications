@@ -14,10 +14,10 @@ abstract: "The scope of digital curation at the BnF covers documents digitized f
   Common validation tools, characterization schemes and preservation metadata will
   be used in order to preserve both faces of French digital heritage. \n"
 creators:
-- Derrot, Sophie
-- Moreux, Jean-Philippe
-- Oury, Clément
-- Reecht, Stéphane
+- Sophie Derrot
+- Jean-Philippe Moreux
+- Clément Oury
+- Stéphane Reecht
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378123/download
 grand_parent: iPRES
@@ -43,6 +43,7 @@ publication_type: paper
 size: 104492
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation of ebooks: from digitized to born-digital'
 year: 2014
 ---

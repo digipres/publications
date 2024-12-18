@@ -23,9 +23,9 @@ abstract: 'The main digital preservation strategies are based on metadata
   this paper we elaborate on this problem, we propose a general approach, and discuss
   examples and a prototype application that we have developed assuming the RFD/S framework.'
 creators:
-- Tzitzikas, Yannis
-- Analyti, Anastasia
-- Kampouraki, Mary
+- Yannis Tzitzikas
+- Anastasia Analyti
+- Mary Kampouraki
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293680/download
 grand_parent: iPRES
@@ -48,6 +48,7 @@ publication_type: paper
 size: 1337455
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Curating the Specificity of Metadata while World Models Evolve
 year: 2012
 ---

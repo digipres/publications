@@ -22,8 +22,8 @@ abstract: Archivematica began in 2008 as a working hypothesis that assumed a com
   implementation, and a business plan that stays true to the ideals of the free software
   community.
 creators:
-- van Garderen, Peter
-- C. Mumma, Courtney
+- Peter van Garderen
+- Courtney C. Mumma
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378058/download
 grand_parent: iPRES
@@ -50,6 +50,7 @@ publication_type: paper
 size: 244995
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Realizing the Archivematica vision: delivering a comprehensive and free OAIS
   implementation'
 year: 2013

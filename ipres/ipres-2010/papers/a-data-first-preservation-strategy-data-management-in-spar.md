@@ -41,8 +41,8 @@ abstract: 'The Bibliothèque nationale de France has developed its
 
   collection curator or system manager.'
 creators:
-- Fauduet, Louise
-- Peyrard, Sébastien
+- Louise Fauduet
+- Sébastien Peyrard
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185415/download
 grand_parent: iPRES
@@ -58,6 +58,7 @@ publication_type: paper
 size: 111338
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'A DATA-FIRST PRESERVATION STRATEGY: DATA  MANAGEMENT IN SPAR'
 year: 2010
 ---

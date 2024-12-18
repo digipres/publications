@@ -12,7 +12,7 @@ abstract: Is software obsolescence a significant risk? To explore this issue, we
   and uncover evidence indicating that network effects act to stabilise formats against
   obsolescence.
 creators:
-- Jackson, Andrew N.
+- Andrew N. Jackson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293834/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 820275
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Formats over Time: Exploring UK Web History'
 year: 2012
 ---

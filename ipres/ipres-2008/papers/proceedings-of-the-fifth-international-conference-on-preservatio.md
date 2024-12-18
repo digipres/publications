@@ -19,6 +19,7 @@ publication_type: proceedings
 size: 4841332
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Proceedings of The Fifth International Conference on Preservation of Digital
   Objects
 year: 2008

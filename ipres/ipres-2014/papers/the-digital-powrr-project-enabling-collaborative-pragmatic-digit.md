@@ -3,7 +3,7 @@ abstract: "The Digital POWRR Project has spent several years investigating scala
   and practical digital preservation solutions that might be able to be implemented
   at smaller and less-resourced institutions. \n"
 creators:
-- Erdman, Stacey
+- Stacey Erdman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378692/download
 grand_parent: iPRES
@@ -19,6 +19,7 @@ publication_type: poster
 size: 33292
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'The Digital POWRR Project: Enabling Collaborative Pragmatic Digital Preservation
   Approaches: Poster (Text) '
 year: 2014

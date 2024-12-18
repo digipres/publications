@@ -14,11 +14,11 @@ abstract: Capturing OAIS defined representation information in a standardised wa
   object and automatically read the data it contains and render it in the appropriate
   way.
 creators:
-- Rankin, Stephen
-- Dunckley, Matt
-- McIlwrath, Brian
-- Crothers, Steve
-- Giaretta, David
+- Stephen Rankin
+- Matt Dunckley
+- Brian McIlwrath
+- Steve Crothers
+- David Giaretta
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294862/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: presentation
 size: 1148200
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Virtualisation of Simple Scientific Data Objects
 year: 2006
 ---

@@ -18,9 +18,9 @@ abstract: In human memory, forgetting plays a crucial role for focusing on impor
   for managed forgetting, discuss the challenges as well as our first ideas for its
   introduction, and present a case study for its motivation.
 creators:
-- Kanhabua, Nattiya
-- Niederée, Claudia
-- Siberski, Wolf
+- Nattiya Kanhabua
+- Claudia Niederée
+- Wolf Siberski
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378092/download
 grand_parent: iPRES
@@ -38,6 +38,7 @@ publication_type: paper
 size: 1860232
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Towards Concise Preservation by Managed Forgetting: Challenges and Opportunities'
 year: 2013
 ---

@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Wijsman, Lotte
+- Lotte Wijsman
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424723/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: lightning talk
 size: 47045
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: What are your digital preservation headaches, and how can we treat them together?
 year: 2021
 ---

@@ -17,9 +17,9 @@ abstract: 'Data attrition compromises the ability of scientists to validate and 
   science” data repository and showing how to accommodate diverse business practices
   among scholarly publishers, funding agencies and research institutions.'
 creators:
-- Beagrie, Neil
-- Eakin-Richards, Lorraine
-- Vision, Todd
+- Neil Beagrie
+- Lorraine Eakin-Richards
+- Todd Vision
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185233/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 171230
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'BUSINESS MODELS AND COST ESTIMATION:  DRYAD REPOSITORY CASE STUDY'
 year: 2010
 ---

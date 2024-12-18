@@ -11,8 +11,8 @@ abstract: 'Big datasets can be a rich source of history, yet they pose many chal
   practices to enable digital preservation of large textual datasets at scale. Hands-on
   experience with specific tools is provided.'
 creators:
-- Kaczmarek, Joanne
-- West, Brent
+- Joanne Kaczmarek
+- Brent West
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1080463/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: 136749
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Machine Learning For Big Text '
 year: 2019
 ---

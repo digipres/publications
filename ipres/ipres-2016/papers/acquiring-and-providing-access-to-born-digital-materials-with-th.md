@@ -12,7 +12,7 @@ abstract: This tutorial will prepare participants to use the open-source BitCura
   identify various forms of sensitive data within collections, and provide browser-based
   search and navigation of files and folders.
 creators:
-- Lee, Christopher A.
+- Christopher A. Lee
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502834/download
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: tutorial
 size: 428621
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Acquiring and Providing Access to Born-Digital Materials with the BitCurator
   Environment and BitCurator Access Webtools
 year: 2016

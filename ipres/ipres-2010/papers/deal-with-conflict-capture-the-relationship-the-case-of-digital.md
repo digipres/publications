@@ -39,7 +39,7 @@ abstract: 'Properties of digital objects play a central role in digital
 
   and those of use in Planets preservation services.'
 creators:
-- Dappert, Angela
+- Angela Dappert
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:180510/download
 grand_parent: iPRES
@@ -55,6 +55,7 @@ publication_type: paper
 size: 130176
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'DEAL WITH CONFLICT,  CAPTURE THE RELATIONSHIP:  THE CASE OF DIGITAL OBJECT
   PROPERTIES'
 year: 2010

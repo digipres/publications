@@ -10,10 +10,10 @@ abstract: In this paper we describe the National Library of New Zealand’s atte
   and the levels of effort required to achieve those, we will be able to better understand
   where our effort is being expended and the levels of preservation we are achieving.
 creators:
-- Mosely, Sean
-- Gattuso, Jay
-- McKinney, Peter
-- Moran, Jessica
+- Sean Mosely
+- Jay Gattuso
+- Peter McKinney
+- Jessica Moran
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503190/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 442082
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Conceptualising Optimal Digital Preservation and Effort
 year: 2016
 ---

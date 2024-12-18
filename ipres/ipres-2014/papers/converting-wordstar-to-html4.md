@@ -2,8 +2,8 @@
 abstract: 'In this paper, we describe the processing and verification work undertaken
   to migrate WordStar for MSDOS to HTML4 formatted files.  '
 creators:
-- McKinney, Peter
-- Gattuso, Jay
+- Peter McKinney
+- Jay Gattuso
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378111/download
 grand_parent: iPRES
@@ -26,6 +26,7 @@ publication_type: paper
 size: 715244
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Converting WordStar to HTML4
 year: 2014
 ---

@@ -7,10 +7,10 @@ abstract: The goal of the bwFLA project is the implementation and development of
   is to build-on ongoing digital preservation research in international and national
   projects to integrate workflows for emulation-based access strategies.
 creators:
-- Rechert, Klaus
-- von Suchodoletz, Dirk
-- Valizada, Isgandar
-- Fauduet, Louise
+- Klaus Rechert
+- Dirk von Suchodoletz
+- Isgandar Valizada
+- Louise Fauduet
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294077/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: poster
 size: 607130
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: bwFLA – Practical Approach to Functional Access Strategies
 year: 2012
 ---

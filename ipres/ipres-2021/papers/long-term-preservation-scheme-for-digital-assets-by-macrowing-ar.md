@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- liu, xufeng
+- xufeng liu
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424727/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: lightning talk
 size: 643448
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Long Term Preservation Scheme for Digital Assets by Macrowing Archivals
 year: 2021
 ---

@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Strodl, Stephan
-- Rauber, Andreas
+- Stephan Strodl
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294493/download
 grand_parent: iPRES
@@ -19,6 +19,7 @@ publication_type: presentation
 size: 4057792
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation Planning in the OAIS Model
 year: 2007
 ---

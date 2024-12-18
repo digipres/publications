@@ -15,8 +15,8 @@ abstract: 'This paper describes how the E-ARK project (European Archival Records
   format before detailing what the access solution will look like, which tools will
   be developed and, not least, why the E-ARK Access system will be used and work.'
 creators:
-- Thirifays, Alex
-- Hougaard Edsen Johansen, Katherine
+- Alex Thirifays
+- Katherine Hougaard Edsen Johansen
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:429561/download
 grand_parent: iPRES
@@ -36,6 +36,7 @@ publication_type: paper
 size: 756361
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Towards a Common Approach for Access to Digital Archival Records in Europe
 year: 2015
 ---

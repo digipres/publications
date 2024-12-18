@@ -16,10 +16,10 @@ abstract: Preserved digital data is often of limited use and value, due to the u
   to capture and identify the relevant context, plan preservation actions and execute
   and store business process for the future.
 creators:
-- Strodl, Stephan
-- Draws, Daniel
-- Antunes, Goncalo
-- Rauber, Andreas
+- Stephan Strodl
+- Daniel Draws
+- Goncalo Antunes
+- Andreas Rauber
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293867/download
 grand_parent: iPRES
@@ -42,6 +42,7 @@ publication_type: poster
 size: 886533
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Business Process Preservation: How to capture, document & evaluate?'
 year: 2012
 ---

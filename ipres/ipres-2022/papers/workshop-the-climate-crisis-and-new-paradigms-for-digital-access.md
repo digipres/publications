@@ -9,7 +9,7 @@ abstract: The need for action on the climate crisis is more urgent than ever, an
   are derived from older paradigms, and how we as a community can plan and advocate
   for alternatives.
 creators:
-- MacGregor, Rachel
+- Rachel MacGregor
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/f16b761ab4fe4b0bacacbd0a367035e5
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: workshop
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Workshop: The Climate Crisis and New Paradigms For Digital Access'
 year: 2022
 ---

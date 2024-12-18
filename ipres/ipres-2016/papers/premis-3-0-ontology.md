@@ -7,8 +7,8 @@ abstract: The PREMIS 3.0 Ontology Working Group is a community interested in usi
   model of the PREMIS version 3.0, but also to ease the implementation of Semantic
   Web Technology in the digital preservation community.
 creators:
-- Di Iorio, Angela
-- Caron, Bertrand
+- Angela Di Iorio
+- Bertrand Caron
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503185/download
 grand_parent: iPRES
@@ -24,6 +24,7 @@ publication_type: paper
 size: 222513
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: PREMIS 3.0 Ontology
 year: 2016
 ---

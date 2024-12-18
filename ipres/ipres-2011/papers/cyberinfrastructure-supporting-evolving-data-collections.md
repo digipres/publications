@@ -13,10 +13,10 @@ abstract: The requirements to support large-scale and complex research collectio
   of sustainable collections and a seamless transition through data gathering and
   curation, large-scale analysis, and collections dissemination and preservation.
 creators:
-- Esteva, Maria
-- Walling, David
-- Urban, Tomislav
-- Jordan, Christopher
+- Maria Esteva
+- David Walling
+- Tomislav Urban
+- Christopher Jordan
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294218/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: paper
 size: 496606
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Cyberinfrastructure Supporting Evolving Data Collections
 year: 2011
 ---

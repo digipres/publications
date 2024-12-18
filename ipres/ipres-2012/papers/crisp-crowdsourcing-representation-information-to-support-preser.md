@@ -17,9 +17,9 @@ abstract: 'In this paper, we describe a new collaborative approach to the
   cost, low resource approach to collecting essential representation information of
   widespread relevance.'
 creators:
-- Pennock, Maureen
-- Jackson, Andrew N.
-- Wheatley, Paul
+- Maureen Pennock
+- Andrew N. Jackson
+- Paul Wheatley
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293676/download
 grand_parent: iPRES
@@ -44,6 +44,7 @@ publication_type: paper
 size: 622355
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'CRISP: Crowdsourcing Representation Information to Support Preservation'
 year: 2012
 ---

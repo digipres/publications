@@ -12,9 +12,9 @@ abstract: 'Directed by an Inuit-led and serving tribal organization, Aqqaluk Tru
   community-led decision making that emphasizes Indigenous Data Sovereignty practices.
   This paper outlines the goals and initiatives of the first phases of the project.'
 creators:
-- Yunes, Erin
-- Itchuaqiyaq, Cana Uluak
-- Long, Kara
+- Erin Yunes
+- Cana Uluak Itchuaqiyaq
+- Kara Long
 date: null
 document_url: https://www.ideals.illinois.edu/items/128311/bitstreams/428987/data.pdf
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: null
 slides_url: https://hdl.handle.net/2142/121684
 source_name: iPRES
+stream_url: null
 title: 'THE REMATRIATION PROJECT: Building Capacity for Community Digital Archiving
   in Northwest Alaska'
 year: 2023

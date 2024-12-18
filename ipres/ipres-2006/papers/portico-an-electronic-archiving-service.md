@@ -19,7 +19,7 @@ abstract: The work of the academy – research and teaching – is not possible 
   and libraries, the presentation will include an update on library and publisher
   participation and the status of Portico's archival operations.
 creators:
-- Fenton, Eileen
+- Eileen Fenton
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294559/download
 grand_parent: iPRES
@@ -36,6 +36,7 @@ publication_type: presentation
 size: 236689
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Portico: An Electronic Archiving Service'
 year: 2006
 ---

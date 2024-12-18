@@ -15,8 +15,8 @@ abstract: Fedora is a flexible, extensible, open source repository platform for 
   how to search and run SPARQL queries against content in Fedora using the included
   Solr index and triplestore.
 creators:
-- Wilcox, David
-- Woods, Andrew
+- David Wilcox
+- Andrew Woods
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:502821/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: tutorial
 size: 91135
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Introduction to Fedora 4
 year: 2016
 ---

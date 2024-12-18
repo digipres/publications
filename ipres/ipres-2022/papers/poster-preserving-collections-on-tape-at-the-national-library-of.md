@@ -10,7 +10,7 @@ abstract: The National Library of Scotland collects, preserves and promotes acce
   specialists and is honored to share key aspects of this project with the preservation
   and moving image community.
 creators:
-- Hibberd, Lee
+- Lee Hibberd
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/a3c62dc6702e4a5aa2c9895c91300a74
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Preserving Collections On Tape At The National Library Of Scotland:
   From Business Case To Bytes'
 year: 2022

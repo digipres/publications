@@ -9,13 +9,13 @@ abstract: 'In this paper, we propose an Interoperability Framework (IF) for Pers
   translated into concrete use cases to serve as requirements for designing the model.
   Conclusions and intended future work close the paper.'
 creators:
-- Bazzanella, Barbara
-- van Horik, Rene
-- Giaretta, David
-- Lunghi, Maurizio
-- Bellini, Emanuele
-- Bouquet, Paolo
-- Cirinna, Chiara
+- Barbara Bazzanella
+- Rene van Horik
+- David Giaretta
+- Maurizio Lunghi
+- Emanuele Bellini
+- Paolo Bouquet
+- Chiara Cirinna
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293678/download
 grand_parent: iPRES
@@ -40,6 +40,7 @@ publication_type: paper
 size: 602166
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Interoperability Framework for Persistent Identifiers systems
 year: 2012
 ---

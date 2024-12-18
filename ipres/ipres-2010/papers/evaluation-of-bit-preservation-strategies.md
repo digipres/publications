@@ -14,9 +14,9 @@ abstract: This article describes a methodology which supports evaluation of bit 
   integrity and confidentiality. This study shows that the methodology, including
   the tools used, is suitable for this purpose.
 creators:
-- Zierau, Eld
-- Bøgvad Kejser, Ulla
-- Kulovits, Hannes
+- Eld Zierau
+- Ulla Bøgvad Kejser
+- Hannes Kulovits
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185516/download
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: paper
 size: 390161
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: EVALUATION OF BIT PRESERVATION STRATEGIES
 year: 2010
 ---

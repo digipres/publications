@@ -6,9 +6,9 @@ abstract: 'Significant properties (sigProps) research often focuses on the prese
   are about what ideally should not change over time. This paper centers temporality
   in relation to sigProps to explore challenging case studies.'
 creators:
-- Bettivia, Rhiannon
-- Cheng, Yi-Yun
-- Gryk, Michael R.
+- Rhiannon Bettivia
+- Yi-Yun Cheng
+- Michael R. Gryk
 date: null
 document_url: https://www.ideals.illinois.edu/items/128329/bitstreams/429023/data.pdf
 grand_parent: iPRES
@@ -28,6 +28,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'I GOT A LETTER FROM MY PAST SELF: (Un)managed Change and Provenance'
 year: 2023
 ---

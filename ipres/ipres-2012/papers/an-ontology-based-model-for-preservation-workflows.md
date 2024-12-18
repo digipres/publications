@@ -12,8 +12,8 @@ abstract: 'This paper aims to propose an ontology for the main digital preservat
 
   (re)use their reasoning and choices.'
 creators:
-- Mikelakis, Michalis
-- Papatheodorou, Christos
+- Michalis Mikelakis
+- Christos Papatheodorou
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:293677/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 922939
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: An ontology-based model for preservation workflows
 year: 2012
 ---

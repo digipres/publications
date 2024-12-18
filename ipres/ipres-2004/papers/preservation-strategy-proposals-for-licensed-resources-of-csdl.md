@@ -1,8 +1,8 @@
 ---
 abstract: null
 creators:
-- Xiaolin, Zhang
-- Ling, Wan
+- Zhang Xiaolin
+- Wan Ling
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:295010/download
 grand_parent: iPRES
@@ -19,6 +19,7 @@ publication_type: presentation
 size: 152053
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preservation Strategy Proposals for Licensed Resources of CSDL
 year: 2004
 ---

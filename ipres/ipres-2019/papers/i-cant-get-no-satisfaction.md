@@ -8,12 +8,12 @@ abstract: Approaches to digital stewardship vary from institution to institution
   thus far and engage attendees to discuss challenges and opportunities of digital
   preservation at their respective institutions.
 creators:
-- Verbruggen, Erwin
-- Steeves, Vicky
-- Peltzman, Shira
-- Kim, Julia
-- Griesinger, Peggy
-- Blumenthal, Karl-Rainer
+- Erwin Verbruggen
+- Vicky Steeves
+- Shira Peltzman
+- Julia Kim
+- Peggy Griesinger
+- Karl-Rainer Blumenthal
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1079780/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 139870
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: '(I Can’t Get No) Satisfaction '
 year: 2019
 ---

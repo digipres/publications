@@ -11,7 +11,7 @@ abstract: For decades, email has been a ubiquitous and critical record of humani
   around the future development road map for ePADD and strengthening the sustainability
   of the community supported tool.
 creators:
-- Patterson, Tricia
+- Tricia Patterson
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/3f3e4df30e2346c7ae41b36c81733d8a
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: unknown
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Using ePADD for Email Preservation: Implementing the ePADD+ Project Enhancements'
 year: 2022
 ---

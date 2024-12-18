@@ -1,7 +1,7 @@
 ---
 abstract: null
 creators:
-- Fenton, Eileen
+- Eileen Fenton
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294477/download
 grand_parent: iPRES
@@ -18,6 +18,7 @@ publication_type: presentation
 size: 55641
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Challenges of Digital Preservation: Early Lessons from the Portico Archive'
 year: 2007
 ---

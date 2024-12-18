@@ -11,9 +11,9 @@ abstract: 'With the advent of the so-called Web 2.0 technologies, web resources 
 
   '
 creators:
-- Gieschke, Rafael
-- Rechert, Klaus
-- Mocken, Susanne
+- Rafael Gieschke
+- Klaus Rechert
+- Susanne Mocken
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424931/download
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: paper
 size: 1130654
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Preserving Access to Web Servers
 year: 2021
 ---

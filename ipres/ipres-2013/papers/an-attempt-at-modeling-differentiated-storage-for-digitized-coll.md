@@ -11,7 +11,7 @@ abstract: 'The Koninklijke Bibliotheek (KB) digitizes the national collection of
   different collection lots and is used to find out how to apply collection care in
   an efficient way.'
 creators:
-- Stoutjesdijk, Trudie
+- Trudie Stoutjesdijk
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:377378/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 134674
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'An attempt at modeling differentiated storage for digitized collections: finding
   the balance between storage, costs and preservation of digitized publications'
 year: 2013

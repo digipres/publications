@@ -10,7 +10,7 @@ abstract: File format validation – we all use it and we all run into problems 
   largely neglected field of method formalization for file format validation error
   treatment.
 creators:
-- Lindlar, Micky
+- Micky Lindlar
 date: null
 document_url: https://www.ideals.illinois.edu/items/128296/bitstreams/428957/data.pdf
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'NOT WELL-FORMED OR INVALID. NOW WHAT?: Towards a formalized workflow for format
   validation error treatment'
 year: 2023

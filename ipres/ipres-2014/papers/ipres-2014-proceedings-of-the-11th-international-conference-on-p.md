@@ -3,13 +3,13 @@ abstract: 'From October 6‐10, 2014, the State Library of Victoria was pleased 
   the eleventh annual iPRES Conference. The conference was co-hosted by the State
   Library of Victoria and the National Library of Australia. '
 creators:
-- Coates, Serena
-- King, Ross
-- Knight, Steve
-- Lee, Christopher
-- McKinney, Peter
-- O'Meara, Erin
-- Pearson, David
+- Serena Coates
+- Ross King
+- Steve Knight
+- Christopher Lee
+- Peter McKinney
+- Erin O'Meara
+- David Pearson
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378066/download
 grand_parent: iPRES
@@ -31,6 +31,7 @@ publication_type: proceedings
 size: 39353324
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: iPRES 2014 - Proceedings of the 11th International Conference on Preservation
   of Digital Objects
 year: 2014

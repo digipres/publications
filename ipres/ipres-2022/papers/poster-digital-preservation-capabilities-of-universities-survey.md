@@ -17,7 +17,7 @@ abstract: While performing their primary functions as research and education, un
   contribute to raising awareness in universities about how DPC RAM can be used in
   the evaluation of digital preservation practices in universities.
 creators:
-- Sağlık, Özhan
+- Özhan Sağlık
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/664b9efe3ea5410784a112ada9ab4a55
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: poster
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Poster: Digital Preservation Capabilities of Universities: Survey in the Light
   of DPC RAM'
 year: 2022

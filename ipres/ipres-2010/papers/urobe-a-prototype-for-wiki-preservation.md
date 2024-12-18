@@ -49,9 +49,9 @@ abstract: 'More and more information that is considered for digital
 
   and PREMIS.'
 creators:
-- Popitsch, Niko
-- Mosser, Robert
-- Philipp, Wolfgang
+- Niko Popitsch
+- Robert Mosser
+- Wolfgang Philipp
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185508/download
 grand_parent: iPRES
@@ -67,6 +67,7 @@ publication_type: paper
 size: 777595
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'UROBE: A PROTOTYPE FOR WIKI PRESERVATION'
 year: 2010
 ---

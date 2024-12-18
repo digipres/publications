@@ -23,7 +23,7 @@ abstract: 'This poster presents an exit strategy for when organisations use clou
   others when considering either the construction or the use of cloud preservation
   services.'
 creators:
-- Addis, Matthew
+- Matthew Addis
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503165/download
 grand_parent: iPRES
@@ -39,6 +39,7 @@ publication_type: poster
 size: 123830
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Exit Strategies and Techniques for Cloud-based Preservation Services
 year: 2016
 ---

@@ -22,9 +22,9 @@ abstract: 'File format identification is a necessary step for the effective digi
 
   '
 creators:
-- Kuppili Venkata, Santhilata
-- Young, Paul
-- Green, Alex (The National Archives
+- Santhilata Kuppili Venkata
+- Paul Young
+- Alex (The National Archives Green
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424885/download
 grand_parent: iPRES
@@ -45,6 +45,7 @@ publication_type: paper
 size: 249774
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Text File Format Identification: An Application of AI for the Curation of
   Digital Records'
 year: 2021

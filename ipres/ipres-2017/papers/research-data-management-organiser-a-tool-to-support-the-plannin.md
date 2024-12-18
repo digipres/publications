@@ -14,11 +14,11 @@ abstract: 'The project Research Data Management Organiser (RDMO)1 develops a too
   data management, e.g. tasks (with deadlines and a reminder functionality) that can
   be linked with dedicated stakeholder responsibilities.'
 creators:
-- Engelhardt, Claudia
-- Enke, Harry
-- Klar, Jochen
-- Ludwig, Jens
-- Neuroth, Heike
+- Claudia Engelhardt
+- Harry Enke
+- Jochen Klar
+- Jens Ludwig
+- Heike Neuroth
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931097/download
 grand_parent: iPRES
@@ -35,6 +35,7 @@ publication_type: paper
 size: 285957
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Research Data Management Organiser: A tool to support the planning, implementation
   and organisation of research data management'
 year: 2017

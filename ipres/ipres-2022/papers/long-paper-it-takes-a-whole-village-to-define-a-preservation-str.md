@@ -11,7 +11,7 @@ abstract: After publishing its policy on data formats for digital preservation, 
   cases helped define empirically a method, still a work in progress, that is briefly
   presented in the last part of the paper.<br />
 creators:
-- Caron, Bertrand
+- Bertrand Caron
 date: null
 document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/c537cfbf3c3543c4b8ac094dddb2ce51
 grand_parent: iPRES
@@ -32,6 +32,7 @@ publication_type: long paper
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Long Paper: It Takes a Whole Village to Define a Preservation Strategy: Formalizing
   Policies on Data Formats Normalization at the National Library of France'
 year: 2022

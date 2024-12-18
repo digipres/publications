@@ -8,8 +8,8 @@ abstract: Email provides a rich history of an organization yet poses unique chal
   understand, synthesize, protect, and preserve email collections. Early findings
   and information on collaborative efforts are shared.
 creators:
-- West, Brent
-- Kaczmarek, Joanne
+- Brent West
+- Joanne Kaczmarek
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:503180/download
 grand_parent: iPRES
@@ -25,6 +25,7 @@ publication_type: paper
 size: 512398
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Processing Capstone Email Using Predictive Coding
 year: 2016
 ---

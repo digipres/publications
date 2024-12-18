@@ -12,7 +12,7 @@ abstract: The problem of digital preservation is not limited to special communit
   approaches and strategies concerning digital preservation. Different cooperation
   models will be presented, as well as legal aspects.
 creators:
-- Schumann, Natascha
+- Natascha Schumann
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294186/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 28104
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Digital preservation activities across communities – benefits and problems
 year: 2008
 ---

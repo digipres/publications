@@ -7,12 +7,12 @@ abstract: 'This panel will present and discuss the development of digital collec
 
   '
 creators:
-- Owens, Trevor
-- Goethals, Andrea
-- van der Hoeven, Jeffrey
-- Olivares, Lisandro Pablo
-- Wheatley, Paul
-- Day, Michael
+- Trevor Owens
+- Andrea Goethals
+- Jeffrey van der Hoeven
+- Lisandro Pablo Olivares
+- Paul Wheatley
+- Michael Day
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:1424928/download
 grand_parent: iPRES
@@ -41,6 +41,7 @@ publication_type: paper
 size: 419041
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Digital Library Maturation: The Evolution of Digital Collections Management
   Programs at National Libraries'
 year: 2021

@@ -9,7 +9,7 @@ abstract: 'The Memento protocol tightly integrates the Web of the Present and th
   an in-depth insight in various aspects of the Memento protocol that meanwhile has
   been published as RFC 7089. '
 creators:
-- Van de Sompel, Herbert
+- Herbert Van de Sompel
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378140/download
 grand_parent: iPRES
@@ -33,6 +33,7 @@ publication_type: workshops and tutorials
 size: 37087
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Uniform and Robust Access to Resource Versions
 year: 2014
 ---

@@ -17,7 +17,7 @@ abstract: 'Over the past 20 years, many thousands of CD-ROM titles were publishe
   emulator extensions to support obsolete CD formats and to enable networked access
   to the virtual collection.'
 creators:
-- Brown, Geoffrey
+- Geoffrey Brown
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294243/download
 grand_parent: iPRES
@@ -37,6 +37,7 @@ publication_type: paper
 size: 607478
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Developing Virtual CD-ROM Collections: The Voyager Company Publications'
 year: 2011
 ---

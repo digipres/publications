@@ -12,7 +12,7 @@ abstract: The N2T ("entity") identifier resolver addresses the same problem as U
   any identifier scheme (URLs, ARKs, Handles, DOIs, URNs, PURLs) that can be expressed
   inside a URL.
 creators:
-- Kunze, John
+- John Kunze
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294562/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: presentation
 size: 81668
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Low-Risk Persistent Identification: the "Entity" (N2T) Resolver '
 year: 2006
 ---

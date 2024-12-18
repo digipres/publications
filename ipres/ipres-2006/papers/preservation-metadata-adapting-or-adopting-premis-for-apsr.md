@@ -11,9 +11,9 @@ abstract: 'Preservation metadata requirements for repositories: a project of the
   partnership for establishing a collaborative digital preservation network for southern
   cultural heritage materials.'
 creators:
-- Lee, Bronwyn
-- Langley, Somaya
-- Clifton, Gerard
+- Bronwyn Lee
+- Somaya Langley
+- Gerard Clifton
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294859/download
 grand_parent: iPRES
@@ -30,6 +30,7 @@ publication_type: presentation
 size: 589783
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Preservation Metadata: Adapting or Adopting PREMIS for APSR'
 year: 2006
 ---

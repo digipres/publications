@@ -8,12 +8,12 @@ abstract: The digital preservation community has been developing approaches to p
   raised by the audience. This subject is a critical one to understand if we are to
   be successful in preserving our data for future generations.
 creators:
-- Alloing, Sam
-- Gilissen, Valentijn
-- Johnston, Leslie
-- Murray, Kate
-- Thorsted, Tyler
-- Wheatley, Paul
+- Sam Alloing
+- Valentijn Gilissen
+- Leslie Johnston
+- Kate Murray
+- Tyler Thorsted
+- Paul Wheatley
 date: null
 document_url: https://www.ideals.illinois.edu/items/128787/bitstreams/430167/data.pdf
 grand_parent: iPRES
@@ -34,6 +34,7 @@ publication_type: presentation
 size: null
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'POLICIES, RISKS AND STRATEGIES: A File Format Debate'
 year: 2023
 ---

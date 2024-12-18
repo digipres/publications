@@ -8,8 +8,8 @@ abstract: The field of digital archiving is situated in a tenuous position betwe
   paper aims to provide initial community suggestions for creating better, more useful
   documentation built around the concept of empathy.
 creators:
-- Work, Lauren
-- Kelly, Heidi
+- Lauren Work
+- Heidi Kelly
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:931096/download
 grand_parent: iPRES
@@ -26,6 +26,7 @@ publication_type: paper
 size: 386253
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: 'Documentation to the People: Building Empathy into Technical Documentation
   for Digital Archiving'
 year: 2017

@@ -6,10 +6,10 @@ abstract: In today’s literature digital preservation and its concepts are usua
   is limited to a significantly shorter timeline. In this paper we discuss three different
   real-world use cases that benefit from DP concepts on a short term basis.
 creators:
-- Draws, Daniel
-- Simon, Frank
-- Simon, Daniel
-- Euteneuer, Sven
+- Daniel Draws
+- Frank Simon
+- Daniel Simon
+- Sven Euteneuer
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:294225/download
 grand_parent: iPRES
@@ -29,6 +29,7 @@ publication_type: paper
 size: 725455
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: Short Term Preservation for Software Industry
 year: 2011
 ---

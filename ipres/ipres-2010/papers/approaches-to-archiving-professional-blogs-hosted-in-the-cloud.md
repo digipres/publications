@@ -55,8 +55,8 @@ abstract: 'Early adopters of blogs will have made use of
 
   support events.'
 creators:
-- Kelly, Brian
-- Guy, Marieke
+- Brian Kelly
+- Marieke Guy
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:185492/download
 grand_parent: iPRES
@@ -72,6 +72,7 @@ publication_type: paper
 size: 251794
 slides_url: null
 source_name: iPRES
+stream_url: null
 title: APPROACHES TO ARCHIVING PROFESSIONAL BLOGS  HOSTED IN THE CLOUD
 year: 2010
 ---
