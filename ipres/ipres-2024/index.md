@@ -47,4 +47,6 @@ proceedings_ideals: ""
     - [iPRES 2024 - Meeting the Digital Preservation Community - Impressions of a first-time attendee](https://www.dpconline.org/blog/wdpd/blog-lukas-hechenblaickner-wdpd2024)
     - [Flickr Foundation at iPres 2024](https://www.flickr.org/flickr-foundation-at-ipres-2024/)
     - [ADS Goes to iPres 2024 in Ghent](https://archaeologydataservice.ac.uk/blog/ipres-2024/)
+    - [HFE](https://preservation.tylerthorsted.com/2024/09/27/hfe/) (a report from the workshop "A Guide to Imaging Obscure Floppy Disk Formats")
+    - [Tightrope: an iPRES 2024 trip report](https://anjackson.net/2025/01/05/tightrope/).
 
