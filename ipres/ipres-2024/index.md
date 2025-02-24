@@ -50,4 +50,4 @@ proceedings_ideals: ""
     - [HFE](https://preservation.tylerthorsted.com/2024/09/27/hfe/) (a report from the workshop "A Guide to Imaging Obscure Floppy Disk Formats")
     - [Tightrope: an iPRES 2024 trip report](https://anjackson.net/2025/01/05/tightrope/).
     - [iPRES fête ses vingt ans ! – Deux décennies de conférences internationales sur la préservation numérique](https://siaf.hypotheses.org/1624)
-    - [As novas temporadas dos podcast da Cariniana, iniciaram em setembro de 2024](https://open.spotify.com/show/1o1yp1zm9phDrvq1hhbHlx?si=PppqHuhTQDC9MIqNWSfKFw&nd=1&dlsi=e0b41850b7a94f4e) (4 short interviews conducted at #iPRES2024
+    - [As novas temporadas dos podcast da Cariniana, iniciaram em setembro de 2024](https://open.spotify.com/show/1o1yp1zm9phDrvq1hhbHlx?si=PppqHuhTQDC9MIqNWSfKFw&nd=1&dlsi=e0b41850b7a94f4e) (4 short interviews conducted at #iPRES2024)
