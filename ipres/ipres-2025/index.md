@@ -1,17 +1,18 @@
 ---
-date: November 03 - 07, 2025
 layout: ipres
-location: Wellington, New Zealand
 parent: iPRES
-proceedings_full: ''
-proceedings_ideals: ''
-proceedings_osf: ''
-proceedings_phaidra: ''
-session_recordings: ''
 title: iPRES 2025
-website: ''
-website_mirror_ipres: ''
-website_status: ''
-year: 2025
+location: Wellington, New Zealand
+date: November 03 - 07, 2025
+logo: images/ipres-2025-banner.png
+website: https://www.ipres2025.nz/
+website_status: active
+website_mirror_ipres: ""
+proceedings_full: ""
+proceedings_phaidra: ""
+proceedings_osf: ""
+proceedings_ideals: ""
+session_recordings: ""
 has_children: false
+year: 2025
 ---
