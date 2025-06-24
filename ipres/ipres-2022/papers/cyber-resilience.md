@@ -15,22 +15,22 @@ abstract: Data that is at the heart of ransomware attack. Thanks to the rapid di
 creators:
 - Greg Hewitson
 date: null
-document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/d95106f4fa3c4918aaf2ca6a39371a3e
+document_url: https://osf.io/download/wm9nu/
 grand_parent: iPRES
 institutions:
 - Dell And CDW
 keywords: []
-landing_page_url: null
+landing_page_url: https://osf.io/ku3fs/
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
-publication_type: unknown
+publication_type: tutorial
 size: null
-slides_url: null
-source_name: iPRES
-stream_url: null
-title: 'Cyber Resilience '
+slides_url: https://osf.io/download/tfbc6/
+source_name: iPRES:osf:ku3fs
+stream_url: https://youtu.be/gTyMPcnVnC0
+title: Cyber Resilience
 year: 2022
 ---

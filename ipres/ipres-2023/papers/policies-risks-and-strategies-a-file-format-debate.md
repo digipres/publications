@@ -15,7 +15,7 @@ creators:
 - Tyler Thorsted
 - Paul Wheatley
 date: null
-document_url: https://www.ideals.illinois.edu/items/128787/bitstreams/430167/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128286/bitstreams/428937/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -24,17 +24,17 @@ keywords:
 - file format assessment
 - preservation planning
 - preservation strategy
-landing_page_url: https://hdl.handle.net/2142/121593
+landing_page_url: https://hdl.handle.net/2142/121082
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-publication_type: presentation
+publication_type: paper
 size: null
-slides_url: null
+slides_url: https://hdl.handle.net/2142/121593
 source_name: iPRES
 stream_url: null
-title: 'POLICIES, RISKS AND STRATEGIES: A File Format Debate'
+title: 'POLICIES, RISKS AND STRATEGIES:  A File Format Debate'
 year: 2023
 ---
