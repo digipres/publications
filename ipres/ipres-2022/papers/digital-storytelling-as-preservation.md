@@ -17,24 +17,26 @@ abstract: Mimi Onuoha’s Library of Missing Datasets catalogues datasets that w
   finding a home for digital objects, and sharing (and deleting) these products of
   memory work.
 creators:
+- Syreeta Gates
+- Jamie Lee
 - James Lowry
 date: null
-document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/3634d99e60aa48e3bebab72630fd8a86
+document_url: https://osf.io/download/4vjfh/
 grand_parent: iPRES
 institutions:
 - Queens College, City University Of New York
 keywords: []
-landing_page_url: null
+landing_page_url: https://osf.io/x9pf6/
 language: eng
 layout: publication
 license: CC-BY 4.0 International
-notes_url: null
+notes_url: https://osf.io/download/8ndp6/
 parent: iPRES 2022
-publication_type: unknown
+publication_type: panel
 size: null
 slides_url: null
-source_name: iPRES
-stream_url: null
+source_name: iPRES:osf:x9pf6
+stream_url: https://youtu.be/QBaO8Hb2Ce4
 title: Digital Storytelling as Preservation
 year: 2022
 ---

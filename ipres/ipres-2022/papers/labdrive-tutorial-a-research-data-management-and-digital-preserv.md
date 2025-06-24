@@ -1,27 +1,28 @@
 ---
 abstract: null
 creators:
-- Antonio Guillermo Martinez
+- Teo Redondo
+- Antonio Martinez
+- Maria Fuertes
 date: null
-document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/b2a1b6eacdfc4f8f8509714fccd1aad3
+document_url: https://osf.io/download/w2vzs/
 grand_parent: iPRES
 institutions:
 - LIBNOVA
 keywords:
 - research data management
 - digital preservation<br />
-landing_page_url: null
+landing_page_url: https://osf.io/ktwf3/
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2022
-publication_type: unknown
+publication_type: tutorial
 size: null
-slides_url: null
-source_name: iPRES
-stream_url: null
-title: "LABDRIVE Tutorial:\r\nA Research Data Management and Digital Preservation
-  Platform"
+slides_url: https://osf.io/download/e4uaw/
+source_name: iPRES:osf:ktwf3
+stream_url: https://youtu.be/5RT0iKfU_DQ
+title: 'LABDRIVE Tutorial: A Research Data Management and Digital Preservation Platform'
 year: 2022
 ---

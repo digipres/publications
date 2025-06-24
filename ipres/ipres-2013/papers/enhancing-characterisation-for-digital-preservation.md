@@ -8,7 +8,7 @@ abstract: Advances in digital preservation software tools have sometimes been sl
   of requirements identified by practitioners, and will describe four resulting tool
   developments that significantly advance our digital preservation capability.
 creators:
-- Paul Wheathley
+- Paul Wheatley
 - Gary McGath
 - Petar Petrov
 date: null

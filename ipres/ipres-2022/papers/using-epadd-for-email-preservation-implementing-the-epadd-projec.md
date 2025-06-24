@@ -11,9 +11,11 @@ abstract: For decades, email has been a ubiquitous and critical record of humani
   around the future development road map for ePADD and strengthening the sustainability
   of the community supported tool.
 creators:
+- Sally DeBauche
+- Ian Gifford
 - Tricia Patterson
 date: null
-document_url: https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/3f3e4df30e2346c7ae41b36c81733d8a
+document_url: https://osf.io/download/vt65e/
 grand_parent: iPRES
 institutions:
 - Harvard University
@@ -23,17 +25,17 @@ keywords:
 - open-source
 - collaboration
 - sustainability
-landing_page_url: null
+landing_page_url: https://osf.io/x4sj9/
 language: eng
 layout: publication
 license: CC-BY 4.0 International
-notes_url: null
+notes_url: https://osf.io/download/xmnc6/
 parent: iPRES 2022
-publication_type: unknown
+publication_type: tutorial
 size: null
 slides_url: null
-source_name: iPRES
-stream_url: null
+source_name: iPRES:osf:x4sj9
+stream_url: https://youtu.be/jKrLH8ycEfE
 title: 'Using ePADD for Email Preservation: Implementing the ePADD+ Project Enhancements'
 year: 2022
 ---

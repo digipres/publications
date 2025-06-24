@@ -13,7 +13,7 @@ abstract: The SPRUCE Project has applied community oriented approaches to suppor
   (or otherwise) of some of the more innovative or unconventional approaches taken
   by the Project.
 creators:
-- Paul Wheathley
+- Paul Wheatley
 - Maureen Pennock
 date: null
 document_url: https://services.phaidra.univie.ac.at/api/object/o:378061/download

@@ -8,7 +8,7 @@ creators:
 - Leo Konstantelos
 - Emma Yan
 date: null
-document_url: https://www.ideals.illinois.edu/items/128862/bitstreams/430318/data.pdf
+document_url: https://www.ideals.illinois.edu/items/128315/bitstreams/428995/data.pdf
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -16,17 +16,17 @@ keywords:
 - legacy storage media
 - prioritization
 - selection and appraisal
-landing_page_url: https://hdl.handle.net/2142/121668
+landing_page_url: https://hdl.handle.net/2142/121112
 language: eng
 layout: publication
 license: CC-BY 4.0 International
 notes_url: null
 parent: iPRES 2023
-publication_type: presentation
+publication_type: paper
 size: null
-slides_url: null
+slides_url: https://hdl.handle.net/2142/121668
 source_name: iPRES
 stream_url: null
-title: PRIORITIZING STORAGE MEDIA FOR DIGITAL ARCHIVING AND PRESERVATION
+title: PRIORITIZING STORAGE MEDIA  FOR DIGITAL ARCHIVING AND PRESERVATION
 year: 2023
 ---
