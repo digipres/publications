@@ -1,10 +1,10 @@
 title: "DigiPres Publications Index"
 homepage: https://digipres.org/publications/
-description: "A mini search engine for find things related to digital preservation."
+description: "PROTOTYPE for a mini search engine dedicated to digital preservation."
 sources:
 - name: "iPRES Proceedings"
-  homepage: https://ipres-conference.org/
-  description: "An index build from the collected proceedings of the iPRES conference series."
+  homepage: https://www.digipres.org/publications/ipres/
+  description: "An index build from the collected proceedings of the <a href=\"https://ipres-conference.org/\">iPRES conference series</a>."
   type: jsonl
   file: ./_awindex/ipres-awindex.jsonl
 - name: Zenodo Digital Preservation Community
