@@ -31,7 +31,7 @@ sources:
   type: awesome-list
   url: "https://raw.githubusercontent.com/iipc/awesome-web-archiving/refs/heads/main/README.md"
 - name: "IIPC Web Archiving Library"
-  homepage: https://netpreserve.org/
+  homepage: https://netpreserve.org/about-us/resources/
   description: "The (work-in-progress) IIPC Zotero library on web archiving including IIPC conference proceedings."
   type: zotero
   library_type: group
