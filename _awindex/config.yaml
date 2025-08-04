@@ -4,7 +4,7 @@ description: "PROTOTYPE for a mini search engine dedicated to digital preservati
 sources:
 - name: "iPRES Proceedings"
   homepage: https://www.digipres.org/publications/ipres/
-  description: "An index build from the collected proceedings of the <a href=\"https://ipres-conference.org/\">iPRES conference series</a>."
+  description: "An index built from the collected proceedings of the <a href=\"https://ipres-conference.org/\">iPRES conference series</a>."
   type: jsonl
   file: ./_awindex/ipres-awindex.jsonl
 - name: Zenodo Digital Preservation Community
@@ -19,8 +19,8 @@ sources:
   view_url: "https://github.com/digipres/awesome-digital-preservation/blob/main/README.md?plain=1"
   url: "https://raw.githubusercontent.com/digipres/awesome-digital-preservation/refs/heads/main/README.md"
 - name: "Ethan Gates's Emulation Library"
-  homepage: "https://www.digipres.org/publications/ipres/ipres-2024/papers/using-digital-documents-to-preserve-emulation-lessons-learned-fr/"
-  description: "A Zotero library on emulation."
+  homepage: "https://forum.eaasi.cloud/t/emulation-resources-in-the-spn-software-preservation-bibliography/250"
+  description: "A Zotero library on emulation, maintained by Ethan Gates (<a href=\"https://www.digipres.org/publications/ipres/ipres-2024/papers/using-digital-documents-to-preserve-emulation-lessons-learned-fr/\">iPRES paper</a>)."
   type: zotero
   library_type: user
   library_id: 8195999
