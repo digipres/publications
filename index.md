@@ -17,7 +17,11 @@ The iPRES steering group and conference committees have put a lot of work put in
 
 Use the links in the menu to browse the contents of this site, or use the search box in the top menu, [or click this link to see the iPRES index](./ipres/).
 
-## The Publications Database
+## The DigiPres Publications Index & Database (2025)
+
+A prototype service that allows you to search and analyse data from many different sources is available [here](./awesome-index/).
+
+## The Publications Database (2024)
 
 The underlying data that is used to create this site is [also available as an SQLite database](https://github.com/digipres/digipres-practice-index/tree/main/releases), which can be viewed in off-the-shelf tools like [Datasette](https://datasette.io/).
 

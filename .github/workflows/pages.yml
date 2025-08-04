@@ -38,6 +38,12 @@ jobs:
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          python-version: 3.11
+      - name: Build the Awesome Index
+        run: uvx --from git+https://github.com/digipres/awesome-indexer@main awindex -c _awindex/config.yaml -o ./awesome-index
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
