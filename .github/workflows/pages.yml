@@ -72,7 +72,7 @@ jobs:
       - name: Commit last-modified date
         run: |
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-          git config --global user.email "username@users.noreply.github.com"
+          git config --global user.email "anjackson@users.noreply.github.com"
           git add _data/awindex.yml
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
           git push
