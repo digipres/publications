@@ -32,6 +32,9 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    env: 
+      CI_COMMIT_MESSAGE: Page Build Complete
+      CI_COMMIT_AUTHOR: GitHub Action
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -59,6 +62,17 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+
+        # Now record successful update as a 'last modified' datestamp
+      - name: Update last-modified date
+        run: ./modified.sh
+      - name: Commit last-modified date
+        run: |
+          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+          git config --global user.email "username@users.noreply.github.com"
+          git add _data/awindex.yml
+          git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git push
 
   # Deployment job
   deploy:
