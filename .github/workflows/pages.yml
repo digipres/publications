@@ -45,25 +45,28 @@ jobs:
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
+
+      # Set up and run the Awesome Indexer
       - name: Install uv
         uses: astral-sh/setup-uv@v6
         with:
           python-version: 3.11
       - name: Build the Awesome Index
         run: uvx --from git+https://github.com/digipres/awesome-indexer@main awindex -c _awindex/config.yaml -o ./awesome-index
+
+      # Set up GitHub Pages:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
+      # Build the Jekyll site:
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
 
-        # Now record successful update as a 'last modified' datestamp
+      # Now record successful update as a 'last modified' date stamp:
       - name: Update last-modified date
         run: ./modified.sh
       - name: Commit last-modified date
@@ -74,6 +77,10 @@ jobs:
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
           git push
 
+      - name: Upload artifacts for publishing
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v3
+          
   # Deployment job
   deploy:
     environment:
