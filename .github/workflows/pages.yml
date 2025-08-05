@@ -54,6 +54,10 @@ jobs:
       - name: Build the Awesome Index
         run: uvx --from git+https://github.com/digipres/awesome-indexer@main awindex -c _awindex/config.yaml -o ./awesome-index
 
+      # Update a 'last modified' timestamp file: 
+      - name: Update last-modified date
+        run: ./modified.sh
+
       # Set up GitHub Pages:
       - name: Setup Pages
         id: pages
@@ -66,9 +70,11 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      # Now record successful update as a 'last modified' date stamp:
-      - name: Update last-modified date
-        run: ./modified.sh
+      - name: Upload artifacts for publishing
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v3
+
+      # Record the successful site build outcome by committing the timestamp file:
       - name: Commit last-modified date
         run: |
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
@@ -77,10 +83,7 @@ jobs:
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
           git push
 
-      - name: Upload artifacts for publishing
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
-          
+        
   # Deployment job
   deploy:
     environment:
