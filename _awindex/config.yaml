@@ -1,4 +1,4 @@
-title: "DigiPres Publications Index"
+title: "Digital Preservation Publications"
 homepage: https://digipres.org/publications/
 description: "PROTOTYPE for a mini search engine dedicated to digital preservation."
 sources:
@@ -25,6 +25,13 @@ sources:
   library_type: user
   library_id: 8195999
   collection_id: "ERZIYJ3T"
+- name: "Tyler Thorsted's Digital Preservation Reads"
+  homepage: "https://www.zotero.org/thorsted/collections/TWLRSFUM"
+  description: "A Zotero library on digital preservation, maintained by Tyler Thorsted a.k.a. <a href=\"https://preservation.tylerthorsted.com/\">Obsolete Thor</a>."
+  type: zotero
+  library_type: user
+  library_id: 14001110
+  collection_id: "TWLRSFUM"
 - name: "Awesome Web Archiving"
   homepage: "https://github.com/iipc/awesome-web-archiving/"
   description: "An Awesome List for getting started with web archiving."
