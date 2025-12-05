@@ -1,17 +1,18 @@
 ---
-date: September 21 - 25, 2026
 layout: ipres
-location: Copenhagen, Denmark
 parent: iPRES
-proceedings_full: ''
-proceedings_ideals: ''
-proceedings_osf: ''
-proceedings_phaidra: ''
-session_recordings: ''
 title: iPRES 2026
-website: ''
-website_mirror_ipres: ''
-website_status: ''
-year: 2026
+location: Copenhagen, Denmark
+date: September 21 - 25, 2026
+logo: images/ipres-2026-logo.png
+website: https://ipres2026.dk/
+website_status: active
+website_mirror_ipres: ""
+proceedings_full: ""
+proceedings_phaidra: ""
+proceedings_osf: ""
+proceedings_ideals: ""
+session_recordings: ""
 has_children: false
+year: 2026
 ---
