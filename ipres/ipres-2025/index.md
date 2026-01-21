@@ -16,3 +16,5 @@ session_recordings: ""
 has_children: false
 year: 2025
 ---
+- Blogs:
+    - [The Data Recovery of it all: iPRES 2025 - Digital Preservation Coalition](https://www.dpconline.org/blog/cdf-ipres2025-sally-ocallaghan)
