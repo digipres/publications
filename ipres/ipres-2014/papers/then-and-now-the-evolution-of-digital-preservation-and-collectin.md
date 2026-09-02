@@ -18,7 +18,7 @@ keywords:
 - requirements
 - digital policy
 - ingest
-landing_page_url: https://phaidra.univie.ac.at/o:378122
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378122
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

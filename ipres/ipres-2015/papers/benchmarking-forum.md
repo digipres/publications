@@ -22,7 +22,7 @@ keywords:
 - software tools
 - empirical evidence
 - workshop
-landing_page_url: https://phaidra.univie.ac.at/o:429621
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429621
 language: eng
 layout: publication
 license: CC BY 4.0 International

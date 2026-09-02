@@ -22,7 +22,7 @@ keywords:
 - privacy
 - collections
 - acquisition
-landing_page_url: https://phaidra.univie.ac.at/o:378717
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378717
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

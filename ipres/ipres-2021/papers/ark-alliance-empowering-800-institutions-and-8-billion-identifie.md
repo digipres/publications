@@ -8,7 +8,7 @@ grand_parent: iPRES
 institutions:
 - California Digital Library
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:1424696
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424696
 language: eng
 layout: publication
 license: All rights reserved

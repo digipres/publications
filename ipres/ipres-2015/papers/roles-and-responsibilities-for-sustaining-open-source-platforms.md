@@ -23,7 +23,7 @@ keywords:
 - foss
 - sustainability
 - institutional roles
-landing_page_url: https://phaidra.univie.ac.at/o:429624
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429624
 language: eng
 layout: publication
 license: CC BY 4.0 International

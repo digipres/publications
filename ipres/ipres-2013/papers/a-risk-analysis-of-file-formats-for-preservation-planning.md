@@ -30,7 +30,7 @@ keywords:
 - ontology matching
 - information integration
 - lisbon
-landing_page_url: https://phaidra.univie.ac.at/o:377374
+landing_page_url: https://phaidra.univie.ac.at/detail/o:377374
 language: eng
 layout: publication
 license: CC BY-SA 2.0 AT

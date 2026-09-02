@@ -12,7 +12,7 @@ institutions: []
 keywords:
 - copyright; government documents; public records; fair use; digitization; state documents;
   north carolina
-landing_page_url: https://phaidra.univie.ac.at/o:429537
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429537
 language: eng
 layout: publication
 license: CC BY 4.0 International

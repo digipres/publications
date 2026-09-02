@@ -17,7 +17,7 @@ keywords:
 - policy-based data management
 - preservation policies
 - computer actionable procedures
-landing_page_url: https://phaidra.univie.ac.at/o:429554
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429554
 language: eng
 layout: publication
 license: CC BY 4.0 International

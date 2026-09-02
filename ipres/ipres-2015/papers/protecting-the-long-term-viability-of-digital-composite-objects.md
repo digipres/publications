@@ -16,7 +16,7 @@ institutions: []
 keywords:
 - digital preservation; disk imaging; file format migration; premis; digital archives;
   digital repositories
-landing_page_url: https://phaidra.univie.ac.at/o:429599
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429599
 language: eng
 layout: publication
 license: CC BY 4.0 International

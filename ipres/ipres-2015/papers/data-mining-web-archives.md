@@ -30,7 +30,7 @@ keywords:
 - data mining
 - research
 - access ipres 2015
-landing_page_url: https://phaidra.univie.ac.at/o:429619
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429619
 language: eng
 layout: publication
 license: CC BY 4.0 International

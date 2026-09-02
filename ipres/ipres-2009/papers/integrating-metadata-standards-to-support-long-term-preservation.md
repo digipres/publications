@@ -25,7 +25,7 @@ grand_parent: iPRES
 institutions: []
 keywords:
 - san francisco
-landing_page_url: https://phaidra.univie.ac.at/o:293897
+landing_page_url: https://phaidra.univie.ac.at/detail/o:293897
 language: eng
 layout: publication
 license: CC BY-SA 3.0 AT

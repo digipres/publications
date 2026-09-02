@@ -23,7 +23,7 @@ keywords:
 - risk
 - organizational assessment
 - design science
-landing_page_url: https://phaidra.univie.ac.at/o:429553
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429553
 language: eng
 layout: publication
 license: CC BY 4.0 International

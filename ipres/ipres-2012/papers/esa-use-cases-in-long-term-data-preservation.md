@@ -27,7 +27,7 @@ keywords:
 - esa
 - eo data
 - preserve data set content (pdsc)
-landing_page_url: https://phaidra.univie.ac.at/o:293846
+landing_page_url: https://phaidra.univie.ac.at/detail/o:293846
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

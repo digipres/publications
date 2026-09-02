@@ -36,7 +36,7 @@ keywords:
 - expert
 - translation
 - tools
-landing_page_url: https://phaidra.univie.ac.at/o:1424941
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424941
 language: eng
 layout: publication
 license: CC BY 4.0 International

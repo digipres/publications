@@ -28,7 +28,7 @@ institutions: []
 keywords:
 - digital repository. third-party archiving. cost models
 - lisbon
-landing_page_url: https://phaidra.univie.ac.at/o:378014
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378014
 language: eng
 layout: publication
 license: CC BY-SA 2.0 AT

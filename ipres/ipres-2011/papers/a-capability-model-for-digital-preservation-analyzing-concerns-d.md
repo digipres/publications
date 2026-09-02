@@ -31,7 +31,7 @@ keywords:
 - digital preservation
 - reference architecture
 - standards
-landing_page_url: https://phaidra.univie.ac.at/o:294202
+landing_page_url: https://phaidra.univie.ac.at/detail/o:294202
 language: eng
 layout: publication
 license: CC BY-SA 3.0 AT

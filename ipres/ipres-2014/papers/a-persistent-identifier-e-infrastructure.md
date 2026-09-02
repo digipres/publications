@@ -30,7 +30,7 @@ keywords:
 - interoperability
 - e-science research infrastructures
 - entity name system
-landing_page_url: https://phaidra.univie.ac.at/o:378107
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378107
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

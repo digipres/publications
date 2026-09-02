@@ -29,7 +29,7 @@ keywords:
 - multiple criteria decision analysis
 - preservation planning
 - utility analysis
-landing_page_url: https://phaidra.univie.ac.at/o:294210
+landing_page_url: https://phaidra.univie.ac.at/detail/o:294210
 language: eng
 layout: publication
 license: CC BY-SA 3.0 AT

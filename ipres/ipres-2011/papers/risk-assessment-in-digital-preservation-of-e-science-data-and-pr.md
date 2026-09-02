@@ -29,7 +29,7 @@ keywords:
 - risk assessment
 - digital preservation
 - e- science
-landing_page_url: https://phaidra.univie.ac.at/o:294215
+landing_page_url: https://phaidra.univie.ac.at/detail/o:294215
 language: eng
 layout: publication
 license: CC BY-SA 3.0 AT

@@ -8,7 +8,7 @@ grand_parent: iPRES
 institutions:
 - National Archives of the Netherlands
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:1424723
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424723
 language: eng
 layout: publication
 license: All rights reserved

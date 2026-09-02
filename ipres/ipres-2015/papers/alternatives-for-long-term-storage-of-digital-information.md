@@ -27,7 +27,7 @@ grand_parent: iPRES
 institutions: []
 keywords:
 - digital preservation; digital storage; storage costs
-landing_page_url: https://phaidra.univie.ac.at/o:429585
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429585
 language: eng
 layout: publication
 license: CC BY 4.0 International

@@ -36,7 +36,7 @@ keywords:
 - software art
 - simulations and visualizations
 - gaming environments
-landing_page_url: https://phaidra.univie.ac.at/o:294276
+landing_page_url: https://phaidra.univie.ac.at/detail/o:294276
 language: eng
 layout: publication
 license: CC BY-SA 3.0 AT

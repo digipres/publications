@@ -20,7 +20,7 @@ keywords:
 - preservation
 - research data services
 - digital curation
-landing_page_url: https://phaidra.univie.ac.at/o:429527
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429527
 language: eng
 layout: publication
 license: CC BY 4.0 International

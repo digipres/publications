@@ -34,7 +34,7 @@ institutions:
 - Open Preservation Foundation
 keywords:
 - kyoto
-landing_page_url: https://phaidra.univie.ac.at/o:931058
+landing_page_url: https://phaidra.univie.ac.at/detail/o:931058
 language: eng
 layout: publication
 license: CC BY-SA 4.0 International

@@ -29,7 +29,7 @@ keywords:
 - interaction map
 - significant environment information
 - sheer curation
-landing_page_url: https://phaidra.univie.ac.at/o:378714
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378714
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

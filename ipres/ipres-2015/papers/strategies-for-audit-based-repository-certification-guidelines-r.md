@@ -22,7 +22,7 @@ keywords:
 - audit
 - certification
 - government
-landing_page_url: https://phaidra.univie.ac.at/o:429608
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429608
 language: eng
 layout: publication
 license: CC BY 4.0 International

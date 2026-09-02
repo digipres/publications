@@ -15,7 +15,7 @@ institutions: []
 keywords:
 - scholarly communication
 - web preservation
-landing_page_url: https://phaidra.univie.ac.at/o:378116
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378116
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

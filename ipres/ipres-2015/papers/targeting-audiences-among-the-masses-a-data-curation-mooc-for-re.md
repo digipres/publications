@@ -22,7 +22,7 @@ keywords:
 - data management
 - training
 - education
-landing_page_url: https://phaidra.univie.ac.at/o:429607
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429607
 language: eng
 layout: publication
 license: CC BY 4.0 International

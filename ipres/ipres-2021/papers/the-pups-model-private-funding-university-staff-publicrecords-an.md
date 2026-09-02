@@ -11,7 +11,7 @@ grand_parent: iPRES
 institutions:
 - Palmer School of Library and Information Science, LIU Post
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:1422935
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1422935
 language: eng
 layout: publication
 license: All rights reserved

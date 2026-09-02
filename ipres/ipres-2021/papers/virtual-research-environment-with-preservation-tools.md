@@ -13,7 +13,7 @@ institutions:
 - DDHN, Netherlands
 - OPF, UK
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:1417878
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1417878
 language: eng
 layout: publication
 license: All rights reserved

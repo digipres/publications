@@ -22,7 +22,7 @@ keywords:
 - web archives
 - research data
 - preservation policies
-landing_page_url: https://phaidra.univie.ac.at/o:429603
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429603
 language: eng
 layout: publication
 license: CC BY 4.0 International

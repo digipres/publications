@@ -33,7 +33,7 @@ keywords:
 - access
 - technology
 - digital preservation policy
-landing_page_url: https://phaidra.univie.ac.at/o:1424946
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424946
 language: eng
 layout: publication
 license: CC BY 4.0 International

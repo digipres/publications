@@ -34,7 +34,7 @@ keywords:
 - weblogs
 - digital preservation
 - significant properties
-landing_page_url: https://phaidra.univie.ac.at/o:293844
+landing_page_url: https://phaidra.univie.ac.at/detail/o:293844
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

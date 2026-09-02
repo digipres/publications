@@ -11,7 +11,7 @@ grand_parent: iPRES
 institutions:
 - ShanghaiTech University, Shanghai, China
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:1424816
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424816
 language: eng
 layout: publication
 license: All rights reserved

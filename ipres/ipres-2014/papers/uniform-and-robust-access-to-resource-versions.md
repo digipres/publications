@@ -23,7 +23,7 @@ keywords:
 - interoperability
 - web persistence
 - internet robustness
-landing_page_url: https://phaidra.univie.ac.at/o:378140
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378140
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

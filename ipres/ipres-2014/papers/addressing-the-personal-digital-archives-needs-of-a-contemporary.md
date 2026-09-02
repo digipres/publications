@@ -23,7 +23,7 @@ keywords:
 - personal digital archives
 - recordkeeping
 - artist records
-landing_page_url: https://phaidra.univie.ac.at/o:378080
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378080
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

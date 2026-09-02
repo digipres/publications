@@ -36,7 +36,7 @@ keywords:
 - digital preservation
 - digital archaeology
 - multimedia
-landing_page_url: https://phaidra.univie.ac.at/o:1424848
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424848
 language: eng
 layout: publication
 license: CC BY 4.0 International

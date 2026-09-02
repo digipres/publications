@@ -32,7 +32,7 @@ keywords:
 - collection content profiling
 - preservation planning
 - institutional contexts of preservation
-landing_page_url: https://phaidra.univie.ac.at/o:378119
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378119
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

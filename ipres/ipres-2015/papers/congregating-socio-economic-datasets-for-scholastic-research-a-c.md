@@ -20,7 +20,7 @@ institutions: []
 keywords:
 - social science data sets social surveys
 - india
-landing_page_url: https://phaidra.univie.ac.at/o:429596
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429596
 language: eng
 layout: publication
 license: CC BY 4.0 International

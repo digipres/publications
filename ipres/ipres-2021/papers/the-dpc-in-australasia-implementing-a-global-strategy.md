@@ -8,7 +8,7 @@ grand_parent: iPRES
 institutions:
 - Digital Preservation Coalition
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:1424814
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424814
 language: eng
 layout: publication
 license: All rights reserved

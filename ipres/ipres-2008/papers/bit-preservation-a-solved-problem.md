@@ -27,7 +27,7 @@ grand_parent: iPRES
 institutions: []
 keywords:
 - london
-landing_page_url: https://phaidra.univie.ac.at/o:294179
+landing_page_url: https://phaidra.univie.ac.at/detail/o:294179
 language: eng
 layout: publication
 license: CC BY-SA 3.0 AT

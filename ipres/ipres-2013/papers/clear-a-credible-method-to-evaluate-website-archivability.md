@@ -28,7 +28,7 @@ keywords:
 - digital preservation
 - website archivability
 - lisbon
-landing_page_url: https://phaidra.univie.ac.at/o:377397
+landing_page_url: https://phaidra.univie.ac.at/detail/o:377397
 language: eng
 layout: publication
 license: CC BY-SA 2.0 AT

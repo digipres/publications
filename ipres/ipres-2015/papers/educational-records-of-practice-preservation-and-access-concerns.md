@@ -18,7 +18,7 @@ institutions: []
 keywords:
 - data reuse; qualitative data; educational records of practice; digital preservation;
   video preservation; data access
-landing_page_url: https://phaidra.univie.ac.at/o:429567
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429567
 language: eng
 layout: publication
 license: CC BY 4.0 International

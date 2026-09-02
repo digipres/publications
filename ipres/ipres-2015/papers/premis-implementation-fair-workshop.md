@@ -21,7 +21,7 @@ keywords:
 - preservation metadata
 - preservation repository implementation
 - data dictionary
-landing_page_url: https://phaidra.univie.ac.at/o:429622
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429622
 language: eng
 layout: publication
 license: CC BY 4.0 International

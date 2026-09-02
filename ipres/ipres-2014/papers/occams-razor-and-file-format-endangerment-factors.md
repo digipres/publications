@@ -29,7 +29,7 @@ keywords:
 - file formats
 - formative measurement model
 - obsolescence
-landing_page_url: https://phaidra.univie.ac.at/o:378114
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378114
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

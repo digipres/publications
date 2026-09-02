@@ -80,7 +80,7 @@ keywords:
 - benefits
 - risks
 - sustainability.
-landing_page_url: https://phaidra.univie.ac.at/o:378069
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378069
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

@@ -21,7 +21,7 @@ keywords:
 - digital preservation
 - scientific data
 - preservation network models
-landing_page_url: https://phaidra.univie.ac.at/o:294274
+landing_page_url: https://phaidra.univie.ac.at/detail/o:294274
 language: eng
 layout: publication
 license: CC BY-SA 3.0 AT

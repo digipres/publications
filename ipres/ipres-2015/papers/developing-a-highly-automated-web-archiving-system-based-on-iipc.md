@@ -24,7 +24,7 @@ keywords:
 - open source software
 - web archive
 - platform development process automation
-landing_page_url: https://phaidra.univie.ac.at/o:429565
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429565
 language: eng
 layout: publication
 license: CC BY 4.0 International

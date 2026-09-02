@@ -16,7 +16,7 @@ keywords:
 - digital preservation; access; personal digital archiving; community engagement;
   teaching and research; vintage technology; digital archaeology; hardware and software
   preservation
-landing_page_url: https://phaidra.univie.ac.at/o:429578
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429578
 language: eng
 layout: publication
 license: CC BY 4.0 International

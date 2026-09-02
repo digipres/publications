@@ -42,7 +42,7 @@ document_url: https://phaidra.univie.ac.at/api/object/o:185192/download
 grand_parent: iPRES
 institutions: []
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:185192
+landing_page_url: https://phaidra.univie.ac.at/detail/o:185192
 language: eng
 layout: publication
 license: GPLv3

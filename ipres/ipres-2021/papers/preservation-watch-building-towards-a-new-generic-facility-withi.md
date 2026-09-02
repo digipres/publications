@@ -9,7 +9,7 @@ grand_parent: iPRES
 institutions:
 - NDE) at The Netherlands Institute for Sound And Vision
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:1424693
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424693
 language: eng
 layout: publication
 license: All rights reserved

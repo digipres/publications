@@ -17,7 +17,7 @@ keywords:
 - cd-rom preservation
 - access
 - case-study
-landing_page_url: https://phaidra.univie.ac.at/o:429586
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429586
 language: eng
 layout: publication
 license: CC BY 4.0 International

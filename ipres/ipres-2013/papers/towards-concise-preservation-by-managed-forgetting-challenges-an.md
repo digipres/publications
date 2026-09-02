@@ -28,7 +28,7 @@ institutions: []
 keywords:
 - digital preservation; dynamic information value assessment; time-aware information
   access; managed forgetting; ipres; lisbon
-landing_page_url: https://phaidra.univie.ac.at/o:378092
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378092
 language: eng
 layout: publication
 license: CC BY-SA 2.0 AT

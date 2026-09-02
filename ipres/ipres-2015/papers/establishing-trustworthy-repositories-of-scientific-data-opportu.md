@@ -32,7 +32,7 @@ institutions: []
 keywords:
 - trustworthy digital repositories; scientific data centers; science data infrastructure;
   cyberinfrastructure; data archives; science data products; data services
-landing_page_url: https://phaidra.univie.ac.at/o:429584
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429584
 language: eng
 layout: publication
 license: CC BY 4.0 International

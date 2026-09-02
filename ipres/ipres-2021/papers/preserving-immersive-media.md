@@ -8,7 +8,7 @@ grand_parent: iPRES
 institutions:
 - Sabancı University Sakıp Sabancı Museum,Istanbul,Turkey
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:1424815
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424815
 language: eng
 layout: publication
 license: All rights reserved

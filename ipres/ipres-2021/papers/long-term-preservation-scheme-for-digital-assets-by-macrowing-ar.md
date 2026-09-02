@@ -8,7 +8,7 @@ grand_parent: iPRES
 institutions:
 - Macrowing Software Technology Co.,Ltd.,shanghai,China
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:1424727
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424727
 language: eng
 layout: publication
 license: All rights reserved

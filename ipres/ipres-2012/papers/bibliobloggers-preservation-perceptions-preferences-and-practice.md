@@ -27,7 +27,7 @@ keywords:
 - blogs
 - digital preservation
 - scholarly communication
-landing_page_url: https://phaidra.univie.ac.at/o:293869
+landing_page_url: https://phaidra.univie.ac.at/detail/o:293869
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

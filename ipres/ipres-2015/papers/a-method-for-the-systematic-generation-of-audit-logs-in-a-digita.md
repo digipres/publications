@@ -40,7 +40,7 @@ keywords:
 - digital preser- vation
 - policies
 - automated log generation
-landing_page_url: https://phaidra.univie.ac.at/o:429566
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429566
 language: eng
 layout: publication
 license: CC BY 4.0 International

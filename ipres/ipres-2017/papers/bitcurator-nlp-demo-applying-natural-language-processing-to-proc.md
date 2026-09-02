@@ -16,7 +16,7 @@ institutions: []
 keywords:
 - kyoto
 - demo
-landing_page_url: https://phaidra.univie.ac.at/o:931140
+landing_page_url: https://phaidra.univie.ac.at/detail/o:931140
 language: eng
 layout: publication
 license: CC BY-SA 4.0 International

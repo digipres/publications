@@ -21,7 +21,7 @@ keywords:
 - melbourne
 - australia
 - digital preservation
-landing_page_url: https://phaidra.univie.ac.at/o:378066
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378066
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

@@ -23,7 +23,7 @@ grand_parent: iPRES
 institutions: []
 keywords:
 - digital humanities
-landing_page_url: https://phaidra.univie.ac.at/o:2202007
+landing_page_url: https://phaidra.univie.ac.at/detail/o:2202007
 language: eng
 layout: publication
 license: http://creativecommons.org/licenses/by-sa/4.0/

@@ -25,7 +25,7 @@ keywords:
 - repository
 - linked data
 - open source
-landing_page_url: https://phaidra.univie.ac.at/o:429626
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429626
 language: eng
 layout: publication
 license: CC BY 4.0 International

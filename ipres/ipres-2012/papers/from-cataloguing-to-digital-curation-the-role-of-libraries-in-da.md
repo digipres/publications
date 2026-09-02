@@ -31,7 +31,7 @@ keywords:
 - digital curation
 - research data sharing
 - libraries
-landing_page_url: https://phaidra.univie.ac.at/o:293835
+landing_page_url: https://phaidra.univie.ac.at/detail/o:293835
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

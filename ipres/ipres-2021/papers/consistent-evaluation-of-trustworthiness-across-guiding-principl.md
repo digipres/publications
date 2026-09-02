@@ -27,7 +27,7 @@ institutions:
 - CIESIN, Columbia University, USA
 - FernUniversität in Hagen, Germany
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:1424817
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424817
 language: eng
 layout: publication
 license: All rights reserved

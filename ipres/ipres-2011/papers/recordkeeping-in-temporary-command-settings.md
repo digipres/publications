@@ -22,7 +22,7 @@ keywords:
 - preservation
 - police operation
 - recordkeeping
-landing_page_url: https://phaidra.univie.ac.at/o:294249
+landing_page_url: https://phaidra.univie.ac.at/detail/o:294249
 language: eng
 layout: publication
 license: CC BY-SA 3.0 AT

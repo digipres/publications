@@ -19,7 +19,7 @@ keywords:
 - twitter
 - portland common data model
 - fedora
-landing_page_url: https://phaidra.univie.ac.at/o:429592
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429592
 language: eng
 layout: publication
 license: CC BY 4.0 International

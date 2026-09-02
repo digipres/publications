@@ -22,7 +22,7 @@ grand_parent: iPRES
 institutions: []
 keywords:
 - digital preservation practice; open source; technology adoption; continuous improvement
-landing_page_url: https://phaidra.univie.ac.at/o:429587
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429587
 language: eng
 layout: publication
 license: CC BY 4.0 International

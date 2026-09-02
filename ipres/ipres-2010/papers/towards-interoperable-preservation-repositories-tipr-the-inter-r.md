@@ -19,7 +19,7 @@ grand_parent: iPRES
 institutions: []
 keywords:
 - vienna
-landing_page_url: https://phaidra.univie.ac.at/o:245903
+landing_page_url: https://phaidra.univie.ac.at/detail/o:245903
 language: eng
 layout: publication
 license: CC BY-SA 2.0 AT

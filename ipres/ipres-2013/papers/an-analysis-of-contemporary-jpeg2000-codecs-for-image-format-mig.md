@@ -41,7 +41,7 @@ keywords:
 - image quality
 - generational loss
 - lisbon
-landing_page_url: https://phaidra.univie.ac.at/o:377377
+landing_page_url: https://phaidra.univie.ac.at/detail/o:377377
 language: eng
 layout: publication
 license: CC BY-ND 2.0 AT

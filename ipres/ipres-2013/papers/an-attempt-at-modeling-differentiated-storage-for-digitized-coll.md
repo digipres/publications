@@ -19,7 +19,7 @@ institutions: []
 keywords:
 - storage policies; collection care; permanent access; digitized collections; ipres;
   lisbon
-landing_page_url: https://phaidra.univie.ac.at/o:377378
+landing_page_url: https://phaidra.univie.ac.at/detail/o:377378
 language: eng
 layout: publication
 license: CC BY-SA 2.0 AT

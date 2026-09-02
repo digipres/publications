@@ -18,7 +18,7 @@ keywords:
 - scotland
 - national library of scotland
 - digital preservation coalition building
-landing_page_url: https://phaidra.univie.ac.at/o:378121
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378121
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

@@ -38,7 +38,7 @@ grand_parent: iPRES
 institutions: []
 keywords:
 - economics. digital preservation costs
-landing_page_url: https://phaidra.univie.ac.at/o:429558
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429558
 language: eng
 layout: publication
 license: CC BY 4.0 International

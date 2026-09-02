@@ -37,7 +37,7 @@ keywords:
 - public records
 - database preservation
 - siard
-landing_page_url: https://phaidra.univie.ac.at/o:378076
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378076
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

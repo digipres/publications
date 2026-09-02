@@ -17,7 +17,7 @@ institutions: []
 keywords:
 - digital curation; artistic practice; music with live electronics; participatory
   digital repositories
-landing_page_url: https://phaidra.univie.ac.at/o:429535
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429535
 language: eng
 layout: publication
 license: CC BY 4.0 International

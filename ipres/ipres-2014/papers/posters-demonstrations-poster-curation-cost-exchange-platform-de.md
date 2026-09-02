@@ -25,7 +25,7 @@ keywords:
 - social
 - cost information
 - cost model
-landing_page_url: https://phaidra.univie.ac.at/o:378719
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378719
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

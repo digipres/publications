@@ -28,7 +28,7 @@ keywords:
 - requirements elicitation
 - financial sector
 - digital preservation system
-landing_page_url: https://phaidra.univie.ac.at/o:293847
+landing_page_url: https://phaidra.univie.ac.at/detail/o:293847
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

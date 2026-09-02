@@ -22,7 +22,7 @@ institutions: []
 keywords:
 - kyoto
 - poster
-landing_page_url: https://phaidra.univie.ac.at/o:931134
+landing_page_url: https://phaidra.univie.ac.at/detail/o:931134
 language: eng
 layout: publication
 license: CC BY-SA 4.0 International

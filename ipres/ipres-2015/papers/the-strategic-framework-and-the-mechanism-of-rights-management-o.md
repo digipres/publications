@@ -13,7 +13,7 @@ keywords:
 - long-term preservation
 - strategic framework
 - mechanism of rights management
-landing_page_url: https://phaidra.univie.ac.at/o:429588
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429588
 language: eng
 layout: publication
 license: CC BY 4.0 International

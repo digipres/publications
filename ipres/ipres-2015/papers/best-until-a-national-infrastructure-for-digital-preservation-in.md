@@ -21,7 +21,7 @@ keywords:
 - digital preservation
 - ncdd
 - national infrastructure
-landing_page_url: https://phaidra.univie.ac.at/o:429559
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429559
 language: eng
 layout: publication
 license: CC BY 4.0 International

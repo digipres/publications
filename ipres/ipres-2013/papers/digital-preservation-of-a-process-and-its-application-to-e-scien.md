@@ -25,7 +25,7 @@ keywords:
 - digital preservation
 - e-science
 - lisbon
-landing_page_url: https://phaidra.univie.ac.at/o:378017
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378017
 language: eng
 layout: publication
 license: CC BY-SA 2.0 AT

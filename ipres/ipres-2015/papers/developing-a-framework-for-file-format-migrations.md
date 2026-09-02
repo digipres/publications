@@ -11,7 +11,7 @@ grand_parent: iPRES
 institutions: []
 keywords:
 - format migrations; migration frameworks; obsolete formats
-landing_page_url: https://phaidra.univie.ac.at/o:429550
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429550
 language: eng
 layout: publication
 license: CC BY 4.0 International

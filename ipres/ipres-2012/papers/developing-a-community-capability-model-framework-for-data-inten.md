@@ -44,7 +44,7 @@ keywords:
 - capability modeling
 - research data
 - managing research data
-landing_page_url: https://phaidra.univie.ac.at/o:293003
+landing_page_url: https://phaidra.univie.ac.at/detail/o:293003
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

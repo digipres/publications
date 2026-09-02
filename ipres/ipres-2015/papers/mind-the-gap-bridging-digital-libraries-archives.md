@@ -24,7 +24,7 @@ keywords:
 - open source
 - collaboration
 - islandora
-landing_page_url: https://phaidra.univie.ac.at/o:429593
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429593
 language: eng
 layout: publication
 license: CC BY 4.0 International

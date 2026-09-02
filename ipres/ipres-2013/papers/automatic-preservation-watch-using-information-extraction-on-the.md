@@ -23,7 +23,7 @@ keywords:
 - digital libraries
 - delphi study
 - lisbon
-landing_page_url: https://phaidra.univie.ac.at/o:378041
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378041
 language: eng
 layout: publication
 license: CC BY-SA 2.0 AT

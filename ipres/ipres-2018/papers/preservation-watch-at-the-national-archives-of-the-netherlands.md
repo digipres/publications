@@ -43,7 +43,7 @@ grand_parent: iPRES
 institutions: []
 keywords:
 - boston
-landing_page_url: https://phaidra.univie.ac.at/o:922203
+landing_page_url: https://phaidra.univie.ac.at/detail/o:922203
 language: eng
 layout: publication
 license: CC BY 4.0 International

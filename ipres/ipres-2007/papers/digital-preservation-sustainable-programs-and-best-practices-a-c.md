@@ -21,7 +21,7 @@ keywords:
 - digital preservation
 - sustainable programs
 - best practices
-landing_page_url: https://phaidra.univie.ac.at/o:294431
+landing_page_url: https://phaidra.univie.ac.at/detail/o:294431
 language: zho
 layout: publication
 license: CC BY-SA 3.0 AT

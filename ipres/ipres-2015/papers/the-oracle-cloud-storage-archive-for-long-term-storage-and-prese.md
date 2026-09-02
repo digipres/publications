@@ -19,7 +19,7 @@ keywords:
 - digital preservation
 - digital curation
 - chapel hill
-landing_page_url: https://phaidra.univie.ac.at/o:429579
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429579
 language: eng
 layout: publication
 license: CC BY 4.0 International

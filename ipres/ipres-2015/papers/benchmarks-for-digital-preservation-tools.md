@@ -35,7 +35,7 @@ keywords:
 - benchmark
 - digital preservation
 - software quality
-landing_page_url: https://phaidra.univie.ac.at/o:429547
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429547
 language: eng
 layout: publication
 license: CC BY 4.0 International

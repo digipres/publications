@@ -15,7 +15,7 @@ keywords:
 - integrity
 - image comparison
 - rmse
-landing_page_url: https://phaidra.univie.ac.at/o:1424898
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424898
 language: eng
 layout: publication
 license: CC BY 4.0 International

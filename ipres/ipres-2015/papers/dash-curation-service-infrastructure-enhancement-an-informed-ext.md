@@ -27,7 +27,7 @@ keywords:
 - data curation; data repository micro-services
 - sword submission protocol
 - oai-pmh metadata harvesting protocol
-landing_page_url: https://phaidra.univie.ac.at/o:429573
+landing_page_url: https://phaidra.univie.ac.at/detail/o:429573
 language: eng
 layout: publication
 license: CC BY 4.0 International

@@ -29,7 +29,7 @@ keywords:
 - web archives
 - software as a service
 - business processes
-landing_page_url: https://phaidra.univie.ac.at/o:294246
+landing_page_url: https://phaidra.univie.ac.at/detail/o:294246
 language: eng
 layout: publication
 license: CC BY-SA 3.0 AT

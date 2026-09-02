@@ -18,7 +18,7 @@ keywords:
 - collections
 - acquisition
 - lisbon
-landing_page_url: https://phaidra.univie.ac.at/o:378013
+landing_page_url: https://phaidra.univie.ac.at/detail/o:378013
 language: eng
 layout: publication
 license: CC BY-SA 2.0 AT

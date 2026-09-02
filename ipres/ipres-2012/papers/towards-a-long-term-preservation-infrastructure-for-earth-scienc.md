@@ -35,7 +35,7 @@ keywords:
 - e-infrastructure
 - earth science
 - services
-landing_page_url: https://phaidra.univie.ac.at/o:293768
+landing_page_url: https://phaidra.univie.ac.at/detail/o:293768
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT

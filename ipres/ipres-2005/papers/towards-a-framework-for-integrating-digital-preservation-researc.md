@@ -22,7 +22,7 @@ grand_parent: iPRES
 institutions: []
 keywords:
 - göttingen
-landing_page_url: https://phaidra.univie.ac.at/o:295044
+landing_page_url: https://phaidra.univie.ac.at/detail/o:295044
 language: eng
 layout: publication
 license: CC BY-SA 3.0 AT

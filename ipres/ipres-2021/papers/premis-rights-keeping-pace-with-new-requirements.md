@@ -9,7 +9,7 @@ institutions:
 - preservation officer Netherlands Institute for Sound and Vision, member PREMIS Editorial
   Committee.
 keywords: []
-landing_page_url: https://phaidra.univie.ac.at/o:1424722
+landing_page_url: https://phaidra.univie.ac.at/detail/o:1424722
 language: eng
 layout: publication
 license: All rights reserved

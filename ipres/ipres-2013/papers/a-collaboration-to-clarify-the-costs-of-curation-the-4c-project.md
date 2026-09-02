@@ -27,7 +27,7 @@ keywords:
 - 4c
 - european commission
 - lisbon
-landing_page_url: https://phaidra.univie.ac.at/o:377370
+landing_page_url: https://phaidra.univie.ac.at/detail/o:377370
 language: eng
 layout: publication
 license: CC BY-SA 2.0 AT
