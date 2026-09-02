@@ -15,7 +15,7 @@ abstract: Radioactive waste management encompasses timescales ranging from centu
 creators:
 - Vincent Joguin
 - Jean-Noël Dumont
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/8xwvc/
 grand_parent: iPRES
 institutions:
@@ -37,6 +37,7 @@ size: null
 slides_url: https://osf.io/download/gmrxy/
 source_name: iPRES:osf:g62qd
 stream_url: https://youtu.be/zkBkdCn30C4
+submission_url: https://api.zotero.org/groups/5564150/items/JDVEWH9M/file
 title: Passive Digital Preservation on Paper in Practice
 year: 2022
 ---

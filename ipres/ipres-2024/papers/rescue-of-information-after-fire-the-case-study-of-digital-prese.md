@@ -43,6 +43,7 @@ size: null
 slides_url: https://zenodo.org/records/13754734
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/227a2716e87940519b21037d2c2726849f6e82d457d340e6926ae7ec5534600c
+submission_url: null
 title: 'Rescue of information after fire: the case study of digital preservation of
   photographic cardboard of the National Museum/UFRJ'
 year: 2024

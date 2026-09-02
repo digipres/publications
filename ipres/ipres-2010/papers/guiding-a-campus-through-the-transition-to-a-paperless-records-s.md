@@ -49,8 +49,8 @@ abstract: 'The “paperless office” concept has been around for
 creators:
 - Heather Briston
 - Karen Estlund
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:245898/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:245898/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -66,6 +66,7 @@ size: 191175
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: GUIDING A CAMPUS THROUGH THE TRANSITION TO A  PAPERLESS RECORDS SYSTEM
 year: 2010
 ---

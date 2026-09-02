@@ -16,7 +16,7 @@ abstract: Digital preservationists often struggle using their expert knowledge t
   enhanced knowledge of what works and what doesn't.
 creators:
 - Daniel Steinmeier
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128292/bitstreams/428949/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -36,6 +36,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121658
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'BE CAREFUL WHAT YOU CAMPAIGN FOR: How formal organization practice may negatively
   impact adaptability aspects of preservation'
 year: 2023

@@ -14,8 +14,8 @@ abstract: Today, the Portable Document Format (PDF) is the prevalent fileformat 
   data andinformation stored within digital archives.
 creators:
 - Marco Klindt
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931063/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931063/download
 grand_parent: iPRES
 institutions:
 - Zuse Institute Berlin
@@ -32,6 +32,7 @@ size: 155083
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: PDF/A considered harmful for digital preservation
 year: 2017
 ---

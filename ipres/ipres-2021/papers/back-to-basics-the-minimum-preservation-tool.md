@@ -16,8 +16,8 @@ creators:
 - John Beaman
 - Peter May
 - Kevin Davies
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424906/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424906/download
 grand_parent: iPRES
 institutions:
 - British Library
@@ -42,6 +42,7 @@ size: 338549
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'BACK TO BASICS: THE MINIMUM PRESERVATION TOOL'
 year: 2021
 ---

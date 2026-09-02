@@ -30,8 +30,8 @@ creators:
 - Denise de Vries
 - Dirk von Suchodoletz
 - Willibald Meyer
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931070/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931070/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -47,6 +47,7 @@ size: 302787
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'A Case Study on Retrieval of Data from 8-inch Disks: Of the Importance of
   Hardware Repositories for Digital Preservation'
 year: 2017

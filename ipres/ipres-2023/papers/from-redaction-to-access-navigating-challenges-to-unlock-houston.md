@@ -8,7 +8,7 @@ abstract: The Gulf Coast LGBT Radio and Television Digitization Project launched
 creators:
 - Emily Vinson
 - Bethany Scott
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128275/bitstreams/428915/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -29,6 +29,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'FROM REDACTION TO ACCESS: Navigating Challenges to Unlock Houston''s LGBTQ
   Media History'
 year: 2023

@@ -28,8 +28,8 @@ abstract: 'The MetaArchive of Southern Digital Culture will discuss the first tw
 creators:
 - Robert H. McDonald
 - Tyler Walters
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294556/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294556/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -45,6 +45,7 @@ size: 616053
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: METAARCHIVE NDIIPP Partnership
 year: 2006
 ---

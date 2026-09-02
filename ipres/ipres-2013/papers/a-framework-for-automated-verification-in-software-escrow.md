@@ -20,8 +20,8 @@ creators:
 - Barbara Kolany
 - Daniel Draws
 - Andreas Rauber
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:377372/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:377372/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -42,6 +42,7 @@ size: 386097
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Framework for Automated Verification in Software Escrow
 year: 2013
 ---

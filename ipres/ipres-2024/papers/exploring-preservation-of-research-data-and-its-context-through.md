@@ -59,6 +59,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Exploring Preservation of Research Data and Its Context through Case Studies
 year: 2024
 ---

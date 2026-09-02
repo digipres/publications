@@ -6,8 +6,8 @@ creators:
 - Panos Constantopoulos
 - Max Kaiser
 - Rebecca Guenther
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:245912/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:245912/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -22,6 +22,7 @@ size: 8768074
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Proceedings of the 7th International Conference on Preservation of Digital
   Objects
 year: 2010

@@ -13,7 +13,7 @@ abstract: The Minimum Preservation Tool (MPT), developed by the British Library,
 creators:
 - Peter May
 - Kevin Davies
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/eksvg/
 grand_parent: iPRES
 institutions:
@@ -33,6 +33,7 @@ size: null
 slides_url: https://osf.io/download/tr7uh/
 source_name: iPRES:osf:4sa5h
 stream_url: https://osf.io/download/wa76c/
+submission_url: https://api.zotero.org/groups/5564150/items/LATC8QL8/file
 title: Upscaling the MPT
 year: 2022
 ---

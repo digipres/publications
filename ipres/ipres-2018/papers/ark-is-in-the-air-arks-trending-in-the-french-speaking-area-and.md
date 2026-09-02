@@ -15,8 +15,8 @@ creators:
 - Sébastien Peyrard
 - Stéphane Reecht
 - Jean-Philippe Tramoni
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923636/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923636/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 415502
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'ARK is in the Air: ARKs Trending in the French-speaking Area and the BnF’s
   Role in the ARK Story'
 year: 2018

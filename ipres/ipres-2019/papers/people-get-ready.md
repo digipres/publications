@@ -7,8 +7,8 @@ abstract: Sustainability has been a key focus for the digital preservation commu
   take as a community.
 creators:
 - Sharon McMeekin
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1081732/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1081732/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -23,6 +23,7 @@ size: 252520
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'People Get Ready '
 year: 2019
 ---

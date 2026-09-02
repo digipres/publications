@@ -14,8 +14,8 @@ creators:
 - Esther Conway
 - David Giaretta
 - Matthew Dunckley
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294021/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294021/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 929395
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Curating Scientific Research Data for the Long Term: A Preservation Analysis
   Method in Context'
 year: 2009

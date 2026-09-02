@@ -15,8 +15,8 @@ creators:
 - Stephen Abrams
 - Gregory Wiedeman
 - Matt Teichman
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424945/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424945/download
 grand_parent: iPRES
 institutions:
 - University of Illinois
@@ -39,6 +39,7 @@ size: 268850
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Email Archiving: A Collaborative Journey'
 year: 2021
 ---

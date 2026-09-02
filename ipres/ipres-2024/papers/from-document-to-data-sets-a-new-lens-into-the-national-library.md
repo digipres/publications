@@ -52,6 +52,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'From document to data(sets): A new lens into the National Library Singapore’s
   digital collection'
 year: 2024

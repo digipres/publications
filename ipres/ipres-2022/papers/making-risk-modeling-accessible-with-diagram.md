@@ -26,7 +26,7 @@ creators:
 - David Underdown
 - Alexandra Leigh
 - Pauline Descheemaeker
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/ze6w2/
 grand_parent: iPRES
 institutions:
@@ -45,6 +45,7 @@ size: null
 slides_url: https://osf.io/download/vcn4f/
 source_name: iPRES:osf:x8g7e
 stream_url: https://youtu.be/C9Jj-oBuFOA
+submission_url: https://api.zotero.org/groups/5564150/items/7LJYWMFJ/file
 title: Making Risk Modeling Accessible With DiAGRAM
 year: 2022
 ---

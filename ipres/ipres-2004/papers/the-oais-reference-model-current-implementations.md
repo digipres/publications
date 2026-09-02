@@ -12,8 +12,8 @@ abstract: The OAIS Reference Model (ISO 14721:2003) is an important part of the 
   been informed by it.
 creators:
 - Michael Day
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295008/download
+date: 2004-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295008/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 106741
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The OAIS Reference Model: current implementations'
 year: 2004
 ---

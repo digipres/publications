@@ -14,7 +14,7 @@ abstract: Library and Archives Canada’s (LAC) new File Formats Policy, which c
   and sustainability.
 creators:
 - Tom Smyth
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/4texr/
 grand_parent: iPRES
 institutions:
@@ -36,6 +36,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:eyxvs
 stream_url: https://osf.io/download/c7uxh/
+submission_url: https://api.zotero.org/groups/5564150/items/H97MWGX8/file
 title: Do We Really Know Our Data? Assessing File Format Policy Compliance and Digital
   Preservation Tenability via a New Software Tool
 year: 2022

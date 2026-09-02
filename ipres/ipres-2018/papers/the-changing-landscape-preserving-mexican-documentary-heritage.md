@@ -16,8 +16,8 @@ abstract: 'This paper provides insights into the Biblioteca Nacional de Mexico (
   documentary heritage.'
 creators:
 - Jo Ana Morfín
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923613/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923613/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 87763
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The Changing Landscape: Preserving Mexican documentary heritage.'
 year: 2018
 ---

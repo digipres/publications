@@ -16,8 +16,8 @@ creators:
 - Allison Fischbach
 - Fatemeh Rezaei
 - Ashley Todd-Diaz
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424909/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424909/download
 grand_parent: iPRES
 institutions:
 - University of Maryland
@@ -38,6 +38,7 @@ size: 52907
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Digital Lifecycle Management in Maryland: Establishing the foundations for
   consortial approaches to digital preservation at Maryland universities and affiliated
   institutions'

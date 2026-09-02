@@ -15,7 +15,7 @@ creators:
 - Hoa Luong
 - Kelli Trei
 - Sarah Williams
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/ht3gb/
 grand_parent: iPRES
 institutions:
@@ -37,6 +37,7 @@ size: null
 slides_url: https://osf.io/download/uvtcz/
 source_name: iPRES:osf:x8yms
 stream_url: https://youtu.be/gqvyLBwMJ1o
+submission_url: https://api.zotero.org/groups/5564150/items/L3AH7Q6V/file
 title: 'Cultivating the Scientific Data of the Morrow Plots: Visualization and Data
   Curation for a Long-term Agricultural Experiment'
 year: 2022

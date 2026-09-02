@@ -12,8 +12,8 @@ abstract: In this paper, I explore the concept of significant properties and how
   to begin shaping the process of documenting significant properties at scale.
 creators:
 - Rhiannon S. Bettivia
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503173/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503173/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -28,6 +28,7 @@ size: 397041
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Mapping Significance of Video Games in OAIS
 year: 2016
 ---

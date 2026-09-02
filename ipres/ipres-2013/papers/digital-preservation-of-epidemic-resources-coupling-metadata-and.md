@@ -16,8 +16,8 @@ creators:
 - Cátia Pesquita
 - Francisco M. Couto
 - Mário J. Silva
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378034/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378034/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 120007
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Digital preservation of epidemic resources: coupling metadata and ontologies'
 year: 2013
 ---

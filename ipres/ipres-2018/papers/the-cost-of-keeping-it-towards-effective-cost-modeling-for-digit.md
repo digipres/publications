@@ -25,8 +25,8 @@ abstract: '"With the introduction of tools like the DLF’s Digitization Cost Ca
 creators:
 - Kate Dohe
 - David Durden
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923634/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923634/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -42,6 +42,7 @@ size: 394325
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The Cost of Keeping It: Towards effective cost-modeling for digital preservation'
 year: 2018
 ---

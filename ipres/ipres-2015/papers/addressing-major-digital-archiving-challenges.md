@@ -12,8 +12,8 @@ creators:
 - Janet Delve
 - David Anderson
 - Andrew Wilson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429583/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429583/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -45,6 +45,7 @@ size: 443872
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Addressing Major Digital Archiving Challenges
 year: 2015
 ---

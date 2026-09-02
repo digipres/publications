@@ -9,8 +9,8 @@ abstract: The authors outline a model for digital preservation federation based 
 creators:
 - Tyler O. Walters
 - Robert H. McDonald
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294154/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294154/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -26,6 +26,7 @@ size: 108175
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Creating Trust Relationships for Distributed Digital Preservation Federations
 year: 2008
 ---

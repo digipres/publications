@@ -8,8 +8,8 @@ creators:
 - Achim Osswald
 - Stefan Strathmann
 - Heike Neuroth
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294273/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294273/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 474209
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Curation and Preservation of Research Data in Germany: A survey across different
   academic disciplines'
 year: 2011

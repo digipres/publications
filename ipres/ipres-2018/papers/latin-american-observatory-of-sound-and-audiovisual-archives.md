@@ -10,8 +10,8 @@ abstract: News, paradigm-shifting ideas, social movements, scientific discoverie
   degradation as well as offering better access to these materials.
 creators:
 - Perla Olivia Rodríguez
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923642/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923642/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -27,6 +27,7 @@ size: 126606
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Latin American Observatory of sound and audiovisual archives
 year: 2018
 ---

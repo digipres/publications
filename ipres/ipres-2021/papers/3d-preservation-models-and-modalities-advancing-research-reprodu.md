@@ -27,8 +27,8 @@ creators:
 - Michelle Stocker
 - Shuhai Xiao
 - Nathan Hall
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424939/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424939/download
 grand_parent: iPRES
 institutions:
 - Virginia Tech
@@ -49,6 +49,7 @@ size: 208635
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: '3D Preservation Models and Modalities: Advancing Research Reproducibility
   and Capacity at Virginia Tech'
 year: 2021

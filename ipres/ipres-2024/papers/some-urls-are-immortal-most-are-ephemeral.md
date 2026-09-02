@@ -54,6 +54,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Some URLs Are Immortal, Most Are Ephemeral
 year: 2024
 ---

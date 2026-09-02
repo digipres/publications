@@ -17,8 +17,8 @@ creators:
 - Jane Greenberg
 - Christopher B. Rauch
 - Mat Kelly
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424940/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424940/download
 grand_parent: iPRES
 institutions:
 - Drexel University
@@ -39,6 +39,7 @@ size: 546397
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Project Pipeline: Preservation, Persistence, and Performance'
 year: 2021
 ---

@@ -17,8 +17,8 @@ creators:
 - David Tarrant
 - Les Carr
 - Steve Hitchcock
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294053/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294053/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 1236739
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Where the Semantic Web and Web 2.0 Meet Format Risk Management: P2 Registry'
 year: 2009
 ---

@@ -8,8 +8,8 @@ abstract: In accordance with the theme of iPres2008, this panel session will con
   identify opportunities and challenges.
 creators:
 - Neil Grindley
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294185/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294185/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -25,6 +25,7 @@ size: 18715
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: National and International Digital Preservation Initiatives
 year: 2008
 ---

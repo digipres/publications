@@ -6,8 +6,8 @@ creators:
 - Zhao Qi
 - Guo Wenli
 - Wu Zhenxin
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294479/download
+date: 2007-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294479/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -23,6 +23,7 @@ size: 1586568
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Developing a CAS E-Journal Archiving System
 year: 2007
 ---

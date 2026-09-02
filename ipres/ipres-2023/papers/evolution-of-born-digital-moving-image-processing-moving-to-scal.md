@@ -11,7 +11,7 @@ abstract: Long-term preservation of born-digital moving image content is similar
 creators:
 - Rachel Curtis
 - Laura Drake Davis
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128332/bitstreams/429029/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -32,6 +32,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121651
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'EVOLUTION OF BORN-DIGITAL MOVING IMAGE PROCESSING: Moving to scalable and
   sustainable workflows'
 year: 2023

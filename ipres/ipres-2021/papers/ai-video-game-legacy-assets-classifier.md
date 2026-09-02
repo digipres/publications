@@ -10,8 +10,8 @@ abstract: "Our department collects vast chunks of assorted data from legacy serv
   graphs. We will also outline future plans regarding model improvements and uses.\n"
 creators:
 - Stefan Serbicki
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424888/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424888/download
 grand_parent: iPRES
 institutions:
 - Electronic Arts.
@@ -33,6 +33,7 @@ size: 299393
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: AI Video Game Legacy Assets Classifier
 year: 2021
 ---

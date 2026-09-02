@@ -13,8 +13,8 @@ abstract: This poster is about one of the deliverables of the Polonsky Foundatio
 creators:
 - Sarah Mason
 - Lee Pretlove
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931130/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931130/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 315477
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Digital preservation training needs assessment toolkit: a collaborative development
   for skills auditing'
 year: 2017

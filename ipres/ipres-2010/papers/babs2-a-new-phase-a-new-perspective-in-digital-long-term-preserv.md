@@ -20,8 +20,8 @@ creators:
 - Tobias Beinert
 - Markus Brantl
 - Anna Kugler
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185325/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185325/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -36,6 +36,7 @@ size: 181245
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'BABS2: A NEW PHASE, A NEW PERSPECTIVE IN DIGITAL LONG-TERM PRESERVATION –
   AN EXPERIENCE REPORT FROM THE BAVARIAN STATE LIBRARY'
 year: 2010

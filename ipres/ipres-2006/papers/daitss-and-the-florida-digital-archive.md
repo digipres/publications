@@ -25,8 +25,8 @@ abstract: '    The Florida Digital Archive (FDA) is a digital preservation repos
   Software in 2006.'
 creators:
 - Priscilla Caplan
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294553/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294553/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -42,6 +42,7 @@ size: 297941
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: DAITSS and the Florida Digital Archive
 year: 2006
 ---

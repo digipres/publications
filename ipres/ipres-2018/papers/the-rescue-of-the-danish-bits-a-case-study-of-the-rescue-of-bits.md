@@ -15,8 +15,8 @@ abstract: The aim of this paper is to illustrate how vulnerable bit preservation
   a contractual and procedural basis for outsourcing parts of the bit preservation.
 creators:
 - Eld Zierau
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923624/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923624/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 772901
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: The Rescue of the Danish Bits - A case study of the rescue of bits and how
   the digital preservation community supported.
 year: 2018

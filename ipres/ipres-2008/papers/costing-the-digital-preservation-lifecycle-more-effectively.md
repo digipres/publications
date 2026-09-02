@@ -16,8 +16,8 @@ abstract: Having confidence in the permanence of a digital resource requires a d
   digital preservation lifecycle costing remains a complex and involved process.
 creators:
 - Paul Wheatley
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294138/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294138/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 41055
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Costing the Digital Preservation Lifecycle More Effectively
 year: 2008
 ---

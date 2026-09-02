@@ -26,8 +26,8 @@ creators:
 - Mark Hedges
 - Simon Waddington
 - Jens Ludwig
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378125/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378125/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -50,6 +50,7 @@ size: 439628
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'A pragmatic approach to significant environment information collection to
   support object reuse: Paper '
 year: 2014

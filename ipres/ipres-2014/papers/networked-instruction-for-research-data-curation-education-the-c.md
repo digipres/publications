@@ -10,8 +10,8 @@ abstract: In this paper, we describe a new initiative to develop a massive open 
 creators:
 - Helen Tibbo
 - Thu-Mai Christian
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378079/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378079/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 57784
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Networked Instruction for Research Data Curation Education: The CRADLE Project'
 year: 2014
 ---

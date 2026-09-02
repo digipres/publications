@@ -22,7 +22,7 @@ creators:
 - Miranda Barnes
 - Karen Hanson
 - Alicia Wise
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/32z8n/
 grand_parent: iPRES
 institutions:
@@ -42,6 +42,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:3jnqs
 stream_url: https://youtu.be/SEU1fsw-Sa8
+submission_url: https://api.zotero.org/groups/5564150/items/N8VK2RTI/file
 title: 'How can bringing together the workflows of publishing and preservation lead
   to better, longer-term solutions that benefit both?: A panel with COPIM Work Package
   7, the Embedding Preservability in New Forms of Scholarship Project (NYU), and Project

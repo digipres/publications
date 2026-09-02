@@ -35,6 +35,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/bd35e0d952454965a64a917ee3741564b70655a27ed640c5aad0d31be3cee8ec
+submission_url: null
 title: The AIDA Network in Flanders
 year: 2024
 ---

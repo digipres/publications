@@ -10,8 +10,8 @@ creators:
 - Dennis Wehrle
 - Thomas Liebetraut
 - Klaus Rechert
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378701/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378701/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -28,6 +28,7 @@ size: 489870
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preservation of Web Content – An Emulation-based Case Study: Poster (Poster) '
 year: 2014
 ---

@@ -11,7 +11,7 @@ creators:
 - Ruby Martinez
 - Christopher Prom
 - Christopher Lee
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/vcz4r/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:6jebx
 stream_url: https://youtu.be/h6jkq4egwgc
+submission_url: https://api.zotero.org/groups/5564150/items/WLK8C2U8/file
 title: '‘Practical’ Vs. ‘Exemplary’ Sustainability: Is There a Right Way to Archive
   Email?'
 year: 2022

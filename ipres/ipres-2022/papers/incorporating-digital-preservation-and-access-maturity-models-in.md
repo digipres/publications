@@ -9,7 +9,7 @@ abstract: This poster explores how and why two maturity models, the NDSA Levels 
   future developments.
 creators:
 - Melinda Haunton
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/pk2ba/
 grand_parent: iPRES
 institutions:
@@ -29,6 +29,7 @@ size: null
 slides_url: https://osf.io/download/fsa4g/
 source_name: iPRES:osf:qbtcp
 stream_url: https://osf.io/download/h629t/
+submission_url: https://api.zotero.org/groups/5564150/items/TV23JCTK/file
 title: 'Incorporating Digital Preservation and Access Maturity Models into Wider Assessment
   Programmes: Archive Service Accreditation and the Levels of Digital Preservation
   and Born-Digital Access'

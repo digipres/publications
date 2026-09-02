@@ -6,8 +6,8 @@ creators:
 - Armin Straube
 - Mohammed Abo Ouda
 - Arif Shaon
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503176/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503176/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -22,6 +22,7 @@ size: 567089
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Digital Preservation with the Islandora Framework at Qatar National Library
 year: 2016
 ---

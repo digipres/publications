@@ -24,8 +24,8 @@ creators:
 - Carlo Montangero
 - Guido Scatena
 - Laura Bussi
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424833/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424833/download
 grand_parent: iPRES
 institutions:
 - Inria and University of Paris
@@ -46,6 +46,7 @@ size: 6270751
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Preserving landmark legacy software with the Software Heritage Acquisition
   Process
 year: 2021

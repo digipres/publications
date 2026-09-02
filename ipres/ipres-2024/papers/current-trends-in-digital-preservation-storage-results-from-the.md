@@ -53,6 +53,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Current Trends in Digital Preservation Storage - Results from the 2023 NDSA
   Storage Survey
 year: 2024

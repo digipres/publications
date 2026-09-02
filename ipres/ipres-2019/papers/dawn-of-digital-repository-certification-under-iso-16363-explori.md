@@ -23,8 +23,8 @@ creators:
 - Jamie Shiers
 - Lisa LaPlant
 - David Giaretta
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1079684/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1079684/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -39,6 +39,7 @@ size: 152532
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Dawn of Digital Repository Certification Under ISO 16363 Exploring the Horizon
   and Beyond '
 year: 2019

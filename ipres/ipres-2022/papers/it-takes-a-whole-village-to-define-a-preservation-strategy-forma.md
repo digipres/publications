@@ -15,7 +15,7 @@ creators:
 - Alix Bruys
 - Thomas Ledoux
 - Jordan de La Houssaye
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/5r2fa/
 grand_parent: iPRES
 institutions:
@@ -36,6 +36,7 @@ size: null
 slides_url: https://osf.io/download/8z3c9/
 source_name: iPRES:osf:ng9d7
 stream_url: https://youtu.be/z6j3gEDfglw
+submission_url: https://api.zotero.org/groups/5564150/items/63NVDQSE/file
 title: 'It Takes a Whole Village to Define a Preservation Strategy: Formalizing Policies
   on Data Formats Normalization at the National Library of France'
 year: 2022

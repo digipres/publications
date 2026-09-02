@@ -11,8 +11,8 @@ abstract: The Computer History Museum (CHM) had its own mini deluge of digital d
 creators:
 - Paula Jabloner
 - Katherine Kott
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293870/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293870/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 650565
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'A Digital Repository Year: One Museum’s Quest for the Basics'
 year: 2012
 ---

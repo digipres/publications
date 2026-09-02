@@ -15,8 +15,8 @@ creators:
 - Stephen Abrams
 - Tom Cramer
 - Sheila Morrissey
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294106/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294106/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 83670
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: “What? So What?” The Next-Generation JHOVE2 Architecture for Format-Aware Characterization
 year: 2008
 ---

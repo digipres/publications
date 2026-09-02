@@ -20,8 +20,8 @@ abstract: 'Much digital preservation research has been built on the assumption t
   format endangerment index. '
 creators:
 - Heather Ryan
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378114/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378114/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -40,6 +40,7 @@ size: 138789
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Occam’s Razor and File Format Endangerment Factors
 year: 2014
 ---

@@ -3,7 +3,7 @@ abstract: "Online Game \n    Hosted on the Open Science Framework"
 creators:
 - Ruby Martinez
 - Tricia Patterson
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -19,6 +19,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:ub84m
 stream_url: null
+submission_url: null
 title: Digital Preservation Jeopardy
 year: 2022
 ---

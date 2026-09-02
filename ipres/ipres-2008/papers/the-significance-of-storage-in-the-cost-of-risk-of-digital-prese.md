@@ -13,8 +13,8 @@ creators:
 - Richard Wright
 - Ant Miller
 - Matthew Addis
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294140/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294140/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -30,6 +30,7 @@ size: 123868
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: The Significance of Storage in the ‘Cost of Risk’ of Digital Preservation
 year: 2008
 ---

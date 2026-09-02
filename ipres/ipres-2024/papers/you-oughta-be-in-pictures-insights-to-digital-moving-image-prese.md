@@ -45,6 +45,7 @@ size: null
 slides_url: https://zenodo.org/records/13759888
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/1f33356a23554e1891cf8e733c80ae8569a014e0d7e44c19ac387bd441a78d09
+submission_url: null
 title: '“You oughta be in pictures”: Insights to Digital Moving Image Preservation
   from the BFI, EYE, and LOC'
 year: 2024

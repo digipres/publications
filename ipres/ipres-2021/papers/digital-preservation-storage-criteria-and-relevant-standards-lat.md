@@ -21,8 +21,8 @@ creators:
 - Andrea Goethals
 - Nancy McGovern
 - Sibyl Schaefer
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424849/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424849/download
 grand_parent: iPRES
 institutions:
 - Royal Danish Library
@@ -46,6 +46,7 @@ size: 426039
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: DIGITAL PRESERVATION STORAGE CRITERIA AND RELEVANT STANDARDS - Latest Development
   on the Digital Preservation Storage Criteria
 year: 2021

@@ -28,7 +28,7 @@ creators:
 - Ilya Kreymer
 - Vicky Rampin
 - Rémi Rampin
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128256/bitstreams/428877/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -48,6 +48,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: SERVER-SIDE WEB ARCHIVING USING REPROZIP-WEB
 year: 2023
 ---

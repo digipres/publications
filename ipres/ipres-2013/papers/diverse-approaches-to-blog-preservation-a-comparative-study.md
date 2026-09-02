@@ -9,8 +9,8 @@ creators:
 - Richard M. Davis
 - Edward Pinsent
 - Silvia Arango-Docio
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378035/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378035/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 240252
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Diverse approaches to blog preservation: a comparative study'
 year: 2013
 ---

@@ -17,8 +17,8 @@ abstract: Dr. Zhang will present the China Archives of Digital Scientific Litera
   cultural heritage preservation are discussed in the end.
 creators:
 - Xiaolin Zhang
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294873/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294873/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 186892
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'CADSL: China Archives of Digital Scientific Literature Initiative'
 year: 2006
 ---

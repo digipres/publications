@@ -10,8 +10,8 @@ creators:
 - James Travers
 - Jo Pugh
 - Melinda Haunton
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1079777/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1079777/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -26,6 +26,7 @@ size: 235686
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Building Network Capacity Among Memory In stitutions '
 year: 2019
 ---

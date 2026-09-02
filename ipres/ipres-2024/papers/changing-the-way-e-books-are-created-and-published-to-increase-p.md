@@ -58,6 +58,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/95865e17157e40d1b3947dd335e3fe715db4d3dd8b4b4c47bc17ba880d15dd38
+submission_url: null
 title: Changing the way e-books are created and published to increase preservability
   and preservation
 year: 2024

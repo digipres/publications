@@ -16,8 +16,8 @@ creators:
 - Simon Lambert
 - Juan Bicarregui
 - Brian Matthews
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294001/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294001/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 878103
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Significant Properties, Authenticity, Provenance, Representation Information
   and OAIS Information
 year: 2009

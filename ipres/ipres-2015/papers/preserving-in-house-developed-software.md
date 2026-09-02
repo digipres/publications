@@ -18,8 +18,8 @@ abstract: 'Software often plays a key role in the ways that institutions functio
   long-term software preservation strategy.'
 creators:
 - Nicole Contaxis
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429582/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429582/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -37,6 +37,7 @@ size: 385316
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Preserving In-House Developed Software
 year: 2015
 ---

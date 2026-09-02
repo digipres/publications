@@ -17,8 +17,8 @@ creators:
 - Fábio Costa
 - Gabriel David
 - Álvaro Cunha
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:377371/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:377371/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -37,6 +37,7 @@ size: 123509
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Digital Archive of Monitoring Data
 year: 2013
 ---

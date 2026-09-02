@@ -12,8 +12,8 @@ abstract: Our poster will reflect our recent efforts to understand the workflows
 creators:
 - Genevieve Milliken
 - Vicky Steeves
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1081757/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1081757/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -28,6 +28,7 @@ size: 158715
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'ARCHIVING THE SCHOLARLY GIT EXPERIENCE '
 year: 2019
 ---

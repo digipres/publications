@@ -18,8 +18,8 @@ abstract: 'Abstract: The European Commission supported ARCHIVER project (Archivi
   '
 creators:
 - Matthew Addis
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424914/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424914/download
 grand_parent: iPRES
 institutions:
 - Arkivum
@@ -40,6 +40,7 @@ size: 1213338
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: SCALABLE AND SUSTAINABLE LONG TERM DIGITAL PRESERVATION OF SCIENTIFIC DATASETS
 year: 2021
 ---

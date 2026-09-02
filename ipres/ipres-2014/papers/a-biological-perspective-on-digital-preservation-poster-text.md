@@ -18,8 +18,8 @@ creators:
 - Jens Ludwig
 - Mark Hedges
 - Sándor Darányi
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378713/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378713/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -40,6 +40,7 @@ size: 76341
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'A Biological Perspective on Digital Preservation: Poster (Text) '
 year: 2014
 ---

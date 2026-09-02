@@ -10,8 +10,8 @@ abstract: The digitization of millions of books under corporate and non-profit p
 creators:
 - Oya Y. Rieger
 - Bill Kehoe
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294102/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294102/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -27,6 +27,7 @@ size: 81692
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Enduring Access to Digitized Books: Organizational and Technical Framework'
 year: 2008
 ---

@@ -11,8 +11,8 @@ creators:
 - Dirk von Suchodoletz
 - Isgandar Valizada
 - Louise Fauduet
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294077/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294077/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 607130
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: bwFLA – Practical Approach to Functional Access Strategies
 year: 2012
 ---

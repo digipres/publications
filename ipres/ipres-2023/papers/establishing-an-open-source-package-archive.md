@@ -75,7 +75,7 @@ abstract: "Many Linux-based operating systems use a package management system th
 creators:
 - Euan Cochrane
 - Rafael Gieschke
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128268/bitstreams/428901/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -94,6 +94,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: ESTABLISHING AN OPEN-SOURCE PACKAGE “ARCHIVE"
 year: 2023
 ---

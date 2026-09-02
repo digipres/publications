@@ -11,8 +11,8 @@ creators:
 - Janet Delve
 - Ricardo Vieira
 - Ross King
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378127/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378127/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -37,6 +37,7 @@ size: 163124
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Integrating e-government systems with digital archives: Paper '
 year: 2014
 ---

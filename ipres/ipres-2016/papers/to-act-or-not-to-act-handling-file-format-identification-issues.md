@@ -12,8 +12,8 @@ creators:
 - Matthias Töwe
 - Roland E. Suri
 - Franziska Geisser
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503183/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503183/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -28,6 +28,7 @@ size: 44108
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: To Act or Not to Act – Handling File Format Identification Issues in Practice
 year: 2016
 ---

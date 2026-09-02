@@ -13,8 +13,8 @@ abstract: "Digital data associated with the architectural design-and constructio
   Classes) as one way to store and preserve BIM data. \n "
 creators:
 - Michelle Lindlar
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378117/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378117/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 242155
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Building Information Modeling – A Game Changer for Interoperability and a Chance
   for Digital Preservation of Architectural Data?
 year: 2014

@@ -15,8 +15,8 @@ abstract: 'People with responsibility for scholarly assets agree that digital pr
   to readers with transparent on-access format migration. [www.lockss.org]'
 creators:
 - Victoria Reich
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294853/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294853/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 860780
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: LOCKSS - Lots of Copies Keep Stuff Safe
 year: 2006
 ---

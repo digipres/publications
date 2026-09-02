@@ -10,8 +10,8 @@ creators:
 - Rudolf Mayer
 - Stephan Strodl
 - Andreas Rauber
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293872/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293872/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 781250
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'On the Complexity of Process Preservation: A Case Study on an E-Science Experiment'
 year: 2012
 ---

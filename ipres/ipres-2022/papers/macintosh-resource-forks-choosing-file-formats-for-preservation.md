@@ -11,7 +11,7 @@ abstract: The preservation of files from early Macintosh Classic (OS <=9) may of
   back to the original OS can help identify potential loss.
 creators:
 - Tyler Thorsted
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/xuwd2/
 grand_parent: iPRES
 institutions:
@@ -32,6 +32,7 @@ size: null
 slides_url: https://osf.io/download/q2zf5/
 source_name: iPRES:osf:n4myk
 stream_url: https://youtu.be/3iytNgWTNAA
+submission_url: https://api.zotero.org/groups/5564150/items/SPCNDY5X/file
 title: Macintosh Resource Forks - Choosing File Formats for Preservation
 year: 2022
 ---

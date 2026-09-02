@@ -19,8 +19,8 @@ creators:
 - Natasa Milic-Frayling
 - Robert Buckley
 - Kevin Bradley
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424946/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424946/download
 grand_parent: iPRES
 institutions:
 - UNESCO Preservation Sub-Committee
@@ -44,6 +44,7 @@ size: 297630
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'DIGITAL DOCUMENTARY HERITAGE: SECURING RELIABLE AND SUSTAINABLE ACCESS'
 year: 2021
 ---

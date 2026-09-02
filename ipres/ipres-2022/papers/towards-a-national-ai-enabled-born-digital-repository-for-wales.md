@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Sarah Higgins
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/28byn/
 source_name: iPRES:osf:ce6du
 stream_url: https://youtu.be/eW6PsVnyI2k?t=2253
+submission_url: null
 title: Towards a National AI-Enabled Born-Digital Repository for Wales
 year: 2022
 ---

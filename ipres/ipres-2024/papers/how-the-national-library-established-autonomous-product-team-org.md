@@ -39,6 +39,7 @@ size: null
 slides_url: https://zenodo.org/records/13749573
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/3c201d717da7420295f0ae90d0b0b1e9787aeff96d2548fb8552074190b13848
+submission_url: null
 title: How the National Library established autonomous product team organisation
 year: 2024
 ---

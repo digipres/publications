@@ -26,8 +26,8 @@ creators:
 - Kai Naumann
 - Urs Gerber
 - Carsten Rönsdorf
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294224/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294224/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -49,6 +49,7 @@ size: 1150321
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Long-Term Sustainability of Spatial Data Infrastructures: A Metadata Framework
   and Principles of Geo-Archiving'
 year: 2011

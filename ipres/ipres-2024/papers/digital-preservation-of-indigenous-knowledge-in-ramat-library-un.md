@@ -38,6 +38,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/3ec04ee9969c4ac48501aa9100cd6f752a2085cce7cc414588e4c6fc22f07e98
+submission_url: null
 title: Digital Preservation of Indigenous Knowledge in Ramat Library, University of
   Maiduguri; Nigeria
 year: 2024

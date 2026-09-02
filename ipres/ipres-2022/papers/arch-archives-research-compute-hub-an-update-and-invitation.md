@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Thomas Padilla
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/5fxhk/
 source_name: iPRES:osf:3evmd
 stream_url: https://youtu.be/eW6PsVnyI2k?t=4266
+submission_url: null
 title: 'ARCH (Archives Research Compute Hub): An Update and Invitation'
 year: 2022
 ---

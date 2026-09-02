@@ -96,8 +96,8 @@ creators:
 - Kevin Leroux
 - Joseph Rogers
 - Robert Sharpe
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378068/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378068/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -116,6 +116,7 @@ size: 372456
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Linked Data Registry: A New Approach To Technical Registries'
 year: 2014
 ---

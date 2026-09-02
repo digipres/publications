@@ -9,7 +9,7 @@ abstract: 'Long term digital preservation can benefit from long term storage sol
 creators:
 - Euan Cochrane
 - Daniel Chadash
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/7htr6/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: https://osf.io/download/cp864/
 source_name: iPRES:osf:r4wta
 stream_url: https://youtu.be/flbNYyrqdqs
+submission_url: https://api.zotero.org/groups/5564150/items/FE7TGBNP/file
 title: DNA Data storage for long term digital preservation
 year: 2022
 ---

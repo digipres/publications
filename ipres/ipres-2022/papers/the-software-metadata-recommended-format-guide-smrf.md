@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Dianne Dietrich
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/g5fkh/
 source_name: iPRES:osf:geyq9
 stream_url: https://youtu.be/yQ_jEapgpjk?t=570
+submission_url: null
 title: The Software Metadata Recommended Format Guide (SMRF)
 year: 2022
 ---

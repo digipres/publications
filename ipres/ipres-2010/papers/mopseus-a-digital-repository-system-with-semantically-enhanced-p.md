@@ -16,8 +16,8 @@ creators:
 - Dimitris Gavrilis
 - Stavros Angelis
 - Christos Papatheodorou
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185421/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185421/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -32,6 +32,7 @@ size: 197802
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: MOPSEUS – A DIGITAL REPOSITORY SYSTEM WITH SEMANTICALLY ENHANCED PRESERVATION
   SERVICES
 year: 2010

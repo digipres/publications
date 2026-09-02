@@ -4,8 +4,8 @@ abstract: "This workshop will introduce participants to web archiving concepts a
   use. \n"
 creators:
 - Lori Donovan
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378689/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378689/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -23,6 +23,7 @@ size: 123089
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Leveraging Web Archiving Tools for Research and LongTerm Access
 year: 2014
 ---

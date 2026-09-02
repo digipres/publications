@@ -9,8 +9,8 @@ abstract: The BBC Archive now contains around 15 Petabytes (single copy) of unco
   is given to what has been achieved so far, some lessons learnt, and the future challenges.
 creators:
 - Thomas Heritage
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378038/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378038/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 529078
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: File-Based Preservation of the BBC’s Videotape Archive
 year: 2013
 ---

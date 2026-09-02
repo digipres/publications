@@ -46,6 +46,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/34ffa848513a49b58e2aa3536113622690d1c56176a14334a332f184acbb8e29
+submission_url: null
 title: 'Addressing the problem of file formats obsolescence: the Italian guidelines
   on file format conversion for the long-term preservation of electronic records'
 year: 2024

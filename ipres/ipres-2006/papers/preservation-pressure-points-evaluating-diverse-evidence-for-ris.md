@@ -24,8 +24,8 @@ abstract: Establishing a comprehensive understanding of the effectiveness and tr
 creators:
 - Seamus Ross
 - Andrew McHugh
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294550/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294550/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 48332
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preservation Pressure Points: Evaluating Diverse Evidence for Risk Management'
 year: 2006
 ---

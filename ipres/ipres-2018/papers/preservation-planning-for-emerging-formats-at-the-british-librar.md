@@ -23,17 +23,17 @@ abstract: 'The British Library and the other UK Legal Deposit Libraries have bee
   providers will be key to resolving all of these in a satisfactory manner.'
 creators:
 - Michael Day
-- Jeremy Jenkins
-- Ian Cooke
-- Caylin Smith
 - Maureen Pennock
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923625/download
+- Caylin Smith
+- Ian Cooke
+- Jeremy Jenkins
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923627/download
 grand_parent: iPRES
 institutions: []
 keywords:
 - boston
-landing_page_url: https://phaidra.univie.ac.at/o:923625
+landing_page_url: https://phaidra.univie.ac.at/o:923627
 language: eng
 layout: publication
 license: CC BY 4.0 International
@@ -44,6 +44,7 @@ size: 337528
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Preservation planning for emerging formats at the British Library
 year: 2018
 ---

@@ -53,6 +53,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: How preservable is your complex digital project? Introducing a Preservability
   Self Assessment Tool
 year: 2024

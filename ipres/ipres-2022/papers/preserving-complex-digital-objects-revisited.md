@@ -13,7 +13,7 @@ creators:
 - Patricia Falcao
 - Caylin Smith
 - Sara Thomson
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/7w894/
 grand_parent: iPRES
 institutions:
@@ -21,7 +21,7 @@ institutions:
 keywords:
 - file formats
 - collaboration
-- capacity building <br />
+- capacity building
 landing_page_url: https://osf.io/5326f/
 language: eng
 layout: publication
@@ -33,6 +33,7 @@ size: null
 slides_url: https://osf.io/download/a4zrv/
 source_name: iPRES:osf:5326f
 stream_url: null
+submission_url: https://api.zotero.org/groups/5564150/items/GK9J3MZW/file
 title: Preserving Complex Digital Objects Revisited
 year: 2022
 ---

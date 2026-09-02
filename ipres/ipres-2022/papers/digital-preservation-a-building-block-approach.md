@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Jonathan Isip
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/a7n6v/
 source_name: iPRES:osf:7kewd
 stream_url: https://youtu.be/eW6PsVnyI2k?t=545
+submission_url: null
 title: 'Digital Preservation: A Building Block Approach'
 year: 2022
 ---

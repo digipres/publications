@@ -30,8 +30,8 @@ abstract: 'Digital curation micro-services offer a light-weight
   that is compliant with standards and best practices.'
 creators:
 - Peter Van Garderen
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185511/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185511/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -46,6 +46,7 @@ size: 394763
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'ARCHIVEMATICA: USING MICRO-SERVICES AND  OPEN-SOURCE SOFTWARE TO DELIVER A  COMPREHENSIVE
   DIGITAL CURATION SOLUTION'
 year: 2010

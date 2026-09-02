@@ -13,8 +13,8 @@ abstract: 'This paper outlines some of the most relevant copyright obstacles lib
   to maybe launch further discussions.'
 creators:
 - Andrea Ruth Schreiber
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502848/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502848/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -29,6 +29,7 @@ size: 203899
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Copyright in Cultural Heritage Institutions Snapshot of the Situation in Switzerland
   from a national library perspective
 year: 2016

@@ -50,6 +50,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/fc230dda5df941daa9a88f0bbe8b23264cdaede2ed624a2f961c1a5de67d84c6
+submission_url: null
 title: Digital preservation in the cloud?
 year: 2024
 ---

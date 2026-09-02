@@ -6,8 +6,8 @@ abstract: This paper uses a collective case study to reveal similarities and dif
 creators:
 - Nathan Hall
 - Michael Boock
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931106/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931106/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -23,6 +23,7 @@ size: 166780
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Environmental Scan of Distributed Digital Preservation Services: A Collective
   Case Study'
 year: 2017

@@ -15,8 +15,8 @@ creators:
 - Klaus Rechert
 - Tom Ensom
 - Patrícia Falcão
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503169/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503169/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -31,6 +31,7 @@ size: 497372
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Towards a Risk Model for Emulation-based Preservation Strategies
 year: 2016
 ---

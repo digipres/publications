@@ -8,7 +8,7 @@ abstract: In 2021, the Carmichael Watson project website — a highly valued res
 creators:
 - Sara Thomson
 - Anisa Hawes
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/j5k2t/
 grand_parent: iPRES
 institutions:
@@ -27,6 +27,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:y356n
 stream_url: https://youtu.be/r000jGnrm8k
+submission_url: https://api.zotero.org/groups/5564150/items/VFF7XW8B/file
 title: 'Vanished: Preserving the Carmichael Watson Project Website Offline Using Webrecorder'
 year: 2022
 ---

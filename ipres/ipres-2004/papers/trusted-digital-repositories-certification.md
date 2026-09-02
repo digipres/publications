@@ -28,8 +28,8 @@ abstract: 'Electronic publishing is the usual form in the scientific communicati
 creators:
 - Reinhard Altenhöner
 - Heike Neuroth
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295014/download
+date: 2004-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295014/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -45,6 +45,7 @@ size: 376043
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Trusted Digital Repositories, Certification
 year: 2004
 ---

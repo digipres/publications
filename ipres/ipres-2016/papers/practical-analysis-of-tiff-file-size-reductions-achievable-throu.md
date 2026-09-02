@@ -15,8 +15,8 @@ abstract: This paper presents results of a practical analysis into the effects o
 creators:
 - Peter May
 - Kevin Davies
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503166/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503166/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -31,6 +31,7 @@ size: 480166
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Practical Analysis of TIFF File Size Reductions Achievable Through Compression
 year: 2016
 ---

@@ -15,8 +15,8 @@ abstract: One of the most important challenges in planning and maintaining a dig
 creators:
 - Christian Weihs
 - Andreas Rauber
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294237/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294237/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 986584
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Simulating the Effect of Preservation Actions on Repository Evolution
 year: 2011
 ---

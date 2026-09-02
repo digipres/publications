@@ -32,8 +32,8 @@ creators:
 - Matt Schultz
 - Aaron Trehub
 - Katherine Skinner
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429558/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429558/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -49,6 +49,7 @@ size: 198146
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Getting to the Bottom Line: 20 Digital Preservation Cost Questions'
 year: 2015
 ---

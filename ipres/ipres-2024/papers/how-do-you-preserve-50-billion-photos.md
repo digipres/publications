@@ -46,6 +46,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: How do you preserve 50 billion photos?
 year: 2024
 ---

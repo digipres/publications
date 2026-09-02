@@ -10,7 +10,7 @@ creators:
 - Kayla Maloney
 - Katrina McAlpine
 - Jennifer Stanton
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128324/bitstreams/429013/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -31,6 +31,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121654
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'RESCUING LEGACY DIGITAL COLLECTIONS: Lessons Learned from Migrating Historical
   Bespoke Digital Collections'
 year: 2023

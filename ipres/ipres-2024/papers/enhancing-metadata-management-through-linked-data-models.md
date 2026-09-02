@@ -49,6 +49,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Enhancing Metadata Management through Linked Data Models
 year: 2024
 ---

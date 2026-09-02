@@ -15,8 +15,8 @@ abstract: Developing, deploying and maintaining open source software is increasi
 creators:
 - Trevor Owens
 - Carl Wilson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429624/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429624/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 575369
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Roles and Responsibilities for Sustaining Open Source Platforms and Tools
 year: 2015
 ---

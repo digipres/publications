@@ -13,8 +13,8 @@ abstract: This paper seeks to advance digital preservation theory and practice b
 creators:
 - Kyle R. Rimkus
 - Scott D. Witmer
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502900/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502900/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -29,6 +29,7 @@ size: 430862
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Identifying Barriers To File Rendering In Bit-level Preservation Repositories
 year: 2016
 ---

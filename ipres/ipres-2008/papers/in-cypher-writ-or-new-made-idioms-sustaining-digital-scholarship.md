@@ -16,8 +16,8 @@ abstract: Digital Scholarship is a method of scholarly communication, research, 
   for approaching such a complex problem set.
 creators:
 - Bradley J. Daigle
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294100/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294100/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 56395
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'In Cypher Writ, or New Made Idioms: Sustaining Digital Scholarship as Cooperative
   Digital Preservation'
 year: 2008

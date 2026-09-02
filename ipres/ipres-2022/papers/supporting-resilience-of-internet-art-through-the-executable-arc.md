@@ -16,7 +16,7 @@ abstract: 'We present a case study of artist-led reconstruction of Internet art 
 creators:
 - Natasa Milic-Frayling
 - Michael Magruder
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/45pyc/
 grand_parent: iPRES
 institutions:
@@ -37,6 +37,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:y8cvu
 stream_url: https://youtu.be/52Sf7wd646o
+submission_url: https://api.zotero.org/groups/5564150/items/NHQG8YD9/file
 title: Supporting Resilience Of Internet Art Through The Executable Archive Framework
   Case-Study Of Virtual Reality Modeling Language & Flash Artwork
 year: 2022

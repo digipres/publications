@@ -38,6 +38,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/e468e40244c34b82858b50fb7eb58232f195eb8a607a42afa3eb4938971cce8d
+submission_url: null
 title: A Condition Assessment Model for Multi-variant Net Artworks
 year: 2024
 ---

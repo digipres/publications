@@ -51,6 +51,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: A Generic Carbon Footprint Model
 year: 2024
 ---

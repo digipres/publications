@@ -3,8 +3,8 @@ abstract: Message from the PC Chairs
 creators:
 - Natalie Pang
 - Klaus Rechert
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931146/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931146/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -20,6 +20,7 @@ size: 202060
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Message from the PC Chairs
 year: 2017
 ---

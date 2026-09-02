@@ -21,8 +21,8 @@ creators:
 - Peipei Zhang
 - Huan Liu
 - Chenchen Hou
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424917/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424917/download
 grand_parent: iPRES
 institutions:
 - The Palace Museum
@@ -44,6 +44,7 @@ size: 468128
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Research on 3D Digitization Scheme of Cultural Relics Preserved for a Long
   Time
 year: 2021

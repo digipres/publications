@@ -16,8 +16,8 @@ abstract: 'Fedora is a flexible, extensible repository platform for the manageme
 creators:
 - David Cox
 - Andrews Woods
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429626/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429626/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 356668
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Fedora 4 Tutorial
 year: 2015
 ---

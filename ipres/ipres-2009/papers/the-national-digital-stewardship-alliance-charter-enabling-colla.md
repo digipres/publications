@@ -6,8 +6,8 @@ creators:
 - Martha Anderson
 - Abigail Potter
 - Michelle Gallinger
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294019/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294019/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -23,6 +23,7 @@ size: 699877
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The National Digital Stewardship Alliance Charter: Enabling Collaboration
   to Achieve National Digital Preservation'
 year: 2009

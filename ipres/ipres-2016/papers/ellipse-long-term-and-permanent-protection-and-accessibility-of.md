@@ -15,8 +15,8 @@ creators:
 - Krystyna W. Ohnesorge
 - Alain Mast
 - Chiara Marciani
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503167/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503167/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -31,6 +31,7 @@ size: 534404
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Ellipse – Long-term and Permanent Protection and Accessibility of Geodata
 year: 2016
 ---

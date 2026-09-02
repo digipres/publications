@@ -55,6 +55,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Digital Preservation Registries: What We Have & What We Need'
 year: 2024
 ---

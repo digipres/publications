@@ -13,8 +13,8 @@ creators:
 - Lisandro Pablo Olivares
 - Paul Wheatley
 - Michael Day
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424928/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424928/download
 grand_parent: iPRES
 institutions:
 - Library of Congress
@@ -42,6 +42,7 @@ size: 419041
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Digital Library Maturation: The Evolution of Digital Collections Management
   Programs at National Libraries'
 year: 2021

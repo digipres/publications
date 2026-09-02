@@ -21,8 +21,8 @@ creators:
 - Douglas Thain
 - Peter Ivie
 - Haiyan Meng
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429560/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429560/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -39,6 +39,7 @@ size: 781009
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Techniques for Preserving Scientific Software Executions: Preserve the Mess
   or Encourage Cleanliness?'
 year: 2015

@@ -14,7 +14,7 @@ abstract: Data that is at the heart of ransomware attack. Thanks to the rapid di
   at the bigger picture.
 creators:
 - Greg Hewitson
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/wm9nu/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: https://osf.io/download/tfbc6/
 source_name: iPRES:osf:ku3fs
 stream_url: https://youtu.be/gTyMPcnVnC0
+submission_url: https://api.zotero.org/groups/5564150/items/YJQXY69X/file
 title: Cyber Resilience
 year: 2022
 ---

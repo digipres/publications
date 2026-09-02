@@ -9,8 +9,8 @@ abstract: Should we preserve everything or only a selection of the available inf
   supported by the Germany Ministry for Education and Research.
 creators:
 - Thomas Severiens
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295013/download
+date: 2004-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295013/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -26,6 +26,7 @@ size: 721395
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Preservation Planning, Institutional Strategies and Policies
 year: 2004
 ---

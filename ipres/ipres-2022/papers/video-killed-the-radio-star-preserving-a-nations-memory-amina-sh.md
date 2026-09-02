@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Amina Shah
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/bgker/
 source_name: iPRES:osf:7gbft
 stream_url: https://youtu.be/n0Oy0iMKFYc
+submission_url: null
 title: 'Video Killed the Radio Star: preserving a nation’s memory _ Amina Shah _'
 year: 2022
 ---

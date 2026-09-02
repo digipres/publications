@@ -12,7 +12,7 @@ creators:
 - Meghan Ferriter
 - Eileen Manchester
 - Jaime Mears
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/847bs/
 grand_parent: iPRES
 institutions:
@@ -30,6 +30,7 @@ size: null
 slides_url: https://osf.io/download/cyqx4/
 source_name: iPRES:osf:j9vcn
 stream_url: https://youtu.be/ktwufYGDapw
+submission_url: https://api.zotero.org/groups/5564150/items/JUE7EHYX/file
 title: 'Feasible, Adaptable and Shared: A call for a community framework for implementing
   ML and AI'
 year: 2022

@@ -8,8 +8,8 @@ abstract: This paper describes the effort to develop an institutional strategy f
   entire organisation.
 creators:
 - Helen Hockx-Yu
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931071/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931071/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -25,6 +25,7 @@ size: 356240
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Superb Stewardship of Digital Assets – Developing a strategy for Digital Archiving
   and Preservation at the University of Notre Dame
 year: 2017

@@ -11,8 +11,8 @@ abstract: The UK scene -- David Thomas will focus on the Seamless Flow programme
   with you.
 creators:
 - David Thomas
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294870/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294870/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -28,6 +28,7 @@ size: 1177940
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Digital Preservation in the UK
 year: 2006
 ---

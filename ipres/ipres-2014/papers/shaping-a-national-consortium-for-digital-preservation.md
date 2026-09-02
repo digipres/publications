@@ -10,8 +10,8 @@ abstract: "This paper asks the question “what form of digital preservation col
   and national approaches across Scotland and the United Kingdom. \n"
 creators:
 - Darryl Mead
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378121/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378121/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 66240
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Shaping a national consortium for digital preservation
 year: 2014
 ---

@@ -9,8 +9,8 @@ abstract: The adoption of existing technologies for digital curation, most espec
   The importance of not relying on any single technology is also emphasised.
 creators:
 - Jeremy Leighton John
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294101/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294101/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -26,6 +26,7 @@ size: 60512
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Adapting Existing Technologies for Digitally Archiving Personal Lives Digital
   Forensics, Ancestral Computing, and Evolutionary Perspectives and Tools
 year: 2008

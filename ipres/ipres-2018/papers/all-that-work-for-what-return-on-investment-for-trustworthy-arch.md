@@ -27,8 +27,8 @@ abstract: 'TIB – Leibniz Information Centre for Science and Technology hosts a
 creators:
 - Michelle Lindlar
 - Franziska Schwab
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:922206/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:922206/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -44,6 +44,7 @@ size: 297322
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: All that work … for what? Return on investment for trustworthy archive certification
   processes – a case study
 year: 2018

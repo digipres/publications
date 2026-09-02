@@ -21,8 +21,8 @@ creators:
 - Andreas Hundsdörfer
 - Dominic Heutelbeck
 - Jörg Brunsmann
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294018/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294018/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 788850
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Towards Support for Long-Term Digital Preservation in Product Life Cycle Management
 year: 2009
 ---

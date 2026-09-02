@@ -18,8 +18,8 @@ creators:
 - Adam Farquhar
 - James Duckworth
 - Clive Billenness
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294014/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294014/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 970025
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Are You Ready? Assessing Whether Organisations are Prepared for Digital Preservation
 year: 2009
 ---

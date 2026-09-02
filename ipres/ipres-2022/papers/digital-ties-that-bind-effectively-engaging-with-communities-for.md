@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Tamar Evangelestia-Dougherty
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:fnjd6
 stream_url: https://youtu.be/lDEWqey559M
+submission_url: null
 title: 'Digital Ties That Bind: Effectively Engaging With Communities For Equitable
   Digital Preservation Ecosystems _ Tamar Evangelestia-Dougherty _'
 year: 2022

@@ -2,8 +2,8 @@
 abstract: null
 creators:
 - René van Horik
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295026/download
+date: 2004-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295026/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -19,6 +19,7 @@ size: 98734
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Project “DARE”
 year: 2004
 ---

@@ -2,8 +2,8 @@
 abstract: null
 creators:
 - John Kunze
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424696/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424696/download
 grand_parent: iPRES
 institutions:
 - California Digital Library
@@ -19,6 +19,7 @@ size: 43236
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'ARK Alliance: Empowering 800 institutions and 8 billion identifiers since
   2001'
 year: 2021

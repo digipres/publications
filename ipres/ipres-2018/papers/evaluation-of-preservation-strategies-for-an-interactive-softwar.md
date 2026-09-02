@@ -48,8 +48,8 @@ creators:
 - Claudia Roeck
 - Julia Noordegraaf
 - Klaus Rechert
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923622/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923622/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -65,6 +65,7 @@ size: 3744583
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Evaluation of preservation strategies for an interactive, software-based artwork
   with complex behavior using the case study Horizons (2008) by Geert Mul
 year: 2018

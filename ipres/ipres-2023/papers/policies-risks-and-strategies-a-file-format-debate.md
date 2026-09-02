@@ -14,7 +14,7 @@ creators:
 - Kate Murray
 - Tyler Thorsted
 - Paul Wheatley
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128286/bitstreams/428937/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -35,6 +35,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121593
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'POLICIES, RISKS AND STRATEGIES:  A File Format Debate'
 year: 2023
 ---

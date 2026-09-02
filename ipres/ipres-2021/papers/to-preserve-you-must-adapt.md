@@ -4,8 +4,8 @@ creators:
 - Alex Kinnaman
 - Rachel Howard
 - Deanna Ulvestad
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1422933/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1422933/download
 grand_parent: iPRES
 institutions:
 - Virginia Tech University Libraries
@@ -23,6 +23,7 @@ size: 50452
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: To Preserve, You Must Adapt.
 year: 2021
 ---

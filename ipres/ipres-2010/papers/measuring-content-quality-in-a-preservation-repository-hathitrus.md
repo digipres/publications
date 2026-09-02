@@ -52,8 +52,8 @@ abstract: 'As mechanisms emerge to certify the trustworthiness of
   repositories.'
 creators:
 - Paul Conway
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185379/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185379/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -68,6 +68,7 @@ size: 88469
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'MEASURING CONTENT QUALITY IN A PRESERVATION  REPOSITORY: HATHITRUST AND LARGE-SCALE
   BOOK  DIGITIZATION'
 year: 2010

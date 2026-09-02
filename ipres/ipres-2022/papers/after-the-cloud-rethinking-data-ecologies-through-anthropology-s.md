@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Steven Monserrate
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/5ycfk/
 source_name: iPRES:osf:b398d
 stream_url: https://youtu.be/pFCqgmLgqzg
+submission_url: null
 title: 'After the Cloud: Rethinking Data Ecologies through Anthropology & Speculative
   Fiction _ Steven Gonzalez Monserrate _'
 year: 2022

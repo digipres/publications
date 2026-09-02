@@ -14,7 +14,7 @@ creators:
 - Heidi J. Imker
 - Andrew J. Margenot
 - Sarah C. Williams
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128301/bitstreams/428967/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -35,6 +35,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121681
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'PUBLISHING AGRICULTURAL DATA FROM THE MORROW PLOTS:  The Value and Logistics
   of Preserving a Long-Term Research Experiment'
 year: 2023

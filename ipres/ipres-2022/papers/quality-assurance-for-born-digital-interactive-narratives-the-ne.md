@@ -12,15 +12,15 @@ abstract: 'The UK Legal Deposit Libraries have been researching and building exp
 creators:
 - Giulia Rossi
 - Tegan Pyke
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/vftg9/
 grand_parent: iPRES
 institutions:
 - The British Library
 keywords:
 - quality assurance
-- <br />emerging formats
-- <br />web-archiving
+- emerging formats
+- web-archiving
 landing_page_url: https://osf.io/qrax3/
 language: eng
 layout: publication
@@ -32,6 +32,7 @@ size: null
 slides_url: https://osf.io/download/7wprg/
 source_name: iPRES:osf:qrax3
 stream_url: https://osf.io/download/79kx6/
+submission_url: https://api.zotero.org/groups/5564150/items/IX3VAZE6/file
 title: 'Quality Assurance For Born-Digital Interactive Narratives: The New Media Writing
   Prize Collection As A Case Study'
 year: 2022

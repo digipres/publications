@@ -13,7 +13,7 @@ creators:
 - Andreas Nef
 - Tobias Steinke
 - Robin Wendler
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/4cnjz/
 grand_parent: iPRES
 institutions:
@@ -33,6 +33,7 @@ size: null
 slides_url: https://osf.io/download/d47qg/
 source_name: iPRES:osf:6sezx
 stream_url: https://youtu.be/UPBoA0z-_r8
+submission_url: https://api.zotero.org/groups/5564150/items/NH5PWRWB/file
 title: Metadata Encoding and Transmission Standard (METS) Version 2
 year: 2022
 ---

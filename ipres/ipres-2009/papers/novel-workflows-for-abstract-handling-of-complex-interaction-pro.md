@@ -17,8 +17,8 @@ creators:
 - Maurice van den Dobbelsteen
 - Randolph Welte
 - Dirk von Suchodoletz
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294023/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294023/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 1551899
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Novel Workflows for Abstract Handling of Complex Interaction Processes in Digital
   Preservation
 year: 2009

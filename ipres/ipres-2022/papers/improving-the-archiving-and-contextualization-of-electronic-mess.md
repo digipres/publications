@@ -17,7 +17,7 @@ creators:
 - Bénédicte Grailles
 - Touria Mekki
 - Édouard Vasseur
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/uqs4z/
 grand_parent: iPRES
 institutions:
@@ -38,6 +38,7 @@ size: null
 slides_url: https://osf.io/download/7rdq9/
 source_name: iPRES:osf:wtm93
 stream_url: https://osf.io/download/pbcu4/
+submission_url: https://api.zotero.org/groups/5564150/items/M2X3PWTL/file
 title: Improving the archiving and contextualization of electronic messaging in French
 year: 2022
 ---

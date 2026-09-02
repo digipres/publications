@@ -16,8 +16,8 @@ abstract: PDF/A is a version of Portable Document Format backed by ISO standard 
 creators:
 - Jamin Koo
 - Carol C.H. Chou
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293871/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293871/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -39,6 +39,7 @@ size: 595742
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'PDF to PDF/A: Evaluation of Converter Software for Implementation in Digital
   Repository Workflow'
 year: 2012

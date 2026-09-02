@@ -15,8 +15,8 @@ abstract: 'The New York Public Library has created over 1.5 PB of files from dig
   and manifests, update or add checksums, and create event logs of repairs.'
 creators:
 - Nick Krabbenhoeft
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931102/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931102/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 111301
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'BagIt Fixer-Upper: Scaling BagIt Tools to Manage the Ingest of Petabytes of
   Digitization Work'
 year: 2017

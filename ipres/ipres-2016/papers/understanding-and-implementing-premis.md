@@ -7,8 +7,8 @@ creators:
 - Angela Dappert
 - Evelyn McLellan
 - Eld Zierau
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502828/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502828/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -23,6 +23,7 @@ size: 157244
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Understanding and Implementing PREMIS
 year: 2016
 ---

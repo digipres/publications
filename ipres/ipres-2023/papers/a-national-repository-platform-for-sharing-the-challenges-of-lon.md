@@ -10,7 +10,7 @@ creators:
 - Arif Shaon
 - Marcin Werla
 - Alwaleed Alkhaja
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128274/bitstreams/428913/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -32,6 +32,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A NATIONAL REPOSITORY PLATFORM FOR SHARING THE CHALLENGES OF LONG-TERM DIGITAL
   CURATION OF RESEARCH DATA
 year: 2023

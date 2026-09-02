@@ -31,8 +31,8 @@ creators:
 - Peter Neish
 - Paul Walk
 - Andreas Rauber
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923628/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923628/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -48,6 +48,7 @@ size: 970093
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Defining requirements for machine-actionable data management plans
 year: 2018
 ---

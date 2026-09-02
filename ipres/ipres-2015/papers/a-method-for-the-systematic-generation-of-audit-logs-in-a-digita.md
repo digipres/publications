@@ -29,8 +29,8 @@ creators:
 - Reagan Moore
 - Ben Keller
 - Zoey Greer
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429566/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429566/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -51,6 +51,7 @@ size: 147378
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Method for the Systematic Generation of Audit Logs in a Digital Preservation
   Environment and Its Experimental Implementation In a Production Ready System
 year: 2015

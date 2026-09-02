@@ -15,7 +15,7 @@ creators:
 - Jaime Kaminski
 - Carl Wilson
 - Diogo Proença
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/jp8hk/
 grand_parent: iPRES
 institutions:
@@ -35,6 +35,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:6mxbh
 stream_url: https://youtu.be/urF1AJsw30E
+submission_url: https://api.zotero.org/groups/5564150/items/8LPHXT8R/file
 title: 'E-ARK, Ten years and still going strong: Results, Use Cases and Benefits'
 year: 2022
 ---

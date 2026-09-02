@@ -26,8 +26,8 @@ creators:
 - Kevin Page
 - Raul Palma
 - Daniel Garijo
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378139/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378139/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -48,6 +48,7 @@ size: 152606
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preserving Data to Preserving Research: Curation of Process and Context'
 year: 2014
 ---

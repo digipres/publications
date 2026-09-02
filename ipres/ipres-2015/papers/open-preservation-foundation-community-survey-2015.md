@@ -16,8 +16,8 @@ creators:
 - Becky McGuinness
 - Carl Wilson
 - Nick Krabbenhoeft
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429587/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429587/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 342067
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Open Preservation Foundation Community Survey 2015
 year: 2015
 ---

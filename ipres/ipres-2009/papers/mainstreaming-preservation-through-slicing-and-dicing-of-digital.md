@@ -15,8 +15,8 @@ creators:
 - Chirag Shah
 - Chien-Yi Hou
 - Richard Marciano
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294017/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294017/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 1335084
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Mainstreaming Preservation through Slicing and Dicing of Digital Repositories:
   Investigating Alternative Service and Resource Options for ContextMiner Using Data
   Grid Technology'

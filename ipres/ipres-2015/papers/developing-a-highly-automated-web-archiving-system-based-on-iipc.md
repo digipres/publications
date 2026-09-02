@@ -16,8 +16,8 @@ creators:
 - Jing Xie
 - Jiying Hu
 - Zhixiong Zhang
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429565/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429565/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 813717
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Developing a Highly Automated Web Archiving System Based on IIPC Open Source
   Software
 year: 2015

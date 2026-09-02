@@ -11,7 +11,7 @@ abstract: File format validation – we all use it and we all run into problems 
   treatment.
 creators:
 - Micky Lindlar
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128296/bitstreams/428957/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -30,6 +30,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'NOT WELL-FORMED OR INVALID. NOW WHAT?: Towards a formalized workflow for format
   validation error treatment'
 year: 2023

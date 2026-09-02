@@ -9,8 +9,8 @@ abstract: This poster documents work recently undertaken at Emory University’s
 creators:
 - Elizabeth Roke
 - Dorothy Waugh
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429599/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429599/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -27,6 +27,7 @@ size: 401955
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Protecting the Long-Term Viability of Digital Composite Objects through Format
   Migration
 year: 2015

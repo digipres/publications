@@ -4,14 +4,14 @@ creators:
 - Teo Redondo
 - Antonio Martinez
 - Maria Fuertes
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/w2vzs/
 grand_parent: iPRES
 institutions:
 - LIBNOVA
 keywords:
 - research data management
-- digital preservation<br />
+- digital preservation
 landing_page_url: https://osf.io/ktwf3/
 language: eng
 layout: publication
@@ -23,6 +23,7 @@ size: null
 slides_url: https://osf.io/download/e4uaw/
 source_name: iPRES:osf:ktwf3
 stream_url: https://youtu.be/5RT0iKfU_DQ
+submission_url: https://api.zotero.org/groups/5564150/items/XT322GEZ/file
 title: 'LABDRIVE Tutorial: A Research Data Management and Digital Preservation Platform'
 year: 2022
 ---

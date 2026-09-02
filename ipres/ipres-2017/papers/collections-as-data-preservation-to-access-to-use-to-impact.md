@@ -22,8 +22,8 @@ creators:
 - Jaime Mears
 - Abigail Potter
 - Kate Zwaard
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931100/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931100/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -39,6 +39,7 @@ size: 160748
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Collections as Data: Preservation to Access to Use to Impact'
 year: 2017
 ---

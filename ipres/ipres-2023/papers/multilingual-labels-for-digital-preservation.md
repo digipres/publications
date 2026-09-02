@@ -14,7 +14,7 @@ abstract: We introduce a technique for ﬁnding multilingual translations for li
 creators:
 - Katherine Thronton
 - Kenneth Seals-Nutt
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128304/bitstreams/428973/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -34,6 +34,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121670
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: MULTILINGUAL LABELS FOR DIGITAL PRESERVATION
 year: 2023
 ---

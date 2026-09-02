@@ -43,6 +43,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: A decoupled Custodial Copy for cloud-based Digital Preservation Systems
 year: 2024
 ---

@@ -14,7 +14,7 @@ creators:
 - Juha Lehtonen
 - Heikki Helin
 - Johan Kylander
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128307/bitstreams/428979/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -35,6 +35,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121655
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'CALCULATING THE CARBON FOOTPRINT OF DIGITAL PRESERVATION: A Case Study'
 year: 2023
 ---

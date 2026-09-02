@@ -51,6 +51,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Game On: Learning Digital Skills Through Collaborative Game Development'
 year: 2024
 ---

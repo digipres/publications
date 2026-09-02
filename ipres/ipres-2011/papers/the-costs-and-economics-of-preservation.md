@@ -12,8 +12,8 @@ abstract: Given that preservation is now a fairly well-described problem, it sho
   be of universal benefit.
 creators:
 - Neil Grindley
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294223/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294223/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 581218
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: The Costs and Economics of Preservation
 year: 2011
 ---

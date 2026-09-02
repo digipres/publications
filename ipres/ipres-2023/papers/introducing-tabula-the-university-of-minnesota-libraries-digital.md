@@ -10,7 +10,7 @@ abstract: The University of Minnesota Libraries journey with preserving digital 
   digital preservation system.
 creators:
 - Carol Kussmann
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128272/bitstreams/428909/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -30,6 +30,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'INTRODUCING TABULA: The University of Minnesota Libraries Digital Preservation
   System'
 year: 2023

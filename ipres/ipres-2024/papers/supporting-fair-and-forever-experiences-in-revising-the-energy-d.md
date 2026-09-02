@@ -48,6 +48,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Supporting FAIR and Forever: experiences in revising the Energy Data Centre’s
   policies'
 year: 2024

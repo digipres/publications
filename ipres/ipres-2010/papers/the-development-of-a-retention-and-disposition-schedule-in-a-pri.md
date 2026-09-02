@@ -18,8 +18,8 @@ abstract: 'Being a private international enterprise, the ongoing transition from
 creators:
 - Ellen Margrethe
 - Pihl Konstad
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:245899/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:245899/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 237042
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: THE DEVELOPMENT OF A RETENTION AND DISPOSITION SCHEDULE IN A PRIVATE ENTERPRISE
 year: 2010
 ---

@@ -13,8 +13,8 @@ abstract: This poster will describe actions being taken in the context of the 4C
   and accessible format.
 creators:
 - Neil Grindley
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:377370/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:377370/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 157278
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Collaboration to Clarify the Costs of Curation – The 4C Project
 year: 2013
 ---

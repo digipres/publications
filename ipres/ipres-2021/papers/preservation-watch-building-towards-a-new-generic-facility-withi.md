@@ -3,8 +3,8 @@ abstract: null
 creators:
 - Tamara  (Coordinator Preservation Watch for The Dutch Digital Heritage Network van
   Zwol
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424693/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424693/download
 grand_parent: iPRES
 institutions:
 - NDE) at The Netherlands Institute for Sound And Vision
@@ -20,6 +20,7 @@ size: 586349
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preservation Watch: building towards a new generic facility within The Dutch
   Digital Heritage Network'
 year: 2021

@@ -16,8 +16,8 @@ abstract: 'The digital content lifecycle is generally understood as a set of act
   a file-level preservation audit.'
 creators:
 - Leslie Johnston
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185485/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185485/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -32,6 +32,7 @@ size: 377920
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Transfer and Inventory Services in Support of Preservation at the Library of
   Congress
 year: 2010

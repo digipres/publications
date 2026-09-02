@@ -26,8 +26,8 @@ creators:
 - Yannis Tzitzikas
 - Anastasia Analyti
 - Mary Kampouraki
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293680/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293680/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -49,6 +49,7 @@ size: 1337455
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Curating the Specificity of Metadata while World Models Evolve
 year: 2012
 ---

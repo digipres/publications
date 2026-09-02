@@ -11,7 +11,7 @@ abstract: This paper will discuss the recent work of the abrdn archive to create
   out where the road will lead them next.
 creators:
 - Karyn Williamson
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128312/bitstreams/428989/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -31,6 +31,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121663
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'THE LONG AND WINDING ROAD: Implementing an Open-Source Workflow'
 year: 2023
 ---

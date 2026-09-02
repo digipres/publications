@@ -5,8 +5,8 @@ abstract: In this paper, we describe how the National Science Library, Chinese A
 creators:
 - Yin Gaolei
 - Zhao Yan
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429588/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429588/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -24,6 +24,7 @@ size: 458564
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: The Strategic Framework and the Mechanism of Rights Management of Long-term
   Preservation
 year: 2015

@@ -11,7 +11,7 @@ abstract: It is not unusual to find at-risk obsolete carriers in archival collec
   other metadata—and discovered that emulation is not always the simplest solution.
 creators:
 - Taryn Ellis
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128314/bitstreams/428993/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -32,6 +32,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121687
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'SAVING STAN: Preserving the Digital Artwork of Joseph Stanislaus Ostoja-Kotkowski'
 year: 2023
 ---

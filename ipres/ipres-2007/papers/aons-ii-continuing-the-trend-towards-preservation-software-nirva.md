@@ -15,8 +15,8 @@ abstract: "File format obsolescence is a major risk factor threatening the susta
   digital content in order to maintain long-term access."
 creators:
 - David Pearson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294518/download
+date: 2007-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294518/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 640435
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'AONS II: continuing the trend towards preservation software ''Nirvana'''
 year: 2007
 ---

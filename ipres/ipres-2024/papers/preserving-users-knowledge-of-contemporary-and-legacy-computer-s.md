@@ -36,6 +36,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/b1911c5fa8cc4f6a896056eb7088ed030d5860e1edc148c78dae480a7f62bba0
+submission_url: null
 title: Preserving Users’ Knowledge of Contemporary and Legacy Computer Systems
 year: 2024
 ---

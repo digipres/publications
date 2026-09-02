@@ -34,6 +34,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/b208d828f7d0472f91d594fd9a1e7e1068f37cdd5e09419d8e7f69a4eb27e3fb
+submission_url: null
 title: 'Getting Started with Digital Preservation: Practical Advice and Embracing
   “Good Enough”'
 year: 2024

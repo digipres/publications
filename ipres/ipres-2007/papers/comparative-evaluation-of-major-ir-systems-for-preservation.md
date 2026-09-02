@@ -3,8 +3,8 @@ abstract: null
 creators:
 - Ting Zeng
 - Li Dong
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294482/download
+date: 2007-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294482/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -20,6 +20,7 @@ size: 1066929
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Comparative Evaluation of Major IR Systems for Preservation
 year: 2007
 ---

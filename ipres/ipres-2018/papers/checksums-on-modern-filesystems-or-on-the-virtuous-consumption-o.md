@@ -34,8 +34,8 @@ creators:
 - Alex Garnett
 - Justin Simpson
 - Mike Winter
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923643/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923643/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -51,6 +51,7 @@ size: 168082
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Checksums on Modern Filesystems, or: On the virtuous consumption of CPU cycles'
 year: 2018
 ---

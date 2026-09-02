@@ -20,7 +20,7 @@ abstract: The Community Archive Scheme is a bottom-up method of community engage
 creators:
 - Lisa Griffith
 - Kevin Long
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128321/bitstreams/429007/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -43,6 +43,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121671
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: COMMUNITY ARCHIVES AT THE DIGITAL REPOSITORY OF IRELAND
 year: 2023
 ---

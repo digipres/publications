@@ -18,8 +18,8 @@ abstract: Lots of Copies Keep Stuff Safe (LOCKSS1) represents a sophisticated co
 creators:
 - Adam Rusbridge
 - Seamus Ross
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294175/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294175/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 54835
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Establishing a Community-based Approach to Electronic Journal Archiving: the
   UK LOCKSS Pilot Programme'
 year: 2008

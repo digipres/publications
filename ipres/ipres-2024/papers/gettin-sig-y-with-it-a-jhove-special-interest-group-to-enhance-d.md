@@ -44,6 +44,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Gettin'' SIG-y with it: a JHOVE Special Interest Group to enhance documentation
   and explain error messages'
 year: 2024

@@ -9,7 +9,7 @@ creators:
 - Rhiannon Bettivia
 - Yi-Yun Cheng
 - Michael R. Gryk
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128329/bitstreams/429023/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -29,6 +29,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'I GOT A LETTER FROM MY PAST SELF: (Un)managed Change and Provenance'
 year: 2023
 ---

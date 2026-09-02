@@ -15,8 +15,8 @@ creators:
 - Walker Sampson
 - Abby Adams
 - Austin Roche
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923648/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923648/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 973455
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Data Recovery and Investigation from 8-inch Floppy Disk Media: Three Use Cases'
 year: 2018
 ---

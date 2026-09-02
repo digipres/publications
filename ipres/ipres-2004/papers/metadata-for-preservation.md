@@ -10,8 +10,8 @@ abstract: In recent years there have been a range of metadata specifications and
   problems that result from the differing perspectives that inform their development.
 creators:
 - Michael Day
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294997/download
+date: 2004-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294997/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -27,6 +27,7 @@ size: 107675
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Metadata for preservation
 year: 2004
 ---

@@ -59,13 +59,13 @@ abstract: 'Email has served, and continues to serve, as the communication and re
 creators:
 - Christopher Lee
 - Kam Woods
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/42cjf/
 grand_parent: iPRES
 institutions:
 - University Of North Caroilina
 keywords:
-- email curation<br />natural language processing
+- email curation natural language processing
 landing_page_url: https://osf.io/f257a/
 language: eng
 layout: publication
@@ -77,6 +77,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:f257a
 stream_url: null
+submission_url: https://api.zotero.org/groups/5564150/items/M7XS6QB6/file
 title: 'Scalable Curation of Email with Open-Source Tools: Review, Appraisal, and
   Triage of Mail (RATOM)'
 year: 2022

@@ -10,8 +10,8 @@ abstract: The field of digital archiving is situated in a tenuous position betwe
 creators:
 - Lauren Work
 - Heidi Kelly
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931096/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931096/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -27,6 +27,7 @@ size: 386253
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Documentation to the People: Building Empathy into Technical Documentation
   for Digital Archiving'
 year: 2017

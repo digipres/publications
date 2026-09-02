@@ -9,16 +9,16 @@ abstract: Referencing resources on the web has become an integral part of our di
 creators:
 - Martin Klein
 - Shawn Jones
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/hazfe/
 grand_parent: iPRES
 institutions:
 - Los Alamos National Laboratory
 keywords:
 - reference_rot
-- <br />web-based_scholarly_communication
-- <br />zotero
-- <br />web_archiving
+- web-based_scholarly_communication
+- zotero
+- web_archiving
 landing_page_url: https://osf.io/hn48f/
 language: eng
 layout: publication
@@ -30,6 +30,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:hn48f
 stream_url: https://osf.io/download/z6s5v/
+submission_url: https://api.zotero.org/groups/5564150/items/5TMEIDSP/file
 title: Robustifying Links with Zotero
 year: 2022
 ---

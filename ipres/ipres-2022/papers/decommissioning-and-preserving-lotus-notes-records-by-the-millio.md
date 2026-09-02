@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Jon Tilbury
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/vcwup/
 source_name: iPRES:osf:fs8rd
 stream_url: https://youtu.be/eW6PsVnyI2k?t=3514
+submission_url: null
 title: '"Decommissioning and preserving Lotus Notes records by the million – A case
   study from a central government agency"'
 year: 2022

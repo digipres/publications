@@ -9,8 +9,8 @@ abstract: 'While PDF is the best currently available option for archiving fixed-
   focusing on preservation per se.  '
 creators:
 - Duff Johnson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378070/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378070/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 231856
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Archieving Canonical PDF Validation
 year: 2014
 ---

@@ -23,8 +23,8 @@ creators:
 - Hanna Bertoldi
 - Peggy Griesinger
 - Mikala Narlock
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424891/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424891/download
 grand_parent: iPRES
 institutions:
 - University of Notre Dame
@@ -43,6 +43,7 @@ size: 982804
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Harmonizing human infrastructure: A case study of bringing preservation workflows
   of    a    library,    archive,    and    museum    into alignment'
 year: 2021

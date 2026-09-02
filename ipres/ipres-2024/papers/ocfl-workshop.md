@@ -42,6 +42,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: OCFL Workshop
 year: 2024
 ---

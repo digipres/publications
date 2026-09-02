@@ -10,8 +10,8 @@ creators:
 - Mark Jordan
 - Emily B. Gore
 - Liz Bishoff
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294025/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294025/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -27,6 +27,7 @@ size: 1070397
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Distributed Digital Preservation: Technical, Sustainability, and Organizational
   Developments'
 year: 2009

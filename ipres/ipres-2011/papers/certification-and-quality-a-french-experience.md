@@ -26,8 +26,8 @@ creators:
 - Marion Massol
 - Lorène Béchard
 - Olivier Rouchon
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294203/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294203/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -51,6 +51,7 @@ size: 705316
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Certification and Quality: A French Experience'
 year: 2011
 ---

@@ -38,6 +38,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/227a2716e87940519b21037d2c2726849f6e82d457d340e6926ae7ec5534600c
+submission_url: null
 title: 'How to Stop Negative Maintenance of Legacy Systems to Rescue Historical Data:
   Inspiration From Data Archiving In China With The Participation Of Comprehensive
   Archives'

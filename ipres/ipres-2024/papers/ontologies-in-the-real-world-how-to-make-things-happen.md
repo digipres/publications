@@ -79,6 +79,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Ontologies in the Real World: How to Make Things Happen?'
 year: 2024
 ---

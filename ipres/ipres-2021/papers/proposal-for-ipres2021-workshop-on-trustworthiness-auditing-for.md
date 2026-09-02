@@ -18,8 +18,8 @@ abstract: 'Digital preservation (DP) service can be provided at various levels a
 creators:
 - Xl Zhang
 - Yh Tong
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424935/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424935/download
 grand_parent: iPRES
 institutions:
 - NDPP, NSL, CAS
@@ -40,6 +40,7 @@ size: 99055
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Proposal for iPres2021 Workshop on  Trustworthiness Auditing for Sustainable
   Digital Preservation Services
 year: 2021

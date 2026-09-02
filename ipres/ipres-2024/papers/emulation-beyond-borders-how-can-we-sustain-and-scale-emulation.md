@@ -57,6 +57,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Emulation Beyond Borders: How Can We Sustain and Scale Emulation and Software
   Preservation?'
 year: 2024

@@ -41,8 +41,8 @@ creators:
 - Zhang Zhixiong
 - Wan Ling
 - Zhang Xiaolin
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295032/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295032/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -58,6 +58,7 @@ size: 134274
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Developing a National Preservation System for STM e-Journals: Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

@@ -16,8 +16,8 @@ abstract: 'In the decade since publication of the report of the Task Force on "A
   Excellence on Digital Libraries, the UK Digital Curation Centre, and other initiatives. '
 creators:
 - Michael Day
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295044/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295044/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 79027
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Towards a framework for integrating digital preservation research: Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

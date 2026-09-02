@@ -10,8 +10,8 @@ abstract: This paper will describe the tools and infrastructure components which
   including science, cultural heritage and also contemporary  performing arts.
 creators:
 - David Giaretta
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294036/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294036/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -27,6 +27,7 @@ size: 1649416
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Tools for Preservation and Use of Complex and Diverse Digital Resources
 year: 2009
 ---

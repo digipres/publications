@@ -19,8 +19,8 @@ abstract: "This paper focuses on strategies for preservation of metadata; one of
   the background for choices made in this process."
 creators:
 - Eld Zierau
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1079747/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1079747/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -35,6 +35,7 @@ size: 441987
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preservation of Metadata '
 year: 2019
 ---

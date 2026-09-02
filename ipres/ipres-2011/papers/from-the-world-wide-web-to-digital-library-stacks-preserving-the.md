@@ -33,8 +33,8 @@ abstract: 'The National Library of France is mandated by French law to collect a
 creators:
 - Clément Oury
 - Sébastien Peyrard
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294257/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294257/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -54,6 +54,7 @@ size: 528846
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'From the World Wide Web to Digital Library Stacks: Preserving the French Web
   Archives'
 year: 2011

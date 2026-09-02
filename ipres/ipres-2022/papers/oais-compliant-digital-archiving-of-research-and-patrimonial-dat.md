@@ -16,7 +16,7 @@ creators:
 - Hugues Cazeaux
 - Lamia Friha
 - Basma Shabou
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/ehpa9/
 grand_parent: iPRES
 institutions:
@@ -37,6 +37,7 @@ size: null
 slides_url: https://osf.io/download/kec2p/
 source_name: iPRES:osf:7u4gh
 stream_url: https://youtu.be/IUxKpf-pA3g
+submission_url: https://api.zotero.org/groups/5564150/items/AVGSY6E8/file
 title: OAIS-compliant digital archiving of research and patrimonial data in DNA
 year: 2022
 ---

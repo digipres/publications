@@ -6,7 +6,7 @@ abstract: This paper presents the efforts of Archives and Special Collections (A
 creators:
 - Leo Konstantelos
 - Emma Yan
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128328/bitstreams/429021/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -25,6 +25,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121664
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'CREATING AN END-TO-END PROCESS FOR IMPLEMENTING A DIGITAL ARCHIVING WORKFLOW:  How
   we are putting theory into practice'
 year: 2023

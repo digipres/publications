@@ -15,8 +15,8 @@ abstract: 'Twenty-two years ago a city emerged from computers, modems and teleph
   and make it accessible to the future generations?'
 creators:
 - Tjarda de Haan
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503160/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503160/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -31,6 +31,7 @@ size: 329160
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Project "The Digital City Revives" A Case Study of Web Archaeology
 year: 2016
 ---

@@ -16,8 +16,8 @@ abstract: 'Electronic journals dominate the field of academic literature, and it
   overview of the e-Depot system and the KB approaches to digital preservation.'
 creators:
 - Erik Oltmans
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294560/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294560/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 197013
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The International e-Depot: e-Journal Archiving at the national library of
   the Netherlands'
 year: 2006

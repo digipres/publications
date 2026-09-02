@@ -50,6 +50,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: '"What do you do with a million mails?" A survey on email archiving in German-speaking
   countries'
 year: 2024

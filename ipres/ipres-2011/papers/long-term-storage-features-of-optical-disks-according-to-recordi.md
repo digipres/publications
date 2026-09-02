@@ -10,8 +10,8 @@ creators:
 - Kwan-Yong Lee
 - Young-Joo Kim
 - Won-Ik Cho
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294272/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294272/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 844476
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Long-Term Storage Features of Optical Disks According to Recording Conditions
 year: 2011
 ---

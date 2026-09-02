@@ -20,8 +20,8 @@ creators:
 - Michelle Lindlar
 - Yvonne Tunnat
 - Carl Wilson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931074/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931074/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -37,6 +37,7 @@ size: 156182
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A PDF Test-Set for Well-Formedness Validation in JHOVE - The Good, the Bad
   and the Ugly
 year: 2017

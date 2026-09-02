@@ -11,8 +11,8 @@ creators:
 - Sam Alloing
 - Remco de Boer
 - Marjolein Steeman
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424922/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424922/download
 grand_parent: iPRES
 institutions:
 - KB, National Library of the Netherlands
@@ -35,6 +35,7 @@ size: 451784
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Smart Guide to Preferred Formats
 year: 2021
 ---

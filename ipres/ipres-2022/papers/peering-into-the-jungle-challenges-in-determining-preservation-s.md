@@ -9,7 +9,7 @@ creators:
 - Mikael Laakso
 - Alicia Wise
 - Ronald Snijder
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/s9v8u/
 grand_parent: iPRES
 institutions:
@@ -27,6 +27,7 @@ size: null
 slides_url: https://osf.io/download/tz2eh/
 source_name: iPRES:osf:ms8z2
 stream_url: https://youtu.be/7B93-sdZYZc
+submission_url: https://api.zotero.org/groups/5564150/items/J6QPN2EK/file
 title: 'Peering Into the Jungle: Challenges in determining preservation status of
   open access books'
 year: 2022

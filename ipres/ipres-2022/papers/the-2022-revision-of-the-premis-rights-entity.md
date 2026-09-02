@@ -18,7 +18,7 @@ creators:
 - Jack O’Sullivan
 - Sarah Romkey
 - Marjolein Steeman
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/bx57a/
 grand_parent: iPRES
 institutions:
@@ -38,6 +38,7 @@ size: null
 slides_url: https://osf.io/download/u3rqh/
 source_name: iPRES:osf:fmxup
 stream_url: https://youtu.be/gp_vgpi0-P0
+submission_url: https://api.zotero.org/groups/5564150/items/45AQ4RCR/file
 title: The 2022 Revision of the PREMIS Rights Entity
 year: 2022
 ---

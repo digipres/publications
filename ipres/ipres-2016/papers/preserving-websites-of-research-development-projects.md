@@ -19,8 +19,8 @@ abstract: Research and Development (R&D) websites often provide valuable and uni
 creators:
 - Daniel Bicho
 - Daniel Gomes
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503164/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503164/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -35,6 +35,7 @@ size: 181326
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Preserving Websites Of Research & Development Projects
 year: 2016
 ---

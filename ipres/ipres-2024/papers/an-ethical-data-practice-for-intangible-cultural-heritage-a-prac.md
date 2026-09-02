@@ -47,6 +47,7 @@ size: null
 slides_url: https://zenodo.org/records/13692985
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'An ethical data practice for intangible cultural heritage: a practical guide
   for collecting and linking data on immaterieelerfgoed.be'
 year: 2024

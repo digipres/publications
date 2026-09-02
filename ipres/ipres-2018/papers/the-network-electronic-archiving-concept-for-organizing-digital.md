@@ -11,8 +11,8 @@ abstract: 'This paper presents details about a network organization that enables
 creators:
 - Kathrine Hougaard Edsen Johansen
 - Kim Schou Nørøxe
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923638/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923638/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -28,6 +28,7 @@ size: 168571
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: The Network Electronic Archiving Concept for Organizing Digital Preservation
   for Small Archives
 year: 2018

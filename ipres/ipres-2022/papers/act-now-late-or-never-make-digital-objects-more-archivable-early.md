@@ -7,7 +7,7 @@ abstract: Newly acquired or published objects might be corrupt or might not conf
 creators:
 - Katharina Markus
 - Yvonne Tunnat
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/ne29j/
 grand_parent: iPRES
 institutions:
@@ -25,6 +25,7 @@ size: null
 slides_url: https://osf.io/download/p9a5z/
 source_name: iPRES:osf:uy5gv
 stream_url: https://youtu.be/pvDBHjQ0Rrc
+submission_url: https://api.zotero.org/groups/5564150/items/98IM4UG7/file
 title: 'Act Now, Late or Never: Make Digital Objects (more) archivable early in their
   life cycle?'
 year: 2022

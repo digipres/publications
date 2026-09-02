@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Steve Daly
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/m7avr/
 source_name: iPRES:osf:pbqmk
 stream_url: https://youtu.be/eW6PsVnyI2k?t=2836
+submission_url: null
 title: 'PRONOM: Where next?'
 year: 2022
 ---

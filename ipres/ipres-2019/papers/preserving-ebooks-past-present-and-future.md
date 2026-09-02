@@ -7,8 +7,8 @@ creators:
 - Faye Lemay
 - Maureen Pennock
 - Trevor Owens
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1079694/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1079694/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -23,6 +23,7 @@ size: 156651
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preserving eBooks: Past, Present and Future '
 year: 2019
 ---

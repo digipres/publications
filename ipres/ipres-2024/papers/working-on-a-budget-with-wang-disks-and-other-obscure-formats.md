@@ -52,6 +52,7 @@ size: null
 slides_url: https://zenodo.org/records/13828372
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Working on a Budget with WANG disks and other obscure formats
 year: 2024
 ---

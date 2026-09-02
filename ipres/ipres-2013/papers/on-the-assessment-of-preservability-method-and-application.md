@@ -18,8 +18,8 @@ creators:
 - Diogo Proença
 - Gonçalo Antunes
 - Tomasz Miksa
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378050/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378050/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 378229
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'On the Assessment of Preservability: Method and Application'
 year: 2013
 ---

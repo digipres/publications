@@ -19,8 +19,8 @@ abstract: University libraries and data repositories are increasingly being aske
 creators:
 - Nancy Hoebelheinrich
 - Stephen Abrams
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429573/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429573/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 472698
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Dash Curation Service Infrastructure Enhancement: An Informed Extension &
   Redesign'
 year: 2015

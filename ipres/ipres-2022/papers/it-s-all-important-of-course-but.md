@@ -5,7 +5,7 @@ abstract: a panel to shine a light on how different aspects of digital preservat
 creators:
 - Paul Stokes
 - Tamsin Burland
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/qe9pb/
 grand_parent: iPRES
 institutions:
@@ -27,6 +27,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:68e5c
 stream_url: https://youtu.be/EIRkiurzFSg
+submission_url: https://api.zotero.org/groups/5564150/items/77WRQFFF/file
 title: It's All Important Of Course, But…
 year: 2022
 ---

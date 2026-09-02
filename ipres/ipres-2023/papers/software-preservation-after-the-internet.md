@@ -8,7 +8,7 @@ abstract: Software preservation must consider knowledge management as a key chal
 creators:
 - Dragan Espenschied
 - Klaus Rechert
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128300/bitstreams/428965/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -26,6 +26,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: SOFTWARE PRESERVATION AFTER THE INTERNET
 year: 2023
 ---

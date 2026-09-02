@@ -6,8 +6,8 @@ creators:
 - Élodie Bertrand
 - Louise Fauduet
 - Jean-Philippe Humblot
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931137/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931137/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -24,6 +24,7 @@ size: 95305
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 15,000 video games in the library Challenges in the dissemination of interactive
   digital objects
 year: 2017

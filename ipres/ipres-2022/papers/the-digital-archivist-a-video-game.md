@@ -2,7 +2,7 @@
 abstract: "In-Person Game \n    Hosted on the Open Science Framework"
 creators:
 - Giulia Rossi
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:4mptu
 stream_url: null
+submission_url: null
 title: 'The Digital Archivist: a video game'
 year: 2022
 ---

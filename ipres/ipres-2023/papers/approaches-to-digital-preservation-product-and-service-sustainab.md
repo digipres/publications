@@ -11,7 +11,7 @@ creators:
 - Thib Guicherd-Callin
 - David Giaretta
 - William Kilbride
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128287/bitstreams/428939/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -31,6 +31,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'APPROACHES TO DIGITAL PRESERVATION PRODUCT AND SERVICE SUSTAINABILITY: Comparing
   alternate approaches'
 year: 2023

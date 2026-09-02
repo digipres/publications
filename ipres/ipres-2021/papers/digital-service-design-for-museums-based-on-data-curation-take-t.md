@@ -14,8 +14,8 @@ abstract: 'Abstract – with a collection of more than a million works and an ea
   '
 creators:
 - Xiaolu Kang
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424915/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424915/download
 grand_parent: iPRES
 institutions:
 - The Palace Museum
@@ -36,6 +36,7 @@ size: 488168
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'DIGITAL SERVICE DESIGN FOR MUSEUMS BASED ON DATA CURATION: Take the construction
   of One-stop online digital platform of the Palace Museum as an example'
 year: 2021

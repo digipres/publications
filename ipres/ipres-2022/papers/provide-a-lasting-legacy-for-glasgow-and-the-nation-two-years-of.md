@@ -9,7 +9,7 @@ abstract: This paper outlines the recent transfer of a series of high-level Scot
   context of the Covid-19 pandemic
 creators:
 - Garth Stewart
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/a3mr4/
 grand_parent: iPRES
 institutions:
@@ -30,6 +30,7 @@ size: null
 slides_url: https://osf.io/download/vbk8m/
 source_name: iPRES:osf:j7pq8
 stream_url: https://youtu.be/bjz2EKeadsM
+submission_url: https://api.zotero.org/groups/5564150/items/IXCL2HSB/file
 title: '"…provide a lasting legacy for Glasgow and the nation" Two years of transferring
   Scottish Cabinet records to National Records of Scotland'
 year: 2022

@@ -8,7 +8,7 @@ abstract: Running software from the early 19980s and 1990s, often problems are e
   configuration are presented.
 creators:
 - Denise de Vries
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/3w9s2/
 grand_parent: iPRES
 institutions:
@@ -28,6 +28,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:p9yr6
 stream_url: https://osf.io/download/udz5a/
+submission_url: https://api.zotero.org/groups/5564150/items/L6SZ2MMH/file
 title: Optimizing Memory for Legacy Dos Systems
 year: 2022
 ---

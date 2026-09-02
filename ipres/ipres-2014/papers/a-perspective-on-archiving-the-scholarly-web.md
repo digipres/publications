@@ -8,8 +8,8 @@ abstract: "As the scholarly communication system evolves to become natively web-
 creators:
 - Herbert Van de Sompel
 - Andrew Treloar
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378116/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378116/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -26,6 +26,7 @@ size: 196844
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Perspective on Archiving the Scholarly Web
 year: 2014
 ---

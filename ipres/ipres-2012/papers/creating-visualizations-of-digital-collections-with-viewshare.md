@@ -9,8 +9,8 @@ abstract: Viewshare is a free, Library-of-Congress-sponsored platform that empow
 creators:
 - Trevor Owens
 - Abigail Potter
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294075/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294075/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 810083
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Creating Visualizations of Digital Collections with Viewshare
 year: 2012
 ---

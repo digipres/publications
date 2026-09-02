@@ -12,7 +12,7 @@ creators:
 - Karin Bredenberg
 - Sven Schlarb
 - Carl Wilson
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/tfv7c/
 grand_parent: iPRES
 institutions:
@@ -30,6 +30,7 @@ size: null
 slides_url: https://osf.io/download/7yk38/
 source_name: iPRES:osf:mk956
 stream_url: https://youtu.be/Xl3ygVGUUBM
+submission_url: https://api.zotero.org/groups/5564150/items/YRCNWMX3/file
 title: Repository Speed Dating A methodology for narrowing the field
 year: 2022
 ---

@@ -51,8 +51,8 @@ abstract: 'This article describes the development of Archives
 creators:
 - Angela Di Iorio
 - Maurizio Lunghi
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185403/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185403/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -67,6 +67,7 @@ size: 121749
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: RELEVANT METADATA TO PRESERVE “ALIEN” AIP
 year: 2010
 ---

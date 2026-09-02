@@ -15,8 +15,8 @@ abstract: 'The format of a digital object must be known in order to interpret th
   formats. This presentation will provide an update on GDFR project activities.'
 creators:
 - Stephen Abrams
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294563/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294563/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 156401
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Global Digital Format Registry (GDFR): An Interim Status Report'
 year: 2006
 ---

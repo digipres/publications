@@ -12,8 +12,8 @@ creators:
 - Peter Chan
 - Glynn Edwards
 - Sudheendra Hangal
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931099/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931099/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 766125
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'ePADD: Computational analysis software enabling screening, browsing, and access
   for email collections'
 year: 2017

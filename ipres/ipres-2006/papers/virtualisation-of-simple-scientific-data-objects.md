@@ -19,8 +19,8 @@ creators:
 - Brian McIlwrath
 - Steve Crothers
 - David Giaretta
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294862/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294862/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 1148200
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Virtualisation of Simple Scientific Data Objects
 year: 2006
 ---

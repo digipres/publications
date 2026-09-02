@@ -13,8 +13,8 @@ creators:
 - Richard Schneider
 - Euan Cochrance
 - David Schmidt
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293839/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293839/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 2426557
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Practical Floppy Disk Recovery Study
 year: 2012
 ---

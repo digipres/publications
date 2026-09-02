@@ -53,6 +53,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Francophonie ! Digital Preservation with a French Touch
 year: 2024
 ---

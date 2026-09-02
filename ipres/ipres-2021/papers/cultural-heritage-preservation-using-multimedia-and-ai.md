@@ -21,8 +21,8 @@ creators:
 - Jigen Tang
 - Jiang Liu
 - Henian E
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424848/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424848/download
 grand_parent: iPRES
 institutions:
 - Library, Southern University of Science and Technology
@@ -47,6 +47,7 @@ size: 426039
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Cultural Heritage Preservation using Multimedia and AI
 year: 2021
 ---

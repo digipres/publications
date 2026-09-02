@@ -13,8 +13,8 @@ creators:
 - Reagan Moore
 - Kevin Ashley
 - Seamus Ross
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294083/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294083/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 31330267
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'iPRES 2012: Proceedings of the 9th International Conference on Preservation
   of Digital Objects'
 year: 2012

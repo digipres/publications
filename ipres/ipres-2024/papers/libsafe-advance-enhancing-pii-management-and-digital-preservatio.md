@@ -25,6 +25,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/455bf375e860488394867726471cd880363eb1e08e0c430b93d4a756efde7bc3
+submission_url: null
 title: 'Libsafe Advance: Enhancing PII Management and Digital Preservation'
 year: 2024
 ---

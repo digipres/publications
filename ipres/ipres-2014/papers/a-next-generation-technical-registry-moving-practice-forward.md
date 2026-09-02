@@ -25,8 +25,8 @@ creators:
 - Janet Delve
 - Ross Spencer
 - Jan Hutař
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378074/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378074/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -48,6 +48,7 @@ size: 341950
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'A next generation technical registry: moving practice forward'
 year: 2014
 ---

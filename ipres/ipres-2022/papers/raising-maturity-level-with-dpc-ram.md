@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Fabi Barticioti
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/p3z4y/
 source_name: iPRES:osf:z2pyt
 stream_url: https://youtu.be/yQ_jEapgpjk?t=767
+submission_url: null
 title: Raising Maturity Level with DPC-RAM
 year: 2022
 ---

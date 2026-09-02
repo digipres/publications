@@ -6,7 +6,7 @@ abstract: This poster presents a case study of the ongoing development of a digi
   what would I say?”
 creators:
 - Kevin Wong
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/brsuz/
 grand_parent: iPRES
 institutions:
@@ -24,6 +24,7 @@ size: null
 slides_url: https://osf.io/download/tbc7g/
 source_name: iPRES:osf:3tz2y
 stream_url: https://osf.io/download/a4xsv/
+submission_url: https://api.zotero.org/groups/5564150/items/294IDLGA/file
 title: Lessons from the National Archives of Singapore’s Journey Developing a Digital
   Preservation System for Public Records
 year: 2022

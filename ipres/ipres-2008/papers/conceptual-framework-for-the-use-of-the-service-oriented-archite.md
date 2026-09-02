@@ -16,8 +16,8 @@ abstract: This paper presents a conceptual framework for the use of the SOA1-app
 creators:
 - Christian Saul
 - Fanny Klett
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294163/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294163/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -37,6 +37,7 @@ size: 83627
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Conceptual Framework for the Use of the Service-oriented Architecture-Approach
   in the Digital Preservation
 year: 2008

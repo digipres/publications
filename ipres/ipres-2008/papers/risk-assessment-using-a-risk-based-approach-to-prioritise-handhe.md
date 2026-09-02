@@ -32,8 +32,8 @@ abstract: "The British Library (BL) Digital Library Programme (DLP) has a broad 
   changes have had to be undertaken that will eventually become measurable benefits."
 creators:
 - Rory McLeod
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294139/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294139/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -49,6 +49,7 @@ size: 52218
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Risk Assessment; using a risk based approach to prioritise handheld digital
   information
 year: 2008

@@ -6,8 +6,8 @@ abstract: 'This poster describes the image comparison technique developed at the
   '
 creators:
 - Jay Gattuso
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424898/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424898/download
 grand_parent: iPRES
 institutions:
 - National Library of New Zealand
@@ -26,6 +26,7 @@ size: 313184
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: IS THIS IMAGE THAT IMAGE?
 year: 2021
 ---

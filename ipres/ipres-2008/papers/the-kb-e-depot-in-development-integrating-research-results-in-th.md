@@ -14,8 +14,8 @@ creators:
 - Hilde van Wijngaarden
 - Marcel Ras
 - Frank Houtman
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294177/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294177/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 40648
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: The KB e-Depot in development Integrating research results in the library organisation
 year: 2008
 ---

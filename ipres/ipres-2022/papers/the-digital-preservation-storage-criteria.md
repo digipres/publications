@@ -3,7 +3,7 @@ abstract: null
 creators:
 - Eld Zierau
 - Sibyl Schaefer
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -19,6 +19,7 @@ size: null
 slides_url: https://osf.io/download/8vg23/
 source_name: iPRES:osf:57cu6
 stream_url: https://youtu.be/eW6PsVnyI2k?t=1105
+submission_url: null
 title: The Digital Preservation Storage Criteria
 year: 2022
 ---

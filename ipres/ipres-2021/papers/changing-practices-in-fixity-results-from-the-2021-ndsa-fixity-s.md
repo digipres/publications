@@ -10,8 +10,8 @@ creators:
 - Nick Krabbenhoeft
 - Carol Kussmann
 - Sibyl Schaefer
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424949/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424949/download
 grand_parent: iPRES
 institutions:
 - New York Public Library
@@ -32,6 +32,7 @@ size: 221412
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'CHANGING PRACTICES IN FIXITY: Results from the 2021 NDSA Fixity Survey'
 year: 2021
 ---

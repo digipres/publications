@@ -16,8 +16,8 @@ abstract: As an important component of china’s public culture system, the Nati
 creators:
 - Zhao Danyang
 - Ji Shiyan
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1082720/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1082720/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -32,6 +32,7 @@ size: 332052
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Discussions on the Realization Technologies Of Web Archiving and service Platform
   of National Library of China '
 year: 2019

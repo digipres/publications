@@ -11,7 +11,7 @@ abstract: There is a wealth of academic information accumulated on social media,
 creators:
 - Liu Hui
 - Zhang Dongrong
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/7x4ye/
 grand_parent: iPRES
 institutions:
@@ -30,6 +30,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:cypj7
 stream_url: https://osf.io/download/u84yv/
+submission_url: https://api.zotero.org/groups/5564150/items/TBNVEYS8/file
 title: Construction of a Benchmark Model for Long-Term Preservation Value Evaluation
   Of Academic Information On Social Media
 year: 2022

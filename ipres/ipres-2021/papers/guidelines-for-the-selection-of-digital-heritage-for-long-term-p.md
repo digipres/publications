@@ -40,8 +40,8 @@ abstract: "I.\tINTRODUCTION \nThe PERSIST Content Task Force under the Preservat
 creators:
 - Claire (The International Federation of Library Associations and Institutions McGuire
 - Ingrid Parent
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424918/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424918/download
 grand_parent: iPRES
 institutions:
 - IFLA)
@@ -63,6 +63,7 @@ size: 86399
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'GUIDELINES FOR THE SELECTION OF DIGITAL HERITAGE FOR LONG-TERM PRESERVATION:
   WHAT, WHY, WHEN'
 year: 2021

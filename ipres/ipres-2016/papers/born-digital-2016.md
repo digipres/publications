@@ -10,8 +10,8 @@ abstract: 'This poster describes the development and delivery of a weeklong nati
   about why digital preservation is important.'
 creators:
 - Sarah Slade
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503161/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503161/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -26,6 +26,7 @@ size: 48560
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Born Digital 2016
 year: 2016
 ---

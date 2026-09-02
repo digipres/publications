@@ -15,8 +15,8 @@ abstract: 'The process of setting up a digital preservation repository in compli
 creators:
 - Emmanuelle Bermès
 - Louise Faudet
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294008/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294008/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 1153004
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The Human Face of Digital Preservation: Organizational and Staff Challenges,
   and Initiatives at the Bibliothèque nationale de France'
 year: 2009

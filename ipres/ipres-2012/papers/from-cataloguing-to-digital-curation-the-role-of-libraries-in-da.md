@@ -20,8 +20,8 @@ abstract: 'This paper describes the work of the Opportunities for Data Exchange 
   the importance of the development of the role of the library in digital curation.'
 creators:
 - Susan K. Reilly
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293835/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293835/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -42,6 +42,7 @@ size: 658337
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'From cataloguing to digital curation: the role of libraries in data exchange'
 year: 2012
 ---

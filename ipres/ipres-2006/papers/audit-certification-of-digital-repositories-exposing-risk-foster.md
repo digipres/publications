@@ -19,8 +19,8 @@ abstract: 'Over the last three years, the RLG - NARA Task for on Digital Reposit
   process, potential audit & certification process outputs, and compliance issues.'
 creators:
 - Robin L. Dale
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294548/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294548/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 119451
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Audit & Certification of Digital Repositories: Exposing Risk & Fostering Collaboration'
 year: 2006
 ---

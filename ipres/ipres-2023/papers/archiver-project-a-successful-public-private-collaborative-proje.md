@@ -12,7 +12,7 @@ abstract: "The ARCHIVER Project has brought together customers, vendors, and inf
 creators:
 - Antonio Guillermo Martinez
 - Maria Fuertes
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128322/bitstreams/429009/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -32,6 +32,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121677
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'ARCHIVER PROJECT: A SUCCESSFUL PUBLIC-PRIVATE COLLABORATIVE PROJECT'
 year: 2023
 ---

@@ -6,8 +6,8 @@ abstract: By working collaboratively with Ex Libris and utilizing advanced tape 
 creators:
 - Nir Sherwinter
 - Gary T. Wright
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293833/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293833/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -28,6 +28,7 @@ size: 1035454
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Advancing Data Integrity in a Digital Preservation Archive Ex Libris and the
   Church of Jesus Christ of Latter-day Saints
 year: 2012

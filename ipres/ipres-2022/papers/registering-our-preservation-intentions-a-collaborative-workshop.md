@@ -13,7 +13,7 @@ creators:
 - Kate Murray
 - Francesca Mackenzie
 - Andrew Jackson
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/x5rq8/
 grand_parent: iPRES
 institutions:
@@ -35,6 +35,7 @@ source_name: iPRES:osf:gx5dt
 stream_url: 'https://youtu.be/Cki3-GFVclE
 
   '
+submission_url: https://api.zotero.org/groups/5564150/items/DYKIELEW/file
 title: 'Registering our preservation intentions: A collaborative workshop on digital
   preservation registries'
 year: 2022

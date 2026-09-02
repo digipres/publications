@@ -13,8 +13,8 @@ abstract: This full-day tutorial will focus on open-source software (OSS) tools 
 creators:
 - Kam Woods
 - Christopher A. Lee
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1080466/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1080466/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -29,6 +29,7 @@ size: 110290
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Review, Appraisal, And Triage of Mail: '
 year: 2019
 ---

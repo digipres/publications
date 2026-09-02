@@ -10,7 +10,7 @@ abstract: The world today is faced with an insurmountable problem. There is too 
 creators:
 - Paul Stokes
 - Karen Colbron
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128282/bitstreams/428929/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -29,6 +29,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'TIPPING POINT: Have we gone past the point where we can handle the Digital
   Preservation Deluge?'
 year: 2023

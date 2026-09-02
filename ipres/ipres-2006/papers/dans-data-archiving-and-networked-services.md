@@ -28,8 +28,8 @@ abstract: DANS is the new Dutch organization, which has been tasked with the pre
   open as possible.
 creators:
 - René van Horik
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294555/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294555/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -45,6 +45,7 @@ size: 424644
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'DANS: Data Archiving and Networked Services'
 year: 2006
 ---

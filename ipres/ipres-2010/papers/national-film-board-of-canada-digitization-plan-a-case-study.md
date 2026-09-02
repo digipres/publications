@@ -12,8 +12,8 @@ creators:
 - Julie Dutrisac
 - Christian Ruel
 - Luisa Frate
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:245906/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:245906/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 351021
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: NATIONAL FILM BOARD OF CANADA DIGITIZATION PLAN – A CASE STUDY
 year: 2010
 ---

@@ -13,8 +13,8 @@ creators:
 - Klaus Rechert
 - Thomas Liebetraut
 - Oleg Stobbe
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503174/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503174/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -29,6 +29,7 @@ size: 811113
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Exhibiting Digital Art via Emulation
 year: 2016
 ---

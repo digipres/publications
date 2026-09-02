@@ -8,7 +8,7 @@ abstract: This paper provides a case study of a shared workflow to preserve the 
   skillsets.
 creators:
 - Sara Thomson
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/eq9d7/
 grand_parent: iPRES
 institutions:
@@ -28,6 +28,7 @@ size: null
 slides_url: https://osf.io/download/zue7d/
 source_name: iPRES:osf:cqj5e
 stream_url: https://youtu.be/pcNfwfzRQ_M
+submission_url: https://api.zotero.org/groups/5564150/items/7WZUKKA3/file
 title: '"A Tartan Rather Than a Plain Cloth": Building a Shared Workflow to Preserve
   the Regional Ethnology of Scotland Project Archive'
 year: 2022

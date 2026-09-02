@@ -60,8 +60,8 @@ abstract: 'Never have so many people documented so much about
   Web 2.0 environment.'
 creators:
 - William G. LeFurgy
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:245902/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:245902/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -77,6 +77,7 @@ size: 41037
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'PERSONAL ARCHIVING: STRIKING A BALANCE TO  REACH THE PUBLIC'
 year: 2010
 ---

@@ -16,8 +16,8 @@ creators:
 - Neal Fitzgerald
 - Anna Morris
 - Adrian Cunningham
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378129/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378129/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 348721
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Decommissioning of legacy systems: A methodology for indentifying and preserving
   records of ongoing business value in legacy business systems: Paper '
 year: 2014

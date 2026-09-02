@@ -10,8 +10,8 @@ creators:
 - Peter McKinney
 - Erin O'Meara
 - David Pearson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378066/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378066/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 39353324
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: iPRES 2014 - Proceedings of the 11th International Conference on Preservation
   of Digital Objects
 year: 2014

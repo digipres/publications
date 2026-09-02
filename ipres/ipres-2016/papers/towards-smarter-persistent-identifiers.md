@@ -6,8 +6,8 @@ abstract: This workshop is a follow up to the Tutorial on Persistent Identifiers
   identifiers.
 creators:
 - Jonathan Clark
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502827/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502827/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -22,6 +22,7 @@ size: 107445
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Towards Smarter Persistent Identifiers
 year: 2016
 ---

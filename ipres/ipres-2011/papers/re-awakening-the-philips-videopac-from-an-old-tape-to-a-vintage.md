@@ -17,8 +17,8 @@ abstract: Preserving data for a specific system usually depends on the system in
 creators:
 - Mark Guttenbrunner
 - Andreas Rauber
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294261/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294261/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 1738302
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Re-awakening the Philips Videopac: From an old tape to a vintage feeling on
   a modern screen'
 year: 2011

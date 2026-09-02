@@ -15,8 +15,8 @@ abstract: 'Biodiversity essentially describes all living organisms and their env
   by the resident hosted at the Chicago Botanic Garden’s Lenhardt Library.'
 creators:
 - Alicia Esquivel
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931134/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931134/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 105252
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Performing a Content Analysis of Biodiversity Literature
 year: 2017
 ---

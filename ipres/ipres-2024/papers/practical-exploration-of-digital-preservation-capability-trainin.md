@@ -53,6 +53,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/70e6a71cd819497fafd29ee52614bc920a15d919219a4c54887e6c7d5a8a3bf7
+submission_url: null
 title: Practical Exploration of Digital Preservation Capability Training for  NDPP
   Team
 year: 2024

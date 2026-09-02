@@ -13,8 +13,8 @@ abstract: 'The Internet, as the fourth information medium, has gradually been ac
   Tsinghua Tongfang, Wanfang Data, and Founder Electronics Co.Ltd.'
 creators:
 - Li Chunming
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295040/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295040/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -30,6 +30,7 @@ size: 2224645
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Digital Preservation Activities in National Library of China (NLC): Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

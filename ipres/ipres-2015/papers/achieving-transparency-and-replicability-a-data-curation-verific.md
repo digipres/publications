@@ -5,8 +5,8 @@ abstract: In this poster, we illustrate the workflow developed by the Odum Insti
 creators:
 - Thu-Mai Christian
 - Sophia Lafferty-Hess
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429580/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429580/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -25,6 +25,7 @@ size: 411511
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Achieving Transparency and Replicability: A Data Curation, Verification, and
   Publication Workflow'
 year: 2015

@@ -11,7 +11,7 @@ creators:
 - Mikel Rufian
 - Julia Thiele
 - Ciprian Abaseaca
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/jqn59/
 grand_parent: iPRES
 institutions:
@@ -30,6 +30,7 @@ size: null
 slides_url: https://osf.io/download/t6cuf/
 source_name: iPRES:osf:9u4bd
 stream_url: https://osf.io/download/tnq79/
+submission_url: https://api.zotero.org/groups/5564150/items/9SWLQ9DU/file
 title: 'LIBNOVA Consortium: A successful community project'
 year: 2022
 ---

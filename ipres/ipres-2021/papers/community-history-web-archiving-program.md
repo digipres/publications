@@ -2,8 +2,8 @@
 abstract: null
 creators:
 - Lori Donova
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424694/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424694/download
 grand_parent: iPRES
 institutions:
 - Web Archiving & Data Services,Internet Archive
@@ -19,6 +19,7 @@ size: 30447
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Community History Web Archiving Program
 year: 2021
 ---

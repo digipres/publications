@@ -13,7 +13,7 @@ abstract: Technology companies often run ‘hack weeks’ allowing staff to spen
   research and development approaches within organizations.
 creators:
 - Peter May
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/6u8hv/
 grand_parent: iPRES
 institutions:
@@ -34,6 +34,7 @@ size: null
 slides_url: https://osf.io/download/jyb46/
 source_name: iPRES:osf:scfxr
 stream_url: https://osf.io/download/pkcw4/
+submission_url: https://api.zotero.org/groups/5564150/items/2Z522ZPQ/file
 title: Research Weeks
 year: 2022
 ---

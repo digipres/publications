@@ -20,7 +20,7 @@ creators:
 - Syreeta Gates
 - Jamie Lee
 - James Lowry
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/4vjfh/
 grand_parent: iPRES
 institutions:
@@ -37,6 +37,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:x9pf6
 stream_url: https://youtu.be/QBaO8Hb2Ce4
+submission_url: https://api.zotero.org/groups/5564150/items/F4N83VPY/file
 title: Digital Storytelling as Preservation
 year: 2022
 ---

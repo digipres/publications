@@ -7,8 +7,8 @@ abstract: In this paper we describe a process of consultation and data gathering
 creators:
 - Aileen O'Carroll
 - Sharon Webb
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378090/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378090/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 448575
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The process of building a national trusted digital repository: a user centric
   approach for requirements gathering and policy development'
 year: 2013

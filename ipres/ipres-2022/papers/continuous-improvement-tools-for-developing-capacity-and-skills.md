@@ -9,7 +9,7 @@ creators:
 - Sharon McMeekin
 - Jenny Mitcham
 - Amy Currie
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/kryg8/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: https://osf.io/download/pa7gc/
 source_name: iPRES:osf:qcz94
 stream_url: https://youtu.be/JrA9qLgPQLQ
+submission_url: https://api.zotero.org/groups/5564150/items/PIDMNXWP/file
 title: Continuous Improvement Tools for Developing Capacity and Skills
 year: 2022
 ---

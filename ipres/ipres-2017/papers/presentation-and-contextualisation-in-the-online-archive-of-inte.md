@@ -8,8 +8,8 @@ abstract: This poster presents the initial findings of a collaborative practice-
   of internet art.
 creators:
 - Lozana Rossenova
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931139/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931139/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -26,6 +26,7 @@ size: 113633
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Presentation and Contextualisation in the Online Archive of Internet Art
 year: 2017
 ---

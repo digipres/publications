@@ -39,6 +39,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/4ddf89491fa14b768053356fff184d51d5e1873012e04b299dadafeb331003eb
+submission_url: null
 title: 'PDF Hybrid Preservation on Paper: Combining Digital and Analog to Preserve
   Critical Documents for Centuries in a Radioactive Waste Management Context'
 year: 2024

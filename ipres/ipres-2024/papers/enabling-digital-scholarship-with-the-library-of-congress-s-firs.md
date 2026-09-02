@@ -46,6 +46,7 @@ size: null
 slides_url: https://zenodo.org/records/13652332
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/33b18535dd5843ffb8f79c836fadf7895bec43f73c7f4e4682ff38249050ad85
+submission_url: null
 title: Enabling Digital Scholarship with the Library of Congress's First Data Librarian
 year: 2024
 ---

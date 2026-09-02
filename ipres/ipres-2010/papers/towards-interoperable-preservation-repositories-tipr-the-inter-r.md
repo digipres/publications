@@ -13,8 +13,8 @@ creators:
 - Priscilla Caplan
 - Joseph Pawletko
 - William Kehoe
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:245903/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:245903/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -30,6 +30,7 @@ size: 370874
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'TOWARDS INTEROPERABLE PRESERVATION REPOSITORIES (TIPR): THE INTER-REPOSITORY
   SERVICE AGREEMENT'
 year: 2010

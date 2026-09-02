@@ -15,8 +15,8 @@ abstract: 'The study of personal digital archives is an emerging research area t
   for a specific type of individual: a contemporary artist.'
 creators:
 - Sam Meister
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378080/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378080/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 73242
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Addressing the personal digital archives needs of a contemporary artist: Paper
   - IPRES 2014 - Melbourne'
 year: 2014

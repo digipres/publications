@@ -39,6 +39,7 @@ size: null
 slides_url: https://zenodo.org/records/13776021
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/0f216093b1c44efb9765c5fd30b0de776ef5b769fd03410182512a1e78a674e5
+submission_url: null
 title: Web Archives for All? Towards Equitable Access to UK Public Sector Web Archives
 year: 2024
 ---

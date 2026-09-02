@@ -33,6 +33,7 @@ size: null
 slides_url: https://zenodo.org/records/13765461
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/fc230dda5df941daa9a88f0bbe8b23264cdaede2ed624a2f961c1a5de67d84c6
+submission_url: null
 title: 'File Fixity in the Cloud: Policy, Business, and Technical Considerations'
 year: 2024
 ---

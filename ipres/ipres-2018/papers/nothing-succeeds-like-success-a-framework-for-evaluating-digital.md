@@ -18,8 +18,8 @@ abstract: 'Digital preservation encompasses the theory and practice ensuring pur
   intentions, expectations, and outcomes.'
 creators:
 - Stephen Abrams
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:922204/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:922204/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 578528
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Nothing succeeds like success: A framework for evaluating digital preservation
   outcomes'
 year: 2018

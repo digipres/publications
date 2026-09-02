@@ -15,8 +15,8 @@ abstract: This paper describes and explores the concept of perceived preservatio
   to constantly reassess the archive’s decisions and priorities from the outside.
 creators:
 - Marco Klindt
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:922202/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:922202/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 170433
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Implications of perceived preservation : iPres 2018 '
 year: 2018
 ---

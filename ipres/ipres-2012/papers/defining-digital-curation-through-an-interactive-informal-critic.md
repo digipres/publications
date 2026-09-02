@@ -11,8 +11,8 @@ abstract: Digital curation may be thought of as a set of strategies, technologic
 creators:
 - Lori Podolsky Nordland
 - Carolyn Hank
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294076/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294076/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 578651
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Defining Digital Curation through an Interactive, Informal Critical Delphi
   Approach
 year: 2012

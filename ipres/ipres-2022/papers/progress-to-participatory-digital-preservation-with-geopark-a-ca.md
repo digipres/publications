@@ -11,7 +11,7 @@ abstract: How can the curatorial processes of the museum be participated by sour
   economy.
 creators:
 - Yi-Ting Lin
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/c85eu/
 grand_parent: iPRES
 institutions:
@@ -33,6 +33,7 @@ size: null
 slides_url: https://osf.io/download/zgek9/
 source_name: iPRES:osf:gb34z
 stream_url: https://osf.io/download/ubhqk/
+submission_url: https://api.zotero.org/groups/5564150/items/37DAAQG8/file
 title: 'Progress to Participatory Digital Preservation with Geopark: A Case Study
   of How Gold Museum in Taiwan Participates in Shui-Chin-Chiu Geopark to Engage with
   Local Communities'

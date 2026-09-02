@@ -41,6 +41,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Accessible Preservation: developing an inclusive strategy for management and
   preservation of access quality born-digital assets'
 year: 2024

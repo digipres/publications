@@ -11,8 +11,8 @@ creators:
 - Jesse de Vos
 - Claudia Röck
 - Eoin O'Donohoe
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424933/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424933/download
 grand_parent: iPRES
 institutions:
 - The Netherlands Institute for Sound and Vision
@@ -32,6 +32,7 @@ size: 105278
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Software Preservation in the Netherlands: Lowering the Threshold for Cultural
   Heritage Institutions'
 year: 2021

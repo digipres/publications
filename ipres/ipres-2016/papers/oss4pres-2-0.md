@@ -6,8 +6,8 @@ creators:
 - Heidi Dowding
 - Shira Peltzman
 - Carl Wilson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502835/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502835/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -22,6 +22,7 @@ size: 98888
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: OSS4Pres 2.0
 year: 2016
 ---

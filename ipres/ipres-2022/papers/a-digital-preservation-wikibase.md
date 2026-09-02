@@ -11,13 +11,15 @@ abstract: The Wikidata for Digital Preservation (WikiDP) Wikibase is a project o
 creators:
 - Katherine Thornton
 - Kenneth Seals-Nutt
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/pjgz2/
 grand_parent: iPRES
 institutions:
 - Yale University
 keywords:
-- wikibase,<br />wikidata,<br />software metadata,<br />
+- wikibase
+- wikidata
+- software metadata
 landing_page_url: https://osf.io/xkw89/
 language: eng
 layout: publication
@@ -29,6 +31,7 @@ size: null
 slides_url: https://osf.io/download/8v24u/
 source_name: iPRES:osf:xkw89
 stream_url: https://youtu.be/Xx6-Z4EDxEk
+submission_url: https://api.zotero.org/groups/5564150/items/QQJGZACD/file
 title: A Digital Preservation Wikibase
 year: 2022
 ---

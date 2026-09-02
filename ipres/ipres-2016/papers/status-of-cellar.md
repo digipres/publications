@@ -10,8 +10,8 @@ abstract: The open, independent, and international standards organization Intern
 creators:
 - Ashley Blewer
 - Dave Rice
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503184/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503184/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -26,6 +26,7 @@ size: 269850
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Status of CELLAR
 year: 2016
 ---

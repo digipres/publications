@@ -43,6 +43,7 @@ size: null
 slides_url: https://zenodo.org/records/13829305
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/4ddf89491fa14b768053356fff184d51d5e1873012e04b299dadafeb331003eb
+submission_url: null
 title: 'It could happen to you: Thirty years of digital preservation in an ever-changing
   organization'
 year: 2024

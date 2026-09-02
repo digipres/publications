@@ -14,8 +14,8 @@ abstract: 'Digital preservation consists of three subjects: safe storage, preser
   and development on permanent access requires continuous effort and internation co-operation.'
 creators:
 - Hilde van Wijngaarden
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294994/download
+date: 2004-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294994/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 67753
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Different approaches to digital preservation
 year: 2004
 ---

@@ -14,8 +14,8 @@ abstract: The German project kopal develops a cooperative used long-term digital
 creators:
 - Reinhard Altenhöner
 - Tobias Steinke
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294554/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294554/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 397041
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'kopal - Data into the future: Co-operative Development of a Long-term Digital
   Information Archive'
 year: 2006

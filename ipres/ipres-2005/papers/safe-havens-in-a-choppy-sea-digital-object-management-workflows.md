@@ -15,8 +15,8 @@ abstract: 'The National Library of Australia collects, archives and provides acc
   Australia''s Web Archive, is also provided.'
 creators:
 - Gerard Clifton
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295038/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295038/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 764686
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Safe Havens in a Choppy Sea: Digital Object Management Workflows at the National
   Library of Australia: Presentation - iPRES 2005 - Göttingen'
 year: 2005

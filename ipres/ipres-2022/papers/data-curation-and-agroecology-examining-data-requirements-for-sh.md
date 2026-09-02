@@ -14,7 +14,7 @@ abstract: 'Digital preservation discourse tends to focus the organisational and 
 creators:
 - Sarah Higgins
 - Christopher Higgins
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/6sc8e/
 grand_parent: iPRES
 institutions:
@@ -35,6 +35,7 @@ size: null
 slides_url: https://osf.io/download/af46q/
 source_name: iPRES:osf:gcynk
 stream_url: https://youtu.be/FOkFd-w92E4
+submission_url: https://api.zotero.org/groups/5564150/items/YD7VNA77/file
 title: 'Data curation and agroecology: examining data requirements for short supply
   chains'
 year: 2022

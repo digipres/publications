@@ -6,7 +6,7 @@ abstract: This is a follow-up to the virtual DBs for 2080 workshop at Landesarch
 creators:
 - Kevin McMahon
 - Kai Naumann
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/2k8hu/
 grand_parent: iPRES
 institutions:
@@ -28,6 +28,7 @@ source_name: iPRES:osf:87bc5
 stream_url: 'https://youtu.be/LtCjqUCQ58o
 
   '
+submission_url: https://api.zotero.org/groups/5564150/items/SE3JSVHN/file
 title: Eternalize DBs workshop - Exchange on sustainability and re-use of database
   content
 year: 2022

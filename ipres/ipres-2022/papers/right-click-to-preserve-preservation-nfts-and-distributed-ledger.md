@@ -12,7 +12,7 @@ creators:
 - John Bell
 - Regina Harsanyi
 - Jon Ippolito
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/bxq2z/
 grand_parent: iPRES
 institutions:
@@ -33,6 +33,7 @@ size: null
 slides_url: https://osf.io/download/kwf8u/
 source_name: iPRES:osf:zt6ex
 stream_url: https://youtu.be/aSkGVgHoCxU
+submission_url: https://api.zotero.org/groups/5564150/items/J8W7JQ3A/file
 title: 'Right Click to Preserve: Preservation, NFTs, and Distributed Ledgers'
 year: 2022
 ---

@@ -50,6 +50,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Many Hands Make Light(er) Work: Collaborative Web Lifecycle Management'
 year: 2024
 ---

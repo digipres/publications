@@ -7,8 +7,8 @@ abstract: This paper will present the online resource ffmprovisr as a case study
 creators:
 - Ashley Blewer
 - Andrew WeaverWeaver
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1080494/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1080494/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -23,6 +23,7 @@ size: 192812
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Sustainability through Community '
 year: 2019
 ---

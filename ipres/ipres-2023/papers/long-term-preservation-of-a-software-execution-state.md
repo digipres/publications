@@ -9,7 +9,7 @@ creators:
 - Rafael Gieschke
 - Klaus Rechert
 - Euan Cochrane
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128297/bitstreams/428959/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -27,6 +27,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Long-Term Preservation of a Software Execution State
 year: 2023
 ---

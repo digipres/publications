@@ -24,8 +24,8 @@ abstract: 'Since the advent of inexpensive or open-source institutional reposito
   of infrastructure to the tasks of administering and delivering educational services.'
 creators:
 - Patricia Galloway
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294551/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294551/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 61752
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Repository Institutionalization: What makes it worth becoming infrastructure?'
 year: 2006
 ---

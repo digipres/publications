@@ -15,8 +15,8 @@ creators:
 - Jenny Mitcham
 - Kieron Niven
 - Julian Richards
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185505/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185505/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -31,6 +31,7 @@ size: 504142
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'ARCHIVING ARCHAEOLOGY: INTRODUCING THE GUIDES TO GOOD PRACTICE'
 year: 2010
 ---

@@ -12,7 +12,7 @@ creators:
 - Xiao Ma
 - Dragan Espenschied
 - Lyndsey Moulds
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/wkm29/
 grand_parent: iPRES
 institutions:
@@ -32,6 +32,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:6rnk4
 stream_url: https://youtu.be/_0pPEkziGIg
+submission_url: https://api.zotero.org/groups/5564150/items/5WUA4ZY6/file
 title: Access Quality Metrics for Net Art
 year: 2022
 ---

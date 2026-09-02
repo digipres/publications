@@ -9,8 +9,8 @@ creators:
 - Barbara Sierman
 - Courtney Mumma
 - Ingrid Dillo
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429625/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429625/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 393047
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'From Theory to Practice: Using ISO 16363'
 year: 2015
 ---

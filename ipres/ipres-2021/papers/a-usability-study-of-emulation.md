@@ -8,8 +8,8 @@ abstract: In this paper, we study the usability of a range of emulators using vi
 creators:
 - Jakob Moesgaard
 - Claus Jensen
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424887/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424887/download
 grand_parent: iPRES
 institutions:
 - Royal Danish Library
@@ -30,6 +30,7 @@ size: 238490
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Usability Study of Emulation
 year: 2021
 ---

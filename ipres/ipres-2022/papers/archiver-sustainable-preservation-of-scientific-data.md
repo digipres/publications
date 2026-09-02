@@ -20,7 +20,7 @@ creators:
 - Matthew Addis
 - Teo Redondo
 - João Fernandes
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/636272978f15a50475d51a36/
 grand_parent: iPRES
 institutions:
@@ -39,6 +39,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:h2gfs
 stream_url: https://youtu.be/ESyiDqmYCuE
+submission_url: https://api.zotero.org/groups/5564150/items/F38FX2C4/file
 title: 'ARCHIVER: Sustainable Preservation of Scientific Data'
 year: 2022
 ---

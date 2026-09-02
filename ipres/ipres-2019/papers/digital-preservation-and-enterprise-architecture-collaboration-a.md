@@ -16,8 +16,8 @@ creators:
 - Sean Turner
 - Lyle Winton
 - Jaye Weatherburn
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1081725/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1081725/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -32,6 +32,7 @@ size: 568897
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Digital preservation and enterprise architecture collaboration at the University
   of Melbourne '
 year: 2019

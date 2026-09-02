@@ -20,8 +20,8 @@ creators:
 - Alec Mulinder
 - Sarra Hamdi
 - Sonia Ranade
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424927/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424927/download
 grand_parent: iPRES
 institutions:
 - City, University of London / The National Archives, UK
@@ -43,6 +43,7 @@ size: 473426
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preserving for People: Observing Humanities Scholars'' Research Practices
   in a Hybrid Archive Environment'
 year: 2021

@@ -15,8 +15,8 @@ creators:
 - Kresimir Duretec
 - Christoph Becker
 - Luís Faria
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378091/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378091/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 484136
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: The SCAPE Planning and Watch suite
 year: 2013
 ---

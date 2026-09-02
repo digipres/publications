@@ -16,8 +16,8 @@ creators:
 - Klaus Rechert
 - Dirk von Suchodoletz
 - Sebastian Schmelzer
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294082/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294082/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -39,6 +39,7 @@ size: 1073647
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Demo – An Integrated System-Preservation Workflow
 year: 2012
 ---

@@ -16,7 +16,7 @@ creators:
 - Zoe Bartliff
 - Yunhyong Kim
 - Kathryn Simpson
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/y6z9e/
 grand_parent: iPRES
 institutions:
@@ -36,6 +36,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:s8c4x
 stream_url: null
+submission_url: https://api.zotero.org/groups/5564150/items/FR23LGM8/file
 title: 'Changing Curriculums for a Changing World? Living in Interesting Times: Digital
   Preservation Education, Pedagogy and Skills'
 year: 2022

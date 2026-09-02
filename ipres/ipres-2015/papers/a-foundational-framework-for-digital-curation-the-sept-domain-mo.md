@@ -29,8 +29,8 @@ abstract: 'Digital curation is a complex of actors, policies, practices, and tec
   precise yet concise statements regarding curation intentions, activities, and results.'
 creators:
 - Stephen Abrams
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429533/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429533/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -52,6 +52,7 @@ size: 274866
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'A Foundational Framework for Digital Curation: The Sept Domain Model'
 year: 2015
 ---

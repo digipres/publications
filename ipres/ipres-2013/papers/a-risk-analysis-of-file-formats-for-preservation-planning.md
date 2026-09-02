@@ -18,8 +18,8 @@ abstract: This paper presents an approach for the automatic estimation of preser
 creators:
 - Roman Graf
 - Sergiu Gordea
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:377374/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:377374/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 855977
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Risk Analysis of File Formats for Preservation Planning
 year: 2013
 ---

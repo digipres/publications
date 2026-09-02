@@ -11,7 +11,7 @@ creators:
 - Jeanne Kramer-Smyth
 - Thomas Gkremo
 - Sherrine Thompson
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128277/bitstreams/428919/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -30,6 +30,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'CREATING DIGITAL PRESERVATION PLANS: Leveraging Expertise Across Your Organization'
 year: 2023
 ---

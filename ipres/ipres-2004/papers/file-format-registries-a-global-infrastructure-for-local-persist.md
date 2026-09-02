@@ -12,8 +12,8 @@ abstract: 'Cooperation has always been essential in the digital preservation com
   service in their current approaches.'
 creators:
 - Andreas Aschenbrenner
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295015/download
+date: 2004-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295015/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 242580
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: File format registries - a global infrastructure for local persistence
 year: 2004
 ---

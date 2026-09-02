@@ -24,8 +24,8 @@ creators:
 - Andrew N. Jackson
 - Jodie Double
 - Bo Middleton
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294255/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294255/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 630734
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'People Mashing: Agile Digital Preservation and the AQuA Project'
 year: 2011
 ---

@@ -10,7 +10,7 @@ creators:
 - Juana Suárez
 - Pamela Vízner
 - Lorena Ramírez-López
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/xpm3q/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:45h2g
 stream_url: https://youtu.be/uha_rjnZ8BQ
+submission_url: https://api.zotero.org/groups/5564150/items/DNSVW2IE/file
 title: 'A Labor of Language: Building The Global Preservation Community Through Funded
   Translation Projects'
 year: 2022

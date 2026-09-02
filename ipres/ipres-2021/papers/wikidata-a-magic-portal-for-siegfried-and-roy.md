@@ -23,8 +23,8 @@ creators:
 - Katherine Thornton
 - Richard Lehane
 - Euan Cochrane
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424926/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424926/download
 grand_parent: iPRES
 institutions:
 - Ravensburger AG
@@ -47,6 +47,7 @@ size: 567766
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Wikidata: A Magic Portal for Siegfried and Roy'
 year: 2021
 ---

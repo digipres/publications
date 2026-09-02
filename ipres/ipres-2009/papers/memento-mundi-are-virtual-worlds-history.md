@@ -11,8 +11,8 @@ abstract: In this paper, I consider whether virtual worlds are history in two se
   of virtual worlds after they close down, either individually or perhaps even collectively.
 creators:
 - Henry Lowood
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294003/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294003/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -28,6 +28,7 @@ size: 724952
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Memento Mundi: Are Virtual Worlds History?'
 year: 2009
 ---

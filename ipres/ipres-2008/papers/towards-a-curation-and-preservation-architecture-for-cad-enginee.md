@@ -29,8 +29,8 @@ creators:
 - Alexander Ball
 - Lian Ding
 - Manjula Patel
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294109/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294109/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -46,6 +46,7 @@ size: 140924
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Towards a Curation and Preservation Architecture for CAD Engineering Models
 year: 2008
 ---

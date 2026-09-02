@@ -11,8 +11,8 @@ abstract: 'As  part  of  the  national  strategy  for  Cultural  Heritage  in  t
 creators:
 - Barbara Sierman
 - Kees Waterman
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931056/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931056/download
 grand_parent: iPRES
 institutions:
 - KB National Library of the Netherlands
@@ -36,6 +36,7 @@ size: 638332
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: How the Dutch prepared for certification
 year: 2017
 ---

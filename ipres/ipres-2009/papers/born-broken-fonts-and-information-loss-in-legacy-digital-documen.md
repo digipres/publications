@@ -12,8 +12,8 @@ abstract: 'For millions of legacy documents, correct rendering depends upon reso
 creators:
 - Geoffrey Brown
 - Kam Woods
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294029/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294029/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 1351125
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Born Broken: Fonts and Information Loss in Legacy Digital Documents'
 year: 2009
 ---

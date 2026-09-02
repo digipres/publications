@@ -40,6 +40,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: What delineates a Digital Preservation solution?
 year: 2024
 ---

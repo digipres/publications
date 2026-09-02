@@ -15,7 +15,7 @@ creators:
 - Yukio Maeda
 - Kiyonori Nagasaki
 - Takeshi Hiromatsu
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/72wmq/
 grand_parent: iPRES
 institutions:
@@ -35,6 +35,7 @@ size: null
 slides_url: https://osf.io/download/fm8dv/
 source_name: iPRES:osf:gfr5h
 stream_url: https://osf.io/download/k9wrp/
+submission_url: https://api.zotero.org/groups/5564150/items/75CZA2SA/file
 title: 'Fostering A Data Infrastructure for The Humanities and Social Sciences: A
   Case Study in Japan'
 year: 2022

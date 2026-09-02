@@ -53,6 +53,7 @@ size: null
 slides_url: https://zenodo.org/records/13743159
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/4ddf89491fa14b768053356fff184d51d5e1873012e04b299dadafeb331003eb
+submission_url: null
 title: 'Prepare to Preserve: the Harvest Combine for Research Data at Stockholm University
   and the Systems Inventory'
 year: 2024

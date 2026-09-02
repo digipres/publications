@@ -14,8 +14,8 @@ creators:
 - Katherine Skinner
 - Sam Meister
 - Sybil Schaefer
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429529/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429529/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 231836
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Long Term Preservation Strategies & Architecture: Views from Implementers'
 year: 2015
 ---

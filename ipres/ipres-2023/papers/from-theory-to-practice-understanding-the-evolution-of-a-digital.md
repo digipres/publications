@@ -13,7 +13,7 @@ creators:
 - Kate Cawthorn
 - Antonio Guillermo Martinez
 - Maria Fuertes
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128278/bitstreams/428921/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -32,6 +32,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121682
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'FROM THEORY TO PRACTICE: UNDERSTANDING THE EVOLUTION OF A DIGITAL PRESERVATION
   PROJECT FROM CONCEPTION TO FINAL REPOSITORY Some real cases'
 year: 2023

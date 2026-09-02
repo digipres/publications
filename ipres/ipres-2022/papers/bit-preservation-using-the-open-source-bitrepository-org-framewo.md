@@ -13,7 +13,7 @@ creators:
 - Eld Zierau
 - Mathias Jensen
 - Rasmus Kristensen
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/6rnxz/
 grand_parent: iPRES
 institutions:
@@ -35,6 +35,7 @@ size: null
 slides_url: https://osf.io/download/3h4nd/
 source_name: iPRES:osf:jzbk8
 stream_url: https://osf.io/download/s75yp/
+submission_url: https://api.zotero.org/groups/5564150/items/5IJQ4JJH/file
 title: Bit Preservation Using The Open Source bitrepository.org Framework
 year: 2022
 ---

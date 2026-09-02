@@ -17,8 +17,8 @@ abstract: 'This paper presents an investigation of the best suitable package for
   access to files.'
 creators:
 - Eld Zierau
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293682/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293682/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -39,6 +39,7 @@ size: 644237
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Package Formats for Preserved Digital Material
 year: 2012
 ---

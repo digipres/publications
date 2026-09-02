@@ -23,8 +23,8 @@ abstract: 'One of the versatile tasks of the project nestor is to develop guidel
 creators:
 - Heike Neuroth
 - Stefan Strathmann
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295033/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295033/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -40,6 +40,7 @@ size: 67713
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Developing a National Preservation Policy: Experiences in Germany: Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

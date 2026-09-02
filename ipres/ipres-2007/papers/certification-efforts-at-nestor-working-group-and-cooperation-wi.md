@@ -2,8 +2,8 @@
 abstract: null
 creators:
 - Christian Keitel
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294503/download
+date: 2007-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294503/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -19,6 +19,7 @@ size: 129781
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Certification Efforts at Nestor Working Group and cooperation with Certification
   Efforts at RLG/OCLC to become an international ISO standard
 year: 2007

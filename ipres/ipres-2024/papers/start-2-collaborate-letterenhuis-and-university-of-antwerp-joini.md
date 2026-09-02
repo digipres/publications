@@ -50,6 +50,7 @@ size: null
 slides_url: https://zenodo.org/records/13759303
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Start 2 Collaborate: Letterenhuis and University of Antwerp Joining Forces
   in Tackling Challenges Related to Born-Digital Archives'
 year: 2024

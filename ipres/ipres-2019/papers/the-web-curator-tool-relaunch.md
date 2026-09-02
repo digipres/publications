@@ -11,8 +11,8 @@ abstract: This poster will highlight new features of the Web Curator Tool (WCT),
 creators:
 - Ben O’Brien
 - Jeffrey van der Hoeven
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1079788/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1079788/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -27,6 +27,7 @@ size: 106014
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The Web Curator Tool Relaunch '
 year: 2019
 ---

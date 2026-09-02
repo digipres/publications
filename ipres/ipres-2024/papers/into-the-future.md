@@ -46,6 +46,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Into the future
 year: 2024
 ---

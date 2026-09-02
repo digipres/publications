@@ -6,7 +6,7 @@ abstract: 'Over time, we have seen the exponential growth of born-digital files,
   irreversible change that may be required to stabilize them for future access.'
 creators:
 - Crystal Sanchez
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/cfwr4/
 grand_parent: iPRES
 institutions:
@@ -24,6 +24,7 @@ size: null
 slides_url: https://osf.io/download/7m68p/
 source_name: iPRES:osf:4sg3h
 stream_url: https://youtu.be/t2202oekSH4
+submission_url: https://api.zotero.org/groups/5564150/items/FDCTMC5U/file
 title: 'Caring for Born Digital Video Camera Original Formats: Considering Intentional
   Change'
 year: 2022

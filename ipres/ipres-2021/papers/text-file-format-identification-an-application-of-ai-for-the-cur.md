@@ -25,8 +25,8 @@ creators:
 - Santhilata Kuppili Venkata
 - Paul Young
 - Alex (The National Archives Green
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424885/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424885/download
 grand_parent: iPRES
 institutions:
 - The National Archives
@@ -46,6 +46,7 @@ size: 249774
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Text File Format Identification: An Application of AI for the Curation of
   Digital Records'
 year: 2021

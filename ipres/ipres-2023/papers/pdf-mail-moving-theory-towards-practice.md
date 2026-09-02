@@ -19,7 +19,7 @@ creators:
 - Ruby Martinez
 - Duff Johnson
 - Christopher Prom
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128327/bitstreams/429019/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -40,6 +40,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'PDF/MAIL: Moving Theory Towards Practice'
 year: 2023
 ---

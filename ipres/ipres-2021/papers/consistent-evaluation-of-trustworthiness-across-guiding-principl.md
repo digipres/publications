@@ -12,8 +12,8 @@ creators:
 - Robert R. Downs
 - Felix Engel
 - Matthias Hemmje
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424817/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424817/download
 grand_parent: iPRES
 institutions:
 - PTAB LTD, UK
@@ -38,6 +38,7 @@ size: 81592
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Consistent evaluation of trustworthiness across guiding principles and standards
   is crucial to ensure a robust digital repository ecosystem
 year: 2021

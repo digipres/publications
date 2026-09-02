@@ -12,7 +12,7 @@ creators:
 - Paul Stokes
 - Tamsin Burland
 - Sarah Middleton
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/6py97/
 grand_parent: iPRES
 institutions:
@@ -34,6 +34,7 @@ size: null
 slides_url: https://osf.io/download/kc3xn/
 source_name: iPRES:osf:zndu5
 stream_url: null
+submission_url: https://api.zotero.org/groups/5564150/items/5SWMDUHN/file
 title: The Value of Catastrophic Data Loss
 year: 2022
 ---

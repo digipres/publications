@@ -7,7 +7,7 @@ abstract: This paper describes the use of a modification of qualitative grounded
 creators:
 - Eric Kaltman
 - Adam Larson
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128333/bitstreams/429031/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -27,6 +27,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121659
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'TACIT PROCESSES: Qualitative Analysis Toward Bottom-Up Emulation Workflows'
 year: 2023
 ---

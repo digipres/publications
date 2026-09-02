@@ -6,7 +6,7 @@ creators:
 - Eld Zierau
 - Jack O’Sullivan
 - Karin Bredenberg
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128276/bitstreams/428917/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -26,6 +26,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'PREMIS IN A PAGE: A beginner’s guide to the PREMIS Data Model'
 year: 2023
 ---

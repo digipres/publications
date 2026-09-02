@@ -5,7 +5,7 @@ abstract: This paper examines existing digital library practices at Virginia Tec
 creators:
 - Alex Kinnaman
 - Alan Munshower
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/caub7/
 grand_parent: iPRES
 institutions:
@@ -25,6 +25,7 @@ size: null
 slides_url: https://osf.io/download/jctb3/
 source_name: iPRES:osf:yf8tn
 stream_url: https://youtu.be/_6EirVkkmhM
+submission_url: https://api.zotero.org/groups/5564150/items/3KT76ZIG/file
 title: 'Green Goes with Anything: Decreasing Environmental Impact of Digital Libraries
   at Virginia Tech'
 year: 2022

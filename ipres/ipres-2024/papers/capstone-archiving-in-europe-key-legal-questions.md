@@ -40,6 +40,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Capstone Archiving in Europe: Key Legal Questions'
 year: 2024
 ---

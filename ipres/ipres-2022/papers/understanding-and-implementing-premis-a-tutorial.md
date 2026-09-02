@@ -8,7 +8,7 @@ creators:
 - Karin Bredenberg
 - Eld Zierau
 - Michelle Lindlar
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/r68cy/
 grand_parent: iPRES
 institutions:
@@ -26,6 +26,7 @@ size: null
 slides_url: https://osf.io/download/wjs7e/
 source_name: iPRES:osf:yafrp
 stream_url: null
+submission_url: https://api.zotero.org/groups/5564150/items/BGQJ4FEJ/file
 title: Understanding And Implementing PREMIS A tutorial
 year: 2022
 ---

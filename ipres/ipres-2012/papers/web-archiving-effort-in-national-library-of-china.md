@@ -6,8 +6,8 @@ abstract: 'In this paper, we introduce the effort in National Library of China i
   figure out some questions about the web archiving in China. '
 creators:
 - Qu Yunpeng
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293860/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293860/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -27,6 +27,7 @@ size: 802225
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Web Archiving Effort in National Library of China
 year: 2012
 ---

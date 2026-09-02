@@ -13,8 +13,8 @@ creators:
 - Thomas Bähr
 - Franziska Schwab
 - Thomas Gerdes
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502854/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502854/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -29,6 +29,7 @@ size: 45529
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Consortial Certification Processes – The Goportis Digital Archive
 year: 2016
 ---

@@ -2,8 +2,8 @@
 abstract: null
 creators:
 - Henk Harmsen
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294160/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294160/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -19,6 +19,7 @@ size: 27398
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Data seal of approval - assessment and review of the quality of operations
   for research data repositories
 year: 2008

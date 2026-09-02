@@ -6,8 +6,8 @@ abstract: The Training and Curriculum Development Session at iPRES 2008 will bri
   who are seeking to find a path through this sometimes fragmented area.
 creators:
 - Frances Boyle
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294189/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294189/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -23,6 +23,7 @@ size: 18037
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Training and Curriculum Development Panel Discussion
 year: 2008
 ---

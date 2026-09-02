@@ -26,8 +26,8 @@ abstract: In developing and debating digital repositories, the digital library w
 creators:
 - Ann Green
 - Myron Gutmann
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294566/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294566/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -43,6 +43,7 @@ size: 1274854
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preserving Things that Count: exploring partnerships among domain specific
   repositories, institutional repositories, and social science researchers'
 year: 2006

@@ -12,8 +12,8 @@ creators:
 - Reinhold Huber-Mork
 - Alexander Schindler
 - Sven Schlarb
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293840/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293840/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 1772262
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Duplicate Detection for Quality Assurance of Document Image Collections
 year: 2012
 ---

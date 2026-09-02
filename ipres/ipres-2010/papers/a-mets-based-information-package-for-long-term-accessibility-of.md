@@ -42,8 +42,8 @@ abstract: 'The British Library’s web archive comprises several
   and principles become applicable to web content as well.'
 creators:
 - Markus Enders
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185410/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185410/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -58,6 +58,7 @@ size: 413834
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A METS BASED INFORMATION PACKAGE FOR LONG  TERM ACCESSIBILITY OF WEB ARCHIVES
 year: 2010
 ---

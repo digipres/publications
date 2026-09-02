@@ -57,6 +57,7 @@ size: null
 slides_url: https://zenodo.org/records/13770146
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/da2d1b9b4b1f4d30bdfe6ee2f5e1578774244bbbdd7b4374b3caa268caec75fe
+submission_url: null
 title: 'Everybody in the TARDIS (Teams of Archival Research Data Information Specialists):
   Collaborative Efforts to Save Historical Data'
 year: 2024

@@ -50,6 +50,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: “Shared Services” for Values-driven, Community-supported Digital Preservation
 year: 2024
 ---

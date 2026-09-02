@@ -23,8 +23,8 @@ creators:
 - Michelle Lindlar
 - Merle Friedrich
 - Miriam Reiche
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424944/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424944/download
 grand_parent: iPRES
 institutions:
 - TIB - German National Library of Science and Technology
@@ -43,6 +43,7 @@ size: 803489
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: When Digital Remembers Analogue - Conservation Metadata for Analogue Film as
   Preservation Description Information in a Digital Archive
 year: 2021

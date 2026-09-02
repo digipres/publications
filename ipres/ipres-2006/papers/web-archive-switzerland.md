@@ -19,8 +19,8 @@ abstract: 'Web Archive Switzerland is a pilot project undertaken in collaboratio
   (in German and French), see: <http://www.e-helvetica.ch>'
 creators:
 - Barbara Signori
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294865/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294865/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 720430
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Web Archive Switzerland
 year: 2006
 ---

@@ -18,7 +18,7 @@ abstract: 'Fedora 6.x is the newest, most modern version of the software, repres
 creators:
 - Arran Griffith
 - Dan Field
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128263/bitstreams/428891/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -38,6 +38,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'THIS IS FEDORA 6.X: Understanding the Oxford Common File Layout, Intro to
   Migration Tools and Understanding Community Developed Integrations'
 year: 2023

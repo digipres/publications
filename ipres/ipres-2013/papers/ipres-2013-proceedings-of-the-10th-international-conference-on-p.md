@@ -24,8 +24,8 @@ creators:
 - José Borbinha
 - Michael Nelson
 - Steve Knight
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378099/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378099/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 12723002
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: iPRES 2013 - Proceedings of the 10th International Conference on Preservation
   of Digital Objects
 year: 2013

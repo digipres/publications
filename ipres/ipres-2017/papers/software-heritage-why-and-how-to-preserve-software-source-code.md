@@ -18,8 +18,8 @@ abstract: 'Software is now a key component present in all aspects of our society
 creators:
 - Roberto Di Cosmo
 - Stefano Zacchiroli
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931064/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931064/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 662621
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Software Heritage: Why and How to Preserve Software Source Code'
 year: 2017
 ---

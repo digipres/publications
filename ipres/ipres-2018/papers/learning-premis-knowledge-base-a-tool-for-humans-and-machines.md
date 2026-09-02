@@ -19,8 +19,8 @@ abstract: 'Inspired by the “Knowledge Base” definition of the Open Archival 
 creators:
 - Angela Di Iorio
 - Marco Schaerf
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923630/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923630/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 1023949
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Learning PREMIS Knowledge Base: a tool for humans and machines'
 year: 2018
 ---

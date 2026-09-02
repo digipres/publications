@@ -59,6 +59,7 @@ size: null
 slides_url: https://zenodo.org/records/13742797
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/c4ff0ba130054fff8dfd6d0fb3f33463d66167c2df83459e89304b6b9778c302
+submission_url: null
 title: Utilizing Large Language Models for Semantic Search and Summarization of International
   Television News Archives
 year: 2024

@@ -8,7 +8,7 @@ abstract: This paper describes the work and outputs of the joint NDA-DPC project
 creators:
 - Michael Popham
 - Jenny Mitcham
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/4fcva/
 grand_parent: iPRES
 institutions:
@@ -30,6 +30,7 @@ size: null
 slides_url: https://osf.io/download/krcmh/
 source_name: iPRES:osf:n9zr5
 stream_url: https://youtu.be/udaE5kPGgn4
+submission_url: https://api.zotero.org/groups/5564150/items/6AA6R7Y4/file
 title: 'From Ray Cats To DPC RAM: How Best To Preserve A Digital Memory Of The Nuclear
   Decommissioning Process'
 year: 2022

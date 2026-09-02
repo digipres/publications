@@ -11,8 +11,8 @@ creators:
 - Jack O'Sullivan
 - Richard Smith
 - Jonathan Tilbury
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424890/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424890/download
 grand_parent: iPRES
 institutions:
 - Preservica Ltd
@@ -31,6 +31,7 @@ size: 330641
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Identification of Multi-Part Digital Objects
 year: 2021
 ---

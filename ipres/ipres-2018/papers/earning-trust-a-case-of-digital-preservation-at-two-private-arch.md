@@ -13,8 +13,8 @@ abstract: In this paper a comparison is made between two private Dutch archives 
 creators:
 - Marcel Ras
 - Robert Gillesse
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923640/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923640/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -30,6 +30,7 @@ size: 119150
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Earning trust: A case of digital preservation at two private archives'
 year: 2018
 ---

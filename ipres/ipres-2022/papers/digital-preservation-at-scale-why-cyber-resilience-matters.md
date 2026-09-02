@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Rob Skipworth
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/tnjpm/
 source_name: iPRES:osf:hxkzr
 stream_url: https://youtu.be/eW6PsVnyI2k?t=2538
+submission_url: null
 title: Digital Preservation at Scale why Cyber Resilience Matters
 year: 2022
 ---

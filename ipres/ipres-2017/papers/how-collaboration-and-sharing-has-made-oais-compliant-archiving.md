@@ -6,8 +6,8 @@ abstract: Can small archives with limited budgets and only a handful of employee
 creators:
 - Kathrine Hougaard Edsen Johansen
 - Mads Neuhard
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931128/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931128/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -24,6 +24,7 @@ size: 74386
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: How collaboration and sharing has made OAIS compliant archiving at (very) small
   archives possible
 year: 2017

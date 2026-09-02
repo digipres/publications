@@ -12,7 +12,7 @@ creators:
 - Edith Halvarsson
 - James Mooney
 - Sebastian Lange
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/zstqh/
 grand_parent: iPRES
 institutions:
@@ -32,6 +32,7 @@ size: null
 slides_url: https://osf.io/download/h7bd9/
 source_name: iPRES:osf:8mxja
 stream_url: https://youtu.be/a1pweZSjXXw
+submission_url: https://api.zotero.org/groups/5564150/items/SI63ASXE/file
 title: Monitoring Bodleian Libraries' Repositories with Micro Services
 year: 2022
 ---

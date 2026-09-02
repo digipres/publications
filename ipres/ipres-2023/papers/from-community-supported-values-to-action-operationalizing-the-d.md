@@ -18,7 +18,7 @@ creators:
 - Jess Farrell
 - Courtney Mumma
 - Sibyl Schaefer
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128280/bitstreams/428925/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -39,6 +39,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121675
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'FROM COMMUNITY-SUPPORTED VALUES TO ACTION: Operationalizing the Digital Preservation
   Declaration of Shared Values'
 year: 2023

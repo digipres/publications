@@ -15,8 +15,8 @@ creators:
 - Oleg Stobbe
 - Isgandar Valizada
 - Tobias Steinke
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429556/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429556/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 473621
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Characterization of CD-ROMs for Emulation-Based Access
 year: 2015
 ---

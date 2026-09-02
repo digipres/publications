@@ -19,8 +19,8 @@ abstract: "\"One of the greatest challenge for any archive is the multiplicity o
   the development of a format risk analysis and preservation prioritization instrument.\""
 creators:
 - Leslie Johnston
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923623/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923623/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 1447929
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Creating a holdings format profile and format matrix for risk-based digital
   preservation planning at the national archives and records administration
 year: 2018

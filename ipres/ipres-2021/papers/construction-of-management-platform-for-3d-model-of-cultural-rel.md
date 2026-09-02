@@ -8,8 +8,8 @@ creators:
 - Fang Liu
 - Huabiao Li
 - Chao Yang
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424919/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424919/download
 grand_parent: iPRES
 institutions:
 - national museum of china
@@ -29,6 +29,7 @@ size: 445984
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Construction of management platform for 3D model of cultural relics
 year: 2021
 ---

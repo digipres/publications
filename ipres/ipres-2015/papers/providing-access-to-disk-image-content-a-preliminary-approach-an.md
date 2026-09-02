@@ -5,8 +5,8 @@ abstract: In this poster, we describe a proposed workflow that can be used by co
 creators:
 - Walker Sampson
 - Alexandra Chassanoff
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429600/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429600/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -22,6 +22,7 @@ size: 471306
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Providing Access to Disk Image Content: A Preliminary Approach and Workflow'
 year: 2015
 ---

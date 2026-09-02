@@ -12,8 +12,8 @@ creators:
 - Ed Fay
 - Christopher Lee
 - Dirk von Suchodoletz
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378131/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378131/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 86703
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Getting to Digital Preservation Tools that “Just Work”: Panel '
 year: 2014
 ---

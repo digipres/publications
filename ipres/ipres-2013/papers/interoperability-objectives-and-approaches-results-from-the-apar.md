@@ -18,8 +18,8 @@ abstract: In this paper we report the main results of a study on interoperabilit
 creators:
 - Barbara Bazzanella
 - Yannis Tzitzikas
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378040/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378040/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 1678147
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Interoperability Objectives and Approaches: Results from the APARSEN NoE'
 year: 2013
 ---

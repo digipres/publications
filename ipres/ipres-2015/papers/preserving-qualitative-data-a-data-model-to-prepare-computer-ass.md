@@ -12,8 +12,8 @@ abstract: A rapid change in technology has a great impact on the long-term acces
 creators:
 - Umar Qasim
 - Kendall Roark
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429598/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429598/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 244859
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preserving Qualitative Data: A Data Model to Prepare Computer Assisted Qualitative
   Data Analysis Software Data for Long-term Preservation'
 year: 2015

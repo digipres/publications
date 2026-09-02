@@ -14,8 +14,8 @@ creators:
 - Dirk von Suchodoletz
 - Isgandar Valizada
 - Nick Russler
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378042/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378042/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -37,6 +37,7 @@ size: 887438
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Large-Scale Curation and Presentation of CD-ROM Art
 year: 2013
 ---

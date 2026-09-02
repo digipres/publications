@@ -14,8 +14,8 @@ creators:
 - Bronwyn Lee
 - Somaya Langley
 - Gerard Clifton
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294859/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294859/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 589783
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preservation Metadata: Adapting or Adopting PREMIS for APSR'
 year: 2006
 ---

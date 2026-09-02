@@ -2,8 +2,8 @@
 abstract: null
 creators:
 - Xiaolin Zhang
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294461/download
+date: 2007-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294461/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -19,6 +19,7 @@ size: 146332
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Chinese Digital Archive Network of Foreign STM Literature
 year: 2007
 ---

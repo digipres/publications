@@ -4,8 +4,8 @@ abstract: In this demonstration we will show how Ex Libris Rosetta addresses the
 creators:
 - Adi Alter
 - Ido Peled
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429575/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429575/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -23,6 +23,7 @@ size: 290643
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Managing and Preserving Research Data in Ex Libris Rosetta
 year: 2015
 ---

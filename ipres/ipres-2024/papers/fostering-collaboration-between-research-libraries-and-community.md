@@ -30,6 +30,7 @@ size: null
 slides_url: https://zenodo.org/records/13750977
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/32af20969ae4432e92ec34b4858d646eb0bc0e923d964404a63fd266c97ef4ee
+submission_url: null
 title: Fostering Collaboration Between Research Libraries and Community Archives to
   Preserve the ‘Network of Mutuality’
 year: 2024

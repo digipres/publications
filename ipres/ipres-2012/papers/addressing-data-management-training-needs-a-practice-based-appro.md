@@ -12,8 +12,8 @@ creators:
 - Simon Hodson
 - Stephane Goldstein
 - Joy Davidson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293861/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293861/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -40,6 +40,7 @@ size: 673753
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Addressing data management training needs: a practice- based approach from
   the UK'
 year: 2012

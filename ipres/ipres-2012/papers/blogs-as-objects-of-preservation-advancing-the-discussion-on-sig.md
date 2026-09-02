@@ -22,8 +22,8 @@ creators:
 - George Gkotsis
 - Hendrik Kalb
 - Yunhyong Kim
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293844/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293844/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -45,6 +45,7 @@ size: 1002759
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Blogs as Objects of Preservation: Advancing the Discussion on Significant
   Properties'
 year: 2012

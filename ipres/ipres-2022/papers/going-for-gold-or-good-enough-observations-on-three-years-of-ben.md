@@ -10,7 +10,7 @@ abstract: The Digital Preservation Coalition’s Rapid Assessment (DPC RAM) was 
 creators:
 - Jenny Mitcham
 - Paul Wheatley
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/snep5/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: https://osf.io/download/pjfk8/
 source_name: iPRES:osf:gpc9q
 stream_url: https://youtu.be/0kD4J6wWUkc
+submission_url: https://api.zotero.org/groups/5564150/items/KKJDBFKS/file
 title: Going for Gold or Good Enough? Observations on three years of benchmarking
   with DPC RAM
 year: 2022

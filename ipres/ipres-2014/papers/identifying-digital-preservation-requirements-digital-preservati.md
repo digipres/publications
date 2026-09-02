@@ -23,8 +23,8 @@ creators:
 - Maureen Pennock
 - Akiko Kimura
 - Ann MacDonald
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378119/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378119/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -43,6 +43,7 @@ size: 195040
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Identifying Digital Preservation Requirements: Digital Preservation Strategy
   and Collection Profiling at the British Library'
 year: 2014

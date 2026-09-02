@@ -24,8 +24,8 @@ creators:
 - Wo Chang
 - Sergiu Gordea
 - Werner Bailer
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378108/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378108/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -46,6 +46,7 @@ size: 337286
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Novel Metadata Standard for Multimedia Preservation
 year: 2014
 ---

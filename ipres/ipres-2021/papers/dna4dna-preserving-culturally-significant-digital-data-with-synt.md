@@ -19,8 +19,8 @@ creators:
 - Omer Sella
 - Thomas Heinis
 - Raja Appuswamy
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424930/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424930/download
 grand_parent: iPRES
 institutions:
 - EURECOM
@@ -42,6 +42,7 @@ size: 568326
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'DNA4DNA: Preserving Culturally Significant Digital Data with Synthetic DNA'
 year: 2021
 ---

@@ -51,8 +51,8 @@ creators:
 - Alexandra Chassanoff
 - Daniel W. Davis
 - Bing Zhu
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185507/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185507/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -67,6 +67,7 @@ size: 728893
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Policy-Driven Repository Interoperability:  Enabling Integration Patterns
   for iRODS and Fedora'
 year: 2010

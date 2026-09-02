@@ -2,8 +2,8 @@
 abstract: Abstract Edition
 creators:
 - Research and Development Department
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295047/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295047/download
 grand_parent: iPRES
 institutions:
 - Göttingen State and University Library
@@ -20,6 +20,7 @@ size: 784595
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'International Conference on Preservation of Digital Objects - Göttingen 15–16
   Sep 05: Paper - iPRES 2005 - Göttingen'
 year: 2005

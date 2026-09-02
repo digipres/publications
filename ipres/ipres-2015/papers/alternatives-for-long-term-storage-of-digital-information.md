@@ -21,8 +21,8 @@ abstract: 'The most fundamental component of digital preservation is managing th
 creators:
 - Chris Erickson
 - Barry Lunt
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429585/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429585/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 608458
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Alternatives for Long-Term Storage Of Digital Information
 year: 2015
 ---

@@ -8,8 +8,8 @@ abstract: This poster session describes the selection criteria and process used 
 creators:
 - Gail Truman
 - Jaime Henderson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429609/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429609/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 561830
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Using the Virtual-Private Cloud Model to Serve and Preserve Historical Collections:
   A Case Study (Based on Islandora)'
 year: 2015

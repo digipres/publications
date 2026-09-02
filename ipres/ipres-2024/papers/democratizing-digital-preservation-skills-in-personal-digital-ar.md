@@ -51,6 +51,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Democratizing digital preservation skills in personal digital archives and
   activist community web archives.
 year: 2024

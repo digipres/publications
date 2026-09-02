@@ -8,8 +8,8 @@ abstract: This short paper describes problems arising in optical character recog
 creators:
 - Karel Kucera
 - Martin Stluka
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293845/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293845/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 701725
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Challenges in Accessing Information in Digitized 19th-Century Czech Texts
 year: 2012
 ---

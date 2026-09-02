@@ -11,8 +11,8 @@ creators:
 - Helen Tibbo
 - Thu-Mai Christian
 - Rachel Goatley
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429607/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429607/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 407692
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Targeting Audiences among the Masses: A Data Curation MOOC for Researchers
   and Information Professionals'
 year: 2015

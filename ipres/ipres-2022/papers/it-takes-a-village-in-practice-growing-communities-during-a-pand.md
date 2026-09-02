@@ -14,7 +14,7 @@ abstract: What does it take to ensure open-source software (OSS) programs servin
 creators:
 - Megan Forbes
 - Laurie Arp
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/swz74/
 grand_parent: iPRES
 institutions:
@@ -34,6 +34,7 @@ size: null
 slides_url: https://osf.io/download/mns5v/
 source_name: iPRES:osf:7hnrd
 stream_url: https://youtu.be/VyMCX8oIQqA
+submission_url: https://api.zotero.org/groups/5564150/items/7VSFVXNQ/file
 title: 'It Takes a Village in Practice: Growing Communities During a Pandemic'
 year: 2022
 ---

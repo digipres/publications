@@ -2,7 +2,7 @@
 abstract: "In-Person Game \n    Hosted on the Open Science Framework"
 creators:
 - Emilie Fortin
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:tb97r
 stream_url: null
+submission_url: null
 title: Card game on formats
 year: 2022
 ---

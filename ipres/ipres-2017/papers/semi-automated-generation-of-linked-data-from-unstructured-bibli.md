@@ -15,8 +15,8 @@ abstract: A large number of bibliographic data and images of Japanese historical
 creators:
 - Natsuko Yoshiga
 - Shin-Ichi Tadaki
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931094/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931094/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 166124
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Semi-automated Generation of Linked Data from Unstructured Bibliographic Data
   for Japanese Historical Rare Books
 year: 2017

@@ -19,8 +19,8 @@ creators:
 - Markus Plangg
 - Christoph Becker
 - Sean Bechhofer
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378051/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378051/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -43,6 +43,7 @@ size: 2146418
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Open Preservation Data: Controlled vocabularies and ontologies for preservation
   ecosystems'
 year: 2013

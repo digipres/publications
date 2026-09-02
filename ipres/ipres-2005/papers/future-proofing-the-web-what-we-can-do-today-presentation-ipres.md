@@ -33,8 +33,8 @@ abstract: 'All we know about predicting our digital future is based on our past,
   may never have the money or the knowledge to do in the future.'
 creators:
 - John Kunze
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295039/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295039/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -50,6 +50,7 @@ size: 19676
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Future-Proofing the Web: What We Can Do Today: Presentation - iPRES 2005 -
   Göttingen'
 year: 2005

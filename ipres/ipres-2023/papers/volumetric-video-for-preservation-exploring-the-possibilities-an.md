@@ -11,7 +11,7 @@ creators:
 - Rashida K. Braggs
 - Bryan Carter
 - Sven Bliedung von der Heide
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128284/bitstreams/428933/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -32,6 +32,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121686
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'VOLUMETRIC VIDEO FOR PRESERVATION: Exploring the Possibilities and Challenges
   for Immersive BIPOC Storytelling'
 year: 2023

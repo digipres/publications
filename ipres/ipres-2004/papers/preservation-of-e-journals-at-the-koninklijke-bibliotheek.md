@@ -12,8 +12,8 @@ abstract: The digital archiving system of the KB, the e-Depot, stores e-journals
   certification as a so-called trusted depository.
 creators:
 - Hilde van Wijngaarden
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295001/download
+date: 2004-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295001/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 681524
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Preservation of e-journals at the Koninklijke Bibliotheek
 year: 2004
 ---

@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Ishwar Kapoor
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/c73rd/
 source_name: iPRES:osf:tk84y
 stream_url: https://youtu.be/eW6PsVnyI2k?t=3776
+submission_url: null
 title: Teaching the best data management practices to PhD students for long-term preservation
 year: 2022
 ---

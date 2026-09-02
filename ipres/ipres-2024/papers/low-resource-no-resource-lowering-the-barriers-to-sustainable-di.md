@@ -39,6 +39,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Low-resource / no-resource: lowering the barriers to sustainable digital preservation
   in the contemporary art professions'
 year: 2024

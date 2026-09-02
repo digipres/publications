@@ -16,8 +16,8 @@ abstract: 'Preservation of our cultural heritage on the Internet is increasingly
   on harvests of web pages referred to by webpages within a National Top Level Domain.'
 creators:
 - Eld Zierau
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429612/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429612/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 355512
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Automatic Identification and Preservation of National Parts of the Internet
   Outside a Country’s Top Level Domain
 year: 2015

@@ -41,6 +41,7 @@ size: null
 slides_url: https://zenodo.org/records/13788487
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/43124092cfc04d7ca607958cd2803d1773a96039b77c4cf9843d5b99eb64be11
+submission_url: null
 title: 'Scaling up: Photographing the ''Panorama of Congo'''
 year: 2024
 ---

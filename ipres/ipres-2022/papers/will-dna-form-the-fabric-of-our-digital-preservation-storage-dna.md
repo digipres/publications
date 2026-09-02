@@ -12,7 +12,7 @@ creators:
 - Paul Wheatley
 - Sibyl Schaefer
 - Euan Cochrane
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/8ys9w/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:zp357
 stream_url: https://youtu.be/nfrwgqwJayM
+submission_url: https://api.zotero.org/groups/5564150/items/9HYPNSH6/file
 title: 'Will DNA Form The Fabric Of Our Digital Preservation Storage? Dna Data Storage:
   A Panel Discussion'
 year: 2022

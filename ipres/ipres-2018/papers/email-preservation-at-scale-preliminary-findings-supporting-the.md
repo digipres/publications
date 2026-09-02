@@ -12,8 +12,8 @@ abstract: 'Email provides a rich history of an organization yet poses unique cha
 creators:
 - Joanne Kaczmarek
 - Brent West
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923649/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923649/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 402222
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Email Preservation at Scale: Preliminary Findings Supporting the Use of Predictive
   Coding'
 year: 2018

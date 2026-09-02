@@ -31,7 +31,7 @@ creators:
 - Kerstin Arnold
 - Marta Musso
 - Kostantinos Stamatis
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/jydtx/
 grand_parent: iPRES
 institutions:
@@ -49,6 +49,7 @@ size: null
 slides_url: https://osf.io/download/aujtx/
 source_name: iPRES:osf:d2j5p
 stream_url: https://youtu.be/hSw3TZG06Zw
+submission_url: https://api.zotero.org/groups/5564150/items/FG6R3QFR/file
 title: Automated Topic Modelling in Archives Portal Europe
 year: 2022
 ---

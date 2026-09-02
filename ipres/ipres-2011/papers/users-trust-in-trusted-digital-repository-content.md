@@ -11,8 +11,8 @@ abstract: Scholars who study trust in digital archives have largely focused thei
   of assessing the ‘real-world’ impact of trust signals on users.
 creators:
 - Devan Ray Donaldson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294204/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294204/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 492321
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Users’ Trust in Trusted Digital Repository Content
 year: 2011
 ---

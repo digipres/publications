@@ -14,8 +14,8 @@ abstract: In the Indian context, when the e-government records are received for 
   requirements of OAIS.
 creators:
 - Dinesh Katre
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293774/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293774/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -40,6 +40,7 @@ size: 964008
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'An Overview of Digital Preservation Considerations for Production of “Preservable”
   e-Records: An Indian e-Government Case Study'
 year: 2012

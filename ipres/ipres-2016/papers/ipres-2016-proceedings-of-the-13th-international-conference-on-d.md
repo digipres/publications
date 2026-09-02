@@ -5,8 +5,8 @@ creators:
 - Barbara Signori
 - Steve Knight
 - Natasa Milic-Frayling
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502767/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502767/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -21,6 +21,7 @@ size: 24813494
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: iPRES 2016 - Proceedings of the 13th International Conference on Digital Preservation
 year: 2016
 ---

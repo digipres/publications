@@ -10,7 +10,7 @@ creators:
 - Yingying Han
 - Ruohua Han
 - Karen M. Wickett
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128273/bitstreams/428911/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -29,6 +29,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'METADATA THAT EXCLUDES: A Case Study of the Rock Springs Massacre in Digital
   Collections'
 year: 2023

@@ -13,8 +13,8 @@ creators:
 - Evelyn McLellan
 - Karin Bredenberg
 - Rebecca Guenther
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429622/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429622/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 161650
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: PREMIS Implementation Fair Workshop
 year: 2015
 ---

@@ -37,8 +37,8 @@ abstract: 'As a result of different solutions to describe documents, which had b
   metadata (and other associated objects) to embedded files. '
 creators:
 - Markus Enders
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295046/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295046/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -54,6 +54,7 @@ size: 86540
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The Metadata Encoding and Transmission Standard (METS): From Presentation
   to Preservation: Presentation - iPRES 2005 - Göttingen'
 year: 2005

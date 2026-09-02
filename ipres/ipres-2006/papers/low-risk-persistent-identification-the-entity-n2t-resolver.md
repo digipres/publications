@@ -13,8 +13,8 @@ abstract: The N2T ("entity") identifier resolver addresses the same problem as U
   inside a URL.
 creators:
 - John Kunze
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294562/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294562/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -30,6 +30,7 @@ size: 81668
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Low-Risk Persistent Identification: the "Entity" (N2T) Resolver '
 year: 2006
 ---

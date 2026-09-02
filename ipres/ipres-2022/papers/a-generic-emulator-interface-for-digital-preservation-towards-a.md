@@ -11,7 +11,7 @@ abstract: Emulation frameworks as well as emulation as an access strategy have m
 creators:
 - Rafael Gieschke
 - Klaus Rechert
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/2eg6u/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:xeyr3
 stream_url: https://youtu.be/0JjaESI3tsg
+submission_url: https://api.zotero.org/groups/5564150/items/W687DYPG/file
 title: A Generic Emulator Interface for Digital Preservation --- Towards a Collaborative
   Distributed Emulator Registry
 year: 2022

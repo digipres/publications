@@ -14,7 +14,7 @@ abstract: The Ohio State University Libraries established the Digital Preservati
 creators:
 - Daniel Noonan
 - Sue Beck
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/rnjxe/
 grand_parent: iPRES
 institutions:
@@ -34,6 +34,7 @@ size: null
 slides_url: https://osf.io/download/zu38g/
 source_name: iPRES:osf:gbm7c
 stream_url: https://osf.io/download/pwjyz/
+submission_url: https://api.zotero.org/groups/5564150/items/9A9FA4E5/file
 title: 'Bringing Transparency and Permeability to Organizational Silos: Improving
   Workflow and Culture'
 year: 2022

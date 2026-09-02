@@ -11,8 +11,8 @@ abstract: Ensuring the long term access to digitized content is a major concern 
 creators:
 - Sergiu Gordea
 - Roman Graf
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378048/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378048/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 774803
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: On Enhancing the FFMA Knowledge Base
 year: 2013
 ---

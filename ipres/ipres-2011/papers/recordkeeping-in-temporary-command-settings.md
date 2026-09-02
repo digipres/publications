@@ -12,8 +12,8 @@ abstract: This article is about the recordkeeping that takes place during large 
   as knowledge reservoirs.
 creators:
 - Erik A.M. Borglund
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294249/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294249/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 539863
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Recordkeeping in Temporary Command Settings
 year: 2011
 ---

@@ -12,8 +12,8 @@ abstract: The National Diet Library (NDL) has been providing access to digitized
 creators:
 - Tsukasa Kimezawa
 - Shuji Kamitsuna
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502843/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502843/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -28,6 +28,7 @@ size: 85245
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: The Status of Compliance with OAIS Reference Model in the National Diet Library
   Digital Collections
 year: 2016

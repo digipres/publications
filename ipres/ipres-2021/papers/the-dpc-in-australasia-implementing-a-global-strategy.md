@@ -2,8 +2,8 @@
 abstract: null
 creators:
 - Jaye Weatherburn
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424814/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424814/download
 grand_parent: iPRES
 institutions:
 - Digital Preservation Coalition
@@ -19,6 +19,7 @@ size: 73238
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The DPC in Australasia: Implementing a global strategy'
 year: 2021
 ---

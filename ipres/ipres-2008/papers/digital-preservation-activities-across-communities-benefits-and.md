@@ -13,8 +13,8 @@ abstract: The problem of digital preservation is not limited to special communit
   models will be presented, as well as legal aspects.
 creators:
 - Natascha Schumann
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294186/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294186/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -30,6 +30,7 @@ size: 28104
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Digital preservation activities across communities – benefits and problems
 year: 2008
 ---

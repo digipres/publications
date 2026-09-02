@@ -21,7 +21,7 @@ abstract: 'Digital preservation significance is widely recognized and imperative
 creators:
 - Ahmed Maher Khafaga Shehata
 - Abderrazak Mkadmi
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128302/bitstreams/428969/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -42,6 +42,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121674
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'DIGITAL PRESERVATION AND ACCESSIBILITY OF ARCHIVES IN OMAN:  Current Status
   and Future Directions'
 year: 2023

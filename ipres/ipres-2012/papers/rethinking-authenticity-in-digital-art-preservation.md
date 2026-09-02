@@ -10,8 +10,8 @@ abstract: In this paper I am discussing the repositioning of traditional conserv
   to match digital art intrinsic variability and dynamic authenticity.
 creators:
 - Perla Innocenti
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293683/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293683/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 613917
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Rethinking authenticity in digital art preservation
 year: 2012
 ---

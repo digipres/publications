@@ -27,8 +27,8 @@ creators:
 - Magnus Geber
 - Peter Pharow
 - Antonella Fresa
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502813/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502813/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -43,6 +43,7 @@ size: 140323
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Quality Standards for Preserving Digital Cultural Heritage
 year: 2016
 ---

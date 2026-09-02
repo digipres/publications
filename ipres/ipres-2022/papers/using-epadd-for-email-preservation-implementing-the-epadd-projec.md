@@ -14,7 +14,7 @@ creators:
 - Sally DeBauche
 - Ian Gifford
 - Tricia Patterson
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/vt65e/
 grand_parent: iPRES
 institutions:
@@ -36,6 +36,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:x4sj9
 stream_url: https://youtu.be/jKrLH8ycEfE
+submission_url: null
 title: 'Using ePADD for Email Preservation: Implementing the ePADD+ Project Enhancements'
 year: 2022
 ---

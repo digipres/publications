@@ -9,8 +9,8 @@ abstract: 'The long term preservation is a responsibility to share with other or
   resources with the mutual objective of preserving them in the long term. '
 creators:
 - Angela Di Iorio
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294038/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294038/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -26,6 +26,7 @@ size: 818626
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Translation Layer to Convey Preservation Metadata
 year: 2009
 ---

@@ -31,8 +31,8 @@ abstract: Metadata about digital objects help users find, understand, use and re
 creators:
 - Chunqiu Li
 - Shigeo Sugimoto
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931067/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931067/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -48,6 +48,7 @@ size: 1011275
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Metadata-Driven Approach for Keeping Interpretability of Digital Objects through
   Formal Provenance Description
 year: 2017

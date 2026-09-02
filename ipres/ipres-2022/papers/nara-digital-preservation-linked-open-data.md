@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Elizabeth England
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/fe3t6/
 source_name: iPRES:osf:amqvd
 stream_url: https://youtu.be/eW6PsVnyI2k?t=4785
+submission_url: null
 title: NARA Digital Preservation Linked Open Data
 year: 2022
 ---

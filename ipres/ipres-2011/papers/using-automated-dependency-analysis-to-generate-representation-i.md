@@ -13,8 +13,8 @@ abstract: To preserve access to digital content, we must preserve the representa
   when no suitable characterisation tool exists.
 creators:
 - Andrew N. Jackson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294238/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294238/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -30,6 +30,7 @@ size: 580383
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Using Automated Dependency Analysis To Generate Representation Information
 year: 2011
 ---

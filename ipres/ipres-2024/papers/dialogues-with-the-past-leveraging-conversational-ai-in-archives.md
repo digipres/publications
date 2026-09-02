@@ -41,6 +41,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Dialogues with the Past: Leveraging Conversational AI in Archives'
 year: 2024
 ---

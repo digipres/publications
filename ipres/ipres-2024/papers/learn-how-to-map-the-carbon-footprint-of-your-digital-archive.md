@@ -54,6 +54,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Learn how to map the carbon footprint of your digital archive
 year: 2024
 ---

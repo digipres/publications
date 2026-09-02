@@ -18,8 +18,8 @@ abstract: Data publishing using semantic web and linked data techniques enables 
 creators:
 - David Tarrant
 - Les Carr
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293766/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293766/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -42,6 +42,7 @@ size: 930154
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'LDS3: Applying Digital Preservation Principals to Linked Data Systems'
 year: 2012
 ---

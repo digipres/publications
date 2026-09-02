@@ -16,8 +16,8 @@ abstract: Digital preservation aims at guaranteeing that data or digital objects
 creators:
 - Gonçalo Antunes
 - Helder Pina
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294216/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294216/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 547084
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Using Grid Federations for Digital Preservation
 year: 2011
 ---

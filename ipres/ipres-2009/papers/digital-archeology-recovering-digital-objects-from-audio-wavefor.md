@@ -17,8 +17,8 @@ creators:
 - Chrisanth Lederer
 - Annu John
 - Mihai Ghete
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294011/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294011/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 1555969
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Digital Archeology: Recovering Digital Objects from Audio Waveforms'
 year: 2009
 ---

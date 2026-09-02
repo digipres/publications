@@ -38,6 +38,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Digital Records Management for artist-run centres
 year: 2024
 ---

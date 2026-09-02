@@ -20,8 +20,8 @@ abstract: 'Based on the example of Friedrich Kittler’s digital papers at the D
 creators:
 - Jürgen Enge
 - Heinz Werner Kramski
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502853/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502853/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -36,6 +36,7 @@ size: 1467609
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Exploring Friedrich Kittler’s Digital Legacy on Different Levels
 year: 2016
 ---

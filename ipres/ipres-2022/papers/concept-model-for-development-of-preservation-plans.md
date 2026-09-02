@@ -4,7 +4,7 @@ abstract: The Concept Model enables your archive to develop preservation plans f
   type is a group of file formats used for the same purposes.
 creators:
 - Asbjørn Skødt
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/kxzdy/
 grand_parent: iPRES
 institutions:
@@ -25,6 +25,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:szkv4
 stream_url: null
+submission_url: https://api.zotero.org/groups/5564150/items/IIM45RXG/file
 title: Concept Model for Development of Preservation Plans
 year: 2022
 ---

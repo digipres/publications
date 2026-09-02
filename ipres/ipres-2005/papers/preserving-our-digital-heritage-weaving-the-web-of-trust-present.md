@@ -24,8 +24,8 @@ abstract: 'Many digital objects have a lasting value and significance. As an imp
   archiving as much as long term usability.'
 creators:
 - Elisabeth Niggemann
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295031/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295031/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 731627
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preserving our digital heritage - Weaving the web of trust: Presentation -
   iPRES 2005 - Göttingen'
 year: 2005

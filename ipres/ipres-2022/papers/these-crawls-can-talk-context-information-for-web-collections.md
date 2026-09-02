@@ -17,7 +17,7 @@ abstract: 'The National Library of the Netherlands has been harvesting the web s
 creators:
 - Susanne van den Eijkel
 - Daniel Steinmeier
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/4ky3a/
 grand_parent: iPRES
 institutions:
@@ -38,6 +38,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:e463f
 stream_url: https://youtu.be/yBk-3RJpuCw
+submission_url: https://api.zotero.org/groups/5564150/items/29WHA7RG/file
 title: These Crawls can Talk. Context Information for Web Collections
 year: 2022
 ---

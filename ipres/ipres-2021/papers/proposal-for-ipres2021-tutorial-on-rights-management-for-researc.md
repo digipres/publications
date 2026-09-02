@@ -11,8 +11,8 @@ abstract: 'Purpose: Research data (RD) is a fast developing area of digital reso
 creators:
 - Zhihong Sheng
 - Zeyu Zhang
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424937/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424937/download
 grand_parent: iPRES
 institutions:
 - Computing and Networking Information Center, CAS
@@ -33,6 +33,7 @@ size: 93921
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Proposal for iPres2021 Tutorial on  Rights Management for Research Data Management,
   Sharing, and Preservation
 year: 2021

@@ -15,7 +15,7 @@ creators:
 - Laurel Provencher
 - Swapnil Bhatia
 - Sean Mihm
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128326/bitstreams/429017/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -35,6 +35,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121661
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A STORAGE AND SEARCH DEMONSTRATION WITH DNA-ENCODED TEXT
 year: 2023
 ---

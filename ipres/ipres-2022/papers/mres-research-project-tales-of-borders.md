@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Hannah Wood
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/ervqn/
 source_name: iPRES:osf:cp2ev
 stream_url: https://youtu.be/yQ_jEapgpjk?t=5
+submission_url: null
 title: mRes research project Tales of Borders
 year: 2022
 ---

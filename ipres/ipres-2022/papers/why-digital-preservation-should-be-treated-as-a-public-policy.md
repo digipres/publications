@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Wellington da Silva
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/6jfe2/
 source_name: iPRES:osf:2ma4e
 stream_url: https://youtu.be/eW6PsVnyI2k?t=4052
+submission_url: null
 title: Why digital preservation should be treated as a public policy
 year: 2022
 ---

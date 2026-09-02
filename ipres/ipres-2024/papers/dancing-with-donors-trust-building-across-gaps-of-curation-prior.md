@@ -46,6 +46,7 @@ size: null
 slides_url: https://zenodo.org/records/13840343
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/da558afc086a4295b13f278b9880987410c0a5a02d2e45389a2e6e3f23ebcd44
+submission_url: null
 title: 'Dancing with donors: Trust-building across gaps of curation priorities'
 year: 2024
 ---

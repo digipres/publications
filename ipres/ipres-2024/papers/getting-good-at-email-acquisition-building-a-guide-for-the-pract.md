@@ -46,6 +46,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Getting good at email acquisition: Building a guide for the practice'
 year: 2024
 ---

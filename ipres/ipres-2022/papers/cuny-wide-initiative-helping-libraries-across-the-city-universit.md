@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Jessica Webster
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/46uw2/
 source_name: iPRES:osf:yt9ps
 stream_url: https://youtu.be/yQ_jEapgpjk?t=287
+submission_url: null
 title: 'CUNY-wide initiative: helping libraries across the City University of New
   York address digital preservation issues'
 year: 2022

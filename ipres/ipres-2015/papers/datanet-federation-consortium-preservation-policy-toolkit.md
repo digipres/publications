@@ -9,8 +9,8 @@ creators:
 - Reagan Moore
 - Arcot Rajasekar
 - Hao Xu
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429554/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429554/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -28,6 +28,7 @@ size: 761619
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: DataNet Federation Consortium Preservation Policy ToolKit
 year: 2015
 ---

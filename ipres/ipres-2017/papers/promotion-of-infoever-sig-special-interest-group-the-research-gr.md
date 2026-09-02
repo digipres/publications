@@ -13,8 +13,8 @@ creators:
 - Hideo Nojima
 - Shoji Kasahara
 - Kotaro Minato
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931133/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931133/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 22038
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Promotion of InfoEver SIG (Special Interest Group), the Research Group Seeking
   to Establish a Grand Design for Long-Term Preservation of Digital Information in
   the Super Smart Society

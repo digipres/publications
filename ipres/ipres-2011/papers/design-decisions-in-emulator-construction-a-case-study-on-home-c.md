@@ -22,8 +22,8 @@ abstract: 'Preserving software is widely recognized as a far more complex task t
 creators:
 - Mark Guttenbrunner
 - Andreas Rauber
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294242/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294242/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -39,6 +39,7 @@ size: 2225080
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Design Decisions in Emulator Construction: A Case Study on Home Computer Software
   Preservation'
 year: 2011

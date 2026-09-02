@@ -14,8 +14,8 @@ creators:
 - Helen Tibbo
 - Kam Woods
 - Eld Zierau
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429524/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429524/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 29281551
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Proceedings of the 12th International Conference on Digital Preservation
 year: 2015
 ---

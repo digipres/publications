@@ -18,8 +18,8 @@ abstract: 'This presentation will compare and contrast the audio-visual reformat
   their investigations and develop common solutions?'
 creators:
 - Carl Fleischhauer
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294547/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294547/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 3504446
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Audio-Visual Archiving: Comparing Memory Institutions and Commercial Industries'
 year: 2006
 ---

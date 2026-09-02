@@ -8,8 +8,8 @@ creators:
 - Teruhiro Tani
 - Masayuki Uesugi
 - Hideyuki Uesugi
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1080462/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1080462/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -24,6 +24,7 @@ size: 471733
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Development and improvement of image processing scheme for archiving inscription '
 year: 2019
 ---

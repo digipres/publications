@@ -13,7 +13,7 @@ abstract: Computational access is a newly emerging approach to access within the
 creators:
 - Leontien Talboom
 - Jenny Mitcham
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/8kxj7/
 grand_parent: iPRES
 institutions:
@@ -32,6 +32,7 @@ size: null
 slides_url: https://osf.io/download/9jb43/
 source_name: iPRES:osf:y9ajb
 stream_url: https://youtu.be/gakraIFIncg
+submission_url: https://api.zotero.org/groups/5564150/items/K37K8J2G/file
 title: 'Computational Access to Digital Material: Exploring topics around engagement,
   ethics and resources'
 year: 2022

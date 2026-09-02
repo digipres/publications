@@ -15,8 +15,8 @@ abstract: In this paper, we discuss innovations by the Archivematica project as 
 creators:
 - Peter van Garderen
 - Courtney C. Mumma
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293836/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293873/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,17 +38,18 @@ keywords:
 - arrangement
 - description
 - acquisition
-landing_page_url: https://phaidra.univie.ac.at/o:293836
+landing_page_url: https://phaidra.univie.ac.at/o:293873
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2012
 publication_type: paper
-size: 4830411
+size: 4837962
 slides_url: null
 source_name: iPRES
 stream_url: null
-title: The Community­-Driven Evolution of the Archivematica Project
+submission_url: null
+title: The Community­-driven Evolution of the Archivematica Project
 year: 2012
 ---

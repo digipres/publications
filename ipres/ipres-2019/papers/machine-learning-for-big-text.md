@@ -13,8 +13,8 @@ abstract: 'Big datasets can be a rich source of history, yet they pose many chal
 creators:
 - Joanne Kaczmarek
 - Brent West
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1080463/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1080463/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -29,6 +29,7 @@ size: 136749
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Machine Learning For Big Text '
 year: 2019
 ---

@@ -32,6 +32,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Was it all worth it?
 year: 2024
 ---

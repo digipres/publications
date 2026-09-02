@@ -11,7 +11,7 @@ creators:
 - Hoa Luong
 - Mikala Narlock
 - Jon Petters
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/x2bqj/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: https://osf.io/download/xt6wj/
 source_name: iPRES:osf:hmzer
 stream_url: https://youtu.be/vbnLFLtz6wk
+submission_url: https://api.zotero.org/groups/5564150/items/UWNNXUFZ/file
 title: '“We’re all doing the best we can with what we’ve got” : Preservation practices
   of Data Curation Network members'
 year: 2022

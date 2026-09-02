@@ -12,7 +12,7 @@ creators:
 - Victor-Jan Vos
 - Carlijn Keijzer
 - Begoña Sanchez Royo
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128318/bitstreams/429001/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -32,6 +32,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: REVISION-SAFE ARCHIVING AND LICENSE-CONTROLLED ACCESS USING DISTRIBUTED LEDGER
   TECHNOLOGY
 year: 2023

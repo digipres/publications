@@ -20,8 +20,8 @@ creators:
 - Mariana Gouveia
 - João Correia Lopes
 - Cristina Ribeiro
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378093/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378093/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 441625
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'UPBox and DataNotes: a collaborative data management environment for the long
   tail of research data'
 year: 2013

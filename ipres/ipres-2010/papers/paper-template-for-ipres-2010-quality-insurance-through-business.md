@@ -55,8 +55,8 @@ abstract: 'This paper outlines the recent initiative run at CINES,
 creators:
 - Marion MASSOL
 - Olivier ROUCHON
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185502/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185502/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -71,6 +71,7 @@ size: 113414
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'PAPER TEMPLATE FOR IPRES 2010: QUALITY  INSURANCE THROUGH BUSINESS PROCESS  MANAGEMENT
   IN A FRENCH ARCHIVE'
 year: 2010

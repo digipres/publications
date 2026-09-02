@@ -12,8 +12,8 @@ abstract: "This tutorial will prepare participants to use the open-source BitCur
   \n "
 creators:
 - Christopher Lee
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378143/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378143/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -35,6 +35,7 @@ size: 150549
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Acquiring and Processing Born-Digital Data Using the BitCurator Environment
 year: 2014
 ---

@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Blake McDowell
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/9vxgh/
 source_name: iPRES:osf:g5m2z
 stream_url: https://youtu.be/eW6PsVnyI2k?t=2035
+submission_url: null
 title: 'FADGI: Key Accessibility Features for AV Collections'
 year: 2022
 ---

@@ -13,8 +13,8 @@ creators:
 - Janet Delve
 - Antonio Ciuffreda
 - Leo Konstantelos
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294265/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294265/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -30,6 +30,7 @@ size: 475058
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'TOTEM: Trusted Online Technical Environment Metadata - A Long-Term Solution
   for a Relational Database / RDF Ontologies'
 year: 2011

@@ -7,7 +7,7 @@ creators:
 - Katharina Schmid
 - Sharon Healy
 - Helena Byrne
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/v8523/
 grand_parent: iPRES
 institutions:
@@ -26,6 +26,7 @@ size: null
 slides_url: https://osf.io/download/c83yt/
 source_name: iPRES:osf:7jhxk
 stream_url: https://osf.io/download/8ymzv/
+submission_url: https://api.zotero.org/groups/5564150/items/PQC6T3IG/file
 title: Exploring Software, Tools and Methods used in Web Archive Research
 year: 2022
 ---

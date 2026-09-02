@@ -12,7 +12,7 @@ abstract: Journalistic content is a crucial part of history, yet its longevity a
   in authoritarian regimes will be given.
 creators:
 - Lok Hei Lui
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128306/bitstreams/428977/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -33,6 +33,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121669
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'PRESERVING ONLINE JOURNALISTIC CONTENT IN DISRUPTIVE TIMES: The case of collection.news'
 year: 2023
 ---

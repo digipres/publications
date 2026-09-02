@@ -16,8 +16,8 @@ abstract: 'The work addressed in this paper focuses on the preservation of the c
 creators:
 - Ricardo André Pereira Freitas
 - José Carlos Ramalho
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294230/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294230/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -40,6 +40,7 @@ size: 1923260
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'New Dimension in Relational Database Preservation: rising the abstraction
   level'
 year: 2011

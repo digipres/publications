@@ -8,8 +8,8 @@ abstract: A valuable and unique part of library collections, certain types of op
   whole package is uploaded onto a joint server, ensuring bit-level preservation.
 creators:
 - Zdeněk Hruška
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1081729/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1081729/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -24,6 +24,7 @@ size: 117157
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'CD-Ark '
 year: 2019
 ---

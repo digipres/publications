@@ -12,8 +12,8 @@ abstract: 'Collaborative tagging is a way of information collection after the po
   '
 creators:
 - Sun Jing
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424916/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424916/download
 grand_parent: iPRES
 institutions:
 - The Palace Museum
@@ -33,6 +33,7 @@ size: 542664
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: The Design of Collaborative Marking Mode for Museum Collections-Taking "gugong
   minghuaji" as an example
 year: 2021

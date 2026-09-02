@@ -17,8 +17,8 @@ creators:
 - Matthias Hemmje
 - Lars Müller
 - Holger Brocks
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294151/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294151/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 233233
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Embedding Legacy Environments into A Grid-Based Preservation Infrastructure
 year: 2008
 ---

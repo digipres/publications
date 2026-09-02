@@ -22,8 +22,8 @@ creators:
 - Kati Sein
 - Jacob Takema
 - Jack O’sullivan
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424921/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424921/download
 grand_parent: iPRES
 institutions:
 - National Archives of the Netherlands
@@ -47,6 +47,7 @@ size: 214333
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: The Significant Properties Of Spreadsheets
 year: 2021
 ---

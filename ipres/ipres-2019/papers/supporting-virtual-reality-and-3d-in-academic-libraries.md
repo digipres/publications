@@ -20,8 +20,8 @@ creators:
 - Nathan Hall
 - Matt Cook
 - Zack Lischer-Katz
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1080495/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1080495/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -36,6 +36,7 @@ size: 363737
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Supporting Virtual Reality and 3D in Academic Libraries '
 year: 2019
 ---

@@ -10,7 +10,7 @@ creators:
 - Tamara van Zwol
 - Eva van den Hurk – van ‘t Klooster
 - Lotte Wijsman
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/3fr8p/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: https://osf.io/download/a25sb/
 source_name: iPRES:osf:rd7vs
 stream_url: https://youtu.be/2_I4WVG_ANc
+submission_url: https://api.zotero.org/groups/5564150/items/IU4J7A3I/file
 title: 'Preservation Watch: Working Towards A Supra-Organizational Preservation Watch
   Function Within The Dutch Digital Heritage Network'
 year: 2022

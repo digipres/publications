@@ -16,7 +16,7 @@ creators:
 - Divyesh Soni
 - Richard Smith
 - Jonathan Tilbury
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128291/bitstreams/428947/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -36,6 +36,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121665
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'A QUESTION OF CHARACTER: How do we automatically recharacterize data at cloud
   scales?'
 year: 2023

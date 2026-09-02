@@ -20,8 +20,8 @@ abstract: 'Effective digital preservation requires the proper characterization o
   migrations.'
 creators:
 - Stephen L. Abrams
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295042/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295042/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -37,6 +37,7 @@ size: 891666
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Digital Formats and Preservation: Presentation - iPRES 2005 - Göttingen'
 year: 2005
 ---

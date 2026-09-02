@@ -25,8 +25,8 @@ creators:
 - Elisabeth Müller
 - Thomas Bähr
 - Anja von Trosdorf
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:377394/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:377394/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -45,6 +45,7 @@ size: 334794
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Benefits of geographical, organizational and collection factors in digital
   preservation cooperations: The experience of the Goportis consortium'
 year: 2013

@@ -15,8 +15,8 @@ creators:
 - Umar Qasim
 - Sharon Farnel
 - John Huck
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378063/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378063/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 117373
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'TAP: A Tiered Preservation Model for Digital Resources'
 year: 2013
 ---

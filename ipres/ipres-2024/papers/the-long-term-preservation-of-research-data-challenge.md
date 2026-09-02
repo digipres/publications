@@ -37,6 +37,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: The Long-Term Preservation of Research Data Challenge
 year: 2024
 ---

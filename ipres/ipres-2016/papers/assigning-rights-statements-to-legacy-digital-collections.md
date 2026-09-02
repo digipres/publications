@@ -6,8 +6,8 @@ abstract: This poster reports on a project at the University of Miami Libraries 
 creators:
 - Laura Capell
 - Elliot Williams
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502824/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502824/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -22,6 +22,7 @@ size: 105582
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Assigning Rights Statements to Legacy Digital Collections
 year: 2016
 ---

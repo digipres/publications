@@ -28,8 +28,8 @@ creators:
 - Sayeed Choudhury
 - Julie Steffen
 - Robert Hanisch
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294565/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294565/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -45,6 +45,7 @@ size: 2044070
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Digital Data Preservation and Curation: A Collaboration Among Libraries, Publishers,
   and the Virtual Observatory - A pilot project aimed at preserving, curating, and
   enabling access to digital data and associated electronic journals content.'

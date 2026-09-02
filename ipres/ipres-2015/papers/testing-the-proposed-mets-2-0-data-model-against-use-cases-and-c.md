@@ -20,8 +20,8 @@ creators:
 - Andreas Nef
 - Nancy Hoebelheinrich
 - Thomas Habing
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429620/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429620/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -40,6 +40,7 @@ size: 310778
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Testing the Proposed METS 2.0 Data Model against Use Cases and Complementary
   Data Models: Presentations and Community Discussion'
 year: 2015

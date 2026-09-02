@@ -8,8 +8,8 @@ abstract: The use of digital technologies in support of Cultural Heritage missio
   and digital media.
 creators:
 - Ronald J. Murray
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294147/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294147/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -25,6 +25,7 @@ size: 64762
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The FRBR-Theoretic Library: The Role of Conceptual Data Modeling in Cultural
   Heritage Information System Design'
 year: 2008

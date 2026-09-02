@@ -9,8 +9,8 @@ abstract: Digitization workflows for automatic acquisition of image collections 
 creators:
 - Roman Graf
 - Ross King
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378708/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378708/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 163763
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Quality Assurance Tools for Digital Repositories: Poster (Poster) '
 year: 2014
 ---

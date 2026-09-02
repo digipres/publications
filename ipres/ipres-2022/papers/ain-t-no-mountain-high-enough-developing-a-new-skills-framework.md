@@ -9,7 +9,7 @@ abstract: A skilled workforce is essential to successful digital preservation. B
 creators:
 - Sharon McMeekin
 - Amy Currie
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/j83yb/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: https://osf.io/download/8ej2m/
 source_name: iPRES:osf:k6htn
 stream_url: https://youtu.be/n9QRV2kdAx8
+submission_url: https://api.zotero.org/groups/5564150/items/TEJPIZKK/file
 title: 'Ain''t No Mountain High Enough: Developing a New Skills Framework for Digital
   Preservation'
 year: 2022

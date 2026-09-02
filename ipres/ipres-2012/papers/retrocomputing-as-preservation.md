@@ -19,8 +19,8 @@ abstract: This project explores the world of retrocomputing, a constellation of 
 creators:
 - Yuri Takhteyev
 - Quinn DuPont
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294080/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294080/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 572987
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Retrocomputing as Preservation
 year: 2012
 ---

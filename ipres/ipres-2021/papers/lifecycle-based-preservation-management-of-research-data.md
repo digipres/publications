@@ -5,8 +5,8 @@ creators:
 - Yingdong Zhang
 - Yinbing Sun
 - Xiaoying Sun
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424816/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424816/download
 grand_parent: iPRES
 institutions:
 - ShanghaiTech University, Shanghai, China
@@ -22,6 +22,7 @@ size: 341306
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Lifecycle-based Preservation Management of Research Data
 year: 2021
 ---

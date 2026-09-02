@@ -12,8 +12,8 @@ creators:
 - Arif Shaon
 - Brian Matthews
 - Simon Lambert
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294274/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294274/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 477144
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Managing Preservation Networks: Issues of Scale for Scientific Research Assets'
 year: 2011
 ---

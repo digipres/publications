@@ -22,8 +22,8 @@ abstract: 'The web is a virtually infinite information space, and archiving its 
   with archives and libraries.'
 creators:
 - Julien Masanès
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295041/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295041/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -39,6 +39,7 @@ size: 562032
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Web Archiving: a collaborative effort in progress: Presentation - iPRES 2005
   - Göttingen'
 year: 2005

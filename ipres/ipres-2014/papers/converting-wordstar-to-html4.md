@@ -4,8 +4,8 @@ abstract: 'In this paper, we describe the processing and verification work under
 creators:
 - Peter McKinney
 - Jay Gattuso
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378111/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378111/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -27,6 +27,7 @@ size: 715244
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Converting WordStar to HTML4
 year: 2014
 ---

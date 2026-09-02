@@ -4,8 +4,8 @@ abstract: In this poster we will describe how Ex Libris Rosetta serves as a digi
 creators:
 - Adi Alter
 - Ido Peled
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429574/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429574/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -21,6 +21,7 @@ size: 292158
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: An Institutional Digital Repository Backbone
 year: 2015
 ---

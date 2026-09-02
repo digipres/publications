@@ -10,7 +10,7 @@ creators:
 - Michael Popham
 - Jenny Mitcham
 - Paul Wheatley
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128269/bitstreams/428903/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -29,6 +29,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'PROCURING IT SYSTEMS: Thinking about digital preservation from the start'
 year: 2023
 ---

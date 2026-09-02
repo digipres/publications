@@ -18,8 +18,8 @@ creators:
 - Sebastien Peyrard
 - Clement Oury
 - Louise Fauduet
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:292755/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:292755/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 594017
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preservation Is Knowledge: A community-driven preservation approach'
 year: 2012
 ---

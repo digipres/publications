@@ -19,8 +19,8 @@ creators:
 - Jochen Klar
 - Jens Ludwig
 - Heike Neuroth
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931097/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931097/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 285957
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Research Data Management Organiser: A tool to support the planning, implementation
   and organisation of research data management'
 year: 2017

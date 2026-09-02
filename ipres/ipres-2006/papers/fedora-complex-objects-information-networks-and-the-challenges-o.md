@@ -19,8 +19,8 @@ abstract: We are at a point where the scope, definition, and uses of digital lib
   of services to respond to such events.
 creators:
 - Sandy Payette
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294552/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294552/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 319991
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Fedora: Complex Objects, Information Networks, and the Challenges of Digital
   Preservation'
 year: 2006

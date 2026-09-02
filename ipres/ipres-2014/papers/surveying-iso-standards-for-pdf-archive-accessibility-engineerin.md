@@ -12,8 +12,8 @@ abstract: "This workshop provides high-level information on the features, develo
   PDF producer and processor developers in the short and medium term. \n"
 creators:
 - Duff Johnson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378688/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378688/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 184665
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Surveying ISO Standards for PDF: archive, accessibility, engineering, metadata,
   3D data and PDF itself. History, pain points, solutions and the dream.'
 year: 2014

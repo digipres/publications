@@ -10,7 +10,7 @@ creators:
 - Arie Groen
 - Tamara van Zwol
 - Robert Gillesse
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/m38jh/
 grand_parent: iPRES
 institutions:
@@ -30,6 +30,7 @@ size: null
 slides_url: https://osf.io/download/8qjzh/
 source_name: iPRES:osf:6d87g
 stream_url: https://osf.io/download/p4nug/
+submission_url: https://api.zotero.org/groups/5564150/items/KR4YAMAE/file
 title: The CO2 Emissions Of Storage And Use Of Digital Objects And Data
 year: 2022
 ---

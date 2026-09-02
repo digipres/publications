@@ -12,7 +12,7 @@ creators:
 - Luís Faria
 - Miguel Guimarães
 - Miguel Ferreira
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/rz3wy/
 grand_parent: iPRES
 institutions:
@@ -34,6 +34,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:7ebyj
 stream_url: https://youtu.be/eo6lu8hgGnQ
+submission_url: https://api.zotero.org/groups/5564150/items/H76TDUMW/file
 title: Appraisal and Selection on a Long-term Preservation Repository? Can you repeat
   that, please?
 year: 2022

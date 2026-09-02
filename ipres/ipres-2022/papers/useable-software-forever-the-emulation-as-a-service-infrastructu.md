@@ -12,7 +12,7 @@ creators:
 - Seth Anderson
 - Claire Fox
 - Ethan Gates
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/jtsdn/
 grand_parent: iPRES
 institutions:
@@ -33,6 +33,7 @@ size: null
 slides_url: https://osf.io/download/6ez5n/
 source_name: iPRES:osf:ay48c
 stream_url: https://youtu.be/ZPL2u0lfGyY
+submission_url: https://api.zotero.org/groups/5564150/items/HLYBJ4DC/file
 title: Useable Software Forever. The Emulation as a Service Infrastructure (EaaSI)
   Program of Work
 year: 2022

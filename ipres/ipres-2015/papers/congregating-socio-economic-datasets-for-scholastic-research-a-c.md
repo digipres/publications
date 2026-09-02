@@ -13,8 +13,8 @@ abstract: Digital curation initiatives with an intention to preserve the intelle
   have to be overcome.
 creators:
 - K. Rama Patnaik
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429596/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429596/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 477699
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Congregating Socio- Economic Datasets for Scholastic Research: A Case Study
   in IIMB Library'
 year: 2015

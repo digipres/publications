@@ -8,8 +8,8 @@ creators:
 - Oleg Stobbe
 - Thomas Liebetraut
 - Klaus Rechert
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429586/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429586/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -28,6 +28,7 @@ size: 514672
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: '(Re-)publication of Preserved, Interactive Content – Theresa Duncan CD-ROMs:
   Visionary Videogames for Girls'
 year: 2015

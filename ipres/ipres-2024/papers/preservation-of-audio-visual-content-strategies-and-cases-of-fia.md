@@ -49,6 +49,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Preservation of audio-visual content: strategies and cases of FIAT/IFTA community'
 year: 2024
 ---

@@ -57,6 +57,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Emulating the Zenith Z-100 Computer
 year: 2024
 ---

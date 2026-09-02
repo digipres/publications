@@ -9,8 +9,8 @@ abstract: Cloud and data-intensive computing technologies have introduced novel 
   for its realization.
 creators:
 - Rainer Schmidt
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293767/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293767/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 551607
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: An Architectural Overview of the SCAPE Preservation Platform
 year: 2012
 ---

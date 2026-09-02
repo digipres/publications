@@ -7,7 +7,7 @@ abstract: The development of a framework for preservation planning at the Britis
 creators:
 - Michael Day
 - Maureen Pennock
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/4hxgf/
 grand_parent: iPRES
 institutions:
@@ -26,6 +26,7 @@ size: null
 slides_url: https://osf.io/download/2d45n/
 source_name: iPRES:osf:zk5qd
 stream_url: https://osf.io/download/pnuz8/
+submission_url: https://api.zotero.org/groups/5564150/items/8ZAP6YNU/file
 title: Towards a Collections Model for Preservation Planning at the British Library
 year: 2022
 ---

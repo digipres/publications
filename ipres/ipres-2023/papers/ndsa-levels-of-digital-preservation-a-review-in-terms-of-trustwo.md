@@ -23,7 +23,7 @@ abstract: Records created in organizations that have archival value should be pr
   preserving the records that have archival value.
 creators:
 - Özhan Sağlık
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128293/bitstreams/428951/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -42,6 +42,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121652
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'NDSA LEVELS OF DIGITAL PRESERVATION: A REVIEW IN TERMS OF TRUSTWORTHINESS
   OF DIGITAL RECORDS'
 year: 2023

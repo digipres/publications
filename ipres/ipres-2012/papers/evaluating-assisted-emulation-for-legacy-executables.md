@@ -19,8 +19,8 @@ creators:
 - Geoffrey Brown
 - Kevin Cornelius
 - Gavin Whelan
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293866/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293866/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 774259
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Evaluating Assisted Emulation for Legacy Executables
 year: 2012
 ---

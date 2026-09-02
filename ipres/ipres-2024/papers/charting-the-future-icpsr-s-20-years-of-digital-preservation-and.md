@@ -64,6 +64,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Charting the Future: ICPSR''s 20+ Years of Digital Preservation and Beyond'
 year: 2024
 ---

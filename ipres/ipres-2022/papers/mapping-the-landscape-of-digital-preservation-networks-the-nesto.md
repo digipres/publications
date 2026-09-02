@@ -13,15 +13,15 @@ creators:
 - Monika Zarnitz
 - Thomas Bähr
 - Stefan Strathmann
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/s5mch/
 grand_parent: iPRES
 institutions:
 - Tib - German National Library Of Science And Technology
 keywords:
 - networks
-- digital<br />preservation communities
-- survey<br />
+- digital preservation communities
+- survey
 landing_page_url: https://osf.io/83m79/
 language: eng
 layout: publication
@@ -33,6 +33,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:83m79
 stream_url: https://youtu.be/7Gn5doaCkeU
+submission_url: https://api.zotero.org/groups/5564150/items/KC5JVTD6/file
 title: 'Mapping the landscape of digital preservation networks: The nestor Digital
   Preservation Community survey'
 year: 2022

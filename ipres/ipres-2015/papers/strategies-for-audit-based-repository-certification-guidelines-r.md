@@ -7,8 +7,8 @@ abstract: In this poster, we present the current status, lessons learned, and be
   approach of evaluation.
 creators:
 - Jessica Tieman
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429608/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429608/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 87386
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Strategies for Audit-Based Repository Certification: Guidelines, Resources,
   and Tools to Prepare, Organize, and Evaluate Criteria Evidence'
 year: 2015

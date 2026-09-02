@@ -28,8 +28,8 @@ creators:
 - William Palmer
 - Peter May
 - Peter Cliff
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:377377/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:377377/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -52,6 +52,7 @@ size: 939049
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: An Analysis of Contemporary JPEG2000 Codecs for Image Format Migration
 year: 2013
 ---

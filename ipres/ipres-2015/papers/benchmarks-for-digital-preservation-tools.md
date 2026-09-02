@@ -27,8 +27,8 @@ creators:
 - Artur Kulmukhametov
 - Andreas Rauber
 - Christoph Becker
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429547/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429547/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -46,6 +46,7 @@ size: 267974
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Benchmarks for Digital Preservation Tools
 year: 2015
 ---

@@ -48,6 +48,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'The European Commission''s eArchiving Initiative: E-ARK Specifications, Validation
   Tools, Conformance, and Related Activities'
 year: 2024

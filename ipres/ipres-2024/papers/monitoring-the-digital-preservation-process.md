@@ -36,6 +36,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Monitoring the digital preservation process
 year: 2024
 ---

@@ -6,8 +6,8 @@ abstract: HydraDAM2, a digital preservation repository project being developed t
 creators:
 - Heidi Dowding
 - Michael Muraszko
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502818/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502818/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -22,6 +22,7 @@ size: 144307
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: HydraDAM2
 year: 2016
 ---

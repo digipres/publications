@@ -9,7 +9,7 @@ abstract: This paper reports on the results from a qualitative study that asks w
   lack of objective evaluation criteria.
 creators:
 - Rebecca D. Frank
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128290/bitstreams/428945/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -30,6 +30,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121653
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: REPOSITORY STAFF PERSPECTIVES ON THE BENEFITS OF TRUSTWORTHY DIGITAL REPOSITORY
   CERTIFICATION
 year: 2023

@@ -11,7 +11,7 @@ creators:
 - Elizabeth Holdzkom
 - Camille Salas
 - Lauren Seroka
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/wrgca/
 grand_parent: iPRES
 institutions:
@@ -32,6 +32,7 @@ size: null
 slides_url: https://osf.io/download/69pjx/
 source_name: iPRES:osf:p73yb
 stream_url: https://osf.io/download/mbxpw/
+submission_url: https://api.zotero.org/groups/5564150/items/3JHQJJZ7/file
 title: Creating Workflows to Scale Out Large Open Access E-book Acquisitions at the
   Library of Congress
 year: 2022

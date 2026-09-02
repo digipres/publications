@@ -39,8 +39,8 @@ abstract: 'Because of the historical value of email in the late 20th
 creators:
 - Andrea Goethals
 - Wendy Gogel
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185428/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185428/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -55,6 +55,7 @@ size: 168685
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'RESHAPING THE REPOSITORY: THE CHALLENGE OF  EMAIL ARCHIVING'
 year: 2010
 ---

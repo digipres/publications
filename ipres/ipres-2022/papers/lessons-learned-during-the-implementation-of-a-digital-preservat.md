@@ -15,7 +15,7 @@ creators:
 - Mui Ho
 - Driek Heesakkers
 - Teo Redondo
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/y5eht/
 grand_parent: iPRES
 institutions:
@@ -35,6 +35,7 @@ size: null
 slides_url: https://osf.io/download/74kbu/
 source_name: iPRES:osf:8adfx
 stream_url: https://youtu.be/ahP8d7I4EF0
+submission_url: https://api.zotero.org/groups/5564150/items/QYLRLZYX/file
 title: 'Lessons Learned During the Implementation of a Digital Preservation Project:
   Experiences from Europe, USA, and Asia'
 year: 2022

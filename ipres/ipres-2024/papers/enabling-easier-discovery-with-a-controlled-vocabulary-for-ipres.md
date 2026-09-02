@@ -50,6 +50,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Enabling easier discovery with a controlled vocabulary for iPRES papers
 year: 2024
 ---

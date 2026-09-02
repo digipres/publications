@@ -9,8 +9,8 @@ creators:
 - J.S. Love
 - Yan Wang
 - Esther Plomp
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1081735/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1081735/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -25,6 +25,7 @@ size: 233245
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Data Stewards and Digital Preservation in Everyday Research Practice '
 year: 2019
 ---

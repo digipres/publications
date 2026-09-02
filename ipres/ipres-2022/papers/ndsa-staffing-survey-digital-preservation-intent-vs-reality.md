@@ -12,7 +12,7 @@ creators:
 - Sharon McMeekin
 - Shira Peltzman
 - Juana Suárez
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/wck2m/
 grand_parent: iPRES
 institutions:
@@ -22,7 +22,7 @@ keywords:
 - organization
 - resources
 - skills
-- training<br />
+- training
 landing_page_url: https://osf.io/856tk/
 language: eng
 layout: publication
@@ -34,6 +34,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:856tk
 stream_url: https://youtu.be/U3miZJ_SxD8
+submission_url: https://api.zotero.org/groups/5564150/items/SV3EC78Q/file
 title: 'NDSA Staffing Survey: Digital Preservation Intent vs Reality'
 year: 2022
 ---

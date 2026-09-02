@@ -13,8 +13,8 @@ abstract: 'Through 2015-2016, the University of Melbourne is set to achieve the 
   this vision will support the University’s functions, accountability, and legacy.'
 creators:
 - Jaye Weatherburn
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:502902/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:502902/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -29,6 +29,7 @@ size: 138167
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Establishing Digital Preservation At the University of Melbourne
 year: 2016
 ---

@@ -11,8 +11,8 @@ abstract: This paper describes some of the challenges the National Library of Ne
 creators:
 - Jessica Moran
 - Jay Gattuso
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429555/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429555/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 560666
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Beyond the Binary: Pre-Ingest Preservation of Metadata'
 year: 2015
 ---

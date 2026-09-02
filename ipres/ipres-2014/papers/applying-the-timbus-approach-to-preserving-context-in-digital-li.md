@@ -26,8 +26,8 @@ abstract: "To date, digital preservation has generally focused on the preservati
 creators:
 - Carlos Coutinho
 - Paul Gooding
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378687/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378687/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -42,6 +42,7 @@ size: 146965
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Applying the TIMBUS Approach to Preserving Context in Digital Libraries
 year: 2014
 ---

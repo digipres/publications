@@ -12,7 +12,7 @@ abstract: 'According to Gilman (1917), food problem is related to three question
   food security'
 creators:
 - Maureen Kenga
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128264/bitstreams/428893/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -30,6 +30,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'DIGITAL ACCESSIBILITY, INCLUSION AND DIVERSITY: Digitization of Indigenous
   Agricultural Knowledge in Shaping Food Security across the Kenyan Coastal Region'
 year: 2023

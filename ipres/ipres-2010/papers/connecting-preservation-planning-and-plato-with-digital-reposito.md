@@ -60,8 +60,8 @@ creators:
 - Hannes Kulovits
 - David Tarrant
 - Les Carr
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185510/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185510/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -76,6 +76,7 @@ size: 745335
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: CONNECTING PRESERVATION PLANNING AND PLATO WITH  DIGITAL REPOSITORY INTERFACES
 year: 2010
 ---

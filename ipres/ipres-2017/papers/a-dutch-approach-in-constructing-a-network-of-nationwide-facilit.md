@@ -26,8 +26,8 @@ abstract: 'Cross-domain collaboration lies at the heart of approach of the Dutch
 creators:
 - Joost van der Nat
 - Marcel Ras
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931105/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931105/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -43,6 +43,7 @@ size: 945272
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Dutch approach in constructing a network of nationwide facilities for digital
   preservation together
 year: 2017

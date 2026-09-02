@@ -20,7 +20,7 @@ creators:
 - Jimi Jones
 - Robyn Bianconi
 - Liam Moran
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128279/bitstreams/428923/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -39,6 +39,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121656
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'THE CURRICULAR ASSET WAREHOUSE AT THE UNIVERSITY OF ILLINOIS: A Digital Archive’s
   Sustainability Case Study'
 year: 2023

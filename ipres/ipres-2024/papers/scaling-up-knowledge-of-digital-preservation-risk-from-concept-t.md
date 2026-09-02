@@ -33,6 +33,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: '''Scaling up'' knowledge of Digital Preservation Risk: From Concept to Reference
   Model and Risk Assessment with CHARM'
 year: 2024

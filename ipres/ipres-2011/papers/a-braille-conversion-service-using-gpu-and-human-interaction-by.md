@@ -17,8 +17,8 @@ abstract: Scalable systems and services for preserving digital content became im
 creators:
 - Roman Graf
 - Reinhold Huber-Mörk
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294245/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294245/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -40,6 +40,7 @@ size: 743898
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Braille Conversion Service Using GPU and Human Interaction by Computer Vision
 year: 2011
 ---

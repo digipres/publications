@@ -16,7 +16,7 @@ creators:
 - Corey Cherrington
 - Tara Disher
 - Jin Lee
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/ahegt/
 grand_parent: iPRES
 institutions:
@@ -36,6 +36,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:5xkv4
 stream_url: https://youtu.be/9JuQ7-Mf9AQ
+submission_url: https://api.zotero.org/groups/5564150/items/YITBSPMP/file
 title: 'Evaluating a Taxonomy for Video Game Development Artifacts: Archival Taxonomies
   in Highly Innovative Domains'
 year: 2022

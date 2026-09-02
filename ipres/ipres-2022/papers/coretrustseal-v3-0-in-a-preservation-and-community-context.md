@@ -9,7 +9,7 @@ creators:
 - Jonathan Crabtree
 - Ingrid Dillo
 - Hervé L'Hours
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/hzyfm/
 grand_parent: iPRES
 institutions:
@@ -29,6 +29,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:kd932
 stream_url: https://youtu.be/jmdVAJcCS9U
+submission_url: https://api.zotero.org/groups/5564150/items/ASYEZ877/file
 title: CoreTrustSeal v3.0 In a Preservation and Community Context
 year: 2022
 ---

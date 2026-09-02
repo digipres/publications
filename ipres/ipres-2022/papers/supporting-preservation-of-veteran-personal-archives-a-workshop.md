@@ -7,7 +7,7 @@ abstract: 'This poster will introduce participants to the Virtual Footlocker Pro
 creators:
 - Edward Benoit
 - Allan Martell
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/uw8me/
 grand_parent: iPRES
 institutions:
@@ -26,6 +26,7 @@ size: null
 slides_url: https://osf.io/download/3wgyd/
 source_name: iPRES:osf:rkfjy
 stream_url: https://osf.io/download/x9t4n/
+submission_url: https://api.zotero.org/groups/5564150/items/B5DFSMNN/file
 title: 'Supporting Preservation of Veteran Personal Archives: A Workshop on the Use
   of the Virtual Footlocker Project Curriculum'
 year: 2022

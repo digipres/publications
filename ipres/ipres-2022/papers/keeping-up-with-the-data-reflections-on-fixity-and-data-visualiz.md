@@ -11,7 +11,7 @@ abstract: 'Seeking to use data to drive decision-making in real-time, organizati
   management professionals. '
 creators:
 - Angela Beking
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/eka9p/
 grand_parent: iPRES
 institutions:
@@ -29,6 +29,7 @@ size: null
 slides_url: https://osf.io/download/2srfk/
 source_name: iPRES:osf:xsug8
 stream_url: https://osf.io/download/57rj3/
+submission_url: https://api.zotero.org/groups/5564150/items/BAREE9UK/file
 title: 'Keeping Up With the Data: Reflections on Fixity and Data Visualizations'
 year: 2022
 ---

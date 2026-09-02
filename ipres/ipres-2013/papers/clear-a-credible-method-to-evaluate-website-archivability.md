@@ -19,8 +19,8 @@ creators:
 - Yunhyong Kim
 - Seamus Ross
 - Yannis Manolopoulos
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:377397/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:377397/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -39,6 +39,7 @@ size: 303994
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'CLEAR: a credible method to evaluate website archivability'
 year: 2013
 ---

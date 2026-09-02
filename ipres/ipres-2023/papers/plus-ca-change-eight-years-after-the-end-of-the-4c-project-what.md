@@ -7,7 +7,7 @@ abstract: – A poster describing the functionality of the Curations Costs Excha
 creators:
 - Paul Stokes
 - Sarah Middleton
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128271/bitstreams/428907/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -28,6 +28,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'PLUS ÇA CHANGE…?: Eight years after the end of the 4C project, what next for
   the Curation Costs Exchange?'
 year: 2023

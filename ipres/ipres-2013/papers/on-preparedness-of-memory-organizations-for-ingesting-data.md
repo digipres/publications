@@ -18,8 +18,8 @@ creators:
 - Heikki Helin
 - Kimmo Koivunen
 - Kuisma Lehtonen
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378049/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378049/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -39,6 +39,7 @@ size: 470164
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: On Preparedness of Memory Organizations for Ingesting Data
 year: 2013
 ---

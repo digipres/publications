@@ -12,8 +12,8 @@ abstract: This session will outline the workflow associated with migrating socia
 creators:
 - David Gewirtz
 - Gretchen Gano
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294856/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294856/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 108365
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Towards A Preservation Content Model for Numeric Data Collections: PREMIS
   and FEDORA'
 year: 2006

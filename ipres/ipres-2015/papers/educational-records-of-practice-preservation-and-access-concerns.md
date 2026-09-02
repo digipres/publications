@@ -11,8 +11,8 @@ creators:
 - Elizabeth Yakel
 - Rebecca Frank
 - Kara Suzuka
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429567/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429567/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 551619
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Educational Records of Practice: Preservation and Access Concerns'
 year: 2015
 ---

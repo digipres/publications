@@ -6,7 +6,7 @@ abstract: Jisc are considering implementing a Dynamic Purchasing system for memb
 creators:
 - Paul Stokes
 - Karen Colbron
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128266/bitstreams/428895/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -25,6 +25,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'THE WHAT, WHY AND HOW OF A DIGITAL PRESERVATION DPS: The process by which
   a Dynamic Purchasing System for Digital Preservation service may (or may not) be
   adopted'

@@ -10,8 +10,8 @@ abstract: 'This demonstration proposal describes the Curation Cost Exchange plat
 creators:
 - Luis Faria
 - Neil Grindley
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378719/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378719/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 372195
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'POSTERS & DEMONSTRATIONS - (Poster) Curation Cost Exchange platform: Demonstration
   (Poster) '
 year: 2014

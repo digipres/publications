@@ -13,7 +13,7 @@ abstract: The Dutch Digital Heritage Network (DDHN) wants to improve the monitor
   research that is required.
 creators:
 - Sam Alloing
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128320/bitstreams/429005/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -34,6 +34,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121657
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'MONITORING FILE FORMAT OBSOLESCENCE IN REPOSITORIES: An applied method'
 year: 2023
 ---

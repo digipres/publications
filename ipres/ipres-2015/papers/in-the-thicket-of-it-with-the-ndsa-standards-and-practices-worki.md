@@ -25,8 +25,8 @@ creators:
 - Kate Murray
 - Michelle Paolillo
 - Mariella Soprano
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429577/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429577/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -47,6 +47,7 @@ size: 452440
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'In the Thicket of It with the NDSA Standards and Practices Working Group:
   Cultivating Grass Roots Approaches to Real-World Digital Preservation Issues'
 year: 2015

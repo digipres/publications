@@ -2,8 +2,8 @@
 abstract: null
 creators:
 - OSMAN SERHAT KARAMAN
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424815/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424815/download
 grand_parent: iPRES
 institutions:
 - Sabancı University Sakıp Sabancı Museum,Istanbul,Turkey
@@ -19,6 +19,7 @@ size: 78029
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Preserving Immersive Media
 year: 2021
 ---

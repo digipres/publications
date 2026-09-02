@@ -18,7 +18,7 @@ abstract: While performing their primary functions as research and education, un
   the evaluation of digital preservation practices in universities.
 creators:
 - Özhan Sağlık
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/a2x8v/
 grand_parent: iPRES
 institutions:
@@ -38,6 +38,7 @@ size: null
 slides_url: https://osf.io/download/sv5p8/
 source_name: iPRES:osf:wbu5g
 stream_url: https://osf.io/download/tjw36/
+submission_url: https://api.zotero.org/groups/5564150/items/QUCL4WLE/file
 title: 'Digital Preservation Capabilities of Universities: Survey in the Light of
   DPC RAM'
 year: 2022

@@ -9,7 +9,7 @@ abstract: Over the last three years, The National Archives (UK) and the Digital 
 creators:
 - Sharon McMeekin
 - Melinda Haunton
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128303/bitstreams/428971/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -29,6 +29,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121683
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'RUNNING UP THAT HILL: Making Digital Preservation Skills Accessible with Novice
   to Know-How'
 year: 2023

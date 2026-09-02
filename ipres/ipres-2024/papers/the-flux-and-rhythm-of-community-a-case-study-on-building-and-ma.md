@@ -28,6 +28,7 @@ size: null
 slides_url: https://zenodo.org/records/13769667
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/37e24c918bf84b0fad25a0836ae00456572f987242854f37936d92e33fe9f149
+submission_url: null
 title: 'The flux and rhythm of community: A case study on building and maintaining
   a community of practice'
 year: 2024

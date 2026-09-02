@@ -21,8 +21,8 @@ creators:
 - Diogo Proença
 - José Borbinha
 - Ricardo Vieira
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503178/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503178/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -37,6 +37,7 @@ size: 741831
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Towards a Systematic Information Governance Maturity Assessment
 year: 2016
 ---

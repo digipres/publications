@@ -19,8 +19,8 @@ creators:
 - Thomas Ledoux
 - Stéphane Reecht
 - Jean-Philippe Tramoni
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429538/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429538/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 995512
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Experiment, Document & Decide: a Collaborative Approach to Preservation Planning
   at the BnF'
 year: 2015

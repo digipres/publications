@@ -16,7 +16,7 @@ abstract: While New York University Libraries has a long history of and commitme
 creators:
 - Laura McCann
 - Weatherly A. Stephan
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128309/bitstreams/428983/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -37,6 +37,7 @@ size: null
 slides_url: https://hdl.handle.net/2142/121599
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'FROM SILOS TO COMMUNITY: The Path to a Holistic Digital Preservation Policy'
 year: 2023
 ---

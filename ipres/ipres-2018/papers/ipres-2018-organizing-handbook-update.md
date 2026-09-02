@@ -3,8 +3,8 @@ abstract: This is the iPres 2018 Organizing team's installment of the iPres Conf
   Organizing Handbook
 creators:
 - Nance McGovern
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923680/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923680/download
 grand_parent: iPRES
 institutions:
 - University of Vienna
@@ -21,6 +21,7 @@ size: 291853
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: iPres 2018 Organizing Handbook update
 year: 2018
 ---

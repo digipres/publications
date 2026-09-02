@@ -8,7 +8,7 @@ abstract: Bit rot and technical obsolescence are threatening the ability to read
 creators:
 - Robin François
 - Rebecca Rochat
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/em86v/
 grand_parent: iPRES
 institutions:
@@ -30,6 +30,7 @@ size: null
 slides_url: https://osf.io/download/3wcu9/
 source_name: iPRES:osf:a56s9
 stream_url: https://youtu.be/4zCWIQxzeOM
+submission_url: https://api.zotero.org/groups/5564150/items/EI5P7RDR/file
 title: Digital Preservation Pipeline for Data Storage Media At The Cinémathèque Suisse
 year: 2022
 ---

@@ -1,5 +1,5 @@
 ---
-abstract: 'This poster describes the actions, progress and research results of the
+abstract: ' This poster describes the actions, progress and research results of the
   Presto4U project, an EC funded two year coordination and support action which started
   in January 2013 focussing on the long term preservation of digital audiovisual media
   within a diverse range of Communities of Practice. The aim of the project is to
@@ -12,8 +12,8 @@ abstract: 'This poster describes the actions, progress and research results of t
   as sustainable tools and services.'
 creators:
 - Jacqui Gupta
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378705/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378706/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -23,18 +23,19 @@ keywords:
 - digital preservation marketplace
 - preservation tools
 - best practice
-landing_page_url: https://phaidra.univie.ac.at/o:378705
+landing_page_url: https://phaidra.univie.ac.at/o:378706
 language: eng
 layout: publication
 license: CC BY-NC-SA 3.0 AT
 notes_url: null
 parent: iPRES 2014
 publication_type: poster
-size: 70532
+size: 244109
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Presto4U- European Technology for Digital Audiovisual Media Preservation:
-  Poster (Text) '
+  Poster (Poster) '
 year: 2014
 ---

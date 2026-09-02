@@ -8,8 +8,8 @@ creators:
 - Martin Halbert
 - Katherine Skinner
 - Matt Schultz
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294074/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294074/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -42,6 +42,7 @@ size: 606825
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preserving Electronic Theses and Dissertations: Findings of the Lifecycle
   Management for ETDs Project'
 year: 2012

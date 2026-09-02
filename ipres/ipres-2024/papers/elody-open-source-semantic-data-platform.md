@@ -45,6 +45,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/3c14f516b3bb42e6808a7c66fd54429b36d34b3d55634a3fb48a382b6aaa18f0
+submission_url: null
 title: Elody - Open Source Semantic Data Platform
 year: 2024
 ---

@@ -52,6 +52,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: FRiPres 2024 - A french speaking chapter for iPres
 year: 2024
 ---

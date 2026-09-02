@@ -9,8 +9,8 @@ creators:
 - Tim Au Yeung
 - Saul Greenberg
 - Sheelagh Carpendale
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294099/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294099/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -26,6 +26,7 @@ size: 65143
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Preservation of Art in the Digital Realm
 year: 2008
 ---

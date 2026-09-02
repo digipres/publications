@@ -19,8 +19,8 @@ abstract: This paper explores the purpose and development of best practice guide
 creators:
 - Rebecca Guenther
 - Robert Wolfe
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293897/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293897/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 798402
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Integrating Metadata Standards to Support Long-Term Preservation of Digital
   Assets: Developing Best Practices for Expressing Preservation Metadata in a Container
   Format'

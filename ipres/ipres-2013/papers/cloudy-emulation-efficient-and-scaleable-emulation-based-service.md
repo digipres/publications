@@ -17,8 +17,8 @@ creators:
 - Dennis Wehrle
 - Dirk von Suchodoletz
 - Leander Sabel
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:377398/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:377398/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 2016768
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Cloudy Emulation – Efficient and Scaleable Emulation-based Services
 year: 2013
 ---

@@ -47,6 +47,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: First steps into command line tools for preservation
 year: 2024
 ---

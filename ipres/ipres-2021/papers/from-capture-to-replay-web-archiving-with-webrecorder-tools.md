@@ -45,8 +45,8 @@ creators:
 - Lorena Ramirez-Lopez
 - Ilya Kreymer
 - Emma Dickson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424942/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424942/download
 grand_parent: iPRES
 institutions:
 - webrecorder
@@ -72,6 +72,7 @@ size: 43897
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'From capture to replay: Web Archiving with webrecorder tools'
 year: 2021
 ---

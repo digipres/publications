@@ -16,8 +16,8 @@ creators:
 - Ben O’Steen
 - Adrian Brown
 - David Tarrant
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294148/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294148/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 166395
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Towards smart storage for repository preservation services
 year: 2008
 ---

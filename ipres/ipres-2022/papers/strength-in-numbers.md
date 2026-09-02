@@ -6,7 +6,7 @@ abstract: Building a community of practice was a key driver for the establishmen
 creators:
 - Laura Peaurt
 - Rachel MacGregor
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/zx257/
 grand_parent: iPRES
 institutions:
@@ -27,6 +27,7 @@ size: null
 slides_url: https://osf.io/download/k48uj/
 source_name: iPRES:osf:6crv3
 stream_url: https://osf.io/download/4td6g/
+submission_url: https://api.zotero.org/groups/5564150/items/2SPESI2Y/file
 title: Strength in Numbers
 year: 2022
 ---

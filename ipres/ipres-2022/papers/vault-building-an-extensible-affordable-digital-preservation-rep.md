@@ -16,7 +16,7 @@ abstract: 'Since 1996, the Internet Archive (IA) has provided storage, preservat
   aims to address. '
 creators:
 - Jefferson Bailey
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/fzh49/
 grand_parent: iPRES
 institutions:
@@ -37,6 +37,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:8tj6e
 stream_url: https://youtu.be/0v9ob_amD1k
+submission_url: https://api.zotero.org/groups/5564150/items/6QYVGB3C/file
 title: 'Vault: Building an Extensible, Affordable Digital Preservation & Repository
   Service'
 year: 2022

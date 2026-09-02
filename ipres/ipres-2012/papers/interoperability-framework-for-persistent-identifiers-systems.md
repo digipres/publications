@@ -16,8 +16,8 @@ creators:
 - Emanuele Bellini
 - Paolo Bouquet
 - Chiara Cirinna
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293678/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293678/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 602166
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Interoperability Framework for Persistent Identifiers systems
 year: 2012
 ---

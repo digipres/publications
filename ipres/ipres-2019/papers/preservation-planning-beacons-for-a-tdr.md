@@ -8,8 +8,8 @@ abstract: In order to preserve digital objects for the long term repositories ne
   Plan, as has been implemented in practice.
 creators:
 - Marjolein Steeman
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1080499/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1080499/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -24,6 +24,7 @@ size: 320069
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Preservation Planning, Beacons for a TDR '
 year: 2019
 ---

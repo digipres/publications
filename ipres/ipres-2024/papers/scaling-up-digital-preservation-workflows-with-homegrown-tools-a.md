@@ -37,6 +37,7 @@ size: null
 slides_url: https://zenodo.org/records/13778020
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/2ab4cdf39c204bddb28d6e6bb4f76afce407e1e298844e28aabaecca60f0fa85
+submission_url: null
 title: Scaling Up Digital Preservation Workflows With Homegrown Tools and Automation
 year: 2024
 ---

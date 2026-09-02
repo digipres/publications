@@ -21,8 +21,8 @@ creators:
 - Marieke Guy
 - John O’Brien
 - Martin Hawksey
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:245904/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:245904/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 505033
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'TWITTER ARCHIVING USING TWAPPER KEEPER: TECHNICAL AND POLICY CHALLENGES'
 year: 2010
 ---

@@ -7,8 +7,8 @@ abstract: The digital preservation function in an academic research library is c
 creators:
 - Donald Brower
 - Helen Hockx-Yu
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1080459/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1080459/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -23,6 +23,7 @@ size: 201374
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Building Sustainable Digital Preservation '
 year: 2019
 ---

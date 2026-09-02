@@ -57,6 +57,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Preserving digital news by partnering with newspapers and their platforms
 year: 2024
 ---

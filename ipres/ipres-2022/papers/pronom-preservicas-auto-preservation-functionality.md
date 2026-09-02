@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - David Clipsham
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/3xp79/
 source_name: iPRES:osf:ehj5y
 stream_url: https://youtu.be/eW6PsVnyI2k?t=4522
+submission_url: null
 title: PRONOM & Preservica’s Auto-Preservation functionality
 year: 2022
 ---

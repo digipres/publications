@@ -11,8 +11,8 @@ creators:
 - Max Mühlhäuser
 - Daniel Schumann
 - Arsene Botchak
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294183/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294183/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -28,6 +28,7 @@ size: 79292
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Logic-Based Approach to the Formal Specification of Data Formats
 year: 2008
 ---

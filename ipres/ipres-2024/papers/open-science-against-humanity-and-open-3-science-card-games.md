@@ -49,6 +49,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Open Science Against Humanity and Open <3 Science Card Games
 year: 2024
 ---

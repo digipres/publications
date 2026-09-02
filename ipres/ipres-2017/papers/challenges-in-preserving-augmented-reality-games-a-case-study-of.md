@@ -17,8 +17,8 @@ creators:
 - Jin Ha Lee
 - Stephen Keating
 - Travis Windleharth
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931107/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931107/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 150255
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Challenges in Preserving Augmented Reality Games: A Case Study of Ingress
   and Pokémon GO'
 year: 2017

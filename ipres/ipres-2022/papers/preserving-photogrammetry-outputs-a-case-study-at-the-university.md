@@ -7,7 +7,7 @@ abstract: Photogrammetry – taking overlapping photographs of an object and con
   practice, lessons learned, and potential future steps.
 creators:
 - Sean Rippington
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/6h7bp/
 grand_parent: iPRES
 institutions:
@@ -27,6 +27,7 @@ size: null
 slides_url: https://osf.io/download/sgn45/
 source_name: iPRES:osf:uswx6
 stream_url: https://osf.io/download/q6wus/
+submission_url: https://api.zotero.org/groups/5564150/items/HC6NBDAQ/file
 title: 'Preserving Photogrammetry Outputs: A case study at the University of St Andrews
   Libraries and Museums'
 year: 2022

@@ -9,8 +9,8 @@ creators:
 - Michael Smorul
 - Michael Burek
 - Don Sutton
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293999/download
+date: 2009-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293999/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -26,6 +26,7 @@ size: 789038
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Chronopolis: Preserving our Digital Heritage'
 year: 2009
 ---

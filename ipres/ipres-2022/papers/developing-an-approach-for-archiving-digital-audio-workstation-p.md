@@ -15,7 +15,7 @@ abstract: This paper concerns a current pilot study relating to contemporary pop
 creators:
 - Michael Brown
 - Valerie Love
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/kdu5c/
 grand_parent: iPRES
 institutions:
@@ -34,6 +34,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:hncft
 stream_url: https://osf.io/download/dtm53/
+submission_url: https://api.zotero.org/groups/5564150/items/K8XPBFGQ/file
 title: 'Developing an approach for archiving Digital Audio Workstation projects: A
   pilot study'
 year: 2022

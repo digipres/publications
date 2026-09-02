@@ -16,7 +16,7 @@ creators:
 - Thib Guicherd-Callin
 - Scott Witmer
 - Angela T. Spinazzè
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128270/bitstreams/428905/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -35,6 +35,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'EMBEDDING PRESERVABILITY: IFRAMES IN COMPLEX SCHOLARLY PUBLICATIONS'
 year: 2023
 ---

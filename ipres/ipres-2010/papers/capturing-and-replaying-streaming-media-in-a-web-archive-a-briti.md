@@ -35,8 +35,8 @@ creators:
 - Stephen Johnson
 - Lewis Crawford
 - Roger Coram
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185468/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185468/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -51,6 +51,7 @@ size: 648905
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: CAPTURING AND REPLAYING STREAMING MEDIA IN A  WEB ARCHIVE – A BRITISH LIBRARY
   CASE STUDY
 year: 2010

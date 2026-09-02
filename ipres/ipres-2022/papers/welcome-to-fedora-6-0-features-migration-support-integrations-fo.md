@@ -13,7 +13,7 @@ abstract: In July, 2021, the long-awaited Fedora 6.0 was released. This workshop
 creators:
 - Arran Griffith
 - Daniel Bernstein
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/t3q5a/
 grand_parent: iPRES
 institutions:
@@ -34,6 +34,7 @@ size: null
 slides_url: https://osf.io/download/x2vc3/
 source_name: iPRES:osf:s7ka4
 stream_url: null
+submission_url: https://api.zotero.org/groups/5564150/items/N2UQFUQW/file
 title: 'Welcome to Fedora 6.0: Features, Migration Support & Integrations for Community
   Use Cases'
 year: 2022

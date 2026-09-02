@@ -56,8 +56,8 @@ creators:
 - Shane Beers
 - Jeremy York
 - Andrew Mardesich
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185242/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185242/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -72,6 +72,7 @@ size: 170982
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: ADDING NEW CONTENT TYPES TO A LARGE-SCALE  SHARED DIGITAL REPOSITORY
 year: 2010
 ---

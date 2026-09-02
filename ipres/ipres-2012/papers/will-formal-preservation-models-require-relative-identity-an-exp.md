@@ -28,8 +28,8 @@ creators:
 - Simone Sacchi
 - Karen M. Wickett
 - Allen H. Renear
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294078/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294078/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -52,6 +52,7 @@ size: 518825
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Will Formal Preservation Models Require Relative Identity? An exploration of
   data identity statements
 year: 2012

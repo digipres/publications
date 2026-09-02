@@ -10,7 +10,7 @@ abstract: We describe how the design of a digital preservation system suitable f
 creators:
 - Viv Cothey
 - Claire Collins
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/nk8b6/
 grand_parent: iPRES
 institutions:
@@ -31,6 +31,7 @@ size: null
 slides_url: https://osf.io/download/tce53/
 source_name: iPRES:osf:ar8e5
 stream_url: https://youtu.be/p8kmMBUYpCM
+submission_url: https://api.zotero.org/groups/5564150/items/CQHI2X2D/file
 title: The design and implementation of a necessary and sufficient system for the
   long-term archival retention of digital documents
 year: 2022

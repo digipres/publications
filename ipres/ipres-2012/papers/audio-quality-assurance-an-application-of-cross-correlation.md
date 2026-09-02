@@ -11,8 +11,8 @@ abstract: 'We describe algorithms for automated quality assurance on content of 
 creators:
 - Bolette Ammitzboll Jurik
 - Jesper Sindahl Nielsen
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293841/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293841/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 727605
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Audio Quality Assurance: An Application of Cross Correlation'
 year: 2012
 ---

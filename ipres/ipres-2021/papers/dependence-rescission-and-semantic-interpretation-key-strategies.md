@@ -10,8 +10,8 @@ abstract: 'There are three states of archival objects and their corresponding ma
 creators:
 - Qian Yi
 - Ma Linqing
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424832/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424832/download
 grand_parent: iPRES
 institutions:
 - renmin university
@@ -32,6 +32,7 @@ size: 227902
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'DEPENDENCE RESCISSION AND SEMANTIC INTERPRETATION: KEY STRATEGIES TO LONG-TERM
   PRESERVATION OF DIGITAL ARCHIVES'
 year: 2021

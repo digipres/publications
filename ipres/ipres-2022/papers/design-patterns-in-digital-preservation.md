@@ -8,7 +8,7 @@ abstract: 'This paper proposes a framework to help understand the different ways
   or without even realizing a choice has been made.'
 creators:
 - Andrew Jackson
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/pjr2x/
 grand_parent: iPRES
 institutions:
@@ -28,6 +28,7 @@ size: null
 slides_url: https://osf.io/download/xr5w9/
 source_name: iPRES:osf:pyz5c
 stream_url: https://youtu.be/UtQqq5XLVC4
+submission_url: https://api.zotero.org/groups/5564150/items/2SD4DY98/file
 title: Design Patterns in Digital Preservation
 year: 2022
 ---

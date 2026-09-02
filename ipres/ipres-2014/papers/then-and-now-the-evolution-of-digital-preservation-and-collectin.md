@@ -9,8 +9,8 @@ abstract: "This paper reflects on a decade of digital collecting and digital pre
 creators:
 - Leigh Rosin
 - Kirsty Smith
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378122/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378122/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 78802
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Then and Now: The Evolution of Digital Preservation and Collecting Requirements
   Over a Decade'
 year: 2014

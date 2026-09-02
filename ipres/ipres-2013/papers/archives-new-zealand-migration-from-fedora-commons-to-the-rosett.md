@@ -9,8 +9,8 @@ abstract: This paper discusses the New Zealand Government Digital Archive Progra
   this process.
 creators:
 - Jan Hutar
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:377389/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:377389/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -29,6 +29,7 @@ size: 538671
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Archives New Zealand Migration from Fedora Commons to the Rosetta Digital Preservation
   System
 year: 2013

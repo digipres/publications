@@ -63,6 +63,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'What’s in the box: an exploration of container-based file format identification'
 year: 2024
 ---

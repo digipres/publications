@@ -13,7 +13,7 @@ creators:
 - Jessica Tieman
 - Lisa LaPlant
 - David Walls
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/y5zvs/
 grand_parent: iPRES
 institutions:
@@ -35,6 +35,7 @@ size: null
 slides_url: https://osf.io/download/2gpvb/
 source_name: iPRES:osf:v9f35
 stream_url: https://youtu.be/Ct4wr8UZ4C4
+submission_url: https://api.zotero.org/groups/5564150/items/J6QU84F6/file
 title: 'A Decade of Trustworthy Digital Repository Certification: Yet There Was One'
 year: 2022
 ---

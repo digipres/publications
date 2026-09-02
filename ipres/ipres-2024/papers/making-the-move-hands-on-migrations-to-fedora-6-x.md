@@ -49,6 +49,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: 'Making the Move: Hands-on migrations to Fedora 6.x'
 year: 2024
 ---

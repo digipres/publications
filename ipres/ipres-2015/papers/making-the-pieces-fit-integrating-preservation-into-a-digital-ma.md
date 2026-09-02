@@ -19,8 +19,8 @@ abstract: 'In 2014, the University of Nebraska-Lincoln (UNL) Libraries implement
   fit all of the pieces together.'
 creators:
 - Jennifer Thoegersen
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429604/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429604/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 373772
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Making the Pieces Fit: Integrating Preservation into a Digital Material Ecosystem'
 year: 2015
 ---

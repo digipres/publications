@@ -13,8 +13,8 @@ abstract: In 2017 Het Nieuwe Instituut (HNI) – Dutch agency for architecture, 
   at HNI.
 creators:
 - Ania Molenda
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923646/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923646/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -30,6 +30,7 @@ size: 109600
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Between creators and keepers: How HNI builds its digital archive'
 year: 2018
 ---

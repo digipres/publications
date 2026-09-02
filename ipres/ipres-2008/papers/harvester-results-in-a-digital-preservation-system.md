@@ -17,8 +17,8 @@ abstract: 'In the last few years libraries from all around the world have build 
   systems. Containers based on METS are set side by side with WARC and its possibilities.'
 creators:
 - Tobias Steinke
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294146/download
+date: 2008-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294146/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 31536
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Harvester results in a digital preservation system
 year: 2008
 ---

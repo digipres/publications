@@ -43,8 +43,8 @@ abstract: 'The Bibliothèque nationale de France has developed its
 creators:
 - Louise Fauduet
 - Sébastien Peyrard
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185415/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185415/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -59,6 +59,7 @@ size: 111338
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'A DATA-FIRST PRESERVATION STRATEGY: DATA  MANAGEMENT IN SPAR'
 year: 2010
 ---

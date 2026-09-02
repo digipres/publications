@@ -14,8 +14,8 @@ abstract: 'Abstract – this paper briefly describes the establishment of a digi
 creators:
 - Almut Schilling
 - Franziska Butze-Rios Butze-Rios
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1424948/download
+date: 2021-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1424948/download
 grand_parent: iPRES
 institutions:
 - aBITpreservation
@@ -37,6 +37,7 @@ size: 423981
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Trans-Pe/ar(man)ent engage virtualization as a preservation strategy to create
   an open, sustainable, collaborative infrastructure in an extensive art museum
 year: 2021

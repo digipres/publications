@@ -13,8 +13,8 @@ creators:
 - Kam Woods
 - Alexandra Chassanoff
 - Christopher A. Lee
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378044/download
+date: 2013-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378044/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 902869
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Managing and Transforming Digital Forensics Metadata for Digital Collections
 year: 2013
 ---

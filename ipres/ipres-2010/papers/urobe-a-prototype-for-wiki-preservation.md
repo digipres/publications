@@ -52,8 +52,8 @@ creators:
 - Niko Popitsch
 - Robert Mosser
 - Wolfgang Philipp
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185508/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185508/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -68,6 +68,7 @@ size: 777595
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'UROBE: A PROTOTYPE FOR WIKI PRESERVATION'
 year: 2010
 ---

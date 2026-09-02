@@ -9,8 +9,8 @@ abstract: 'BitCurator Access is developing open-source software that supports th
 creators:
 - Christopher A. Lee
 - Kam Woods
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:503186/download
+date: 2016-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:503186/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -25,6 +25,7 @@ size: 422606
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A Demonstration of BitCurator Access Webtools and Disk Image Redaction Tools
 year: 2016
 ---

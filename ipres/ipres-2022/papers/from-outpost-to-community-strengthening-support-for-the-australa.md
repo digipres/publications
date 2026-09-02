@@ -19,7 +19,7 @@ creators:
 - Jaye Weatherburn
 - Alexis Tindall
 - Michaela Hart
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/b674k/
 grand_parent: iPRES
 institutions:
@@ -41,6 +41,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:8qnjg
 stream_url: https://osf.io/download/4rspn/
+submission_url: https://api.zotero.org/groups/5564150/items/NRYRPXPJ/file
 title: 'From Outpost to Community: Strengthening support for the Australasian digital
   preservation community through regional presence'
 year: 2022

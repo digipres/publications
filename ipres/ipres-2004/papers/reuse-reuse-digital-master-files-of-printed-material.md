@@ -2,8 +2,8 @@
 abstract: null
 creators:
 - Reinhard Altenhöner
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295024/download
+date: 2004-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295024/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -19,6 +19,7 @@ size: 48876
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: reUSE! reUSE digital master files of printed material!
 year: 2004
 ---

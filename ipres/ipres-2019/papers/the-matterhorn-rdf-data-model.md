@@ -8,8 +8,8 @@ abstract: Matterhorn RDF is a linked data-based model for archival metadata with
 creators:
 - Alain Dubois
 - Tobias Wildi
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1079685/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1079685/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -24,6 +24,7 @@ size: 253776
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The Matterhorn RDF Data Model '
 year: 2019
 ---

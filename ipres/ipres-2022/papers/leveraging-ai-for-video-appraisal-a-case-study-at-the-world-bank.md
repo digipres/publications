@@ -10,7 +10,7 @@ abstract: 'The World Bank Group (WBG) Archives, in partnership with the WBG IT D
 creators:
 - Paloma Arias
 - Jeanne Kramer-Smyth
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/cx5hm/
 grand_parent: iPRES
 institutions:
@@ -30,6 +30,7 @@ size: null
 slides_url: https://osf.io/download/cdfzt/
 source_name: iPRES:osf:devx4
 stream_url: https://osf.io/download/vp957/
+submission_url: https://api.zotero.org/groups/5564150/items/QLRKE93H/file
 title: 'Leveraging AI for Video Appraisal: A Case Study at the World Bank Group'
 year: 2022
 ---

@@ -15,7 +15,7 @@ creators:
 - Sharon McMeekin
 - Mikala Narlock
 - Hannah Wang
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128285/bitstreams/428935/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -35,6 +35,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'COMMUNITY IS WE: Modeling collective action as a framework for digital preservation'
 year: 2023
 ---

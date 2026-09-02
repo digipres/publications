@@ -20,7 +20,7 @@ abstract: In 2017, the Canadian Center for Architecture (CCA) collaborated with 
   with a concentration in archives.<br />
 creators:
 - Elisabeth Genest
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/28d4e/
 grand_parent: iPRES
 institutions:
@@ -42,6 +42,7 @@ size: null
 slides_url: https://osf.io/download/p6tvf/
 source_name: iPRES:osf:qr6ft
 stream_url: https://osf.io/download/hxap3/
+submission_url: https://api.zotero.org/groups/5564150/items/GSPKQVW4/file
 title: 'AIA/Oliver Witte Collection: A Digital Preservation Workflow'
 year: 2022
 ---

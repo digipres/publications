@@ -5,7 +5,7 @@ creators:
 - Ashley Gosselar
 - Obi Obetta
 - Nishchay Karle
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128257/bitstreams/428879/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -26,6 +26,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: PRESERVING EMAIL ATTACHMENTS WITH ATTACHMENT CONVERTER
 year: 2023
 ---

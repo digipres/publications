@@ -17,8 +17,8 @@ abstract: Assessing the costs of preserving a digital data collection in the lon
 creators:
 - Stephan Strodl
 - Andreas Rauber
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294219/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294219/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -37,6 +37,7 @@ size: 923704
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: A cost model for small scale automated digital preservation archives
 year: 2011
 ---

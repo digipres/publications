@@ -13,7 +13,7 @@ creators:
 - Vagner de Oliveira
 - Dalton Martins
 - Paula Costa
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/qsxzn/
 grand_parent: iPRES
 institutions:
@@ -21,7 +21,7 @@ institutions:
 keywords:
 - thesaurus
 - automatic annotation
-- machine learning<br /><br />
+- machine learning
 landing_page_url: https://osf.io/peyrd/
 language: eng
 layout: publication
@@ -33,6 +33,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:peyrd
 stream_url: https://youtu.be/Ph1orNdnzvU
+submission_url: https://api.zotero.org/groups/5564150/items/LCRXBXC7/file
 title: 'EMA: Brazilian Cultural Heritage Image Dataset - Towards AI-based metadata
   annotation of digital collections'
 year: 2022

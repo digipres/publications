@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Amy Currie
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/cv4me/
 source_name: iPRES:osf:2nf86
 stream_url: https://youtu.be/eW6PsVnyI2k?t=4993
+submission_url: null
 title: Towards the BitList 2022
 year: 2022
 ---

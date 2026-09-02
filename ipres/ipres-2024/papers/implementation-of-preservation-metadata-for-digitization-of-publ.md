@@ -53,6 +53,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Implementation of preservation metadata for digitization of public health videographic
   documents in Brazil
 year: 2024

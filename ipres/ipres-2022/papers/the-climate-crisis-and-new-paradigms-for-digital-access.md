@@ -12,7 +12,7 @@ creators:
 - James Baker
 - Rachel MacGregor
 - Anna McNally
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/k98ng/
 grand_parent: iPRES
 institutions:
@@ -35,6 +35,7 @@ source_name: iPRES:osf:uqsja
 stream_url: 'https://youtu.be/zJ8sdcTJbts
 
   '
+submission_url: https://api.zotero.org/groups/5564150/items/E28G6JRQ/file
 title: The Climate Crisis and New Paradigms For Digital Access
 year: 2022
 ---

@@ -33,8 +33,8 @@ abstract: '"This paper shares lessons learned at the completion of a large multi
 creators:
 - Andrea Goethals
 - Tricia Patterson
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923615/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923615/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -50,6 +50,7 @@ size: 727134
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'The Big Migration: Lessons learned at the completion of the 10-Year DRS2 Project'
 year: 2018
 ---

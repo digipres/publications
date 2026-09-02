@@ -9,7 +9,7 @@ abstract: 'Following three years of software development, requirements refinemen
 creators:
 - Tomasz Neugebauer
 - Sarah Lake
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/uywfv/
 grand_parent: iPRES
 institutions:
@@ -30,6 +30,7 @@ size: null
 slides_url: https://osf.io/download/3dusw/
 source_name: iPRES:osf:fhe92
 stream_url: https://youtu.be/l4b9Gx0k5lU
+submission_url: https://api.zotero.org/groups/5564150/items/NAYPF2EG/file
 title: 'Archivematica-EPrints Integration: Developing digital preservation capacity
   for open repositories'
 year: 2022

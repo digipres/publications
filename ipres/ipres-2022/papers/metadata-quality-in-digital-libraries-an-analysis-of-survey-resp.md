@@ -17,7 +17,7 @@ creators:
 - Steven Gentry
 - Madison Chartier
 - Rachel Wittmann
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/z7sfn/
 grand_parent: iPRES
 institutions:
@@ -37,6 +37,7 @@ size: null
 slides_url: null
 source_name: iPRES:osf:2s4rf
 stream_url: https://osf.io/download/cytuh/
+submission_url: https://api.zotero.org/groups/5564150/items/ZYVHB2M7/file
 title: 'Metadata Quality in Digital Libraries: An Analysis of Survey Response Data'
 year: 2022
 ---

@@ -19,8 +19,8 @@ abstract: 'While  the  rapid  improvement  in  computing  power  and digital  to
   obstacles today.'
 creators:
 - Dena Strong
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931076/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931076/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -36,6 +36,7 @@ size: 319466
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Phantoms of the Digital Opera: The need for long term preservation of born-digital
   actorsand multimedia objects using methods that permit ongoing new creations'
 year: 2017

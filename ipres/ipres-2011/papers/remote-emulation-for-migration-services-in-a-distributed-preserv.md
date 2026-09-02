@@ -17,8 +17,8 @@ creators:
 - Dirk von Suchodoletz
 - Isgandar Valizada
 - Klaus Rechert
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294240/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294240/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -41,6 +41,7 @@ size: 1594693
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Remote Emulation for Migration Services in a Distributed Preservation Framework
 year: 2011
 ---

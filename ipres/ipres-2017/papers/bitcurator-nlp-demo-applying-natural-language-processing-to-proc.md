@@ -9,8 +9,8 @@ abstract: 'We will demonstrate products of the BitCurator NLP project, which is 
 creators:
 - Christopher Lee
 - Kam Woods
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:931140/download
+date: 2017-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:931140/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -27,6 +27,7 @@ size: 109586
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'BitCurator NLP Demo: Applying Natural Language Processing to Processing and
   Accessing Digital Collections'
 year: 2017

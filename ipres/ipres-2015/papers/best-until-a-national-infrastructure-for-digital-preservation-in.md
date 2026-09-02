@@ -13,8 +13,8 @@ abstract: 'This paper describes the developments in the Netherlands to establish
 creators:
 - Barbara Sierman
 - Marcel Ras
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429559/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429559/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -32,6 +32,7 @@ size: 199846
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Best until … A National Infrastructure for Digital Preservation in the Netherlands
 year: 2015
 ---

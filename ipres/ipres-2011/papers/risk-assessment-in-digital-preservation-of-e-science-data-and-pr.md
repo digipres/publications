@@ -19,8 +19,8 @@ abstract: Risk is a constant in every area and at all levels of any organization
 creators:
 - Sara Canteiro
 - José Barateiro
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294215/download
+date: 2011-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294215/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -40,6 +40,7 @@ size: 1140000
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Risk Assessment in Digital Preservation of e-Science Data and Processes
 year: 2011
 ---

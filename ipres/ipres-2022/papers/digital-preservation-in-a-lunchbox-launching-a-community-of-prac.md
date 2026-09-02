@@ -5,7 +5,7 @@ abstract: 'This poster presents the early days of a French-speaking digital pres
 creators:
 - Emilie Fortin
 - Mireille Nappert
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/vmky5/
 grand_parent: iPRES
 institutions:
@@ -24,6 +24,7 @@ size: null
 slides_url: https://osf.io/download/z2fgy/
 source_name: iPRES:osf:sz37m
 stream_url: https://osf.io/download/mkapg/
+submission_url: https://api.zotero.org/groups/5564150/items/PV53CNLN/file
 title: 'Digital Preservation In A Lunchbox: Launching a community of practice '
 year: 2022
 ---

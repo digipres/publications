@@ -16,7 +16,7 @@ creators:
 - Euan Cochrane
 - Jurek Oberhauser
 - Rafael Gieschke
-date: null
+date: 2023-09-22 00:00:00
 document_url: https://www.ideals.illinois.edu/items/128313/bitstreams/428991/data.pdf
 grand_parent: iPRES
 institutions: []
@@ -36,6 +36,7 @@ size: null
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'EAASI PRESERVATION OF MOBILE APPLICATIONS: Progress with the long-term preservation
   of access to mobile applications using the EaaSI platform'
 year: 2023

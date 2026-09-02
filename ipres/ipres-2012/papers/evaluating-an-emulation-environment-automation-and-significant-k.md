@@ -21,8 +21,8 @@ abstract: 'Evaluating digital preservation actions performed on digital objects 
 creators:
 - Mark Guttenbrunner
 - Andreas Rauber
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:293842/download
+date: 2012-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:293842/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -42,6 +42,7 @@ size: 993909
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Evaluating an Emulation Environment: Automation and Significant Key Characteristics'
 year: 2012
 ---

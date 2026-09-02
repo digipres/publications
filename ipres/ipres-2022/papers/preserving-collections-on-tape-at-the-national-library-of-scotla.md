@@ -13,7 +13,7 @@ creators:
 - Alistair Bell
 - Lee Hibberd
 - Alan Russell
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/jmzyn/
 grand_parent: iPRES
 institutions:
@@ -33,6 +33,7 @@ size: null
 slides_url: https://osf.io/download/y7wjs/
 source_name: iPRES:osf:bmv8w
 stream_url: https://osf.io/download/s74ja/
+submission_url: https://api.zotero.org/groups/5564150/items/2HLPW5J5/file
 title: 'Preserving Collections On Tape At The National Library Of Scotland: From Business
   Case To Bytes'
 year: 2022

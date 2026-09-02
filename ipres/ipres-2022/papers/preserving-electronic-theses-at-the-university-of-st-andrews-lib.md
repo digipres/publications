@@ -18,7 +18,7 @@ abstract: The University of St Andrews Libraries and Museums have been preservin
 creators:
 - Sean Rippington
 - Janet Aucock
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/5u2ez/
 grand_parent: iPRES
 institutions:
@@ -39,6 +39,7 @@ size: null
 slides_url: https://osf.io/download/prj3k/
 source_name: iPRES:osf:eswgf
 stream_url: https://osf.io/download/9hz4r/
+submission_url: https://api.zotero.org/groups/5564150/items/2L764IYJ/file
 title: Preserving Electronic Theses at the University of St Andrews Libraries and
   Museums
 year: 2022

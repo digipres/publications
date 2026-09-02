@@ -47,6 +47,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Analyzing Large Web Archive Collections Using Parquet Files
 year: 2024
 ---

@@ -10,8 +10,8 @@ abstract: ' This demonstration will highlight several key steps in a digital cur
   initial steps toward redaction of potentially sensitive information.'
 creators:
 - Christopher Lee
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:378717/download
+date: 2014-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:378717/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -33,6 +33,7 @@ size: 140743
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Demonstrating a Digital Curation Workflow using the BitCurator Environment
 year: 2014
 ---

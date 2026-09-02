@@ -14,8 +14,8 @@ creators:
 - Bradley Westbrook
 - Christopher Lee
 - Max Eckard
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429623/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429623/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 381595
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Using Open-Source Tools to Fulfill Digital Preservation Requirements
 year: 2015
 ---

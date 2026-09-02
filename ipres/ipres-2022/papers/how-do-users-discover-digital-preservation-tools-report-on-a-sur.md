@@ -18,7 +18,7 @@ creators:
 - Morgan McGann
 - Cian Ormond
 - Gerard Quine
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/vu5xy/
 grand_parent: iPRES
 institutions:
@@ -37,6 +37,7 @@ size: null
 slides_url: https://osf.io/download/vhuxm/
 source_name: iPRES:osf:e5tqg
 stream_url: https://youtu.be/KTbj5akcWKo
+submission_url: https://api.zotero.org/groups/5564150/items/8TC8WKG2/file
 title: How do users discover digital preservation tools? Report on a survey of professionals
 year: 2022
 ---

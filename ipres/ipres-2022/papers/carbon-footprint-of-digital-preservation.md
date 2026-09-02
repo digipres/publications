@@ -2,7 +2,7 @@
 abstract: null
 creators:
 - Matthew Addis
-date: null
+date: 2022-09-16 00:00:00
 document_url: null
 grand_parent: iPRES
 institutions: []
@@ -18,6 +18,7 @@ size: null
 slides_url: https://osf.io/download/5ydc3/
 source_name: iPRES:osf:n48ce
 stream_url: https://youtu.be/eW6PsVnyI2k?t=1332
+submission_url: null
 title: Carbon Footprint of Digital Preservation
 year: 2022
 ---

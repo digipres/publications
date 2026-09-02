@@ -17,8 +17,8 @@ creators:
 - Heikki Helin
 - Johan Kylander
 - Kimmo Koivunen
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:923651/download
+date: 2018-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:923651/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -34,6 +34,7 @@ size: 284401
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'PDF Mayhem: Is Broken Really Broken?'
 year: 2018
 ---

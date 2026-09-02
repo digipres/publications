@@ -14,8 +14,8 @@ abstract: 'Archiving web content is bound to produce datasets with duplication, 
 creators:
 - Youssef Eldakar
 - Magdy Nagi
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429548/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429548/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -37,6 +37,7 @@ size: 167519
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: Deduplicating Bibliotheca Alexandrina’s Web Archive
 year: 2015
 ---

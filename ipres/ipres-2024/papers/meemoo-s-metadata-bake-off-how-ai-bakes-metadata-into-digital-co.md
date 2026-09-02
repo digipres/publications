@@ -63,6 +63,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/4d45be085fff4ea5afe21bd5121530e941e01b90f3204f9cb130fb3682839751
+submission_url: null
 title: 'Meemoo''s Metadata Bake-Off: How AI Bakes Metadata into Digital Collections'
 year: 2024
 ---

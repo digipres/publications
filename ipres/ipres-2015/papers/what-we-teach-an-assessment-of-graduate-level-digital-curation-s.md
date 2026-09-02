@@ -9,8 +9,8 @@ creators:
 - Xiaohua Zhu
 - Kylan Shireman
 - Charlene Kirkpatrick
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:429589/download
+date: 2015-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:429589/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -26,6 +26,7 @@ size: 132703
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'What We Teach: An Assessment of Graduate-Level Digital Curation Syllabi'
 year: 2015
 ---

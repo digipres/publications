@@ -49,6 +49,7 @@ size: null
 slides_url: https://zenodo.org/records/13767858
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/e14395c2e38544b884534e3ad374a2f5eb92a4bb791941e1ba0222a6c969343c
+submission_url: null
 title: 'Community engagement through cultural archiving: exploring the preconditions
   for a community-oriented cultural archival practice in Flanders (Belgium)'
 year: 2024

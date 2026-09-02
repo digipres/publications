@@ -49,6 +49,7 @@ size: null
 slides_url: ''
 source_name: iPRES
 stream_url: ''
+submission_url: null
 title: Metadata Encoding and Transmission Standard (METS) Version 2
 year: 2024
 ---

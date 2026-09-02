@@ -21,8 +21,8 @@ abstract: 'Cornell University Library (CUL) has developed nine priority goals fo
 creators:
 - Nancy McGovern
 - Marcy E. Rosenkrantz
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:295045/download
+date: 2005-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:295045/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -38,6 +38,7 @@ size: 384671
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Digital Preservation Progress at the Cornell University Library: Presentation
   - iPRES 2005 - Göttingen'
 year: 2005

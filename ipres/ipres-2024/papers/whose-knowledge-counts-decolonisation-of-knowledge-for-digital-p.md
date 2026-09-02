@@ -58,6 +58,7 @@ size: null
 slides_url: https://zenodo.org/records/13740956
 source_name: iPRES
 stream_url: https://www.archief.vlaanderen.be/archief/records/dossiers/5acb210228ce4315ae650812d056a482329eb83ed2dc42398a51505dc153be81/documents/39b5cc9339dd420390d83022ae284d235f4c5b9bb78642ff921353395beda4f1
+submission_url: null
 title: Whose knowledge Counts?Decolonisation of Knowledge for Digital Preservation
   and Sustainability of Indigenous Knowledge in Africa
 year: 2024

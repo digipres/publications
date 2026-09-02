@@ -5,7 +5,7 @@ abstract: In this tutorial participants will learn how to approach (i.e., read) 
   formats as well as to create test or example files.
 creators:
 - Martin Hoppenheit
-date: null
+date: 2022-09-16 00:00:00
 document_url: https://osf.io/download/cv5eq/
 grand_parent: iPRES
 institutions:
@@ -24,6 +24,7 @@ size: null
 slides_url: https://osf.io/download/a9cbp/
 source_name: iPRES:osf:ej9nv
 stream_url: null
+submission_url: https://api.zotero.org/groups/5564150/items/EP6FH7TU/file
 title: Writing Binary By Hand
 year: 2022
 ---

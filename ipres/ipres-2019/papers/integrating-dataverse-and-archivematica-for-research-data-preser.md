@@ -11,8 +11,8 @@ abstract: Scholars Portal sponsored Artefactual Systems Inc. to develop the abil
 creators:
 - Meghan Goodchild
 - Grant Hurley
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:1081756/download
+date: 2019-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:1081756/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -27,6 +27,7 @@ size: 392860
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Integrating Dataverse and Archivematica for Research Data Preservation '
 year: 2019
 ---

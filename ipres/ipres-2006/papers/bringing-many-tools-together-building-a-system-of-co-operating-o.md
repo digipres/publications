@@ -14,8 +14,8 @@ creators:
 - Markus Enders
 - Adam Smith
 - William Kehoe
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:294561/download
+date: 2006-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:294561/download
 grand_parent: iPRES
 institutions: []
 keywords:
@@ -31,6 +31,7 @@ size: 5692610
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: 'Bringing Many Tools Together: Building a system of co-operating OAIS''s in
   the MathArc project'
 year: 2006

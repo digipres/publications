@@ -17,8 +17,8 @@ abstract: The focus of this paper is on which digital objects to preserve when p
 creators:
 - Eld Zierau
 - Claus Jensen
-date: null
-document_url: https://services.phaidra.univie.ac.at/api/object/o:185514/download
+date: 2010-09-01 00:00:00
+document_url: https://phaidra.univie.ac.at/api/object/o:185514/download
 grand_parent: iPRES
 institutions: []
 keywords: []
@@ -33,6 +33,7 @@ size: 271152
 slides_url: null
 source_name: iPRES
 stream_url: null
+submission_url: null
 title: PRESERVATION OF DIGITISED BOOKS IN A LIBRARY CONTEXT
 year: 2010
 ---
