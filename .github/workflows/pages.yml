@@ -72,7 +72,7 @@ jobs:
 
       - name: Upload artifacts for publishing
         # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
 
       # Record the successful site build outcome by committing the timestamp file:
       - name: Commit last-modified date
